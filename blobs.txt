@@ -61,4 +61,4 @@ f04a95aa37e166b9263e4b04cdd97c3a7df21caf2f0475278abd6a3a5b169837  ./common/aries
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./common/aries/proprietary/samsung_mfc_fw.bin
 0e12da91dafcbd7bb1b0551a91a80148c93349b2b12c21c7aa0c104197874581  ./common/aries/proprietary/libseccamera.so
 2c81312d8e69ad520a57489d63db148324b7a3f9aada5d6775d7812edb49fb8b  ./common/aries/proprietary/libtvoutservice.so
-7cc2f45a84ed61b39f1ec04a4c3689d0a8055bb9362e2a7c01408213a2e5981d  ./captivate/proprietary/libcamera.so
+f6ff7d1c3c8d841632ae4a8fc49dc6d84b17918723ac67b14f9758296b74d18a  ./captivate/proprietary/libcamera.so
