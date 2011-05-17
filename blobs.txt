@@ -59,6 +59,8 @@ f04a95aa37e166b9263e4b04cdd97c3a7df21caf2f0475278abd6a3a5b169837  ./aries-common
 0e12da91dafcbd7bb1b0551a91a80148c93349b2b12c21c7aa0c104197874581  ./aries-common/proprietary/libseccamera.so
 2c81312d8e69ad520a57489d63db148324b7a3f9aada5d6775d7812edb49fb8b  ./aries-common/proprietary/libtvoutservice.so
 b2073dc608910ac8871cd59ea53668d64b697beb31d28ecbc74564f73ee25d0e  ./blobs.txt
+a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo/proprietary/cypress-touchkey.bin
+0b3255b43be2e7e035539627742814a1f94b9a9f1f47aef2195556abbc660f16  ./crespo/proprietary/libakm.so
 1228c5c78483bf757d6921ae25cfdf339402daa34b2a8d1a76ff8ae0c66124b9  ./crespo/proprietary/libsec-ril.so
 373e46af3135b63ecb64e66ec3994d41940af378764d463f3fad59ff6cefd23e  ./crespo/proprietary/libsecril-client.so
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./crespo/proprietary/samsung_mfc_fw.bin
