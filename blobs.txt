@@ -66,7 +66,6 @@ a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo/propr
 373e46af3135b63ecb64e66ec3994d41940af378764d463f3fad59ff6cefd23e  ./crespo/proprietary/libsecril-client.so
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./crespo/proprietary/samsung_mfc_fw.bin
 7cc2f45a84ed61b39f1ec04a4c3689d0a8055bb9362e2a7c01408213a2e5981d  ./galaxysb/proprietary/libcamera.so
-7cc2f45a84ed61b39f1ec04a4c3689d0a8055bb9362e2a7c01408213a2e5981d  ./vibrant/proprietary/libcamera.so
 811dc25b8ec63a964dc4f5593ff2b0a1716152f2cc4a446f5155c6c1d1fda18f  ./crespo4g/reassemble-apks.sh
 bc7922b5597a0fdb61a31aff6f4366f9b4796532e80998eefe3dcca153ba91a3  ./crespo4g/proprietary/WiMAXSettings.apk
 9ef2ad5a8b4b455de40f946fdd7938de4828db23044cfab3343c1353634b6098  ./crespo4g/proprietary/wimaxfw.bin
@@ -143,3 +142,4 @@ a1a258e5b24503171a444390bbfb9fdf2aceac66e0b79fa5616c1cc5bcfd73a2  ./crespo4g/pro
 6223c5589eab4380dff52b6fa9033c3bc189324e27877e7a3bc17174ed6d59ff  ./crespo4g/proprietary/ODB.apk.parts/AndroidManifest.xml
 51a2452085d8f020eb3c679c189c170c00d63f388b178d1fade379bad099873b  ./crespo4g/proprietary/ODB.apk
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./crespo4g/proprietary/samsung_mfc_fw.bin
+7cc2f45a84ed61b39f1ec04a4c3689d0a8055bb9362e2a7c01408213a2e5981d  ./vibrantmtd/proprietary/libcamera.so
