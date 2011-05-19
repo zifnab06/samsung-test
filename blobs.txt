@@ -100,6 +100,8 @@ f5627e1fa2f1af2641541595c7622f20b68fdfbaedefe131c3301e407e61aa33  ./crespo4g/pro
 cca7a0afd2b7e324b96da5827ee1450d0b3a28ebb9107ab6f409b7e179113b7d  ./crespo4g/proprietary/SprintMenu.apk.parts/resources.arsc
 799a7613ad6ab2de65978f30962baf1650e7b7c520a7cce12148001b2ef15aaf  ./crespo4g/proprietary/SprintMenu.apk.parts/classes.dex
 e3627a00f74750a748daebc4118ddd37437a59e384d7041aedbf6fb75526a309  ./crespo4g/proprietary/SprintMenu.apk.parts/AndroidManifest.xml
+a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo4g/proprietary/cypress-touchkey.bin
+0b3255b43be2e7e035539627742814a1f94b9a9f1f47aef2195556abbc660f16  ./crespo4g/proprietary/libakm.so
 7bc08a587f531f62e0671e79a1ed370775a1e7959392949296e8e5764f65c7b4  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/drawable-ldpi/icon.png
 ae80cb984ac5c60c27c0e5304a8ef75dd16102472fc0485a5aca3706fb5dd8ec  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/drawable-mdpi/icon.png
 d0eac70d79dcf48778675f9d83da85a808800f61c945a52bb31054b210936c91  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/xml/wimax_settings.xml
