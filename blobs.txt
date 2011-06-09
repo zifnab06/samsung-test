@@ -83,6 +83,8 @@ c03824e1b57f7400037c14b9c7d1d026d95b29b4ddf95be556c5f083246ffc65  ./c1-common/pr
 e06bed9de347de94b89febddabc5172d267b20d912cc4a0efadbaeecaac282e7  ./c1-common/proprietary/libtvoutcec.so
 97b916698e2f4b5d94bd5c49ddcb26982cea10bd08aedca94073b0befe29f966  ./c1-common/proprietary/BCM4330B1_002.001.003.0043.0077.hcd
 8646a25e5d080e68f573d3e99e99d2214e78745855a5fd3690f7ae4cb5f367de  ./c1-common/proprietary/libarccamera.so
+66ba70e5976f3c301ca297f181d51fa43b831814b856c09f206f572a5f234317  ./c1-common/proprietary/libcaps.so
+bd380ee45a65ee3614e37a439788ec36bd89dc562a2757448ff45b1ace51f192  ./c1-common/proprietary/libjpega.so
 2518c7fbb2c7b2caace0d53737b2acb908553186bd554a6a5facd50cb7e8f2e6  ./c1-common/proprietary/lib_tvoutengine.so
 4b649db80290c72c2eb8646daa9a52df552ec18fda06c2dbd2b4201d0d740dfa  ./c1-common/proprietary/libEGL.so
 bc9c1003b2a7e0394be9ebdc7fef031f318bfe968510dfc0b2874ba7e6136f85  ./c1-common/proprietary/libril.so
@@ -108,13 +110,11 @@ aa41dd80615871a328eeeb1e3e7cbc30d3f694e38b947cbee9675c99b3e7836f  ./c1-common/pr
 ced03015d66a1cb40e6491920b337a48132f412477cf6f9b61527d6c48604d87  ./c1-common/proprietary/libfimc.so
 0afcb713bb1d7d1d8e36b4291e46bb684e87fb406bb71d9bdc765320d2164850  ./c1-common/proprietary/libcamera_client.so
 3a438bc24df218d151b88de7f8625d014fbbbd728109573c40e0c09eeaba6e6d  ./c1-common/proprietary/hw/gralloc.GT-I9100.so
-0b7df758467ea33c012ddd8ce69ef0ceea66d77bdc632eb409aff177e0479c17  ./c1-common/proprietary/hw/acoustics.default.so
 f7cd01fa27b6007b29f643a68b90eea208310abf8cda6cda8235ed6ffed617e0  ./c1-common/proprietary/hw/lights.GT-I9100.so
 9bc0b021bfddc8a69028a199624b503d23e81f4b8e29b47dd234cf2792e47ce3  ./c1-common/proprietary/hw/sensors.GT-I9100.so
 9a6caf07615b0254889864920d057021f4dbd2b37b5937a1623345c4a7617b1e  ./c1-common/proprietary/hw/copybit.GT-I9100.so
 8198a27ee4d0c720d0e93fcdd64f72894f780d6b74a82cb0b132540279e0a82b  ./c1-common/proprietary/hw/gralloc.default.so
 2efd227250a39b95f7284b1db6f92ab6a9b037d59ded39984d74b38eab69b425  ./c1-common/proprietary/hw/overlay.GT-I9100.so
-e05ebca7f34092070320bc3f26d1b5815cf3a05279747c67fe004e234159ba2e  ./c1-common/proprietary/hw/alsa.default.so
 695b73981343a48823d92b615754537571b1558a3a533295ff9be745cfb724d3  ./c1-common/proprietary/hw/gps.GT-I9100.so
 efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./c1-common/proprietary/rild
 769a5ee857287bb9d3395ee42cab0b55dac9deaa875c65c18d682640302adb00  ./c1-common/proprietary/libsec-ril.so
