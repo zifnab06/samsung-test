@@ -90,6 +90,7 @@ bd380ee45a65ee3614e37a439788ec36bd89dc562a2757448ff45b1ace51f192  ./c1-common/pr
 bc9c1003b2a7e0394be9ebdc7fef031f318bfe968510dfc0b2874ba7e6136f85  ./c1-common/proprietary/libril.so
 6ac276c5cb2543d6d9fc904ee857c9ad7c524cdb6002f934f8de9493463dc0cd  ./c1-common/proprietary/libcamera.so
 b18be98cca1813911a8c37cd65b602d1437ff0e6ebbca5dcb0c73fd52973d804  ./c1-common/proprietary/libActionShot.so
+8cc1a75d1d9ae5ab9792234b8fed20dea2a4a3b0417d8de100c73cfbc9fc22d6  ./c1-common/proprietary/tvoutserver
 fc8e8559928d618c33f2794f042e360831f6655056658886adc3aeb925a5a95e  ./c1-common/proprietary/libMali.so
 1624c0012345385e8d3360b81fa6faa89a576927b4a53efbcc9b54ca2376b89c  ./c1-common/proprietary/egl/libGLESv2_mali.so
 c51d10141bc5df426854ff3f499bc8a8060f940cc46e5ae8e8bad3709e00f969  ./c1-common/proprietary/egl/libGLES_android.so
