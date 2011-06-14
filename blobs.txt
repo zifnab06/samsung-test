@@ -91,6 +91,10 @@ bc9c1003b2a7e0394be9ebdc7fef031f318bfe968510dfc0b2874ba7e6136f85  ./c1-common/pr
 6ac276c5cb2543d6d9fc904ee857c9ad7c524cdb6002f934f8de9493463dc0cd  ./c1-common/proprietary/libcamera.so
 b18be98cca1813911a8c37cd65b602d1437ff0e6ebbca5dcb0c73fd52973d804  ./c1-common/proprietary/libActionShot.so
 8cc1a75d1d9ae5ab9792234b8fed20dea2a4a3b0417d8de100c73cfbc9fc22d6  ./c1-common/proprietary/tvoutserver
+8828b19119b48cafbff8b131d34a6b1e3b40376dfde6040f70b5d25365b4295b  ./c1-common/proprietary/sound/alsa_aplay
+0e2ffb8da9d6bc70b22ca7af129ff79e0c41339f699fad3bd30832a31352c243  ./c1-common/proprietary/sound/alsa_ucm
+fc79d20ad5e7c2c5a16e0d16fa5016372ee195a3af809c0716139469df2aa206  ./c1-common/proprietary/sound/alsa_amixer
+9353bf14ad6c47b1f849776db9ed958b4d38643778e498f12686bd4813a3b467  ./c1-common/proprietary/sound/alsa_ctl
 fc8e8559928d618c33f2794f042e360831f6655056658886adc3aeb925a5a95e  ./c1-common/proprietary/libMali.so
 fae24223ae4bc35f49ec813c1b4b6fe90cd5cf677bec305c61008f77d4d2d857  ./c1-common/proprietary/libakm.so
 1624c0012345385e8d3360b81fa6faa89a576927b4a53efbcc9b54ca2376b89c  ./c1-common/proprietary/egl/libGLESv2_mali.so
