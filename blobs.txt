@@ -105,7 +105,6 @@ ed5cda2bf886d41f4cac057eb28123c9db3affd65c755f576967621b6cee23cf  ./c1-common/pr
 9353bf14ad6c47b1f849776db9ed958b4d38643778e498f12686bd4813a3b467  ./c1-common/proprietary/audio/alsa_ctl
 5d65bafa99fd4fe4967d543df434ed7ebe277ee99cf4d64a6de16b7bffc0083c  ./c1-common/proprietary/audio/libsoundpool.so
 d4d9a17fe528111a388e71a1f08a0ccf9ff06983d61e83598e8880a2d29f382f  ./c1-common/proprietary/audio/lib_Samsung_Acoustic_Module_Llite.so
-acb90c47a79a38d99b6596eb520e776aadb27c1a19792b03d6ec05ebfafb1a39  ./c1-common/proprietary/audio/libaudioflinger.so
 b01004ed18db5db9185b485c046b9d7d2fc55354cead14ff907c74eeb5d6d81f  ./c1-common/proprietary/audio/libyamahasrc.so
 836161c2ad1f84a651236862a02ae4d7c8069a5d5bc800603ee1e1a4593107e4  ./c1-common/proprietary/audio/libasound.so
 c7a386aeec2cdc9a4dbc1a91b32533a6c258be5d5d8b08c8f1b832ebece963b8  ./c1-common/proprietary/audio/libaudio.so
