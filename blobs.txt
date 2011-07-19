@@ -109,7 +109,7 @@ c7a386aeec2cdc9a4dbc1a91b32533a6c258be5d5d8b08c8f1b832ebece963b8  ./c1-common/pr
 8283d8e1cd53b535e64c84141ccc4319373065ea84c561f237d153fb1565bac8  ./c1-common/proprietary/audio/libaudioeffect_jni.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./c1-common/proprietary/audio/lib_Samsung_Resampler.so
 da8fa8a61783edcfa5a565fd49f6d007d0aa6aceed3d704abcee2abfd5d559b7  ./c1-common/proprietary/libEGL.so
-bc9c1003b2a7e0394be9ebdc7fef031f318bfe968510dfc0b2874ba7e6136f85  ./c1-common/proprietary/libril.so
+1df7d98d7b685504011f05f82759498e5c8aacf9cf74573cad4cf1e7532cf567  ./c1-common/proprietary/libril.so
 6ac276c5cb2543d6d9fc904ee857c9ad7c524cdb6002f934f8de9493463dc0cd  ./c1-common/proprietary/libcamera.so
 b18be98cca1813911a8c37cd65b602d1437ff0e6ebbca5dcb0c73fd52973d804  ./c1-common/proprietary/libActionShot.so
 35053b2baed8f1f400ae8c59be4006225743c52077b171b6a503642ff3c9b977  ./c1-common/proprietary/mediaserver
@@ -145,9 +145,9 @@ d0885bd4f602ac3bc55d215b4d4fd5a7c45c9f5a72f9a2243cd983b7b5628c97  ./c1-common/pr
 e05ebca7f34092070320bc3f26d1b5815cf3a05279747c67fe004e234159ba2e  ./c1-common/proprietary/hw/alsa.default.so
 92fcc74cb6d103803b111ec8b8b684004816d66d3ef56ee35d70ba99a7d50447  ./c1-common/proprietary/hw/gps.GT-I9100.so
 efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./c1-common/proprietary/rild
-769a5ee857287bb9d3395ee42cab0b55dac9deaa875c65c18d682640302adb00  ./c1-common/proprietary/libsec-ril.so
+159e3d85da829b79bbffd31f5b6e33b9e04b515e60efaeef0eaffcdd69c84005  ./c1-common/proprietary/libsec-ril.so
 d7bb16c1a4a141a7307aa73cc7dca1734d9e324b954aa467dab03eeeb50eba5e  ./c1-common/proprietary/libPanoraMax3.so
-6f1b13991af44f7145bca8e46ebb8831326191091bf0c0e18027596be40f53ba  ./c1-common/proprietary/libsecril-client.so
+2fce28c87b4d596f5eaac20a3d94716fec96b0984769a23ae4ff619ebe09282e  ./c1-common/proprietary/libsecril-client.so
 d1280cc21fa183567dc859eb31ccc06627e85388cb7a0d0afbcdf4d6f62e2229  ./c1-common/proprietary/libexif.so
 a137e92776c2814ec3317fdec9e545041d7d3d81e463aa11d8efbe4c491ddf0b  ./c1-common/proprietary/libtvoutfimc.so
 1e15f45f8b929f4e096e255199aed084fd57e3cbb05ca16062fa5e0469d9c9a5  ./c1-common/proprietary/keychars/qwerty2.kcm.bin
