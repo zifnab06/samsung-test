@@ -72,6 +72,7 @@ a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo/propr
 227f08478d0c4372d0462e37183e4e3aa558d9449cbcb49971137cee0aa15400  ./c1-common/proprietary/libtvout.so
 340bb696454a3e26a2a51d8dabc54df01e9c7f62f2805867bf63f997f055d0ce  ./c1-common/proprietary/libtvoutedid.so
 148ecacf9dcc510ef6845dfd0e4694054d55199f205b5eb4fab3358873684fac  ./c1-common/proprietary/libcameraservice.so
+cfe6498992c6a17e93051a6070bcab0e8609bef7e32f5e3a8fbe6bffdcdeea54  ./c1-common/proprietary/BCM4330B1_002.001.003.0128.0162.hcd
 1ef37ca6c572b06d4f26b92663a37b2ff85078818d1e9a1053020ee100475fb0  ./c1-common/proprietary/libOpenSLES.so
 02c24f3f8f07f3faaa658002a03c58c502f3f5472e87ba9800b9f4ac05d4d483  ./c1-common/proprietary/libtvout_jni.so
 46c2f8484c1ff9b970d8cba102bf77dfaad067f31d19e6a3fbc672c13949f7a9  ./c1-common/proprietary/libtvoutddc.so
@@ -81,7 +82,6 @@ aca19750fe26952e504a97862062c5571cfd6628984d6db30d5c197715b49052  ./c1-common/pr
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./c1-common/proprietary/cameradata/datapattern_front_420sp.yuv
 c03824e1b57f7400037c14b9c7d1d026d95b29b4ddf95be556c5f083246ffc65  ./c1-common/proprietary/libs5pjpeg.so
 e06bed9de347de94b89febddabc5172d267b20d912cc4a0efadbaeecaac282e7  ./c1-common/proprietary/libtvoutcec.so
-97b916698e2f4b5d94bd5c49ddcb26982cea10bd08aedca94073b0befe29f966  ./c1-common/proprietary/BCM4330B1_002.001.003.0043.0077.hcd
 419211220d288ecfb49e01cf2716322feab2760cdaf4f393ce831fa4561aeb67  ./c1-common/proprietary/libsecjpegarcsoft.so
 7c46933ab40b5a94fa9a257087ca459af14eae86f2bfc36f96a20a5ec34b1281  ./c1-common/proprietary/libarccamera.so
 66ba70e5976f3c301ca297f181d51fa43b831814b856c09f206f572a5f234317  ./c1-common/proprietary/libcaps.so
@@ -122,10 +122,9 @@ fae24223ae4bc35f49ec813c1b4b6fe90cd5cf677bec305c61008f77d4d2d857  ./c1-common/pr
 c51d10141bc5df426854ff3f499bc8a8060f940cc46e5ae8e8bad3709e00f969  ./c1-common/proprietary/egl/libGLES_android.so
 ae9022c905040f34f68321f5dafaf786b34bbee5378e11ea403c99ab3970cec9  ./c1-common/proprietary/egl/libEGL_mali.so
 914d0855c3f506b466e618b07777e3a7074a335e7590c1d314fbb03699ae065f  ./c1-common/proprietary/egl/libGLESv1_CM_mali.so
-fab4b47db211b14fa31ed5acf106d33ec705e8b41ca97346104421155e734e97  ./c1-common/proprietary/wifi/bcm4330_sta.bin_b0
-8e6769e2fcfce53ae0a08694f9ecc914503f0b0b9dd3c43ebed0153465d9260d  ./c1-common/proprietary/wifi/bcm4330_mfg.bin_b0
-6470e0fb5b6d4451fa301edf34414d271ebe4adf3c94291d8eb6a68c3bb6f748  ./c1-common/proprietary/wifi/bcm4330_mfg.bin
-5152c1d16c53c98bcd2372cc427b1e4b7b95d8cc8e7d9ed2713107483b971a3a  ./c1-common/proprietary/wifi/bcm4330_sta.bin
+69ffa4c4753c3d03695f2e10e58d61530e97af7ed1ece29ec60a3de04d885d7f  ./c1-common/proprietary/wifi/bcm4330_aps.bin
+b9e7a6a3ffa06e722814e5558098d84c8208b0fd41e50f927ab0b898547e7b79  ./c1-common/proprietary/wifi/bcm4330_mfg.bin
+77c143ea9f79f53bdf7c11f283e305dfd10c9f868b14e16b00a75c13c2181d61  ./c1-common/proprietary/wifi/bcm4330_sta.bin
 ddea325fb1f7de67a8a58bcd88e416c53885f4190ed80426c8843e660dab23dc  ./c1-common/proprietary/firmware/qt602240.fw
 6d7042c581c40c23d335bd3579050948a5e3d58ae8dfcbb9636b0e00416be934  ./c1-common/proprietary/firmware/mfc_fw.bin
 4a6d9d5a6b58ee87a1c90c1fa48f2b7377231ea84dd1b5f9baf59c6f7d95481a  ./c1-common/proprietary/firmware/RS_M5LS_OB.bin
