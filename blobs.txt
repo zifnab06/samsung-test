@@ -169,6 +169,9 @@ e05ebca7f34092070320bc3f26d1b5815cf3a05279747c67fe004e234159ba2e  ./c1-common/pr
 efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./c1-common/proprietary/rild
 159e3d85da829b79bbffd31f5b6e33b9e04b515e60efaeef0eaffcdd69c84005  ./c1-common/proprietary/libsec-ril.so
 e254f79e19ef0bbe3f00a6b2daace3ac7ca5b28d223f7239485445fb7dce24ea  ./c1-common/proprietary/libPanoraMax3.so
+de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./c1-common/proprietary/offmode_charging/libQmageDecoder.so
+99bcb31c890c0ecfa1c5eb4c3c19cd5f75644e5a01dade72aed4736029e0ec60  ./c1-common/proprietary/offmode_charging/playlpm
+cb3f1eb74345fe884e22ffdd129a74b91854e99c87f6dcd0133061d549391a1b  ./c1-common/proprietary/offmode_charging/charging_mode
 2fce28c87b4d596f5eaac20a3d94716fec96b0984769a23ae4ff619ebe09282e  ./c1-common/proprietary/libsecril-client.so
 7e88eceb63ccff304378d311cbb571c1e86f1a78ca5da110c18c65cae3866a38  ./c1-common/proprietary/libexif.so
 a137e92776c2814ec3317fdec9e545041d7d3d81e463aa11d8efbe4c491ddf0b  ./c1-common/proprietary/libtvoutfimc.so
