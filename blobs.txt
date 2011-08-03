@@ -151,6 +151,7 @@ ddea325fb1f7de67a8a58bcd88e416c53885f4190ed80426c8843e660dab23dc  ./c1-common/pr
 4a6d9d5a6b58ee87a1c90c1fa48f2b7377231ea84dd1b5f9baf59c6f7d95481a  ./c1-common/proprietary/firmware/RS_M5LS_OB.bin
 d4146cef1c1088929249989d293c895ae0fea17b4c208373da25c13fbc4a6f73  ./c1-common/proprietary/firmware/RS_M5LS_TB.bin
 8989b95ebb430ec5dda3ff111b21ad297f4ac8d2bbba493134d183dc190ee068  ./c1-common/proprietary/firmware/RS_M5LS_OC.bin
+709f1feab97eb60bfeeccef3618dc6c73acb25f6fad6fb354dbaadc8d001a00a  ./c1-common/proprietary/firmware/RS_M5LS_OE.bin
 89ab4b31e06a16cd0968022d146d61fecde5703f54b2caadda5c2a78ea540468  ./c1-common/proprietary/libseccameraadaptor.so
 b037efa4f3ba0f5b2bcd397788207d92d06326cbaf1710778a53bbd54fb24a04  ./c1-common/proprietary/libsecjpeginterface.so
 3cfaa34977b2d610f10723807aaf3e015a2e4fc2fafbf751884fa48e4a2f5389  ./c1-common/proprietary/libtvoutfimg.so
