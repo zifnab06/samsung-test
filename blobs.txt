@@ -154,7 +154,6 @@ c7a386aeec2cdc9a4dbc1a91b32533a6c258be5d5d8b08c8f1b832ebece963b8  ./c1-common/pr
 8283d8e1cd53b535e64c84141ccc4319373065ea84c561f237d153fb1565bac8  ./c1-common/proprietary/audio/libaudioeffect_jni.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./c1-common/proprietary/audio/lib_Samsung_Resampler.so
 da8fa8a61783edcfa5a565fd49f6d007d0aa6aceed3d704abcee2abfd5d559b7  ./c1-common/proprietary/libEGL.so
-1df7d98d7b685504011f05f82759498e5c8aacf9cf74573cad4cf1e7532cf567  ./c1-common/proprietary/libril.so
 2332e2315f37ef0bc78158677701c8d9917c000e68d7fb08dd95f7c9f124b3d2  ./c1-common/proprietary/libcamera.so
 b18be98cca1813911a8c37cd65b602d1437ff0e6ebbca5dcb0c73fd52973d804  ./c1-common/proprietary/libActionShot.so
 f231c99b6212c828e11d6ac9aac3dc782736fdf9a0c1ca4af913d94fcc302e0f  ./c1-common/proprietary/mediaserver
@@ -189,8 +188,6 @@ d0885bd4f602ac3bc55d215b4d4fd5a7c45c9f5a72f9a2243cd983b7b5628c97  ./c1-common/pr
 2bcd7bd7955513b028588fa43b38bcfbea3a90b23a3ea873373271b4703f1420  ./c1-common/proprietary/hw/overlay.GT-I9100.so
 e05ebca7f34092070320bc3f26d1b5815cf3a05279747c67fe004e234159ba2e  ./c1-common/proprietary/hw/alsa.default.so
 92fcc74cb6d103803b111ec8b8b684004816d66d3ef56ee35d70ba99a7d50447  ./c1-common/proprietary/hw/gps.GT-I9100.so
-efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./c1-common/proprietary/rild
-159e3d85da829b79bbffd31f5b6e33b9e04b515e60efaeef0eaffcdd69c84005  ./c1-common/proprietary/libsec-ril.so
 e254f79e19ef0bbe3f00a6b2daace3ac7ca5b28d223f7239485445fb7dce24ea  ./c1-common/proprietary/libPanoraMax3.so
 5178c6c0d52f3edc8b1a3bcdd3c7b354525281c0566a1d0b40ebe42e2ee4d873  ./c1-common/proprietary/offmode_charging/battery_charging_100.qmg
 de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./c1-common/proprietary/offmode_charging/libQmageDecoder.so
@@ -219,7 +216,6 @@ ee65a40a2926c4ebb11baff072f77080e34f2718418467feccc1048de68cc80b  ./c1-common/pr
 ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./c1-common/proprietary/offmode_charging/chargingwarning.qmg
 0db92e35ab7779dc6938cac84846c242b24a5ff21c30cdc2c4d9f68ec7f001ff  ./c1-common/proprietary/offmode_charging/battery_charging_20.qmg
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./c1-common/proprietary/offmode_charging/battery_charging_15.qmg
-2fce28c87b4d596f5eaac20a3d94716fec96b0984769a23ae4ff619ebe09282e  ./c1-common/proprietary/libsecril-client.so
 7e88eceb63ccff304378d311cbb571c1e86f1a78ca5da110c18c65cae3866a38  ./c1-common/proprietary/libexif.so
 a137e92776c2814ec3317fdec9e545041d7d3d81e463aa11d8efbe4c491ddf0b  ./c1-common/proprietary/libtvoutfimc.so
 1e15f45f8b929f4e096e255199aed084fd57e3cbb05ca16062fa5e0469d9c9a5  ./c1-common/proprietary/keychars/qwerty2.kcm.bin
@@ -230,6 +226,10 @@ c9d371979abaef749bd54758e825794287e2cd5d5ff70bf6059c07cc3732be60  ./c1-common/pr
 bbaf60269c6217ba314e45bdf0d1c0b6793d8c4d12a49e5c64b94b4fc135cb90  ./c1-common/proprietary/libtvouthdmi.so
 1d255ceebecaf25b2a3983f06ed4b534316e633cd95426873460911068511644  ./c1-common/proprietary/libseccamera.so
 e30025d42464f46ae264e7d2a3a322ce1179cedd734f6d263fb398ca3180c184  ./c1-common/proprietary/libtvoutservice.so
+1df7d98d7b685504011f05f82759498e5c8aacf9cf74573cad4cf1e7532cf567  ./galaxys2/proprietary/libril.so
+efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./galaxys2/proprietary/rild
+159e3d85da829b79bbffd31f5b6e33b9e04b515e60efaeef0eaffcdd69c84005  ./galaxys2/proprietary/libsec-ril.so
+2fce28c87b4d596f5eaac20a3d94716fec96b0984769a23ae4ff619ebe09282e  ./galaxys2/proprietary/libsecril-client.so
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./galaxysbmtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./galaxysbmtd/proprietary/gpsd
 229662b506fe652745ad24c37953f93f4b4176ab57a57a099bb1971506004684  ./galaxysbmtd/proprietary/libril.so
@@ -356,6 +356,10 @@ e1c8a1a9d7889ada4f5bbf9a106ccddc171d0decbec2d6c95fcf563c805e6841  ./fascinatemtd
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./fascinatemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./fascinatemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./fascinatemtd/proprietary/PhoneConfig.apk
+c662b92424c71dd117521f0a56ba86e89e63e0c584fe8d3b0997990030e8ec95  ./epic4gtouch/proprietary/libsec-ril40.so
+ead0333675c840ce44236b460c793985703c27c6d6575ecdbdc315a317a1a9e4  ./epic4gtouch/proprietary/libril.so
+1110799fa72034b692fddf46b2afe4b69a4931e37e98acca5313d9a3ec07bd01  ./epic4gtouch/proprietary/rild
+b8ea79bf1dd29c1dba9808cef3466f249496949abab2521abd4c0ad027bbfff0  ./epic4gtouch/proprietary/libsecril-client.so
 25d584bd3c3bee6fd35ceefa83b813cb026aeda5b38f3f0c5b611267bd12b990  ./vibrantmtd/proprietary/libclientgps.so
 229662b506fe652745ad24c37953f93f4b4176ab57a57a099bb1971506004684  ./vibrantmtd/proprietary/libril.so
 61bc529c7fb64e86d2ae3ea64506fd2cd54bb32ddb95924e20d2c1aacb59d918  ./vibrantmtd/proprietary/libcamera.so
