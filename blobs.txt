@@ -173,6 +173,9 @@ ae9022c905040f34f68321f5dafaf786b34bbee5378e11ea403c99ab3970cec9  ./c1-common/pr
 914d0855c3f506b466e618b07777e3a7074a335e7590c1d314fbb03699ae065f  ./c1-common/proprietary/egl/libGLESv1_CM_mali.so
 69ffa4c4753c3d03695f2e10e58d61530e97af7ed1ece29ec60a3de04d885d7f  ./c1-common/proprietary/wifi/bcm4330_aps.bin
 b9e7a6a3ffa06e722814e5558098d84c8208b0fd41e50f927ab0b898547e7b79  ./c1-common/proprietary/wifi/bcm4330_mfg.bin
+9a78611fa57cd4826daa70e6a0e1b3bbc8902816835fab2b8120b2d5c0a87a6e  ./c1-common/proprietary/wifi/fw_bcm4330_apsta.bin
+24bf42aa16465706e89797fad79a7c63c8633a21cc34fbef0ead4bbc150cd06c  ./c1-common/proprietary/wifi/fw_bcm4330_p2p.bin
+13007e46f3ff551a114a9f6e4c0dd8e5c7356b571da36f3f37fe9cea8234fbf6  ./c1-common/proprietary/wifi/fw_bcm4330.bin
 77c143ea9f79f53bdf7c11f283e305dfd10c9f868b14e16b00a75c13c2181d61  ./c1-common/proprietary/wifi/bcm4330_sta.bin
 ddea325fb1f7de67a8a58bcd88e416c53885f4190ed80426c8843e660dab23dc  ./c1-common/proprietary/firmware/qt602240.fw
 6d7042c581c40c23d335bd3579050948a5e3d58ae8dfcbb9636b0e00416be934  ./c1-common/proprietary/firmware/mfc_fw.bin
