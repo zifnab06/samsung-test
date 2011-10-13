@@ -138,6 +138,7 @@ efb4c73fff71a48b050428ff4be5dcd7bcb4154edb926256dd963103be581969  ./galaxys2att/
 3714185bda809ceffce0990a23de04276a85f97a3dbb1d80a61f3d93215cd01a  ./galaxys2att/proprietary/keychars/sec_key.kcm.bin
 3714185bda809ceffce0990a23de04276a85f97a3dbb1d80a61f3d93215cd01a  ./galaxys2att/proprietary/keychars/sec_touchkey.kcm.bin
 c9d371979abaef749bd54758e825794287e2cd5d5ff70bf6059c07cc3732be60  ./galaxys2att/proprietary/keychars/Broadcom_Bluetooth_HID.kcm.bin
+a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo/proprietary/cypress-touchkey.bin
 1228c5c78483bf757d6921ae25cfdf339402daa34b2a8d1a76ff8ae0c66124b9  ./crespo/proprietary/libsec-ril.so
 373e46af3135b63ecb64e66ec3994d41940af378764d463f3fad59ff6cefd23e  ./crespo/proprietary/libsecril-client.so
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./crespo/proprietary/samsung_mfc_fw.bin
@@ -327,6 +328,7 @@ f5627e1fa2f1af2641541595c7622f20b68fdfbaedefe131c3301e407e61aa33  ./crespo4g/pro
 cca7a0afd2b7e324b96da5827ee1450d0b3a28ebb9107ab6f409b7e179113b7d  ./crespo4g/proprietary/SprintMenu.apk.parts/resources.arsc
 799a7613ad6ab2de65978f30962baf1650e7b7c520a7cce12148001b2ef15aaf  ./crespo4g/proprietary/SprintMenu.apk.parts/classes.dex
 e3627a00f74750a748daebc4118ddd37437a59e384d7041aedbf6fb75526a309  ./crespo4g/proprietary/SprintMenu.apk.parts/AndroidManifest.xml
+a3afc8ee34bd47a821109bcbddc5ebbdc31b52571fd5cf399e86d8634fc1d99c  ./crespo4g/proprietary/cypress-touchkey.bin
 7bc08a587f531f62e0671e79a1ed370775a1e7959392949296e8e5764f65c7b4  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/drawable-ldpi/icon.png
 ae80cb984ac5c60c27c0e5304a8ef75dd16102472fc0485a5aca3706fb5dd8ec  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/drawable-mdpi/icon.png
 d0eac70d79dcf48778675f9d83da85a808800f61c945a52bb31054b210936c91  ./crespo4g/proprietary/WiMAXSettings.apk.parts/res/xml/wimax_settings.xml
