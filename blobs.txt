@@ -417,7 +417,7 @@ f790c0c981f003a684b2aaea0eb7e475ff33c3b7bc204678fee5efbbe21148a0  ./toro/proprie
 728e7eacacbc056c7a6c733b31a36d55abda2b2c67154b8664c79a842feb9d07  ./toro/proprietary/libsec-ril_lte.so
 29445ef1cedccc68013d3ff726f1e0e848659ea57f6fe934aa377e5017dafc2b  ./toro/proprietary/SyncMLSvc.apk
 401bf3225becafa08778a20f82ae8bb8313e387530773c34a6acf2433747fccd  ./toro/proprietary/lib_gsd4t.so
-0e368d92bbf3dbbf57b1143964209bd5e6b921fc56613764f441243e5236a248  ./toro/proprietary/libpn544_fw.so
+7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./toro/proprietary/libpn544_fw.so
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./toro/proprietary/fRom
 f52d237278d592e7cc60f1f2cb54e02508ff99b0dbda9b43c7bc10617157418c  ./toro/proprietary/libinvensense_mpl.so
 71506573367f35a8861e53446fbb84b002fc2e3085e08ccd3846021c20711f4a  ./toro/proprietary/SDM.apk
