@@ -266,10 +266,10 @@ de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./epicmtd/prop
 4d329c7db906390b1a399d6f49179d2dae44c2781652d04d70234af6ff00acf1  ./epicmtd/proprietary/lib/libsensorservice.so
 6d5753dc8bfbc50c04516c14681fd904addb5b2e499a4afbd14415b4db772c6c  ./epicmtd/proprietary/lib/egl/libGLES_android.so
 6f8379cd0513fa965278704c6be991d2d8ce6184a8a94b9552a29d479f133683  ./epicmtd/proprietary/lib/libsensor_yamaha_test.so
-6d05b56261772dddba1c13a49bc8e36cd99a2df9b3a076970de572b6b4c74fc6  ./epicmtd/proprietary/lib/hw/sensors.default.so
 19f204615cbfa2318d321ed8469168e86673496228422fd577fd73d8901f3bfd  ./epicmtd/proprietary/lib/hw/copybit.s5pc110.so
 2ca27d328f5a7e99b4edae597fe48152eadbef61247ee3a86570b221a121fe5b  ./epicmtd/proprietary/lib/hw/gralloc.s5pc110.so
 592abb681ce6be2a905c046a21f0c81adc83e03837b6efb2f28e118a0c9a805e  ./epicmtd/proprietary/lib/hw/lights.s5pc110.so
+6d05b56261772dddba1c13a49bc8e36cd99a2df9b3a076970de572b6b4c74fc6  ./epicmtd/proprietary/lib/hw/sensors.s5pc110.so
 ecb9fd8620b8678c29d1cd080666b95d4a8421a04df2a12006e24627f50ba6db  ./epicmtd/proprietary/lib/hw/gps.s5pc110.so
 c233e6eba0bb7a70c872098519e764e90a14513d36523a877ff615d5b09b1a5e  ./epicmtd/proprietary/lib/libsec-ril.so
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./epicmtd/proprietary/lib/libsecril-client.so
