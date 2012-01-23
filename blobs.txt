@@ -306,6 +306,10 @@ b32907931945ff3701951596a7da7b7d6a44ba32f39b007dca850baf271a8b09  ./epicmtd/prop
 40b391840c9f5cc2c861490f46aee07afb8befb49b7064fba47097db1a980b65  ./epicmtd/proprietary/WiMAXSettings.apk.parts/classes.dex
 cb2ee13da1d56ed38db3742b892def2dbab39c7fefeef9692a6f41de60ed9eb6  ./epicmtd/proprietary/WiMAXSettings.apk.parts/AndroidManifest.xml
 a771314043f300dbe8bcdd697688e0db40c654595ac479cadd78ea1d19bfde4e  ./epicmtd/proprietary/libSECmWiMAXcAPI.so
+939d506b1770208a990874a33b449ea18599e75bd45fd7ca2dc73cec26770eb6  ./epicmtd/proprietary/firmware/CE147F01.bin
+769c4986c12c4c008cb1674143d2e3e512fd1d5532afd9a51f2ae72c0f620886  ./epicmtd/proprietary/firmware/CE147F00.bin
+03420007d95a55a1604a0c47c4a6d91a085261e47d8bd9dcda627a2c3e589da9  ./epicmtd/proprietary/firmware/CE147F02.bin
+247310f036a88e9df04f237abdb7738b186eedef8a1453b45909b6546d5468a1  ./epicmtd/proprietary/firmware/CE147F03.bin
 f5f86431e569ccfb1b5623df09e8befd0b1c5b1cb8ea2291f01436b8a1f70d68  ./epicmtd/proprietary/SystemUpdateUI.apk.parts/res/drawable/green_divider.png
 1f5bfdf5ac72361aee50e58b2c9f5e7ca5cb361265fc6cc337c8377e2291b7b6  ./epicmtd/proprietary/SystemUpdateUI.apk.parts/res/xml/update_setting.xml
 977ca60c75f5fe8bee8fb8f8cfa86c340558dd904c46d162d31dd7fcaa80cf34  ./epicmtd/proprietary/SystemUpdateUI.apk.parts/res/drawable-hdpi/icon.png
@@ -335,6 +339,7 @@ c038edc0b7bacb0bafab917b1dccfb7d52ea7075423d53a8863c97e7f4fa26b8  ./epicmtd/prop
 20cd7276a6796ac0f3911ea4b04b27793711c5c6a48faf3c24860628e106cf09  ./epicmtd/proprietary/SprintMenu.unsigned.apk
 3a30918af013ce68d2bf2c7a16f33c57ae36c8c08a994f0e1d4c917126c54eea  ./epicmtd/proprietary/vendor/bin/gpsd
 ef6faa51ec8d5f6f5592fbc0eaaa9f9f90fdf46edb1796326553d552e0255e23  ./epicmtd/proprietary/vendor/bin/pvrsrvinit
+03420007d95a55a1604a0c47c4a6d91a085261e47d8bd9dcda627a2c3e589da9  ./epicmtd/proprietary/vendor/firmware/CE147F02.bin
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./epicmtd/proprietary/vendor/firmware/samsung_mfc_fw.bin
 7d9f86e7dc2df8c9a4c0764a25efff3f99fbfbb6789ea9944acd5318be2ba628  ./epicmtd/proprietary/vendor/lib/libpvr2d.so
 4a2d27978ceec3ef373211acb609a9be3c936216ae6b51d3b20c47c9b393d19f  ./epicmtd/proprietary/vendor/lib/libIMGegl.so
