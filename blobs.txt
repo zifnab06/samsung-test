@@ -281,7 +281,6 @@ f39f012115d6f228018754642757290df9d9dd73a97270ed1c85014b124d1afb  ./epicmtd/prop
 c1f2133e04022367b96ca63d3454233259667e699b6730f95e9b2f5eeb3b5b6e  ./epicmtd/proprietary/bin/BCM4329B1_002.002.023.0746.0832.hcd
 282e695d65a5014af19fc91fab19a8b46c59acea2d807bd3a063ef65487c480d  ./epicmtd/proprietary/bin/charging_mode
 bc7347011d994fa1f561dc8e4a971678d0d303bb08575b244afd37f41c15e1b8  ./epicmtd/proprietary/bin/orientationd
-99797c0bc13084b2997aa1c91f72485d5c461247b9e245b662650c3596489989  ./epicmtd/proprietary/bin/pppd_runner
 5830d9cd348d977e68009de6127ea5fb0ca66476c41eda0b99a5af19da621bd5  ./epicmtd/proprietary/bin/rild
 da054ec4827befc0c658a268047eca35c4bd29f16a84577c3e836575dc13b340  ./epicmtd/proprietary/libWiMAXNative.so
 6a953cf97db8c8256097eba2fd44ec52fc8ea0e00cc25dd07d2360da40e2de45  ./epicmtd/proprietary/WiMAXSettings.apk.parts/res/drawable/appwidget_button.xml
@@ -332,7 +331,6 @@ de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./epicmtd/prop
 592abb681ce6be2a905c046a21f0c81adc83e03837b6efb2f28e118a0c9a805e  ./epicmtd/proprietary/lib/hw/lights.s5pc110.so
 6d05b56261772dddba1c13a49bc8e36cd99a2df9b3a076970de572b6b4c74fc6  ./epicmtd/proprietary/lib/hw/sensors.s5pc110.so
 ecb9fd8620b8678c29d1cd080666b95d4a8421a04df2a12006e24627f50ba6db  ./epicmtd/proprietary/lib/hw/gps.s5pc110.so
-c233e6eba0bb7a70c872098519e764e90a14513d36523a877ff615d5b09b1a5e  ./epicmtd/proprietary/lib/libsec-ril.so
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./epicmtd/proprietary/lib/libsecril-client.so
 794cd9d201afc126ca0990d42604aa58ea529be38aeb833c7a951cb3189f1a48  ./epicmtd/proprietary/WiMAXSettings.unsigned.apk
 11611ab26694b43584870bbb9bf61af6296d2a8d50fca186f1256835cba7b188  ./epicmtd/proprietary/wimax_boot.bin
