@@ -331,7 +331,7 @@ de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./epicmtd/prop
 592abb681ce6be2a905c046a21f0c81adc83e03837b6efb2f28e118a0c9a805e  ./epicmtd/proprietary/lib/hw/lights.s5pc110.so
 6d05b56261772dddba1c13a49bc8e36cd99a2df9b3a076970de572b6b4c74fc6  ./epicmtd/proprietary/lib/hw/sensors.s5pc110.so
 ecb9fd8620b8678c29d1cd080666b95d4a8421a04df2a12006e24627f50ba6db  ./epicmtd/proprietary/lib/hw/gps.s5pc110.so
-e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./epicmtd/proprietary/lib/libsecril-client.so
+5961288812fbd7e4fe075a269aa7b19d551cb4ed5e14f8e31b088c544a13cb49  ./epicmtd/proprietary/lib/libsecril-client.so
 c74676c72a42e8dbafda25ebae430c0fdc73d288533379531644de6742c4ef0d  ./epicmtd/proprietary/WiMAXSettings.unsigned.apk
 11611ab26694b43584870bbb9bf61af6296d2a8d50fca186f1256835cba7b188  ./epicmtd/proprietary/wimax_boot.bin
 2f4b3ea8f4d1a90835847262553d93d1f5c7257ecf1b4511787f27a623b5cfe9  ./epicmtd/proprietary/SprintMenu.apk
