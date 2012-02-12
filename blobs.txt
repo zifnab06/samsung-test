@@ -328,7 +328,6 @@ de88815d6e9e1b74043803b5e14f45c781b6993bffb8f9bd20d7e6f353734170  ./epicmtd/prop
 6f8379cd0513fa965278704c6be991d2d8ce6184a8a94b9552a29d479f133683  ./epicmtd/proprietary/lib/libsensor_yamaha_test.so
 19f204615cbfa2318d321ed8469168e86673496228422fd577fd73d8901f3bfd  ./epicmtd/proprietary/lib/hw/copybit.s5pc110.so
 2ca27d328f5a7e99b4edae597fe48152eadbef61247ee3a86570b221a121fe5b  ./epicmtd/proprietary/lib/hw/gralloc.s5pc110.so
-592abb681ce6be2a905c046a21f0c81adc83e03837b6efb2f28e118a0c9a805e  ./epicmtd/proprietary/lib/hw/lights.s5pc110.so
 6d05b56261772dddba1c13a49bc8e36cd99a2df9b3a076970de572b6b4c74fc6  ./epicmtd/proprietary/lib/hw/sensors.s5pc110.so
 ecb9fd8620b8678c29d1cd080666b95d4a8421a04df2a12006e24627f50ba6db  ./epicmtd/proprietary/lib/hw/gps.s5pc110.so
 5961288812fbd7e4fe075a269aa7b19d551cb4ed5e14f8e31b088c544a13cb49  ./epicmtd/proprietary/lib/libsecril-client.so
