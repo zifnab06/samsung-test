@@ -857,12 +857,16 @@ a605babf4d0b877678ad06592c0584908fd738082540cbc228d696d76c7a9d62  ./galaxys2/pro
 1d3a8f985ca4f0d90ab91cba572a58dd91c82ea6974367ec5138dede6505cb11  ./galaxys2/proprietary/ril/lib/libril.so
 fe94062e03cfdca49ead73e2b0577aacd6c17867fca2f85cc623dd71846e62e0  ./galaxys2/proprietary/ril/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./galaxys2/proprietary/ril/lib/libsecril-client.so
+9fa98992af46754e9bedb5609d95ff04eebeb28fc3d1228952c699e22c961698  ./toro/proprietary/VZWAPNLib.apk
 90eabddff88a44d2b27867340c7eaa96ec7ac311908aab2538127d45ca43cf9d  ./toro/proprietary/RTN.apk
 f0114c24bba7a080b656cd0fa5fdb2adb9f1d6736841f77d67696a25c54e952c  ./toro/proprietary/SPG.apk
 e9d94836f77b6e3cae8488812b2cfc26df56ec5dce58818439617eb4b3a4b498  ./toro/proprietary/IMSFramework.apk
+a3624da56b606e328edbee2d84fb5d928fe3f4699f1faa33417059133bd0bee4  ./toro/proprietary/com.vzw.vzwapnlib.xml
 ffe3230ebc810ea1bd7bc00ef35a436ab435c59fbb4405e59024b515d95adb1d  ./toro/proprietary/ducati-m3.bin
 83fc631de85c6381eefb07f1e1c7db6b3690a36e6d5c0c8cf712a82957aedac4  ./toro/proprietary/libims_jni.so
 c8fc09a6764b808d7b7e0020f699b755ab3978c7214d46fcb97c98ee595db1bd  ./toro/proprietary/libsyncml_core.so
+9fa98992af46754e9bedb5609d95ff04eebeb28fc3d1228952c699e22c961698  ./toro/proprietary/VZWAPNService.apk
+c7f3c2fbcc474dad94ed3cbcd66c88efd4fc9807e1b006f666122a6e324821b1  ./toro/proprietary/com.vzw.hardware.lte.xml
 f790c0c981f003a684b2aaea0eb7e475ff33c3b7bc204678fee5efbbe21148a0  ./toro/proprietary/bcm4330.hcd
 728e7eacacbc056c7a6c733b31a36d55abda2b2c67154b8664c79a842feb9d07  ./toro/proprietary/libsec-ril_lte.so
 29445ef1cedccc68013d3ff726f1e0e848659ea57f6fe934aa377e5017dafc2b  ./toro/proprietary/SyncMLSvc.apk
@@ -873,6 +877,7 @@ f52d237278d592e7cc60f1f2cb54e02508ff99b0dbda9b43c7bc10617157418c  ./toro/proprie
 71506573367f35a8861e53446fbb84b002fc2e3085e08ccd3846021c20711f4a  ./toro/proprietary/SDM.apk
 42ff77415d78377e8f41bae4cd6852743e9bad8089d865e7bd657cb9a1b77d81  ./toro/proprietary/libsecril-client.so
 024484eb23868b317f6befc97b17db6d2f45b8d3967a7c88e8eb229b73963dc9  ./toro/proprietary/sirfgps.conf
+3c01f280fa953ee4fb393f101fa102fd0a7a614725777ad29e4cc54e11675be6  ./toro/proprietary/com.vzw.hardware.ehrpd.xml
 3240727f1acb0cd21db3f4b0285b4382a32d065867537bcfed0a1ce50ee6995c  ./toro/proprietary/libsyncml_port.so
 6b96c189ada0c12fc57ee46fbaf56daf6a660b1c4395ecd90021e77b559105f2  ./toro/proprietary/gps.omap4.so
 e7e5737e65560ba6a53d2f214005f6e2eff72fce7ce7f485c14f9031a154ec70  ./toro/proprietary/BIP.apk
