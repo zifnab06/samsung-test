@@ -12,16 +12,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Live wallpaper packages and Themes
-PRODUCT_PACKAGES := \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers \
-    librs_jni
-
-# Publish that we support the live wallpaper feature.
+# Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES := \
-    packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml
+    vendor/samsung/p1/proprietary/libril.so:obj/lib/libril.so \
+    vendor/samsung/p1/proprietary/libsecril-client.so:obj/lib/libsecril-client.so
 
-$(call inherit-product, vendor/samsung/galaxytab/galaxytab-vendor-blobs.mk)
+# RIL (CDMA)
+PRODUCT_COPY_FILES += \
+    vendor/samsung/p1/proprietary/libril.so:system/lib/libril.so \
+    vendor/samsung/p1/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/p1/proprietary/libsec-ril40.so:system/lib/libsec-ril40.so \
+    vendor/samsung/p1/proprietary/rild:system/bin/rild \
+    vendor/samsung/p1/proprietary/pppd_runner:system/bin/pppd_runner
