@@ -439,7 +439,6 @@ e8ff051b4e3a06e2dc996cab4c93a105c1b859bf6a9c629f0ab6555f51b943a7  ./celox/propri
 636a6bae3e9fbff0b1b51f819bf4aff52b778ac8cc2949acd2252fe0ddd1616c  ./celox/proprietary/bin/playsound
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./celox/proprietary/bin/immvibed
 cf6f01661aa7849f4d1b6fc352d87e7acc40addabc4e8992188b5c11e5b0e96c  ./celox/proprietary/bin/drmserver
-ebe3ddfd98e45dd0957651080b74af014bd35913165d45adddc0fc48eac467b8  ./celox/proprietary/bin/wpa_supplicant
 be1860d820e23389c5a4f52ca4146c65517eacfd6e75a94f65aad6455bd5a301  ./celox/proprietary/bin/qmuxd
 f0a383371543351afe6ff304272e7b3defadd8f4613439efaadc376238edd3b9  ./celox/proprietary/bin/netmgrd
 c6354a4606ac0d6d9a172e57fd5b97385d4231f82a8cf74846939ce3c21df188  ./celox/proprietary/bin/qcks
