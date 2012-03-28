@@ -429,11 +429,13 @@ d5e9271a2d7b330f6b76d4e19451371eb8cd98ff682f823c96492ac1c3efb11a  ./celox/propri
 cbd210fa3f1d0eedc3944c7da5df86909d243df5985ffbb55754b4d2ca9647b7  ./celox/proprietary/lib/libgsl.so
 52f8bc12143f252f8606f2490f9999390d4b583604db6c54edb5d8923c1c803f  ./celox/proprietary/lib/libC2D2.so
 ca4c206243eb9df04afe12e19895f8dfb77aa15c9f22e3e0f0a3071997cebb30  ./celox/proprietary/lib/libacdbloader.so
+aefbc9defb638273f1b6bd05d1c50d515158e2b7da68553caad7bfe939011d7a  ./celox/proprietary/lib/libakm.so
 c58cb3fb42e861b91ce2b7070f40a249101536338697117d3b1b2301148a32db  ./celox/proprietary/lib/egl/libq3dtools_adreno200.so
 721d12fd0e0f1558cff6d4ad60c207141c5218cfb4dc0cec1a6b83d6f050c7f3  ./celox/proprietary/lib/egl/eglsubAndroid.so
 92ed930b05806ec1ce98700b5060a6b4fed9103bbe146ea63e5bef334e93319c  ./celox/proprietary/lib/egl/libGLESv1_CM_adreno200.so
 dd90f41fa28f1db432c120291de5ccfd00decf884c19e399b343f51ecece91f0  ./celox/proprietary/lib/egl/libEGL_adreno200.so
 21fef278c8467b3d0580f738a60135e153cddbdfc5eb57123ed98d53abe27f6f  ./celox/proprietary/lib/egl/libGLESv2_adreno200.so
+c5cbdea1fc4f720f8840a24254afb44e3a9ce58cf5285a4ade39f455d15283a6  ./celox/proprietary/lib/hw/sensors.default.so
 142e9ab29464186956b4c687aafbe561f3bd7c376a83fa75a16804157caa38c1  ./celox/proprietary/lib/libaudioalsa.so
 ec7d3e4f459209034f70a4da82aa49a33bb21408918206ecd5f70600ba83573e  ./celox/proprietary/lib/libacdbmapper.so
 e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/proprietary/lib/libOpenVG.so
