@@ -408,6 +408,17 @@ c22f09b351843416dc71018a82d5b9a23306d63f14e5438324db139ad8a6c81d  ./p1c/propriet
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./p1c/proprietary/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
 27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
+bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./celox/proprietary/etc/wifi/wl
+1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./celox/proprietary/etc/wifi/nvram_mfg.txt_murata
+c28758b44893148780739b47fe6e668d854cdb33fce6ca17ec483d517d168f8b  ./celox/proprietary/etc/wifi/nvram_mfg.txt
+2dc143b2e9b64bcc97e411a9bfbbd4754b0d77f265b13941d404d5f5f64d5457  ./celox/proprietary/etc/wifi/default_ap.conf
+0163fb047024d616ccb915e45f1f75d2d7f9827d6c71fb7e9a0124546ea91d36  ./celox/proprietary/etc/wifi/bcm4330_apsta.bin
+7cc793cf7de5677d704741fb4a7b9f57e026737fb54c7bb9c11069e2e379cc9b  ./celox/proprietary/etc/wifi/wpa_supplicant.conf
+3f4873310cb4ef6e509d078b5ca7e6cc510a12b4d1dae3e9ef2552afb0ffbbb7  ./celox/proprietary/etc/wifi/nvram_net.txt
+35eb5b84203036d4a60662aacd063b3e70677b51cce8e6de97e615773aece725  ./celox/proprietary/etc/wifi/bcm4330_mfg.bin
+71dcb6fa17d983e9eee209561a3405a7dfa80f01c44366b60684c6d901cfeade  ./celox/proprietary/etc/wifi/bcm4330_p2p.bin
+d2d910c0c2accc0dfa963e6f1660153260a3425b3845ae6f172757ba75cdff6d  ./celox/proprietary/etc/wifi/nvram_net.txt_murata
+77139aaad4ef69633d1b747565240a3bb625dd0cf8765fa9d756edc265ca077d  ./celox/proprietary/etc/wifi/bcm4330_sta.bin
 949dfa6a13bf4113db8e1bb1c028b4cd3af29fa7aaad4608d5ef7147c3db8a53  ./celox/proprietary/etc/firmware/vidc_1080p.fw
 4b8ad209fef868dfb001d49f5fd01bad984962ba77b46536d39a7e651337063b  ./celox/proprietary/etc/firmware/dsps_fluid.b00
 132b91642d545e50cff025f542901a405ef7064a1099f944de51b08de0db09d5  ./celox/proprietary/etc/firmware/dsps_fluid.b03
