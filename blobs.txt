@@ -436,6 +436,11 @@ c58cb3fb42e861b91ce2b7070f40a249101536338697117d3b1b2301148a32db  ./celox/propri
 dd90f41fa28f1db432c120291de5ccfd00decf884c19e399b343f51ecece91f0  ./celox/proprietary/lib/egl/libEGL_adreno200.so
 21fef278c8467b3d0580f738a60135e153cddbdfc5eb57123ed98d53abe27f6f  ./celox/proprietary/lib/egl/libGLESv2_adreno200.so
 c5cbdea1fc4f720f8840a24254afb44e3a9ce58cf5285a4ade39f455d15283a6  ./celox/proprietary/lib/hw/sensors.default.so
+2f513a134734390f6e94329c62c98eb5b93e021042030908b3f7ba93a853a4f9  ./celox/proprietary/lib/hw/gps.default.so
+3a790c15c8e2193cebb1741531ec3834a8c47dbbc716c335e8ff426ba34a07e4  ./celox/proprietary/lib/hw/gralloc.default.so
+7d0eb2b38e6c964c3cb7b3ca8a42cb686056cdb0c3153136ca0a8291b07ba2a3  ./celox/proprietary/lib/hw/gralloc.msm8660.so
+e33e6a3a42b2f5103530b4b7312e39966fe80a65ed37589049aa65560f235f9f  ./celox/proprietary/lib/hw/lights.msm8660.so
+5f3c131383f6f6d0a0d3701d9f1925ac672480efd5edbe7f7578e12f2fdce7f6  ./celox/proprietary/lib/hw/copybit.msm8660.so
 142e9ab29464186956b4c687aafbe561f3bd7c376a83fa75a16804157caa38c1  ./celox/proprietary/lib/libaudioalsa.so
 ec7d3e4f459209034f70a4da82aa49a33bb21408918206ecd5f70600ba83573e  ./celox/proprietary/lib/libacdbmapper.so
 e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/proprietary/lib/libOpenVG.so
