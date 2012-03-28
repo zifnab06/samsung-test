@@ -408,6 +408,7 @@ c22f09b351843416dc71018a82d5b9a23306d63f14e5438324db139ad8a6c81d  ./p1c/propriet
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./p1c/proprietary/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
 27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
+e30bf7ee409508128edc2ec89b579c70300456de1b6a8f179c1ac5b73f878ce0  ./celox/proprietary/etc/gps.conf
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./celox/proprietary/etc/wifi/wl
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./celox/proprietary/etc/wifi/nvram_mfg.txt_murata
 c28758b44893148780739b47fe6e668d854cdb33fce6ca17ec483d517d168f8b  ./celox/proprietary/etc/wifi/nvram_mfg.txt
@@ -476,6 +477,7 @@ ec7d3e4f459209034f70a4da82aa49a33bb21408918206ecd5f70600ba83573e  ./celox/propri
 f2b5fd282f6c9e1cbd7bf3ff598fdd88f900bcdb6f25d518392a104a1e5fb231  ./celox/proprietary/lib/libqmi.so
 78174d49715aa3ec483016818fd2472f4088eb53f170d24cf4c4ce32fad9799c  ./celox/proprietary/lib/libril-qc-qmi-1.so
 e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/proprietary/lib/libOpenVG.so
+6fb185a27e5e122b787c59abc2f081353d37fa2811b5957768b71246d81519a6  ./celox/proprietary/lib/libloc_api-rpc-qc.so
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./celox/proprietary/lib/libaudioparsers.so
 51d1f5e3f2152925405c81b0cdd2e10a9e091db8bd2bdef8771ed23c5c604cda  ./celox/proprietary/lib/libqmiservices.so
 3055fa21c9f03f0a705bb258deb40d8b164f69df793dd2270bff4eecbe1fd5f9  ./p4tmo/proprietary/etc/audio/LVVEFS_Rx_Configuration.txt
