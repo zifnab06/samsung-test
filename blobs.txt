@@ -414,7 +414,6 @@ d5e9271a2d7b330f6b76d4e19451371eb8cd98ff682f823c96492ac1c3efb11a  ./celox/propri
 cbd210fa3f1d0eedc3944c7da5df86909d243df5985ffbb55754b4d2ca9647b7  ./celox/proprietary/lib/libgsl.so
 52f8bc12143f252f8606f2490f9999390d4b583604db6c54edb5d8923c1c803f  ./celox/proprietary/lib/libC2D2.so
 ca4c206243eb9df04afe12e19895f8dfb77aa15c9f22e3e0f0a3071997cebb30  ./celox/proprietary/lib/libacdbloader.so
-1938823b8d67285a50b60c49a68dde4556c6e2561bd3c51417461326e90f6bae  ./celox/proprietary/lib/egl/libGLES_android.so
 c58cb3fb42e861b91ce2b7070f40a249101536338697117d3b1b2301148a32db  ./celox/proprietary/lib/egl/libq3dtools_adreno200.so
 721d12fd0e0f1558cff6d4ad60c207141c5218cfb4dc0cec1a6b83d6f050c7f3  ./celox/proprietary/lib/egl/eglsubAndroid.so
 92ed930b05806ec1ce98700b5060a6b4fed9103bbe146ea63e5bef334e93319c  ./celox/proprietary/lib/egl/libGLESv1_CM_adreno200.so
