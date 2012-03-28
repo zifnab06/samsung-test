@@ -407,6 +407,7 @@ c22f09b351843416dc71018a82d5b9a23306d63f14e5438324db139ad8a6c81d  ./p1c/propriet
 07a5bec603c7f0efea675fd22975aa01488dcccb3668bedefaf0ed18d353555d  ./p1c/proprietary/rild
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./p1c/proprietary/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
+27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
 37d9967fd0cfb3f8ee25c654b158c5fbd87a60268c6ca45511e37015315b5c2c  ./celox/proprietary/etc/firmware/leia_pm4_470.fw
 d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./celox/proprietary/etc/firmware/leia_pfp_470.fw
 e9a4591ec58b3deab694af8248dd699134bd5bd9c64e33612c95e75981fc6d79  ./celox/proprietary/bin/ATFWD-daemon
