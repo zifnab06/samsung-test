@@ -422,6 +422,7 @@ d2d910c0c2accc0dfa963e6f1660153260a3425b3845ae6f172757ba75cdff6d  ./celox/propri
 949dfa6a13bf4113db8e1bb1c028b4cd3af29fa7aaad4608d5ef7147c3db8a53  ./celox/proprietary/etc/firmware/vidc_1080p.fw
 4b8ad209fef868dfb001d49f5fd01bad984962ba77b46536d39a7e651337063b  ./celox/proprietary/etc/firmware/dsps_fluid.b00
 132b91642d545e50cff025f542901a405ef7064a1099f944de51b08de0db09d5  ./celox/proprietary/etc/firmware/dsps_fluid.b03
+9b9203bbdca241edf8f8c364e4aca1e87f382553c9fa97947ca387067e7d191c  ./celox/proprietary/etc/firmware/bcm4330B1.hcd
 bf03f47e28a373f2d3a3bd2cdbde406319ffab21fa0abb8793686b3fd5e823c4  ./celox/proprietary/etc/firmware/dsps_fluid.b02
 4394bb2959f377d322145e0335980e9fc68d2681639e81732e131b633e41e0d7  ./celox/proprietary/etc/firmware/dsps_fluid.b01
 37d9967fd0cfb3f8ee25c654b158c5fbd87a60268c6ca45511e37015315b5c2c  ./celox/proprietary/etc/firmware/leia_pm4_470.fw
@@ -435,6 +436,7 @@ b5d6202f2d62346d037faf2c095efc5fa4080ede5a056e236d5e2be09b05bf20  ./celox/propri
 46a49a83255aec533a646ad7d5b7ea7c001a02f554c4cc2c2639890add2da35c  ./celox/proprietary/bin/npsmobex
 e24aa9077d4fac434b99f6a283960eb1e61d5cabb6bbcecf66189d5e69c6eaf4  ./celox/proprietary/bin/rmt_storage
 bcbc266fc545c995fd3390ff5452d7983cb519ed37dc7aeeeddb688ef39c15a0  ./celox/proprietary/bin/sec-ril
+411fa99fcc74ab221cd04eb216b824eba1edb70a7587114be4857a4d43fb072a  ./celox/proprietary/bin/btld
 e8ff051b4e3a06e2dc996cab4c93a105c1b859bf6a9c629f0ab6555f51b943a7  ./celox/proprietary/bin/rild
 636a6bae3e9fbff0b1b51f819bf4aff52b778ac8cc2949acd2252fe0ddd1616c  ./celox/proprietary/bin/playsound
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./celox/proprietary/bin/immvibed
