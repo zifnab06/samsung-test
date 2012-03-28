@@ -429,7 +429,9 @@ bf03f47e28a373f2d3a3bd2cdbde406319ffab21fa0abb8793686b3fd5e823c4  ./celox/propri
 d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./celox/proprietary/etc/firmware/leia_pfp_470.fw
 a73c4e6d8b72b1a34dbdb29833ba65103904eb8704e79e9880898192c9371456  ./celox/proprietary/etc/firmware/dsps_fluid.mdt
 7c649e6d7879731a042c1aa44e52832ffd6f62323852d70e29955ec96d0711c7  ./celox/proprietary/cameradata/RS_M5LS_O.bin
+6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./celox/proprietary/cameradata/datapattern_420sp.yuv
 cc61ada29f1f2136c5c024da0f2c7f0ad69680a5d9ab14b5901ead820c4798df  ./celox/proprietary/cameradata/RS_M5LS_S.bin
+f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./celox/proprietary/cameradata/datapattern_front_420sp.yuv
 e9a4591ec58b3deab694af8248dd699134bd5bd9c64e33612c95e75981fc6d79  ./celox/proprietary/bin/ATFWD-daemon
 b5d6202f2d62346d037faf2c095efc5fa4080ede5a056e236d5e2be09b05bf20  ./celox/proprietary/bin/drexe
 4a7eb04171e30ed8bff5cd42f5a634a7eaed24acbbde43f42f8a723f6304205d  ./celox/proprietary/bin/qmiproxy
@@ -449,6 +451,7 @@ d5e9271a2d7b330f6b76d4e19451371eb8cd98ff682f823c96492ac1c3efb11a  ./celox/propri
 14f854058294ec3bcf6f3c8733cf6cdcb654b7466596e7a4114f38825a5ae6ad  ./celox/proprietary/lib/libsc-a2xx.so
 cbd210fa3f1d0eedc3944c7da5df86909d243df5985ffbb55754b4d2ca9647b7  ./celox/proprietary/lib/libgsl.so
 52f8bc12143f252f8606f2490f9999390d4b583604db6c54edb5d8923c1c803f  ./celox/proprietary/lib/libC2D2.so
+533ba6355b97ba5515f69e3827942c8f2bf5ceab4ccd10a22cc14d575c4e3964  ./celox/proprietary/lib/libcamera.so
 ca4c206243eb9df04afe12e19895f8dfb77aa15c9f22e3e0f0a3071997cebb30  ./celox/proprietary/lib/libacdbloader.so
 aefbc9defb638273f1b6bd05d1c50d515158e2b7da68553caad7bfe939011d7a  ./celox/proprietary/lib/libakm.so
 c58cb3fb42e861b91ce2b7070f40a249101536338697117d3b1b2301148a32db  ./celox/proprietary/lib/egl/libq3dtools_adreno200.so
