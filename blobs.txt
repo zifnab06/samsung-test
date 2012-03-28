@@ -465,6 +465,7 @@ c58cb3fb42e861b91ce2b7070f40a249101536338697117d3b1b2301148a32db  ./celox/propri
 dd90f41fa28f1db432c120291de5ccfd00decf884c19e399b343f51ecece91f0  ./celox/proprietary/lib/egl/libEGL_adreno200.so
 21fef278c8467b3d0580f738a60135e153cddbdfc5eb57123ed98d53abe27f6f  ./celox/proprietary/lib/egl/libGLESv2_adreno200.so
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./celox/proprietary/lib/libril-qcril-hook-oem.so
+bd78ff89a7120df6a4700548732b1d16c29e28c72faf6de47f7316040fb9b495  ./celox/proprietary/lib/lib_iec_60958_61937.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./celox/proprietary/lib/libnetmgr.so
 c5cbdea1fc4f720f8840a24254afb44e3a9ce58cf5285a4ade39f455d15283a6  ./celox/proprietary/lib/hw/sensors.default.so
 2f513a134734390f6e94329c62c98eb5b93e021042030908b3f7ba93a853a4f9  ./celox/proprietary/lib/hw/gps.default.so
