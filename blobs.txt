@@ -452,6 +452,7 @@ d5e9271a2d7b330f6b76d4e19451371eb8cd98ff682f823c96492ac1c3efb11a  ./celox/propri
 0dd0cf67be638e1e0dd76565f268668aeb593c3e2b011904197944f8af5b7491  ./celox/proprietary/lib/libqdp.so
 0f73929e397f824032a2759710f710f7db881c5e239638abd3e475c545803f72  ./celox/proprietary/lib/libdiag.so
 a5583e5ed5782414f3205fa3f3f18a33cd1403e1b9c36b4b3f774a64ba79370a  ./celox/proprietary/lib/libdsutils.so
+b2ba47461e1507714206a6468f58f0941eb0858ca365f3bc507b8b3fb4da1b16  ./celox/proprietary/lib/libcommondefs.so
 14f854058294ec3bcf6f3c8733cf6cdcb654b7466596e7a4114f38825a5ae6ad  ./celox/proprietary/lib/libsc-a2xx.so
 cbd210fa3f1d0eedc3944c7da5df86909d243df5985ffbb55754b4d2ca9647b7  ./celox/proprietary/lib/libgsl.so
 547feb469ecc510c94f7708258f54a708c438a480394db448a0f286a99a1e3dc  ./celox/proprietary/lib/libdsi_netctrl.so
