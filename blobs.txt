@@ -639,7 +639,6 @@ b7cab78c59f1ab159ab6f9be9406a5fe0ca60228208e634b2809b21ba5a6ce79  ./p4tmo/propri
 a50e5eb2fe78b9524837fe9d5b16f2a91803119aa99586e919e92027276a3f9c  ./p4tmo/proprietary/lib/libnvmm.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./p4tmo/proprietary/lib/lib_Samsung_Resampler.so
 ffe3230ebc810ea1bd7bc00ef35a436ab435c59fbb4405e59024b515d95adb1d  ./maguro/proprietary/ducati-m3.bin
-bb19fea4a3248ffecf8a59bbe8f20e9cf3290f090cc490cd472a8e99ded84bb2  ./maguro/proprietary/bcm4330.hcd
 7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./maguro/proprietary/libpn544_fw.so
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./maguro/proprietary/fRom
 e7d8d176c221b22cf27c33b39401ce10b7822c007ea107508230eea6450e4c14  ./maguro/proprietary/libsec-ril.so
