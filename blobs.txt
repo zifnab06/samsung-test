@@ -669,6 +669,7 @@ d61e4d9ba9389cd8cbfe3a580f60013f4ccc1a2d7c627a629b655eb7bf705826  ./p1-common/pr
 9610ab892813815e9fe36ad187595ed088886d80aeff1c3eaa2cc016ef5083f0  ./p1-common/proprietary/libedid.so
 37cd29cf558b3d403a82b6abe5e10741a07b8936eda8b9634a66218bcb1a741e  ./p1-common/proprietary/gps.conf
 77b2fbc6207c3f04d9e7f480e4eda663fd9cfa4519aa2fda4bbc5d4eb2f93685  ./p1-common/proprietary/battery_charging_85.qmg
+135e0dae1ac0c811aa5e386462b68a72e28d4e6f4e6bb5f8747a94277f5387cd  ./p1-common/proprietary/BCM4329B1_002.002.023.0534.0590.hcd
 444b0ce3eae00681c02a024fba3d4e17d4bfbd78da41b7e89423c70ffbdd15ed  ./p1-common/proprietary/battery_charging_30.qmg
 66fa4967877311b71f7057b81f0ce127856db29dc4a24c34a332ffc1654b1640  ./p1-common/proprietary/battery_charging_70.qmg
 89a4b432b5b3b15810ffd2fc72b50861e128fec4fd4bbf51492b0ed6b3b5ebf2  ./p1-common/proprietary/gralloc.s5pc110.so
