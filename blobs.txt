@@ -658,7 +658,6 @@ b339367cf5e22f2371fb3c34bd870aedab78f1a7770e609de74f5cd245989650  ./p1-common/pr
 c31957bc42f194f30a2ff36fab68acb224f3fa73a86c43fe82188bf24151d43f  ./p1-common/proprietary/libGLESv2_POWERVR_SGX540_120.so
 ac76ddfd432691a89ee8c818991b08b2a605b7b6b97d39eb73c39b08545cabf1  ./p1-common/proprietary/libtvout_jni.so
 cf3684d1eb85a3bec596dfc297ae67a85e67f2a50daaa5922575e797df916d5b  ./p1-common/proprietary/battery_charging_45.qmg
-772f78129df2f7ecfebdc3fb3f875602e2d345feda54288b169c3e364c67ae48  ./p1-common/proprietary/BCM4329B1_002.002.023.0534.0571.hcd
 5598da7b245227762a5adb697a0e7ae55b155d9a786261055aa49f952e57b073  ./p1-common/proprietary/libPVRScopeServices.so
 1cea7762f27ce48a846c59d100273a879d074d7ba99f0aee1bf31207a1c87245  ./p1-common/proprietary/playlpm
 6d5753dc8bfbc50c04516c14681fd904addb5b2e499a4afbd14415b4db772c6c  ./p1-common/proprietary/libGLES_android.so
