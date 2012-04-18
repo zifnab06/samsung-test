@@ -131,6 +131,7 @@ e4c2d56153434e8f639aa894a71e466423774ab14904e3a70be14dfc1ac163c7  ./galaxys2-com
 c4a1c58f26f236930c0891b81743e175f3a1caff04c5d9af36e33700bb2a12e2  ./galaxys2-common/proprietary/hwcomposer/lib/libfimc.so
 9c433edc17f098c134e1851f9d2d83d7d58fc505836cde0aeb0f759db2f5f148  ./galaxys2-common/proprietary/hwcomposer/lib/hw/hwcomposer.exynos4.so
 99bf90735b0c43aa29faf77ef59f85089719a720b7a4aecb1d3818587a82bea5  ./galaxys2-common/proprietary/hwcomposer/lib/libtvoutservice.so
+7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./galaxys2-common/proprietary/nfc/firmware/libpn544_fw.so
 19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./galaxys2-common/proprietary/gps/lib/hw/gps.exynos4.so
 7d9f86e7dc2df8c9a4c0764a25efff3f99fbfbb6789ea9944acd5318be2ba628  ./aries-common/proprietary/libpvr2d.so
 e39c445340e51c4dcadbb3a96ba0fcae2572b45c5a0783f7526f7f4b4bc9a5ae  ./aries-common/proprietary/battery_charging_100.qmg
@@ -210,7 +211,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-9fdbdf25533964a029b51e24db38eb494eec0bb4619e52fb303486a2f90f14de  ./blobs.txt
+6129f543c353c9f5deaec2a58fe9cfa850a64fcbc1157dbdc87adfadd546bb9b  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
