@@ -403,6 +403,7 @@ c03aaf478524ac855f7ebcd4853c11331cfc1f86f03f4109e8579cff9820af7d  ./epicmtd/prop
 c22f09b351843416dc71018a82d5b9a23306d63f14e5438324db139ad8a6c81d  ./p1c/proprietary/libsec-ril40.so
 ff026797e5a7d0441c5363ffeae6e131a09c77256adbc52d68854d5493fcf508  ./p1c/proprietary/gpsd
 2aeab7a804d819bb29d96d2372ad4522f5a8bfecceba6b9615da464e08ea4f5e  ./p1c/proprietary/libril.so
+37cd29cf558b3d403a82b6abe5e10741a07b8936eda8b9634a66218bcb1a741e  ./p1c/proprietary/gps.conf
 98f4184eb91cd8f5cbb614336a0b3fac67b780b8245fd629d32c3f0d1864c2c4  ./p1c/proprietary/pppd_runner
 07a5bec603c7f0efea675fd22975aa01488dcccb3668bedefaf0ed18d353555d  ./p1c/proprietary/rild
 9c77a800f87266217ca2d05fffed560065d332b7aec5d9e0b70d15e3d7360b93  ./p1c/proprietary/gps.s5pc110.so
