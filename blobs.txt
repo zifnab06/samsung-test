@@ -401,9 +401,11 @@ fa4dd380092ada53bb769096138f9891b8bf262d7d10c0a531ebf0ebc85d093d  ./epicmtd/prop
 c51fa97f88351adbb190f31df4f6196cea5c7ea4446f12b81a84e218682258f1  ./epicmtd/proprietary/media/battery_charging_20.qmg
 c03aaf478524ac855f7ebcd4853c11331cfc1f86f03f4109e8579cff9820af7d  ./epicmtd/proprietary/media/battery_charging_15.qmg
 c22f09b351843416dc71018a82d5b9a23306d63f14e5438324db139ad8a6c81d  ./p1c/proprietary/libsec-ril40.so
+ff026797e5a7d0441c5363ffeae6e131a09c77256adbc52d68854d5493fcf508  ./p1c/proprietary/gpsd
 2aeab7a804d819bb29d96d2372ad4522f5a8bfecceba6b9615da464e08ea4f5e  ./p1c/proprietary/libril.so
 98f4184eb91cd8f5cbb614336a0b3fac67b780b8245fd629d32c3f0d1864c2c4  ./p1c/proprietary/pppd_runner
 07a5bec603c7f0efea675fd22975aa01488dcccb3668bedefaf0ed18d353555d  ./p1c/proprietary/rild
+9c77a800f87266217ca2d05fffed560065d332b7aec5d9e0b70d15e3d7360b93  ./p1c/proprietary/gps.s5pc110.so
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./p1c/proprietary/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
 27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
@@ -890,7 +892,6 @@ cf3684d1eb85a3bec596dfc297ae67a85e67f2a50daaa5922575e797df916d5b  ./p1-common/pr
 1cea7762f27ce48a846c59d100273a879d074d7ba99f0aee1bf31207a1c87245  ./p1-common/proprietary/playlpm
 6d5753dc8bfbc50c04516c14681fd904addb5b2e499a4afbd14415b4db772c6c  ./p1-common/proprietary/libGLES_android.so
 d5a929c8351585a3e14dda45378de0cbf6682f6da6b932798027eba47c03ce0a  ./p1-common/proprietary/lib_tvoutengine.so
-ff026797e5a7d0441c5363ffeae6e131a09c77256adbc52d68854d5493fcf508  ./p1-common/proprietary/gpsd
 f60d138d73a680e46f8f9794d1108483c0d214b341193afe331a3b288a43346f  ./p1-common/proprietary/battery_charging_65.qmg
 d61e4d9ba9389cd8cbfe3a580f60013f4ccc1a2d7c627a629b655eb7bf705826  ./p1-common/proprietary/battery_charging_25.qmg
 9610ab892813815e9fe36ad187595ed088886d80aeff1c3eaa2cc016ef5083f0  ./p1-common/proprietary/libedid.so
@@ -919,7 +920,6 @@ ed709608cb318c8f5c8dbe9bf4d39fe2d1b00b7eb7392ec38400d42ba06d98f8  ./p1-common/pr
 ef6faa51ec8d5f6f5592fbc0eaaa9f9f90fdf46edb1796326553d552e0255e23  ./p1-common/proprietary/pvrsrvinit
 0edc7ac53550ac4015a0420249f7f914bc2c7d06a3463a78959375e6208169eb  ./p1-common/proprietary/sensors.s5pc110.so
 a8a01825d39787bd40f2d39184e2cbd5f76b80c85e8bc7624fc3de18b9f9f7ce  ./p1-common/proprietary/battery_charging_10.qmg
-9c77a800f87266217ca2d05fffed560065d332b7aec5d9e0b70d15e3d7360b93  ./p1-common/proprietary/gps.s5pc110.so
 3c049c683cb96114adf75ffd770c17da96e12eb456ec6b42c4c01f1338393c63  ./p1-common/proprietary/battery_charging_35.qmg
 53a4cba23404f43953f06bede8de70cf841e932f2635280591331be85daff23b  ./p1-common/proprietary/battery_charging_50.qmg
 950694cf3b2fa979875bb5a225912a9584ebae58a49383d1e2ec9d1ce6ab6adc  ./p1-common/proprietary/libtvoutfimc.so
@@ -1023,10 +1023,13 @@ a137e92776c2814ec3317fdec9e545041d7d3d81e463aa11d8efbe4c491ddf0b  ./c1-common/pr
 bbaf60269c6217ba314e45bdf0d1c0b6793d8c4d12a49e5c64b94b4fc135cb90  ./c1-common/proprietary/libtvouthdmi.so
 1d255ceebecaf25b2a3983f06ed4b534316e633cd95426873460911068511644  ./c1-common/proprietary/libseccamera.so
 e30025d42464f46ae264e7d2a3a322ce1179cedd734f6d263fb398ca3180c184  ./c1-common/proprietary/libtvoutservice.so
+81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./p1/proprietary/gps.xml
+1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./p1/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./p1/proprietary/libril.so
 b62ab19dd30596a5fdf6a4c1ddd2d188bd45ef8ffc57a1297ed0a1c0168732a4  ./p1/proprietary/modem.bin
 70e880dc314aa37782846879affb65fa8e2a2beb13c6d33ed8731cd04c8dc339  ./p1/proprietary/rild
 49bf7008bfda7cfb7eb1d89b7e9e4ced586fe0658ef7a16f37cacd9a5ae7571a  ./p1/proprietary/libsec-ril.so
+f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./p1/proprietary/gps.s5pc110.so
 6a4086fb8ce42aad8500ac3ca8c08b3484ad5d79094ecfb9cbf69a18d74ab80b  ./p1/proprietary/libsecril-client.so
 a860a9da0aac0c4876c111e11a9acea53beebfd5140f4999f81c41a8569b5b7f  ./galaxys2/proprietary/audio/etc/audio/LVVEFS_Rx_Configuration.txt
 68f4dddafcfe29772e6867b64630b0624acb4b1a9da6578b352ba750d995a56b  ./galaxys2/proprietary/audio/etc/audio/Tx_ControlParams_EARPIECE_WIDEBAND.txt
