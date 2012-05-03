@@ -116,6 +116,7 @@ fe613d43954a29f39f893676225814e458bddc8fe651caa540266736c70ced99  ./galaxys2-com
 e4f39240031669e557d814a81e1a498ba1b74db84350016b53b501afc13d1f87  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_net.txt_murata_IL
 a90b98ceaf9ef13e55d0410d060f41df3c04ab9e162e263d3d44991aa976bc4d  ./galaxys2-common/proprietary/wifi/etc/wifi/bcm4330_sta.bin
 e8bbafd160bc1f34c0483456e08cced9d3036555f9e0d435a727585aa5a975af  ./galaxys2-common/proprietary/wifi/bin/bcm4330B1.hcd
+1cd29f38a687c51be206c18f4205b3b8d441bfa3774405ac360a5094cc8ec2dc  ./galaxys2-common/proprietary/firmware/mfc_fw.bin
 ba17230e39378db5416da6c3ba1a4fe1fca6e57a525d2e44c28c0b71613005d9  ./galaxys2-common/proprietary/sensors/lib/libakm.so
 c0be34095fe6060bae6c19c8370ffa3bbe00424f3812342eb85a0192a8384ae4  ./galaxys2-common/proprietary/sensors/lib/hw/sensors.exynos4.so
 7e6dddaf9ab56446818d9b109f38ea3cfddd02ecfe53007b034d1c6e38daaccb  ./galaxys2-common/proprietary/hwcomposer/bin/bintvoutservice
@@ -210,7 +211,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-1f5d6d3f0ab305c0525dc88a0b0a25003752833a1d94bd3264a6af279551dce5  ./blobs.txt
+450e99e71035b4b31939945cb845b478c247b5be803e52bbcc7e4a5af9701600  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
