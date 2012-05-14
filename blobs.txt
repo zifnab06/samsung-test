@@ -1790,6 +1790,7 @@ dee3ad2bf8a26b26d9f91455604a22831ea66adf866227d5ea9c0c75f53cfbf9  ./n7000/propri
 fac4255d101461010bb85ec9f9c819b65aee9cf27b8ec70d44b8b2c619ed98fa  ./n7000/proprietary/wifi/etc/wifi/nvram_net.txt_murata
 22e379d8c24cb0e4cf37549a607acbea7048acf8d4793c022aa14a40027014c7  ./n7000/proprietary/wifi/etc/wifi/bcm4330_sta.bin
 75fc6b5576c4633c238f9298896fc67d7357c5bab12f0fa36075354923c1a861  ./n7000/proprietary/wifi/bin/bcm4330B1.hcd
+1cd29f38a687c51be206c18f4205b3b8d441bfa3774405ac360a5094cc8ec2dc  ./n7000/proprietary/firmware/mfc_fw.bin
 cdad9b384bab6906e7e3c8701ac994c35a926ba71a284f15738f79c2dad520b3  ./n7000/proprietary/sensors/lib/libakm.so
 5423395a93fc5d1298fa59d84536f2bee5242aa5120c9293fb1cada64a6bf99e  ./n7000/proprietary/sensors/lib/hw/sensors.exynos4.so
 c4a62c2b63d31291baad91fcece3089c46aaa4b600f49aff855d0bf8b5d92d79  ./n7000/proprietary/sensors/lib/hw/lights.exynos4.so
