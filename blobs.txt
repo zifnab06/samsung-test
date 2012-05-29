@@ -76,7 +76,7 @@ da3c8d3337a59ec8d1c97dce84ef19686e79fa7b18f65b5e602edb23c737cb51  ./galaxys2-com
 61234bb2595bb4ca6a0a4488b5407dce4b2a6a1c0f8297f109c16ba707c75eba  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_mfg.txt
 45af1ae1ea4d80ba84f4775265bef350c60dc54c968dd12d7cc81b450eee5893  ./galaxys2-common/proprietary/wifi/etc/wifi/bcm4330_apsta.bin
 ee817ab56f2806e2042fe0b6105b7b93aa559c99cccd95eb3753b31da951ef21  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_net.txt_IL
-41bf03b7d4d4e12ec34929f28e9463a9f93422bb80448addf45f8ddb5d55a0bc  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_net.txt
+0fa31148c7bd04d4445d53398c8f2d76d24c23c287e161c35b7e97574415fcca  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_net.txt
 f88c1e1a5d9c975c6b9815f9665b888082eb70c16a7158577f26fabe98efccb0  ./galaxys2-common/proprietary/wifi/etc/wifi/bcm4330_mfg.bin
 85216706b2eb7e49f76f9e3e414ff10a1b213d6478404dd616e286fb4b1c9183  ./galaxys2-common/proprietary/wifi/etc/wifi/bcm4330_p2p.bin
 d246377d51145e23ae9ecda034ad1479ea90a7f2e855bc625e5445d141d27c07  ./galaxys2-common/proprietary/wifi/etc/wifi/nvram_net.txt_murata_AU
@@ -182,7 +182,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-066a6d68d59fe32841d2d3e4237c7b6af989e4a4ceee0eb450dd65067f3dfb46  ./blobs.txt
+10c1662f069ae0ecb1583f5e42438e278749868ca50e5536f4e4193ab99ca304  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
