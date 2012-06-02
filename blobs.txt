@@ -1676,7 +1676,7 @@ c46bfa8548ef012615964d9745cb61d3af6d684b924802c0a63a1e7e012cc1ad  ./i9100g/propr
 857c4b155b1aae814fdd90b7178a7813e545e3933ccc130711ef5e91166ad120  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
 344ce314305a62c21ba9a10cee88481ac9668d590d2761581f6bbed9d00e91c1  ./i9100g/proprietary/system/lib/libhdcp.so
 305cd64edb40f1d733759dd9469ca25c7f1fce460d6e9e10ccc9e66593e954e5  ./i9100g/proprietary/system/lib/libtvout_jni.so
-4bc66087f62a39776fb00c6cbc243bed9627a723756b3685a15d53c4b561f20e  ./i9100g/proprietary/system/lib/libmllite.so
+77d419790d8e5e565da474468222752f32a94c46fd8abec3141519c1dae04033  ./i9100g/proprietary/system/lib/libmllite.so
 ee98e23cc40c3a0c369b254854f473285dd38e28782cebf421c5dfe6d0bcbe46  ./i9100g/proprietary/system/lib/liblvvefs.so
 42ebb4240b28da5650e987da58841168584d74e3c95e61736f3bb4c10ad58936  ./i9100g/proprietary/system/lib/libsamsungAcousticeq.so
 5822f0a9b349a3491b1d97be476a46c11395b0d16b0688dddd7ef0be42c02fda  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.so
@@ -1697,14 +1697,14 @@ ebd6ed91c2842b284aa415af946a0accc72c30993292e68e5d74f9b14a4c10a2  ./i9100g/propr
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./i9100g/proprietary/system/lib/libmm_osal.so
 297e06df521ebc9fba4ce573270601ba285712ed354f7183e70adf1efe597c5c  ./i9100g/proprietary/system/lib/libdomx.so
 a7b20a132eb342e3aef040193e32c9fb06fda4569ff9f6e80803269c6c62d691  ./i9100g/proprietary/system/lib/hw/camera.omap4.so
-e9584f4a4f7207340576e5ca70d6e6c133a608b782bdec1e9d60dac36606cf2f  ./i9100g/proprietary/system/lib/hw/audio_policy.omap4.so
+fb9fb966de47ddd28df059d014e5fd1d3e1c029e8179a146e17a8aeaf764742f  ./i9100g/proprietary/system/lib/hw/audio_policy.omap4.so
 3f1aa5aa6e879b74bae0100e20ffde2c4b8a423d3b3e84fc4891bcd7bdd5b631  ./i9100g/proprietary/system/lib/hw/sensors.omap4.so
-c94b8d5537741ef29af1cb0d01a7ae19d9b89f3bddcae34fc484768131a78962  ./i9100g/proprietary/system/lib/hw/audio.primary.omap4.so
+2997d03b1929490c86b965810d30dd33d30befd2504b8deabccde9b4c8e913a7  ./i9100g/proprietary/system/lib/hw/audio.primary.omap4.so
 d97b2fd40c6260dc3bdea7b2a03bab23ae79fcec0150e37e8b66990a98345fac  ./i9100g/proprietary/system/lib/hw/gps.omap4.so
-d2b1eff1bfce512ee68417abdc5d52efcbba45147b93d50ba5e7c5dc835803e0  ./i9100g/proprietary/system/lib/libsec-ril.so
+7f41610e0de9fba71482246a5bbb2729c0f9d905882c52ec435f22c8ef957617  ./i9100g/proprietary/system/lib/libsec-ril.so
 2579814566d38265463559c2eabc5aef219d051485dadb1340448ba9f4c3e431  ./i9100g/proprietary/system/lib/libPanoraMax3.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i9100g/proprietary/system/lib/libsecril-client.so
-b3b9bd2ae3a3da48e36460209577f3312f6636ef7baa91d480ba894b27ff143c  ./i9100g/proprietary/system/lib/libmlplatform.so
+40d38dffb0bb72507e8ec59ad059db7a28d71706da2755da1a723021642bfe52  ./i9100g/proprietary/system/lib/libmlplatform.so
 f97451e85d2e7fc582496321a9feda5e948308a92d00b41fa6ff4fc81518e5cb  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
 0abcf2ca7c3baea7e50119af1aa68ec6bf4de06278012d2fedc02d4df99f1df3  ./i9100g/proprietary/system/lib/libI420colorconvert.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./i9100g/proprietary/system/lib/lib_Samsung_Resampler.so
