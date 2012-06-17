@@ -1030,7 +1030,6 @@ b9e797a28332e6ab47d01f536c5f51bed84f23c9930c25d563528f61fd225167  ./galaxys2/pro
 56b1ff2a92e4bbaad0430ce82dccbf2ef8c17d5770e1b2b863fe98958372017e  ./galaxys2/proprietary/audio/lib/soundfx/libvisualizer.so
 b3849e88a046c2ff4ac52a01e2ede0378af8fefdb91126186887c733e637db0d  ./galaxys2/proprietary/audio/lib/soundfx/libbundlewrapper.so
 c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./galaxys2/proprietary/audio/lib/libyamahasrc.so
-00fc117e63cee6b4a83bebfed144d163452f56c3a6d81e6c53909997ff5a9fd3  ./galaxys2/proprietary/audio/lib/hw/audio.a2dp.default.so
 77b450caf684aa903ed70b2defbbc7e0452ab0fdb5f85f94b179cea8ae744899  ./galaxys2/proprietary/audio/lib/hw/audio.primary.exynos4.so
 b82a95af2d5f84e0a41abe9fc185b1075c2f8b018859e478f068aebb238236b3  ./galaxys2/proprietary/audio/lib/hw/audio_policy.exynos4.so
 8901ae2128b1bbfd8e4f6932d3beddfcd74f6ce9bae4fd05550b5419dd9ec4df  ./galaxys2/proprietary/audio/lib/hw/alsa.default.so
