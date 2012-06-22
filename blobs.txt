@@ -1719,6 +1719,7 @@ f51356ef38c16da4da734d17681b9bcddb795deb018037aced2a3df362f5eff6  ./epic4gtouch/
 542f459c5914c20cc76e553613bbeaa20e854a983eb18a7777501f7b72a33da0  ./epic4gtouch/proprietary/lib/hw/audio_policy.exynos4.so
 99b557029ad7991eb6950d1f85fec0c54a4bfa40172f5cad1a54aad0beb1a2f5  ./epic4gtouch/proprietary/lib/hw/hwcomposer.exynos4.so
 6e0cc73dee19d8557736037fbaca18adb8a1f6912627abead2eefccdca0c551b  ./epic4gtouch/proprietary/lib/hw/alsa.default.so
+bca250e85f65f2f44a56b00c38f2336118523fad6b8644287efbd35ca8258f97  ./epic4gtouch/proprietary/lib/hw/vendor-camera.exynos4.so
 385df745af4ef95cc07a565128dff8c5eb122d5c883a72d08584f95ed6337c66  ./epic4gtouch/proprietary/lib/libasound.so
 c240ea42fd718a7c3760d10fe100a8c00e2606c3b7cddb6ec1aa1037f52b22b6  ./epic4gtouch/proprietary/lib/libsecril-client.so
 61340c3638512aa778d33a4cacf5f4c7c08b644f6e6f6ec1538ce0207c398dc5  ./epic4gtouch/proprietary/lib/libGLESv2_dbg.so
