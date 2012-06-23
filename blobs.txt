@@ -2681,6 +2681,7 @@ c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./i9300/propri
 55b45b25a08ca0d428ef86915c99af3fe17f3dc6122c7e457492f2c7958477d4  ./i9300/proprietary/system/lib/libviewracledf.so
 6a8750f122c96d319015e1e1557dcfe3bb259b7814dbee18afa3d2431c5f3e43  ./i9300/proprietary/system/lib/lib_SamsungRec_V01005.so
 b9b3cdf3be968c3e2fc8175be7beba915b13d3cf2f148b5db9f054a9830d2078  ./i9300/proprietary/system/lib/libtvout_jni.so
+2b85319111c4a3f2c480673a555a81dd642716289b0fce32af847670af124679  ./i9300/proprietary/system/lib/libtmsjni.so
 be4c8a37e52bcb7367284f724bb2890097f9cefecb793cb49b9123442e3f3255  ./i9300/proprietary/system/lib/libGLESv2.so
 2c55c54b58e5613344538338d6f6b013a2b1a07d4d7ccc90c3e6978881670641  ./i9300/proprietary/system/lib/libfimg.so
 9101f0a88948a29b59f9bda8aae05e7f5e897aa978b9aceb8c30f459654e5436  ./i9300/proprietary/system/lib/liblvvefs.so
@@ -2719,12 +2720,14 @@ f7b25d3a7581b35f251bf35d135402da5400dc4168aa1dff865f57ea923a549b  ./i9300/propri
 0c900bdbe4c69c847238067ac36c145f8eba9125805f9986711644db95bbbfe3  ./i9300/proprietary/system/lib/hw/audio_policy.smdk4x12.so
 764e4777a3b34c3dd05213403986a817de170c54ad4c97db0f129f98d5e56aa2  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
 dd7f785a71718191b96825264d4a7487b76755e93e0a2f59f6cc09a474e3a405  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
+0bbe8e0941fee4c475c92911737321ae309a14f3f8169f3fbabad984dab28a44  ./i9300/proprietary/system/lib/hw/audio.tms.default.so
 0726434f977a23259a07e039d3d3914ce3d713bf65e8c4caa17a2e285567ddbf  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 f91290525df4703f8a986882f3207c5ec0d26a07f3e6a6567ec6a77466027897  ./i9300/proprietary/system/lib/hw/lights.exynos4.so
 cbeff8915a4bf2dda25936018097be310c9380819f02f4e962312c86d5448d1f  ./i9300/proprietary/system/lib/hw/gralloc.smdk4x12.so
 6b205d1ca1a33c512e20a6dd1f75c102115674b5acbcf5837c12a94cb1f40bc8  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
 5a15d16108dd7e3ca27e4399fa296cf060858658aedefdf11069ebad03f993c9  ./i9300/proprietary/system/lib/libsec-ril.so
 c2e06549757ca4da7d836620879970c9a103c16068008d9ecc0b46cfe6f5d819  ./i9300/proprietary/system/lib/libsecril-client.so
+a3b53cb0d50ad6acdce82ade68ef2ad144650c989f627974db0948c727e45210  ./i9300/proprietary/system/lib/libtmserver.so
 22fcdb707122732d409290ffc9cd54bea1154a2bfb810a1ea804b23199559be1  ./i9300/proprietary/system/lib/libhwjpeg.so
 d5987f9905dcafa2457b820ba813b0caae5e6d212a3ea7ca4d575d0e5bf29bb4  ./i9300/proprietary/system/lib/libquramimagecodec.so
 d2669012a1a5692d617c4656cf55e86903e365991029a92573da5ab146051e43  ./i9300/proprietary/system/lib/lib_Samsung_SB_AM_for_ICS_v03004.so
