@@ -2214,9 +2214,9 @@ bf5b7ca6f4f621e024c4c352cb69941af3833bf5add2c129db5d843580a6232c  ./p31xx/common
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./p31xx/common/system/lib/libmm_osal.so
 4a5f1ade170b38377943a24739197a44f5ec7b59300e09c032dee8aefc0c529f  ./p31xx/common/system/lib/libdomx.so
 ac088b294e9c9eb7acdd8cb62260f1e36a0497a102ef2e9de87a6ef12d91364a  ./p31xx/common/system/lib/hw/camera.omap4.so
-be3763f005858940d021cc90428ee5a6ab3e979b6054e5eb6657a884a1014c90  ./p31xx/common/system/lib/hw/audio_policy.piranha.so
+796d7a8bf5ee3e67dcf49d47457d6d3fc951b45ee25598a34e414179dac5b42c  ./p31xx/common/system/lib/hw/audio_policy.piranha.so
 b468a0825729d5b813f5416fb60a19b915ef325a15b1bd134d84715c3c19160a  ./p31xx/common/system/lib/hw/sensors.omap4.so
-58b90aa009fa445ca68c9c80845f6566d775184a39f2fe847d5bb64251a15299  ./p31xx/common/system/lib/hw/audio.primary.piranha.so
+a2fe696db7a5f9de0f1d296ba14ea504708e66c2d38b773f92cbc13e709f7eac  ./p31xx/common/system/lib/hw/audio.primary.piranha.so
 8bc6f51b7f55273243cdd3d42be680a762c4d28c8c09f0b0cf420d63f6d606de  ./p31xx/common/system/lib/hw/gps.omap4.so
 eb4c8fa39aaea8f9f7e39efc4cd57e63f7ea4e97eb53f7a3532ddc2e6a71543f  ./p31xx/common/system/lib/liblibSoundAlive_VSP_ver305.so
 485e49de5a93b40320e908f1d66f97f4c0463adc51a6256c10fa7f7d40751df4  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
