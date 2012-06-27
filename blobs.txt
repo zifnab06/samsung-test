@@ -2670,11 +2670,11 @@ ec02ef9df0c66c4c0616699b4e20e6c0228afa0c028b5741a209b3ebed5c24bd  ./i9300/propri
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./i9300/proprietary/system/cameradata/datapattern_front_420sp.yuv
 f4c1c5451649d18e40dfb4b7e87d3f73641675c11d6d8b4ff5043f9bec82f636  ./i9300/proprietary/system/bin/gps.cer
 12ec897eacbebc435e406a480e0e58a2e6db55532f360e538a0493d564f0742b  ./i9300/proprietary/system/bin/bcm4334_murata.hcd
-aabb3fbf633ba1f5479e623dc5b531109dc698b1b42b0ba5eb19511f409bbf57  ./i9300/proprietary/system/bin/bcm4334_semco.hcd
 30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./i9300/proprietary/system/bin/playlpm
 701f02e3b253b2d3963daec06e3f5ec8d7d34bf1a39c7028f7895eb0656f0850  ./i9300/proprietary/system/bin/gpsd
 12ec897eacbebc435e406a480e0e58a2e6db55532f360e538a0493d564f0742b  ./i9300/proprietary/system/bin/bcm4334.hcd
 e519c44b0b7b283ba1ff457c3ca3fd027da6f53f3f3e20daa0e05e9527cd9053  ./i9300/proprietary/system/bin/rild
+aabb3fbf633ba1f5479e623dc5b531109dc698b1b42b0ba5eb19511f409bbf57  ./i9300/proprietary/system/bin/bcm4334_semcosh.hcd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9300/proprietary/system/lib/libQmageDecoder.so
 c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./i9300/proprietary/system/lib/libcec.so
 7f73ce1f1e1dac20b3539bc18ebead090392f3e1fa6214490ca713ace5e1a676  ./i9300/proprietary/system/lib/libsecnativefeature.so
