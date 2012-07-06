@@ -2766,7 +2766,7 @@ f7b25d3a7581b35f251bf35d135402da5400dc4168aa1dff865f57ea923a549b  ./i9300/propri
 1be46d8b983a82b159dd1c4acf384f2336064a512ba78553a96e4661ff16420a  ./i9300/proprietary/system/lib/hw/audio.primary.smdk4x12.so
 3db3c1281e06a986dcb9c32e22cf7048cea4dfaa3f9618b73b6e822e182dd618  ./i9300/proprietary/system/lib/hw/audio_policy.smdk4x12.so
 27d0cef78aa5fdda4438de8ecfeeb9adba474e0d02ae776d2468b4af5bdfc314  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
-bf0ca778f2dd48c9c457f31685a5128ad3b27989cf5a322dbb53550e1f9b9a7a  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
+dd7f785a71718191b96825264d4a7487b76755e93e0a2f59f6cc09a474e3a405  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
 9508d1df8e5b355d393e9e6ae83aaf4705cc76ab3f729079626310b851abbd53  ./i9300/proprietary/system/lib/hw/audio.tms.default.so
 5bdb096aa19c9d90c78faead3f46102088fa42d0d685d6e94ab449065b92b61a  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 f7771adc4ce1bfed9db5d0eafc4a26242ca09e946121f0b8b584617f1f5303f7  ./i9300/proprietary/system/lib/hw/lights.exynos4.so
