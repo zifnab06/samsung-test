@@ -2808,6 +2808,7 @@ ae1a8697383fd0b5860ee6ac32f7a3803c8f4a0bb07a8c813bafe4191a638e69  ./i9300/propri
 0d9dc9a68fa7a0c13b4d7250775813dac0eb9337e7d9eaeb535d6aedd40e63fa  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./i9300/proprietary/system/vendor/firmware/mfc_fw.bin
 1e03923c4ac802a8f7eda84dd8100b22abfd713ce2841c22ad7c89ed9cc9e638  ./i9300/proprietary/system/vendor/firmware/setfile.bin
+eba912d61f6b2088a947335c2cacbfcb17517616dff761f37ab2540abfbf41d5  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
 db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./i9300/proprietary/system/vendor/firmware/libpn544_fw.so
 7a79f91d6252b66f23f80b18d3072a3b73d8c359930353d8a1713a6a82f3c909  ./i9300/proprietary/system/media/battery_charging_100.qmg
 441130bd72d6d9e6989c0df059b195e19266addc6ca5d0ec36f88a24685cf9df  ./i9300/proprietary/system/media/battery_charging_5.qmg
