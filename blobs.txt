@@ -192,7 +192,6 @@ f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./captivatemtd
 70e880dc314aa37782846879affb65fa8e2a2beb13c6d33ed8731cd04c8dc339  ./captivatemtd/proprietary/rild
 cd1243d883488314efb114f0fa6a568ca1e78f193b8b3f4609d802d6ed1f05c9  ./captivatemtd/proprietary/libsec-ril.so
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./captivatemtd/proprietary/libsecril-client.so
-5f83b1bdb76062b730d7449c36eb09c820ee943440d2e24d57ee05899ed91ce6  ./epicmtd/overlay/packages/apps/Launcher2/res/layout/all_apps.xml
 2f1f3500a8455166669fc677ba76803ca115af95fd2e72124aad86a1224a6f5b  ./epicmtd/reassemble-apks.sh
 07a801a5754bc008a4fa898b68b3b5ece6f111f0651ecb42e1722d8dc2029274  ./epicmtd/proprietary/WiMAXHiddenMenu.apk.parts/res/menu/dm_menu.xml
 aa8b8b8644faa2adbba04836fd7a362ffe386ff223a3234a79f929a61d0eb9d2  ./epicmtd/proprietary/WiMAXHiddenMenu.apk.parts/res/menu/ct_menu.xml
