@@ -55,7 +55,6 @@ de2bb39777376684f3a4f7f73bcd2b0251557d55b2c108c675446094b0b17a2c  ./cooper/propr
 118ef811c91430b305ad79b75e0c1ec5c307d8f23d8657d5b17038059225ef6d  ./cooper/proprietary/liboemcamera.so
 df7f2147b99587d965a4de0844cce672edd2f66791267d37de813550ef7f4453  ./cooper/proprietary/libGLESv2_adreno200.so
 f19125e88f292f89e1c955f5848d29e5237c7f8cd51231a12808b1d80877ca51  ./cooper/proprietary/libs3cjpeg.so
-be4c8a37e52bcb7367284f724bb2890097f9cefecb793cb49b9123442e3f3255  ./galaxys2-common/proprietary/graphics/lib/libGLESv2.so
 88f0dd7961324c011c3fbdd3e257bd765f22a74b785fe723ab76d42572db72f4  ./galaxys2-common/proprietary/graphics/lib/libUMP.so
 e935a0d9c767fb60a50101a61c846cd02745ffffb746e7721fb1b364eaf25b97  ./galaxys2-common/proprietary/graphics/lib/libion.so
 71e7f0d8b7c26d7c1f8d770b123ef5f66ec8742d4b644e9cb68782c26871059d  ./galaxys2-common/proprietary/graphics/lib/libMali.so
@@ -63,9 +62,7 @@ e935a0d9c767fb60a50101a61c846cd02745ffffb746e7721fb1b364eaf25b97  ./galaxys2-com
 bdd9351fa2f46bc43bfca3f758cb5645461d06c5ff08166919d39622d1e35b69  ./galaxys2-common/proprietary/graphics/lib/egl/libGLES_android.so
 d7410aa7c8cda59992fbd9e3fa070b04225c428c6fdafa3a21580ba3fdc5fbf5  ./galaxys2-common/proprietary/graphics/lib/egl/libEGL_mali.so
 6d2f711166d9b7ad93aadae60cbdd57e9e499441113feeeaff6da62f3e0d1406  ./galaxys2-common/proprietary/graphics/lib/egl/libGLESv1_CM_mali.so
-ff7541ea968139f4138bd8e398f19c2e8d9c3eaaca69f5d4ee2206e1f3de87b6  ./galaxys2-common/proprietary/graphics/lib/libGLESv1_CM.so
 ea818b543f46cec14680e5d09ef7770062a2ffe7281550ef0fd945220badfc06  ./galaxys2-common/proprietary/graphics/lib/hw/gralloc.exynos4.so
-61340c3638512aa778d33a4cacf5f4c7c08b644f6e6f6ec1538ce0207c398dc5  ./galaxys2-common/proprietary/graphics/lib/libGLESv2_dbg.so
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./galaxys2-common/proprietary/camera/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./galaxys2-common/proprietary/camera/cameradata/datapattern_front_420sp.yuv
 66ba70e5976f3c301ca297f181d51fa43b831814b856c09f206f572a5f234317  ./galaxys2-common/proprietary/camera/lib/libcaps.so
@@ -180,7 +177,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-49fd8cd469fe7b7d876a7fdb3dd5912e170c338f0a01f7f71e60a26c4db9ccff  ./blobs.txt
+c76a83f3e4a6bb73e320f4b8bfd612c6b630b21a4b6b596dcca8fbf617c6358a  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
