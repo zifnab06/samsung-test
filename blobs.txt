@@ -3264,12 +3264,12 @@ e2c6115810e0880de47ff3dbf63e420ba93ecd3d295468ad8991562a9cd90d83  ./i9300/propri
 45433e24c9ed8a0f14a7be0e1ab2056c5ea04f10c5dcc82b26943c5dcca05487  ./i9300/proprietary/system/lib/libvdis.so
 4b7dbe919689760132b52b1d3a191b558fb75d17a6cfabce4ca7d61f727987b1  ./i9300/proprietary/system/lib/libedid.so
 ef58fc8cb76e8df992bfcb86473ca4a1220b5763475c7e6fcd3a22299abb4d2f  ./i9300/proprietary/system/lib/libsamsungSoundbooster.so
-ffd1438adc000b11191c00139172dc8bb49a97722d79d0e2528721221e31e2a5  ./i9300/proprietary/system/lib/libsamsungion.so
 cbae020e30824cbe0fc156c625ccdf0bd4e3d804b1217565be405d4af10b6469  ./i9300/proprietary/system/lib/libtvoutinterface.so
 2fbe3194c054a99271f54d6472e69f50ccda5fd846b4bae1d0dd40062f45f403  ./i9300/proprietary/system/lib/libTVOut.so
 3a98be2ab420039e5c155cdc0bc3bbe47d2fc96a1a32d218c28e9df46e0694b1  ./i9300/proprietary/system/lib/libcontrolcsc.so
 b17a4f681236a226ec210ea9367f25662f6bad828b1065f604a4051f972c4ff0  ./i9300/proprietary/system/lib/libddc.so
 bab202e6d52893accde4dc01f88450a4ce6901c776f69efacd07f87c18ebe2d6  ./i9300/proprietary/system/lib/libsamsungRecord.so
+ffd1438adc000b11191c00139172dc8bb49a97722d79d0e2528721221e31e2a5  ./i9300/proprietary/system/lib/libion.so
 e8f36e8d07766bbeaf02611c9eb7c1ef74dd80a3b0812a063533fdd72583ce29  ./i9300/proprietary/system/lib/libtinyalsa.so
 171fdb3e77a317482f569849981c9887deae0fa14dc11bd17e7232782e417944  ./i9300/proprietary/system/lib/libhdmiclient.so
 58b5f6b53ded635fa5a014c00c65ff41f6cca54420771d766052153edbfede98  ./i9300/proprietary/system/lib/libaudiopolicy_sec.so
