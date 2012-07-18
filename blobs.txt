@@ -2635,6 +2635,7 @@ bf5b7ca6f4f621e024c4c352cb69941af3833bf5add2c129db5d843580a6232c  ./i9100g/propr
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./i9100g/proprietary/system/lib/libmm_osal.so
 297e06df521ebc9fba4ce573270601ba285712ed354f7183e70adf1efe597c5c  ./i9100g/proprietary/system/lib/libdomx.so
 a7b20a132eb342e3aef040193e32c9fb06fda4569ff9f6e80803269c6c62d691  ./i9100g/proprietary/system/lib/hw/camera.t1.so
+c42b0a4ff2b0a40d93589b745466295c52c9ec4cde24c972555a52bbdd881b78  ./i9100g/proprietary/system/lib/hw/hwcomposer.t1.so
 3f1aa5aa6e879b74bae0100e20ffde2c4b8a423d3b3e84fc4891bcd7bdd5b631  ./i9100g/proprietary/system/lib/hw/sensors.omap4.so
 d97b2fd40c6260dc3bdea7b2a03bab23ae79fcec0150e37e8b66990a98345fac  ./i9100g/proprietary/system/lib/hw/gps.omap4.so
 7f41610e0de9fba71482246a5bbb2729c0f9d905882c52ec435f22c8ef957617  ./i9100g/proprietary/system/lib/libsec-ril.so
@@ -2685,7 +2686,6 @@ d61b2565e8b0330f968161e5a7f7480810c5f07c15eee84cc51935d231d1ddda  ./i9100g/propr
 f177b896e7b37e6afd6e82a1eeef8923035fec15d15af64c32bb127db4b946fa  ./i9100g/proprietary/system/vendor/lib/libsrv_um.so
 f14d2555c3078f162a2d954a57fc4a92690cf61bd377af10c61c5e5c7ca03eb2  ./i9100g/proprietary/system/vendor/lib/libpvrANDROID_WSEGL.so
 815c2e9ca04527d212730114924214cc578bfd0deed9f5904782a2dec2f3b549  ./i9100g/proprietary/system/vendor/lib/hw/gralloc.omap4.so
-c42b0a4ff2b0a40d93589b745466295c52c9ec4cde24c972555a52bbdd881b78  ./i9100g/proprietary/system/vendor/lib/hw/hwcomposer.omap4.so
 c4dee422fb9c3364ff8128958c077da847f2eb18c4b43e2d47b198f849691926  ./i9100g/proprietary/system/vendor/lib/libsrv_init.so
 f94c73b7206ec306e81e4585ae7621cef3eb5a65a20642a16420178d538a1740  ./i9100g/proprietary/system/vendor/lib/libusc.so
 bd921d395704180e982ec16c2a8fe7418956b2677d468bf3779de29097d6b6b1  ./i9100g/proprietary/system/vendor/lib/libglslcompiler.so
