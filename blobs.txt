@@ -1743,6 +1743,7 @@ bf5b7ca6f4f621e024c4c352cb69941af3833bf5add2c129db5d843580a6232c  ./p51xx/common
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./p51xx/common/system/lib/libmm_osal.so
 4a5f1ade170b38377943a24739197a44f5ec7b59300e09c032dee8aefc0c529f  ./p51xx/common/system/lib/libdomx.so
 ac088b294e9c9eb7acdd8cb62260f1e36a0497a102ef2e9de87a6ef12d91364a  ./p51xx/common/system/lib/hw/camera.omap4.so
+c42b0a4ff2b0a40d93589b745466295c52c9ec4cde24c972555a52bbdd881b78  ./p51xx/common/system/lib/hw/hwcomposer.piranha.so
 b468a0825729d5b813f5416fb60a19b915ef325a15b1bd134d84715c3c19160a  ./p51xx/common/system/lib/hw/sensors.omap4.so
 8bc6f51b7f55273243cdd3d42be680a762c4d28c8c09f0b0cf420d63f6d606de  ./p51xx/common/system/lib/hw/gps.omap4.so
 485e49de5a93b40320e908f1d66f97f4c0463adc51a6256c10fa7f7d40751df4  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
@@ -2463,6 +2464,7 @@ bf5b7ca6f4f621e024c4c352cb69941af3833bf5add2c129db5d843580a6232c  ./p31xx/common
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./p31xx/common/system/lib/libmm_osal.so
 4a5f1ade170b38377943a24739197a44f5ec7b59300e09c032dee8aefc0c529f  ./p31xx/common/system/lib/libdomx.so
 ac088b294e9c9eb7acdd8cb62260f1e36a0497a102ef2e9de87a6ef12d91364a  ./p31xx/common/system/lib/hw/camera.omap4.so
+c42b0a4ff2b0a40d93589b745466295c52c9ec4cde24c972555a52bbdd881b78  ./p31xx/common/system/lib/hw/hwcomposer.piranha.so
 545f425919e3cd614ec1be25024734235e24ff16143a5002c47052ef9969aaee  ./p31xx/common/system/lib/hw/sensors.omap4.so
 8bc6f51b7f55273243cdd3d42be680a762c4d28c8c09f0b0cf420d63f6d606de  ./p31xx/common/system/lib/hw/gps.omap4.so
 485e49de5a93b40320e908f1d66f97f4c0463adc51a6256c10fa7f7d40751df4  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
