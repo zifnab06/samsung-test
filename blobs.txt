@@ -1733,6 +1733,7 @@ b2f9ffd15dcd4824b49d61f7e279ed8d57dceef6675a24721774bb70f927e4f7  ./p51xx/common
 2d0cda78a59ffcfebb80033e28367ed770dbb69897a562608d767908c9c2ffcf  ./p51xx/common/system/bin/orientationd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p51xx/common/system/lib/libQmageDecoder.so
 ac401a0316e85037eee2474c923c6024346109e387e3884fc58244b380630f7a  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
+9f78452d3d6bca1aa61fdf6b61a0f871b1cb145b2c26599dca4e92657031547f  ./p51xx/common/system/lib/libsecnativefeature.so
 49aa0eb20b9fd29a4d94f8cacc0a154ad50babf618d68640bac7baa4dca71d83  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.so
 412b089ee0fb99efe544af55e1b9173e1fe882823fdceb4aa594607ae979d056  ./p51xx/common/system/lib/libOMX_Core.so
 0bcd32fae8147429c9ba9d580e43251e4da1f039f91f261e3386d2b0dec7c75b  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.CAMERA.so
@@ -2454,6 +2455,7 @@ b2f9ffd15dcd4824b49d61f7e279ed8d57dceef6675a24721774bb70f927e4f7  ./p31xx/common
 2d0cda78a59ffcfebb80033e28367ed770dbb69897a562608d767908c9c2ffcf  ./p31xx/common/system/bin/orientationd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p31xx/common/system/lib/libQmageDecoder.so
 ac401a0316e85037eee2474c923c6024346109e387e3884fc58244b380630f7a  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
+9f78452d3d6bca1aa61fdf6b61a0f871b1cb145b2c26599dca4e92657031547f  ./p31xx/common/system/lib/libsecnativefeature.so
 49aa0eb20b9fd29a4d94f8cacc0a154ad50babf618d68640bac7baa4dca71d83  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.so
 412b089ee0fb99efe544af55e1b9173e1fe882823fdceb4aa594607ae979d056  ./p31xx/common/system/lib/libOMX_Core.so
 0bcd32fae8147429c9ba9d580e43251e4da1f039f91f261e3386d2b0dec7c75b  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.CAMERA.so
