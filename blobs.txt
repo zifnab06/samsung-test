@@ -2867,6 +2867,7 @@ a78e18d8dfc2636143c292bfa46af8ce25e14942e90f0c73dd0ed216f6c52c91  ./d2vzw/propri
 dd7f6831d0056f1e7bfd1caed3cd199f815facb72bcc499c734639ab94dcab81  ./d2vzw/proprietary/lib/libmmstereo.so
 fe714165cafbd1c10fd64b680c6b3b2464368b7fcc4fefa38e9bbab1fbdfaa7e  ./d2vzw/proprietary/lib/libgsl.so
 ae2f1d50fdf290a8a64d79e2be53921418e75c2c483431f5a0e9b18189881678  ./d2vzw/proprietary/lib/libdsi_netctrl.so
+5c9e50f2478ab67e4d52f96a4379f44f33f05dc39c95662fd3a617937122a00c  ./d2vzw/proprietary/lib/libmm-color-convertor.so
 c1619f0881a1d33ddb13fdcd0154ec054b47f42cba393a61d8049c6813403dd4  ./d2vzw/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 75d01f797d8a947d5bac07caa689753c5cbe5c71b3026f65f7e0b16c5b886653  ./d2vzw/proprietary/lib/libAKM.so
 66c6aa50f6b1600f4368e76c0ce7624ad8c33453f44a802a93620c7290230742  ./d2vzw/proprietary/lib/libatparser.so
