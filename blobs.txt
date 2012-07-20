@@ -1812,7 +1812,7 @@ f932c6c140e24aa92090f54d38ed9dec116d120b27703aa300c68236a7463343  ./d2spr/propri
 0005a857548f4735bfcfb828f1e7bc43fc8d20ac0975277bde7db7d3f1fcf4ef  ./d2spr/proprietary/etc/firmware/a225p5_pm4.fw
 f633f286e19d6f73d0e99901b892ebd24b334fb0abd7ce3250db15ed887c6900  ./d2spr/proprietary/etc/firmware/cyttsp_8960_cdp.hex
 5a13cbc7b0cdfd3340b9c1e332d8b8260713258c97ce01356e2a3ae8285a5e99  ./d2spr/proprietary/etc/firmware/a300_pfp.fw
-d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./d2spr/proprietary/etc/firmware/a225_pfp.fw
+665eb22e0ad7e610f30d0e771706744f63c0fdbd5228c687a3bf779cddfefb32  ./d2spr/proprietary/etc/firmware/a225_pfp.fw
 37d9967fd0cfb3f8ee25c654b158c5fbd87a60268c6ca45511e37015315b5c2c  ./d2spr/proprietary/etc/firmware/leia_pm4_470.fw
 d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./d2spr/proprietary/etc/firmware/leia_pfp_470.fw
 60a2ed4af824a3868a60e2210eb7f3d5f387955482a922383d469cf66bba5e2d  ./d2spr/proprietary/etc/firmware/a300_pm4.fw
@@ -2952,7 +2952,7 @@ f932c6c140e24aa92090f54d38ed9dec116d120b27703aa300c68236a7463343  ./d2att/propri
 0005a857548f4735bfcfb828f1e7bc43fc8d20ac0975277bde7db7d3f1fcf4ef  ./d2att/proprietary/etc/firmware/a225p5_pm4.fw
 f633f286e19d6f73d0e99901b892ebd24b334fb0abd7ce3250db15ed887c6900  ./d2att/proprietary/etc/firmware/cyttsp_8960_cdp.hex
 5a13cbc7b0cdfd3340b9c1e332d8b8260713258c97ce01356e2a3ae8285a5e99  ./d2att/proprietary/etc/firmware/a300_pfp.fw
-d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./d2att/proprietary/etc/firmware/a225_pfp.fw
+665eb22e0ad7e610f30d0e771706744f63c0fdbd5228c687a3bf779cddfefb32  ./d2att/proprietary/etc/firmware/a225_pfp.fw
 37d9967fd0cfb3f8ee25c654b158c5fbd87a60268c6ca45511e37015315b5c2c  ./d2att/proprietary/etc/firmware/leia_pm4_470.fw
 d9a1bb1d17af159ed61887a5c4fbb5fde65c96537608fd3ebd58236b00d6a05f  ./d2att/proprietary/etc/firmware/leia_pfp_470.fw
 60a2ed4af824a3868a60e2210eb7f3d5f387955482a922383d469cf66bba5e2d  ./d2att/proprietary/etc/firmware/a300_pm4.fw
