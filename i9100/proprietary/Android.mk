@@ -1,3 +1,4 @@
+# Copyright (C) 2012 The Android Open Source Project
 # Copyright (C) 2012 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,14 +13,18 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/p31xx
+LOCAL_PATH := $(call my-dir)
 
-# Prebuilt libraries that are needed to build open-source libraries
-PRODUCT_COPY_FILES := \
-    $(LOCAL_PATH)/p3100/system/lib/libril.so:obj/lib/libril.so \
-    $(LOCAL_PATH)/p3100/system/lib/libsecril-client.so:obj/lib/libsecril-client.so
+ifeq ($(TARGET_DEVICE),i9100)
 
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/p3100/system/lib/libril.so:system/lib/libril.so \
-    $(LOCAL_PATH)/p3100/system/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    $(LOCAL_PATH)/p3100/system/lib/libsecril-client.so:system/lib/libsecril-client.so \
+include $(CLEAR_VARS)
+LOCAL_MODULE := libmediayamahaservice
+LOCAL_MODULE_OWNER := samsung
+LOCAL_SRC_FILES := audio/lib/libmediayamahaservice.so
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_PATH := $(TARGET_OUT)/lib
+include $(BUILD_PREBUILT)
+
+endif
