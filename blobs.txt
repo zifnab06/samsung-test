@@ -2692,11 +2692,13 @@ b6b7638f491cbe9f499ae1bba0c589eca4681a035567ba66edc0abda1f5b755a  ./d2vzw/propri
 6a8750f122c96d319015e1e1557dcfe3bb259b7814dbee18afa3d2431c5f3e43  ./d2vzw/proprietary/lib/lib_SamsungRec_V01005.so
 bf74df675396e959c10fa1e9557ff5623dc6496a07595c5884d4be998e2fe3d2  ./d2vzw/proprietary/lib/libbson.so
 25fa20d5d617740941530c763190786f30113808dbc44ae3ea9f13cd1d1607e7  ./d2vzw/proprietary/lib/libakmd.so
+bfff8af2de775c13cbf0a238337d47de84c1f6bd93722322c86973b8a2997640  ./d2vzw/proprietary/lib/libwvdrm_L1.so
 401e143496ab25348c5ceae7ff8cc33377f690841dfb9bfa1c4be0b8f4f571a9  ./d2vzw/proprietary/lib/libmllite.so
 a9d6a6e9296e2218370c986c53268c248e239096ab2882369c44240ed1c38d11  ./d2vzw/proprietary/lib/libmmosal.so
 4435f4cc8ee681dcbb4d7daa917436bb693bd60ed851e542d4bcb4ed43e2879a  ./d2vzw/proprietary/lib/libsc-a2xx.so
 69c694359db3a4c2cb953e8a04f071efc88954743fe033301793cc1d764eaf4b  ./d2vzw/proprietary/lib/libloc_api_v02.so
 97ccf2716d4a80c0bea744cb6a014591c4fd3a5775b7a9992652c19e7332eca8  ./d2vzw/proprietary/lib/libmmjpeg.so
+01b4685b88d74d4ced39f0b2513230cd60c81478e3d5a2f4eea9e804691f252c  ./d2vzw/proprietary/lib/libWVStreamControlAPI_L1.so
 a07c2aa3de0f92cb92bd4cf017fad3d52fabc8d87ffbe08696edbfc3de3ecbbd  ./d2vzw/proprietary/lib/libmmcamera_frameproc.so
 a78e18d8dfc2636143c292bfa46af8ce25e14942e90f0c73dd0ed216f6c52c91  ./d2vzw/proprietary/lib/libgemini.so
 dd7f6831d0056f1e7bfd1caed3cd199f815facb72bcc499c734639ab94dcab81  ./d2vzw/proprietary/lib/libmmstereo.so
@@ -2724,7 +2726,9 @@ d0af1ab6a80a832a4b1bbb9e96776935d5b8c1edaa98b6123b6c0a3a4f4438b9  ./d2vzw/propri
 be5e64f15381dc0896941d778cbcf8ba6f0652356d3f5b9d90ce8f441895771c  ./d2vzw/proprietary/lib/egl/libEGL_adreno200.so
 151f87de28d3b3384336838f49d6085e7ff460d6707166d4e751b1059bbd414f  ./d2vzw/proprietary/lib/egl/libGLESv2_adreno200.so
 6337b3e1e5b2226bba009e719f1547d6888a4f81e95d3a6bafa73446788a86b3  ./d2vzw/proprietary/lib/egl/libGLESv2S3D_adreno200.so
+045a04e9eca4a043dc0f6dbde849383716cc02aff607a225e4343fb290f34740  ./d2vzw/proprietary/lib/drm/libdrmwvmplugin.so
 a83deba5d77dc7266c502bc8c84c3f98461705f7474226a5a28b5cd7a0549f66  ./d2vzw/proprietary/lib/libalsa-intf.so
+fabe940b6c48ea974aaaa11185f0f9fb96b1aaee7971567bbbabe18bc26e6de5  ./d2vzw/proprietary/lib/libwvm.so
 72301711fd941b8b80ad83d8aa531778f6f06ced20ea082c22e5f2c6935d57c0  ./d2vzw/proprietary/lib/libmplmpu.so
 57abb5f0a7cf9753eddc4530a5616a49e1222f2cf8e06185b7610209db900f78  ./d2vzw/proprietary/lib/libyamaha.so
 090457f1d9df63e01ba5785cfc65dd78e8efaf1ed3c4f2af944aa83421850810  ./d2vzw/proprietary/lib/libwifiscanner.so
@@ -2737,6 +2741,7 @@ c4c6159cc6318cd051c1ef390ad1a58b2da1ad72d9d592d77e1eff67a29d3c7b  ./d2vzw/propri
 04c4d44602c23ebcfb8d86dc02896f9a81587a8e079917d78125b8744880908a  ./d2vzw/proprietary/lib/libnetmgr.so
 bc00ecbd3348150b30d579decc3d5bab45cd5a5a3a008f22ca7131acf0a76ff7  ./d2vzw/proprietary/lib/libqmi_cci.so
 6656eb08e802424906c10cad1bceec7dbe7dfb5fe2bfddc65023dbcf8c177283  ./d2vzw/proprietary/lib/libmmmpod.so
+0ce905cc5281e8c47fd961435b04a69a462a62b2c10aec70c88ba41fdd9bf81b  ./d2vzw/proprietary/lib/libfrsdk.so
 cee453495801799e0f43258cd159b4b0e610558bea8120bb4938e2c5a5671559  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 f2a8cb83eebd755e5b0bc4c95c62448688275afc44a18b500f2dd8b1202c6423  ./d2vzw/proprietary/lib/libaudcal.so
 275d45d68e0fbd30f9dd623b3fb2582c428c92d391087618fc91cb811f1e7d95  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
@@ -2756,6 +2761,7 @@ da0d7fe66b127908b1624c84d4ea93f0bdb8cf997cb635e86e382931e99af42a  ./d2vzw/propri
 fa99225e69375b1f4007cf95a77fba5c64fe42be20718bca356cfe86ab46c0f8  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 cbfedeafddc2fa240c2fb9c93f705329e1966c839b1a4b1654cf291eea6bf0f3  ./d2vzw/proprietary/lib/libmmparser.so
 8a135bfb696fa50cd7d13819c8a1f545f46f758597150146064b6a9b60616ec0  ./d2vzw/proprietary/lib/libqmi.so
+57c9c270b1fa7ab1b2f80d5697c663cb802438aeff3601e46abe00d9dc8acbd0  ./d2vzw/proprietary/lib/libWVphoneAPI.so
 7695d3214eb83d85180c3ec6a86e37bf84c80228364a77055e9219f9907d4842  ./d2vzw/proprietary/lib/libril-qc-qmi-1.so
 f198487d15fe6d373f3ab42c02b774043a0f69860e2cfaab4eba38bedfc35df6  ./d2vzw/proprietary/lib/libqmi_encdec.so
 bc03c03a43db0e86ee797c8787edf6d2955b35097c3ebb21a0b5abc681e38de3  ./d2vzw/proprietary/lib/libchromatix_ov2720_preview.so
