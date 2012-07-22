@@ -1482,7 +1482,6 @@ d29663617e401e6f6996895a0a91a0b199e562c6ea700a519a1276a271151379  ./d2tmo/propri
 6dd2831378ee126b463b47faf5292e8737d45cf4dfa4a37a4e228e030037ac32  ./d2tmo/proprietary/lib/hw/alsa.msm8960.so
 7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2tmo/proprietary/lib/hw/nfc.MSM8960.so
 e6f6ff8bb90f522b160a0b7fe4725e2bd9f417b3dc1fc344cede3ca8964ced40  ./d2tmo/proprietary/lib/hw/sensors.msm8960.so
-6d88f95119ff5ffdb933a24d766d35423754ba0735b024036a3e79c271305b1d  ./d2tmo/proprietary/lib/hw/audio_policy.msm8960.so
 2b2c8d4d01896c575f5f3d2d324d8df1d4ba707f37cc6ddea3f4c076f754c154  ./d2tmo/proprietary/lib/libqdi.so
 8c94ec3b2af77b7afedc8da172a3ce290eeaeca097ae7253e188bd813c8d30f4  ./d2tmo/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2tmo/proprietary/lib/libchromatix_ov2720_default_video.so
@@ -1890,7 +1889,6 @@ ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2spr/propri
 fa7beb2edd7cc8e2488be408869db58894c4dd7f345ab8ff1316030ebf740f9e  ./d2spr/proprietary/lib/hw/alsa.msm8960.so
 7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2spr/proprietary/lib/hw/nfc.MSM8960.so
 05f7887b64e6d2cc05b4e3b32fae034f6ab806203c83e6426864095a3b2244d7  ./d2spr/proprietary/lib/hw/sensors.msm8960.so
-ba2b8de496b105462ae62d2095b9c96b822e3aafe0c828b1394682c413cae2b1  ./d2spr/proprietary/lib/hw/audio_policy.msm8960.so
 2b2c8d4d01896c575f5f3d2d324d8df1d4ba707f37cc6ddea3f4c076f754c154  ./d2spr/proprietary/lib/libqdi.so
 8c94ec3b2af77b7afedc8da172a3ce290eeaeca097ae7253e188bd813c8d30f4  ./d2spr/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2spr/proprietary/lib/libchromatix_ov2720_default_video.so
@@ -2745,7 +2743,6 @@ c359abca01c0bf70fe62758f1d0054c388d3a58efaa8a2e7f06229bced8e117f  ./d2vzw/propri
 9d0e75d8db260400d501ff59d751a28ac0942df2f57c1b9a3c4961765e7ae1cf  ./d2vzw/proprietary/lib/hw/alsa.msm8960.so
 0a3a1e13fb308908cc38c281e1d50787f0358644a7d732871799eeeb0daa21fa  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
 8a16af3401b6639809a2db031abf64a157e23bd1462381516f8f5167a614487f  ./d2vzw/proprietary/lib/hw/sensors.msm8960.so
-458fefb8d8996b62ee29beca234c6dbe7a340930e8e9c7bd205e23800db19e80  ./d2vzw/proprietary/lib/hw/audio_policy.msm8960.so
 7a8e5bebc4aacfa5b7f922f72538aa83b663d30238ffd9fa61cff7aec4a557e2  ./d2vzw/proprietary/lib/libqdi.so
 8c94ec3b2af77b7afedc8da172a3ce290eeaeca097ae7253e188bd813c8d30f4  ./d2vzw/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2vzw/proprietary/lib/libchromatix_ov2720_default_video.so
@@ -2895,7 +2892,6 @@ cee453495801799e0f43258cd159b4b0e610558bea8120bb4938e2c5a5671559  ./d2att/propri
 6dd2831378ee126b463b47faf5292e8737d45cf4dfa4a37a4e228e030037ac32  ./d2att/proprietary/lib/hw/alsa.msm8960.so
 7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2att/proprietary/lib/hw/nfc.MSM8960.so
 e6f6ff8bb90f522b160a0b7fe4725e2bd9f417b3dc1fc344cede3ca8964ced40  ./d2att/proprietary/lib/hw/sensors.msm8960.so
-6d88f95119ff5ffdb933a24d766d35423754ba0735b024036a3e79c271305b1d  ./d2att/proprietary/lib/hw/audio_policy.msm8960.so
 2b2c8d4d01896c575f5f3d2d324d8df1d4ba707f37cc6ddea3f4c076f754c154  ./d2att/proprietary/lib/libqdi.so
 8c94ec3b2af77b7afedc8da172a3ce290eeaeca097ae7253e188bd813c8d30f4  ./d2att/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2att/proprietary/lib/libchromatix_ov2720_default_video.so
