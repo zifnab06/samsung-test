@@ -1076,6 +1076,9 @@ cbc413940d0ddc6f38aff2e055586817b343b5dce173c4bfbac95629ccbc534c  ./p1-common/pr
 b8ccd27e004437111a9d9b96239a8041d1d114e55d217ca7474bcd9ecf0a520f  ./p1-common/proprietary/battery_charging_15.qmg
 4ce06520f25818d58176b212dfcaed283053fcc2c940d87b71c59cac1aebe84b  ./p1-common/proprietary/libglslcompiler.so
 ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/proprietary/libtvoutservice.so
+8f9e051ebfb242ba6173e5a21c2bbf65be510ebee77901714e593d48c7e5c2a1  ./crespo/proprietary/libwvdrm_L3.so
+b2e68c225891327398aa4698d77f49c23a637fe01ed5c073a7387b3bbefbd8a1  ./crespo/proprietary/libwvm.so
+434054a87ff638a1eeed8cdd50a2fbe82d0942e6ce8ea0fa040340885faa4b99  ./crespo/proprietary/libdrmwvmplugin.so
 9ddeb945df0488842fe5e44d98ad9bd0d7762ff5e83b75439ded6baa3fc92360  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
 7d40d1cdd060f66bded8bced251274e0659ce032b81338b2d3c079907a8248f0  ./c1-common/overlay/packages/apps/Launcher2/res/layout/all_apps.xml
