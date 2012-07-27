@@ -3048,7 +3048,7 @@ d429940a979dce861e7647aa2e45cad011c6e50a9080b959f27b7ed172b53c55  ./i9300/propri
 69646839aca9ffdfb2cd92fbfdc794e7d41c8a73aa0d5dfe63d3d2147caeb161  ./i9300/proprietary/system/lib/libfimc.so
 f7b25d3a7581b35f251bf35d135402da5400dc4168aa1dff865f57ea923a549b  ./i9300/proprietary/system/lib/hw/nfc.smdk4x12.so
 27d0cef78aa5fdda4438de8ecfeeb9adba474e0d02ae776d2468b4af5bdfc314  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
-8d976b06fdb21d3d6f400ee9fed546436940012c4330ef44c4b638eb64e16d95  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
+dd7f785a71718191b96825264d4a7487b76755e93e0a2f59f6cc09a474e3a405  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
 5bdb096aa19c9d90c78faead3f46102088fa42d0d685d6e94ab449065b92b61a  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 f7771adc4ce1bfed9db5d0eafc4a26242ca09e946121f0b8b584617f1f5303f7  ./i9300/proprietary/system/lib/hw/lights.exynos4.so
 5a5c4cf3fc66b866dc57e40e59faf54afababc55fcd8b94d0b1b1d420240e518  ./i9300/proprietary/system/lib/hw/gralloc.smdk4x12.so
