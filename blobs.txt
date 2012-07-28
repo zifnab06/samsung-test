@@ -17,6 +17,7 @@ a90b98ceaf9ef13e55d0410d060f41df3c04ab9e162e263d3d44991aa976bc4d  ./i777/proprie
 e8bbafd160bc1f34c0483456e08cced9d3036555f9e0d435a727585aa5a975af  ./i777/proprietary/system/bin/bcm4330B1.hcd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./i777/proprietary/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./i777/proprietary/system/lib/libril.so
+19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./i777/proprietary/system/lib/hw/gps.exynos4.so
 48828a16538e85005003bfebc06ea476476c4c78b17793f57e927ef660d3ebdf  ./i777/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i777/proprietary/system/lib/libsecril-client.so
 7ff001791e5432cc7ec86e8e306cdc14b3de494382ceb0f7e7a24582fcda38b2  ./cooper/proprietary/sensors.default.so
@@ -119,7 +120,6 @@ ebd6ed91c2842b284aa415af946a0accc72c30993292e68e5d74f9b14a4c10a2  ./galaxys2-com
 c4a1c58f26f236930c0891b81743e175f3a1caff04c5d9af36e33700bb2a12e2  ./galaxys2-common/proprietary/system/lib/libfimc.so
 c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./galaxys2-common/proprietary/system/lib/libyamahasrc.so
 9c433edc17f098c134e1851f9d2d83d7d58fc505836cde0aeb0f759db2f5f148  ./galaxys2-common/proprietary/system/lib/hw/hwcomposer.smdk4210.so
-19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./galaxys2-common/proprietary/system/lib/hw/gps.exynos4.so
 ea818b543f46cec14680e5d09ef7770062a2ffe7281550ef0fd945220badfc06  ./galaxys2-common/proprietary/system/lib/hw/gralloc.exynos4.so
 910f9c1aa3261251d488a6357a0557eee06ece9e9cc4bb260bad02b520a038fb  ./galaxys2-common/proprietary/system/lib/hw/camera.exynos4.so
 77b450caf684aa903ed70b2defbbc7e0452ab0fdb5f85f94b179cea8ae744899  ./galaxys2-common/proprietary/system/lib/hw/audio.primary.exynos4.so
@@ -227,7 +227,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-6fd5c2d2136ae30a82e0a99801b761c9a8ffcaf0704e25bead7c3343d4205c01  ./blobs.txt
+130e8500346c95211c6ce1df88fcf6a7355d881a9f632a6631605a5c484e48b8  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -443,6 +443,7 @@ a90b98ceaf9ef13e55d0410d060f41df3c04ab9e162e263d3d44991aa976bc4d  ./i9100/propri
 e8bbafd160bc1f34c0483456e08cced9d3036555f9e0d435a727585aa5a975af  ./i9100/proprietary/system/bin/bcm4330B1.hcd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./i9100/proprietary/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./i9100/proprietary/system/lib/libril.so
+19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
 48828a16538e85005003bfebc06ea476476c4c78b17793f57e927ef660d3ebdf  ./i9100/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i9100/proprietary/system/lib/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
@@ -2978,9 +2979,12 @@ dfd4866706cfaf0d5a021d9dfec01f01e3a6cf1c02ffce3f5d5bcf404bf921b0  ./n7000/propri
 6aa1c144bf61dd08c72a4c95cc17ed8b5fc5f87d9850a2eab16026c7ca1afbe0  ./n7000/proprietary/system/etc/wifi/bcm4330_p2p.bin
 22ca12005865799030f820667b7cb74de40c0bcc9baf516492c995f95ac88d5d  ./n7000/proprietary/system/etc/wifi/nvram_net.txt_murata
 22e379d8c24cb0e4cf37549a607acbea7048acf8d4793c022aa14a40027014c7  ./n7000/proprietary/system/etc/wifi/bcm4330_sta.bin
+f4c1c5451649d18e40dfb4b7e87d3f73641675c11d6d8b4ff5043f9bec82f636  ./n7000/proprietary/system/bin/gps.cer
 75fc6b5576c4633c238f9298896fc67d7357c5bab12f0fa36075354923c1a861  ./n7000/proprietary/system/bin/bcm4330B1.hcd
+3d8cc03056888bc207e990c19b7bef900bbca8ed7ed54b58b23f30fe193272f3  ./n7000/proprietary/system/bin/gpsd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./n7000/proprietary/system/bin/rild
 dbf9b489386aee1932b94952958a86e07f599d7d8581dfadb6ddf70908170c33  ./n7000/proprietary/system/lib/libril.so
+8ace6f69fca2bf685b036aafef3cb13253767aefba5d143fbdf8abc044461446  ./n7000/proprietary/system/lib/hw/gps.exynos4.so
 dee66dcaadeeaca47b704fa3660ce49072114753e5aa493a42bcaa36d48dd03e  ./n7000/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./n7000/proprietary/system/lib/libsecril-client.so
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./galaxysmtd/proprietary/gps.xml
