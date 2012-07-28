@@ -1747,9 +1747,9 @@ e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./crespo4g/pro
 09aa3f482f4f3f555037bb275588b4847ed33ef4b827141705491240d7f621fa  ./p51xx/p5110/system/lib/libril.so
 48a293e6dc295fe5c2cb6a2d2827b3df67b9f8d972c74c275433b17661d4e014  ./p51xx/p5110/system/lib/libsecril-client.so
 7ef7e2302f9aa908740573c50d597468b8d66d36f8824a9cdf1b9ebb0c97cd67  ./p51xx/common/system/etc/wifi/bcmdhd_apsta.bin
-4c5da20ab3910787620c418af64f0f3e63ad99ce66a65cbffdb955f0078d19f7  ./p51xx/common/system/etc/wifi/nvram_mfg.txt
+fcad66df9f1ed849d3a63cfb33046b4df9266f2f586adc75882bba202ac6c311  ./p51xx/common/system/etc/wifi/nvram_mfg.txt
 a0f8e26e4a29f64103b1ccc814d005ef4dd04097474a5c3a2c8735f6dac3e319  ./p51xx/common/system/etc/wifi/bcmdhd_sta.bin
-9114d1adbdbc7ab20626d7d1c0c0a0cd49e764bbefd1b51bae6ec7d7db213a75  ./p51xx/common/system/etc/wifi/nvram_net.txt
+f0a869fdf52db536e8b060fb64c1b9314c2338bddd8931252aefccf10e2d87fb  ./p51xx/common/system/etc/wifi/nvram_net.txt
 49666196069e5daec9063c538d708e470f7cb51ca5624634c59ea510472d683a  ./p51xx/common/system/etc/wifi/bcmdhd_p2p.bin
 b2f9ffd15dcd4824b49d61f7e279ed8d57dceef6675a24721774bb70f927e4f7  ./p51xx/common/system/etc/wifi/bcmdhd_mfg.bin
 9766545b9ae3dee8871d813dcf5b78fdfe03e698f982a5418f72a1a6158b06ae  ./p51xx/common/system/bin/geomagneticd
@@ -2473,9 +2473,9 @@ a13e71b012a9a1e3c30b915f7903004965d95aea59470d3532ae8a6eff035038  ./p31xx/p3100/
 09aa3f482f4f3f555037bb275588b4847ed33ef4b827141705491240d7f621fa  ./p31xx/p3113/system/lib/libril.so
 48a293e6dc295fe5c2cb6a2d2827b3df67b9f8d972c74c275433b17661d4e014  ./p31xx/p3113/system/lib/libsecril-client.so
 7ef7e2302f9aa908740573c50d597468b8d66d36f8824a9cdf1b9ebb0c97cd67  ./p31xx/common/system/etc/wifi/bcmdhd_apsta.bin
-4c5da20ab3910787620c418af64f0f3e63ad99ce66a65cbffdb955f0078d19f7  ./p31xx/common/system/etc/wifi/nvram_mfg.txt
+fcad66df9f1ed849d3a63cfb33046b4df9266f2f586adc75882bba202ac6c311  ./p31xx/common/system/etc/wifi/nvram_mfg.txt
 a0f8e26e4a29f64103b1ccc814d005ef4dd04097474a5c3a2c8735f6dac3e319  ./p31xx/common/system/etc/wifi/bcmdhd_sta.bin
-9114d1adbdbc7ab20626d7d1c0c0a0cd49e764bbefd1b51bae6ec7d7db213a75  ./p31xx/common/system/etc/wifi/nvram_net.txt
+f0a869fdf52db536e8b060fb64c1b9314c2338bddd8931252aefccf10e2d87fb  ./p31xx/common/system/etc/wifi/nvram_net.txt
 49666196069e5daec9063c538d708e470f7cb51ca5624634c59ea510472d683a  ./p31xx/common/system/etc/wifi/bcmdhd_p2p.bin
 b2f9ffd15dcd4824b49d61f7e279ed8d57dceef6675a24721774bb70f927e4f7  ./p31xx/common/system/etc/wifi/bcmdhd_mfg.bin
 9766545b9ae3dee8871d813dcf5b78fdfe03e698f982a5418f72a1a6158b06ae  ./p31xx/common/system/bin/geomagneticd
