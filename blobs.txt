@@ -17,6 +17,7 @@ a90b98ceaf9ef13e55d0410d060f41df3c04ab9e162e263d3d44991aa976bc4d  ./i777/proprie
 e8bbafd160bc1f34c0483456e08cced9d3036555f9e0d435a727585aa5a975af  ./i777/proprietary/system/bin/bcm4330B1.hcd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./i777/proprietary/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./i777/proprietary/system/lib/libril.so
+ba17230e39378db5416da6c3ba1a4fe1fca6e57a525d2e44c28c0b71613005d9  ./i777/proprietary/system/lib/libakm.so
 19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./i777/proprietary/system/lib/hw/gps.exynos4.so
 48828a16538e85005003bfebc06ea476476c4c78b17793f57e927ef660d3ebdf  ./i777/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i777/proprietary/system/lib/libsecril-client.so
@@ -111,7 +112,6 @@ bce0056a42a75f22dec284f7ae5ea847899a6a28d55a47ae12988a8205e70a81  ./galaxys2-com
 e935a0d9c767fb60a50101a61c846cd02745ffffb746e7721fb1b364eaf25b97  ./galaxys2-common/proprietary/system/lib/libion.so
 e2aee1261a8e00e9811a18051e0201be3b0afc0a8250774117f16dc576dbb5dd  ./galaxys2-common/proprietary/system/lib/libhdmiclient.so
 71e7f0d8b7c26d7c1f8d770b123ef5f66ec8742d4b644e9cb68782c26871059d  ./galaxys2-common/proprietary/system/lib/libMali.so
-ba17230e39378db5416da6c3ba1a4fe1fca6e57a525d2e44c28c0b71613005d9  ./galaxys2-common/proprietary/system/lib/libakm.so
 933570e75697436bbd9d3c012159f9c8282df470898a3478984ad79da7f8baf3  ./galaxys2-common/proprietary/system/lib/egl/libGLESv2_mali.so
 d7410aa7c8cda59992fbd9e3fa070b04225c428c6fdafa3a21580ba3fdc5fbf5  ./galaxys2-common/proprietary/system/lib/egl/libEGL_mali.so
 6d2f711166d9b7ad93aadae60cbdd57e9e499441113feeeaff6da62f3e0d1406  ./galaxys2-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
@@ -227,7 +227,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-130e8500346c95211c6ce1df88fcf6a7355d881a9f632a6631605a5c484e48b8  ./blobs.txt
+8fa2bc1baa730432c9ac0794797e335532a8442f6089be537442f503a5e82729  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -443,6 +443,7 @@ a90b98ceaf9ef13e55d0410d060f41df3c04ab9e162e263d3d44991aa976bc4d  ./i9100/propri
 e8bbafd160bc1f34c0483456e08cced9d3036555f9e0d435a727585aa5a975af  ./i9100/proprietary/system/bin/bcm4330B1.hcd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./i9100/proprietary/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./i9100/proprietary/system/lib/libril.so
+ba17230e39378db5416da6c3ba1a4fe1fca6e57a525d2e44c28c0b71613005d9  ./i9100/proprietary/system/lib/libakm.so
 19524258856390a969370a688b8a49e7d46258768ea577faecaf0c32e769079d  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
 48828a16538e85005003bfebc06ea476476c4c78b17793f57e927ef660d3ebdf  ./i9100/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i9100/proprietary/system/lib/libsecril-client.so
@@ -2984,6 +2985,7 @@ f4c1c5451649d18e40dfb4b7e87d3f73641675c11d6d8b4ff5043f9bec82f636  ./n7000/propri
 3d8cc03056888bc207e990c19b7bef900bbca8ed7ed54b58b23f30fe193272f3  ./n7000/proprietary/system/bin/gpsd
 3c77579f050f380c3264a4e7c8d2951277c61a743e96e5bde4df06550da813c8  ./n7000/proprietary/system/bin/rild
 dbf9b489386aee1932b94952958a86e07f599d7d8581dfadb6ddf70908170c33  ./n7000/proprietary/system/lib/libril.so
+cdad9b384bab6906e7e3c8701ac994c35a926ba71a284f15738f79c2dad520b3  ./n7000/proprietary/system/lib/libakm.so
 8ace6f69fca2bf685b036aafef3cb13253767aefba5d143fbdf8abc044461446  ./n7000/proprietary/system/lib/hw/gps.exynos4.so
 dee66dcaadeeaca47b704fa3660ce49072114753e5aa493a42bcaa36d48dd03e  ./n7000/proprietary/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./n7000/proprietary/system/lib/libsecril-client.so
