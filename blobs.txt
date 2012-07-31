@@ -3092,7 +3092,7 @@ ae1a8697383fd0b5860ee6ac32f7a3803c8f4a0bb07a8c813bafe4191a638e69  ./i9300/propri
 4658ee1101d02a9ab9ec2fbd3f64528bb2b73c9e9c7fcaf332010b958c52644f  ./i9300/proprietary/system/usr/keychars/Generic.kcm
 3c2ba7a17c69405ddf38f835b70a39c511bdd7bae1af34601f176bf539db202a  ./i9300/proprietary/system/usr/keychars/qwerty2.kcm
 0b1c78124cfd806cb495befc32d40d113cd0be560965fe85fc58b123ffdcdd07  ./i9300/proprietary/system/vendor/firmware/fimc_is_fw.bin
-59d62075c4b9cf6703ec3679a8d681930c93361449054473bbda970e4e402541  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
+dc5e76bc7cd516634d2d6c6fa7d7673e882e3bbc4445bbb2f6e9dad25ccaf122  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./i9300/proprietary/system/vendor/firmware/mfc_fw.bin
 1e03923c4ac802a8f7eda84dd8100b22abfd713ce2841c22ad7c89ed9cc9e638  ./i9300/proprietary/system/vendor/firmware/setfile.bin
 785ab9e2e5728b901b75e76d25ef7d87405eefe6b2384a432fee5819879e7228  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
