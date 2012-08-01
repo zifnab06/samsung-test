@@ -3097,7 +3097,7 @@ ae1a8697383fd0b5860ee6ac32f7a3803c8f4a0bb07a8c813bafe4191a638e69  ./i9300/propri
 dc5e76bc7cd516634d2d6c6fa7d7673e882e3bbc4445bbb2f6e9dad25ccaf122  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./i9300/proprietary/system/vendor/firmware/mfc_fw.bin
 1e03923c4ac802a8f7eda84dd8100b22abfd713ce2841c22ad7c89ed9cc9e638  ./i9300/proprietary/system/vendor/firmware/setfile.bin
-785ab9e2e5728b901b75e76d25ef7d87405eefe6b2384a432fee5819879e7228  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
+6b1f79a6b5bdd72496c9bb17911d8f2098542e95c6c7bf6a8586bbe5f7215877  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
 db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./i9300/proprietary/system/vendor/firmware/libpn544_fw.so
 51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./i9300/proprietary/system/vendor/lib/libwvdrm_L1.so
 01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./i9300/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
