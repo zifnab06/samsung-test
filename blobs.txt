@@ -1478,7 +1478,6 @@ f8b159f58504f8e1f48b7a6e3d06095073804a8ab08c5a1f3278be40ccb536d6  ./d2tmo/propri
 9609b03d2ee55927096a7c7d1590af568740d284c4e4bc668ea875da78cadbbd  ./d2tmo/proprietary/lib/libcontrolcsc.so
 605e60458bcf2a73fab98d50595a13297af352805072285d6141b64471b22c58  ./d2tmo/proprietary/lib/libinvensense_hal.so
 bab202e6d52893accde4dc01f88450a4ce6901c776f69efacd07f87c18ebe2d6  ./d2tmo/proprietary/lib/libsamsungRecord.so
-59d812992d33b304a140711dd024c1d40d3dd94cc7000e42c50333f202892605  ./d2tmo/proprietary/lib/libv8.so
 505fe6e92c3894b7653be407d4cadd8222456ef78fe7a76e990a7a1a5c910682  ./d2tmo/proprietary/lib/libaudiopolicy_sec.so
 9e3fa132a4d64548aa5a47e61e84f728197de02c4a8291dde373757761405e19  ./d2tmo/proprietary/lib/egl/libq3dtools_adreno200.so
 fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./d2tmo/proprietary/lib/egl/eglsubAndroid.so
@@ -1890,7 +1889,6 @@ b5be3463bbe996ab6ab6c7ec4c636c8adcc825cd3f914f6c1bd7de1a51d20ec6  ./d2spr/propri
 7a8a9356cd19a463520657262e6cba4752f2775109ac5f7cbb218ff529b8d569  ./d2spr/proprietary/lib/libcontrolcsc.so
 605e60458bcf2a73fab98d50595a13297af352805072285d6141b64471b22c58  ./d2spr/proprietary/lib/libinvensense_hal.so
 bab202e6d52893accde4dc01f88450a4ce6901c776f69efacd07f87c18ebe2d6  ./d2spr/proprietary/lib/libsamsungRecord.so
-59d812992d33b304a140711dd024c1d40d3dd94cc7000e42c50333f202892605  ./d2spr/proprietary/lib/libv8.so
 505fe6e92c3894b7653be407d4cadd8222456ef78fe7a76e990a7a1a5c910682  ./d2spr/proprietary/lib/libaudiopolicy_sec.so
 9e3fa132a4d64548aa5a47e61e84f728197de02c4a8291dde373757761405e19  ./d2spr/proprietary/lib/egl/libq3dtools_adreno200.so
 fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./d2spr/proprietary/lib/egl/eglsubAndroid.so
@@ -2755,7 +2753,6 @@ a35f80cbabe07211cc05381064bc83ffea0081ef99c22506af49bf8786342fbf  ./d2vzw/propri
 7a8a9356cd19a463520657262e6cba4752f2775109ac5f7cbb218ff529b8d569  ./d2vzw/proprietary/lib/libcontrolcsc.so
 fbde98fe4c863de5c7ffadc514582c82edc6750121347613fd13fcc2fa4eaa63  ./d2vzw/proprietary/lib/libinvensense_hal.so
 bab202e6d52893accde4dc01f88450a4ce6901c776f69efacd07f87c18ebe2d6  ./d2vzw/proprietary/lib/libsamsungRecord.so
-59d812992d33b304a140711dd024c1d40d3dd94cc7000e42c50333f202892605  ./d2vzw/proprietary/lib/libv8.so
 d40b52649060c08d17d8b58c69fc4f3e96344f1bab44994a4c09e17133d66f49  ./d2vzw/proprietary/lib/libaudiopolicy_sec.so
 9e3fa132a4d64548aa5a47e61e84f728197de02c4a8291dde373757761405e19  ./d2vzw/proprietary/lib/egl/libq3dtools_adreno200.so
 fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./d2vzw/proprietary/lib/egl/eglsubAndroid.so
@@ -2913,7 +2910,6 @@ f8b159f58504f8e1f48b7a6e3d06095073804a8ab08c5a1f3278be40ccb536d6  ./d2att/propri
 7a8a9356cd19a463520657262e6cba4752f2775109ac5f7cbb218ff529b8d569  ./d2att/proprietary/lib/libcontrolcsc.so
 605e60458bcf2a73fab98d50595a13297af352805072285d6141b64471b22c58  ./d2att/proprietary/lib/libinvensense_hal.so
 bab202e6d52893accde4dc01f88450a4ce6901c776f69efacd07f87c18ebe2d6  ./d2att/proprietary/lib/libsamsungRecord.so
-59d812992d33b304a140711dd024c1d40d3dd94cc7000e42c50333f202892605  ./d2att/proprietary/lib/libv8.so
 505fe6e92c3894b7653be407d4cadd8222456ef78fe7a76e990a7a1a5c910682  ./d2att/proprietary/lib/libaudiopolicy_sec.so
 9e3fa132a4d64548aa5a47e61e84f728197de02c4a8291dde373757761405e19  ./d2att/proprietary/lib/egl/libq3dtools_adreno200.so
 fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./d2att/proprietary/lib/egl/eglsubAndroid.so
