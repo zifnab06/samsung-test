@@ -2552,6 +2552,7 @@ c46bfa8548ef012615964d9745cb61d3af6d684b924802c0a63a1e7e012cc1ad  ./i9100g/propr
 0742d29f2e990b2787ad74e7aab6ddc4eeeccc8232f39e842ac5194225ff1b90  ./i9100g/proprietary/system/bin/rild
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./i9100g/proprietary/system/bin/fRom
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./i9100g/proprietary/system/bin/immvibed
+ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./i9100g/proprietary/system/bin/hostapd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9100g/proprietary/system/lib/libQmageDecoder.so
 857c4b155b1aae814fdd90b7178a7813e545e3933ccc130711ef5e91166ad120  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
 344ce314305a62c21ba9a10cee88481ac9668d590d2761581f6bbed9d00e91c1  ./i9100g/proprietary/system/lib/libhdcp.so
