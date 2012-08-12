@@ -3174,7 +3174,7 @@ dd7f785a71718191b96825264d4a7487b76755e93e0a2f59f6cc09a474e3a405  ./i9300/propri
 f7771adc4ce1bfed9db5d0eafc4a26242ca09e946121f0b8b584617f1f5303f7  ./i9300/proprietary/system/lib/hw/lights.exynos4.so
 5a5c4cf3fc66b866dc57e40e59faf54afababc55fcd8b94d0b1b1d420240e518  ./i9300/proprietary/system/lib/hw/gralloc.smdk4x12.so
 7cc21640e226825a636f7799b6a378ebff321fce129fd728877c2275a346f384  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
-68b189d96401f47a752c3963f599859fa9c233909970a8dc6c86a4bb4785304c  ./i9300/proprietary/system/lib/libsec-ril.so
+adb70543fbb62798fc74b1498adf1e174f998fe4ade092a3f0b497912d7ff525  ./i9300/proprietary/system/lib/libsec-ril.so
 70d966e0352c171cf06a61818934f3608550b84dc43d241bea291a42e8119b85  ./i9300/proprietary/system/lib/libsecril-client.so
 013e1362846a920274f7450962a0b3332c8d630f0f9fab88efd51946cbc76d6f  ./i9300/proprietary/system/lib/libsecril-client-sap.so
 22fcdb707122732d409290ffc9cd54bea1154a2bfb810a1ea804b23199559be1  ./i9300/proprietary/system/lib/libhwjpeg.so
