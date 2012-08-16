@@ -809,6 +809,7 @@ d7be2a0dc27fdbdd5ec2fd265a9c8d54df073be7fe984ff81016e2e145fbd4ee  ./smdk4210-tab
 aaea87cbf68643fe5c7765a16f6b719380985932c085ddb79f1586b1cb79c1ce  ./smdk4210-tab/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/bdata.tcmd.bin
 eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./smdk4210-tab/props/system/bin/gpsd
 7e6dddaf9ab56446818d9b109f38ea3cfddd02ecfe53007b034d1c6e38daaccb  ./smdk4210-tab/props/system/bin/bintvoutservice
+8db2bc9be62d7c1f63338cb236b6a08eb2c5b3da93d2026c8de7c9ba982fbbc7  ./smdk4210-tab/props/system/bin/macloader
 c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./smdk4210-tab/props/system/lib/libcec.so
 c4c097120e5cd6e9138b2b737eaa1a1e15cf91465b78071d46e209b7cedff6c6  ./smdk4210-tab/props/system/lib/libsecnativefeature.so
 305cd64edb40f1d733759dd9469ca25c7f1fce460d6e9e10ccc9e66593e954e5  ./smdk4210-tab/props/system/lib/libtvout_jni.so
