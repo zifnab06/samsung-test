@@ -3139,7 +3139,7 @@ f4c1c5451649d18e40dfb4b7e87d3f73641675c11d6d8b4ff5043f9bec82f636  ./i9300/propri
 30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./i9300/proprietary/system/bin/playlpm
 5564a9108ca00895f17f5c040ceae2523c99b1a8e1ac91f12ef2d85aae8777c7  ./i9300/proprietary/system/bin/gpsd
 12ec897eacbebc435e406a480e0e58a2e6db55532f360e538a0493d564f0742b  ./i9300/proprietary/system/bin/bcm4334.hcd
-e519c44b0b7b283ba1ff457c3ca3fd027da6f53f3f3e20daa0e05e9527cd9053  ./i9300/proprietary/system/bin/rild
+98276568d31ee452bdeeda54c7c3542967493e904937fd33c076ea7e94ad5f35  ./i9300/proprietary/system/bin/rild
 ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./i9300/proprietary/system/bin/hostapd
 aabb3fbf633ba1f5479e623dc5b531109dc698b1b42b0ba5eb19511f409bbf57  ./i9300/proprietary/system/bin/bcm4334_semcosh.hcd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9300/proprietary/system/lib/libQmageDecoder.so
@@ -3149,7 +3149,7 @@ c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./i9300/propri
 ece76408392f66206d2571635ea74df3d0c35b127a594854eb0012a86452cf9e  ./i9300/proprietary/system/lib/libtvout_jni.so
 ca51a8c2b69b3a4029d8874444788d57e98899a16cb00b17d8d9200ed6a80847  ./i9300/proprietary/system/lib/libfimg.so
 e2c6115810e0880de47ff3dbf63e420ba93ecd3d295468ad8991562a9cd90d83  ./i9300/proprietary/system/lib/libUMP.so
-cc61885a82373334062f07cb46f69f88f9a7309568214c2222ee8cae2ed59c29  ./i9300/proprietary/system/lib/libril.so
+ad4cadc15f7b667f54e08e781162457de9a79a9d21a3a501850dc9be440150a6  ./i9300/proprietary/system/lib/libril.so
 45433e24c9ed8a0f14a7be0e1ab2056c5ea04f10c5dcc82b26943c5dcca05487  ./i9300/proprietary/system/lib/libvdis.so
 4b7dbe919689760132b52b1d3a191b558fb75d17a6cfabce4ca7d61f727987b1  ./i9300/proprietary/system/lib/libedid.so
 c577cfbd1e3b29671d2ffaace4045031f12935c3ca3f7ede33796d8b6d5dab3a  ./i9300/proprietary/system/lib/libtvoutinterface.so
@@ -3167,12 +3167,12 @@ be28ee9d1ae4726904d5b492277bd89ac76605de4e0920167365cfcbe59a22b0  ./i9300/propri
 69646839aca9ffdfb2cd92fbfdc794e7d41c8a73aa0d5dfe63d3d2147caeb161  ./i9300/proprietary/system/lib/libfimc.so
 f7b25d3a7581b35f251bf35d135402da5400dc4168aa1dff865f57ea923a549b  ./i9300/proprietary/system/lib/hw/nfc.smdk4x12.so
 27d0cef78aa5fdda4438de8ecfeeb9adba474e0d02ae776d2468b4af5bdfc314  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
-dd7f785a71718191b96825264d4a7487b76755e93e0a2f59f6cc09a474e3a405  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
+d1ee2cc07baa6411aad1725de95b95f8c8d799d5227e361c14a8f79945ccc4db  ./i9300/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
 5bdb096aa19c9d90c78faead3f46102088fa42d0d685d6e94ab449065b92b61a  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 f7771adc4ce1bfed9db5d0eafc4a26242ca09e946121f0b8b584617f1f5303f7  ./i9300/proprietary/system/lib/hw/lights.exynos4.so
 5a5c4cf3fc66b866dc57e40e59faf54afababc55fcd8b94d0b1b1d420240e518  ./i9300/proprietary/system/lib/hw/gralloc.smdk4x12.so
 7cc21640e226825a636f7799b6a378ebff321fce129fd728877c2275a346f384  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
-adb70543fbb62798fc74b1498adf1e174f998fe4ade092a3f0b497912d7ff525  ./i9300/proprietary/system/lib/libsec-ril.so
+4817409d6e3b924e1aed35251dc41a2cb8ecb318778108aac48e67c9974d3f31  ./i9300/proprietary/system/lib/libsec-ril.so
 70d966e0352c171cf06a61818934f3608550b84dc43d241bea291a42e8119b85  ./i9300/proprietary/system/lib/libsecril-client.so
 013e1362846a920274f7450962a0b3332c8d630f0f9fab88efd51946cbc76d6f  ./i9300/proprietary/system/lib/libsecril-client-sap.so
 22fcdb707122732d409290ffc9cd54bea1154a2bfb810a1ea804b23199559be1  ./i9300/proprietary/system/lib/libhwjpeg.so
