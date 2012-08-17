@@ -3138,6 +3138,7 @@ f4c1c5451649d18e40dfb4b7e87d3f73641675c11d6d8b4ff5043f9bec82f636  ./i9300/propri
 12ec897eacbebc435e406a480e0e58a2e6db55532f360e538a0493d564f0742b  ./i9300/proprietary/system/bin/bcm4334_murata.hcd
 30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./i9300/proprietary/system/bin/playlpm
 5564a9108ca00895f17f5c040ceae2523c99b1a8e1ac91f12ef2d85aae8777c7  ./i9300/proprietary/system/bin/gpsd
+d77271aaacc5b338ea2741b2b8ce472af489ccfc43be7cd55617e8d3b1acfb94  ./i9300/proprietary/system/bin/bintvoutservice
 12ec897eacbebc435e406a480e0e58a2e6db55532f360e538a0493d564f0742b  ./i9300/proprietary/system/bin/bcm4334.hcd
 98276568d31ee452bdeeda54c7c3542967493e904937fd33c076ea7e94ad5f35  ./i9300/proprietary/system/bin/rild
 ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./i9300/proprietary/system/bin/hostapd
@@ -3146,14 +3147,14 @@ aabb3fbf633ba1f5479e623dc5b531109dc698b1b42b0ba5eb19511f409bbf57  ./i9300/propri
 c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./i9300/proprietary/system/lib/libcec.so
 7f73ce1f1e1dac20b3539bc18ebead090392f3e1fa6214490ca713ace5e1a676  ./i9300/proprietary/system/lib/libsecnativefeature.so
 1cc106a288eaab1749f3140c7334809ac594fdb3c34c13f40a501c7cf64056af  ./i9300/proprietary/system/lib/libMcClient.so
-ece76408392f66206d2571635ea74df3d0c35b127a594854eb0012a86452cf9e  ./i9300/proprietary/system/lib/libtvout_jni.so
+76a8fa082cd04c880d206d07b7b6ba2b8afb5bde751462b5892d6fb3c7b3e413  ./i9300/proprietary/system/lib/libtvout_jni.so
 ca51a8c2b69b3a4029d8874444788d57e98899a16cb00b17d8d9200ed6a80847  ./i9300/proprietary/system/lib/libfimg.so
 e2c6115810e0880de47ff3dbf63e420ba93ecd3d295468ad8991562a9cd90d83  ./i9300/proprietary/system/lib/libUMP.so
 ad4cadc15f7b667f54e08e781162457de9a79a9d21a3a501850dc9be440150a6  ./i9300/proprietary/system/lib/libril.so
 45433e24c9ed8a0f14a7be0e1ab2056c5ea04f10c5dcc82b26943c5dcca05487  ./i9300/proprietary/system/lib/libvdis.so
 4b7dbe919689760132b52b1d3a191b558fb75d17a6cfabce4ca7d61f727987b1  ./i9300/proprietary/system/lib/libedid.so
-c577cfbd1e3b29671d2ffaace4045031f12935c3ca3f7ede33796d8b6d5dab3a  ./i9300/proprietary/system/lib/libtvoutinterface.so
-005bc9b3717f2061067dafd00ea2f1c37a55de88d2215f162b6013e3df13a19b  ./i9300/proprietary/system/lib/libTVOut.so
+6d89cb8f17b473970c8301f4cb6ffb44c738c45d06f840583310893eae788b6c  ./i9300/proprietary/system/lib/libtvoutinterface.so
+58fa97a45d3ea4fbb8ae3394b46652086ed305168b8cc6ec63b449a67a1e2b03  ./i9300/proprietary/system/lib/libTVOut.so
 b17a4f681236a226ec210ea9367f25662f6bad828b1065f604a4051f972c4ff0  ./i9300/proprietary/system/lib/libddc.so
 ffd1438adc000b11191c00139172dc8bb49a97722d79d0e2528721221e31e2a5  ./i9300/proprietary/system/lib/libion.so
 3a17b295fabaf0e768030788ee958221fa082ad1b0585a21cdc419f3c3c820a5  ./i9300/proprietary/system/lib/libhdmiclient.so
@@ -3178,7 +3179,7 @@ f7771adc4ce1bfed9db5d0eafc4a26242ca09e946121f0b8b584617f1f5303f7  ./i9300/propri
 22fcdb707122732d409290ffc9cd54bea1154a2bfb810a1ea804b23199559be1  ./i9300/proprietary/system/lib/libhwjpeg.so
 c7817b5bb479c997bac1e94f2c1c827d5fa664db43588954a3870b1f3ff9afd0  ./i9300/proprietary/system/lib/libMcRegistry.so
 d5987f9905dcafa2457b820ba813b0caae5e6d212a3ea7ca4d575d0e5bf29bb4  ./i9300/proprietary/system/lib/libquramimagecodec.so
-589bc86cb7670a3a3aed9db10b030918b670ac4729b4d4c5112d306cfbe599a2  ./i9300/proprietary/system/lib/libtvoutservice.so
+cd0b142140d71870192a4c078fa4bb558d4176804333510618de0a64cd66977c  ./i9300/proprietary/system/lib/libtvoutservice.so
 cc9aa2fcb7936bfdb6c5001ff9fd3897953e2245abd5a697726c3b6b47ca2859  ./i9300/proprietary/system/usr/idc/qwerty.idc
 d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./i9300/proprietary/system/usr/idc/melfas_ts.idc
 d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./i9300/proprietary/system/usr/idc/sec_touchscreen.idc
