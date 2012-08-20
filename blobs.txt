@@ -155,7 +155,7 @@ f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./galaxys2-com
 2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./galaxys2-common/proprietary/system/vendor/lib/libwvm.so
 45030212b8e6a3d158b29a16e0ed86b1f39b4be70bf8447959a2a1a1355830a8  ./t869/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./t869/props/system/lib/libril.so
-cb2f2a9190bbc9c39aae4284a9f40dd2ef0be11cdb813b91eccd93bb4fa226f2  ./t869/props/system/lib/hw/sensors.exynos4.so
+b1594641fd8607c88fb6698adcdf82590d24ea440b7de7999c389bedee7bb5c4  ./t869/props/system/lib/hw/sensors.exynos4.so
 3fd2ae3a79ce285c84293e40396eb20da7f68a73cef892edb27ca04490ec38cc  ./t869/props/system/lib/hw/camera.exynos4.so
 9dc49f745553698ee0987741cfb3965a6735ad921509125caef362eaeb415841  ./t869/props/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./t869/props/system/lib/libsecril-client.so
@@ -235,7 +235,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-87ff6121d5635e524b0c11a8f57a86ce6ee9a2b3af04f85c1dc59c4599e6da8c  ./blobs.txt
+d967774598a49a72003c7d1ceba2be0b14ace64c5fcbef807346738dc7a1c22a  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
