@@ -2314,7 +2314,7 @@ f8b159f58504f8e1f48b7a6e3d06095073804a8ab08c5a1f3278be40ccb536d6  ./hercules/pro
 931f2ee00aa39252bfe0c70b1d32165b292e4adef13fb82aca24261d4541d65d  ./hercules/proprietary/lib/libril.so
 ca4c206243eb9df04afe12e19895f8dfb77aa15c9f22e3e0f0a3071997cebb30  ./hercules/proprietary/lib/libacdbloader.so
 c1024c4a89115418a94be5824645ab738c3b9235604deb85e3e1c8ce6a6fc72d  ./hercules/proprietary/lib/libidl.so
-7d3cb1c472efb5517cf43a3e485aed86fdebebacaacaaa0c7c14325e0925e54a  ./hercules/proprietary/lib/libakm.so
+4f3dad4cf626eb22c7f96bfdf99e5881699ced8cbc3760a08cc993fa5eb6e690  ./hercules/proprietary/lib/libakm.so
 9e3fa132a4d64548aa5a47e61e84f728197de02c4a8291dde373757761405e19  ./hercules/proprietary/lib/egl/libq3dtools_adreno200.so
 fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./hercules/proprietary/lib/egl/eglsubAndroid.so
 50fad3b2704511e659ff895233cf1291d1cd1725206438eb728cdcebf44967ef  ./hercules/proprietary/lib/egl/libGLESv1_CM_adreno200.so
@@ -2329,7 +2329,7 @@ d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./hercules/pro
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./hercules/proprietary/lib/libnetmgr.so
 dd47099e050308f19c8852468f9940b78ade90d5fbf64097df040f43fb525d97  ./hercules/proprietary/lib/libaudcal.so
 e3554064119f438e8ad203460eaf5cd2b2e2680b1906459da38c312de9ac55c1  ./hercules/proprietary/lib/libpn544_fw.so
-e739a2cb974ed8d38e4f3ba6d772b1345ade87d3d216d62f402083c1fd4edb38  ./hercules/proprietary/lib/hw/sensors.default.so
+6de3551082f73c7287c32e67963d54d7c29b236df311faef30a4e0c99835fd45  ./hercules/proprietary/lib/hw/sensors.default.so
 f426937e27c39a1b394d4af592c9d1579f13b39f2ba3e44750c0fb548421b876  ./hercules/proprietary/lib/hw/nfc.qcom.so
 7e2112ba1043090d8dcaedd7370c88df6c3bf97fbb41ec924ef05d2c2d694d76  ./hercules/proprietary/lib/hw/camera.msm8660.so
 f89729d30a428df27e222ea9fb124d24d2b2615bf7f09c23a8c0034d4980eb81  ./hercules/proprietary/lib/libqdi.so
