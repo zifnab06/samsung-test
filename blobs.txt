@@ -1222,7 +1222,7 @@ c5b522ca28846bb8c202f16c11d774c88fbd08897df76a54254f933f27a60908  ./d2usc/propri
 f1ff4a19c2ce2874033be0187c3842e97ee822234c158d597c06344cf3cc844e  ./d2usc/proprietary/lib/libaudcal.so
 30b1b2d7a0616c382940b83a53bfac14196e979c21629810fca1dc3b78e45bc6  ./d2usc/proprietary/lib/hw/camera.msm8960.so
 ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2usc/proprietary/lib/hw/gps.default.so
-7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2usc/proprietary/lib/hw/nfc.MSM8960.so
+5c3e044c0ab0cab24898adb508287f96990d9c51601dfbc6a3d73e4f7b2269cb  ./d2usc/proprietary/lib/hw/nfc.MSM8960.so
 05f7887b64e6d2cc05b4e3b32fae034f6ab806203c83e6426864095a3b2244d7  ./d2usc/proprietary/lib/hw/sensors.msm8960.so
 2b2c8d4d01896c575f5f3d2d324d8df1d4ba707f37cc6ddea3f4c076f754c154  ./d2usc/proprietary/lib/libqdi.so
 8c94ec3b2af77b7afedc8da172a3ce290eeaeca097ae7253e188bd813c8d30f4  ./d2usc/proprietary/lib/libaudioalsa.so
