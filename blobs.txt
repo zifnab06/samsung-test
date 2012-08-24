@@ -1631,7 +1631,7 @@ d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./d2tmo/propri
 58d6c99d5dbb3a96be9d22baf04a2db5d1c5d2e911b4a924d78df12f3c94bad0  ./d2tmo/proprietary/lib/libloc_eng.so
 5adb288cc1507fcef7a1b14447f234ade4bbb517d2e61726f7d8393507c36bed  ./d2tmo/proprietary/lib/libqmi_common_so.so
 6814abe421980c07a7bc097627335b8e24b3fd0d3972e035eb10248f2a52a332  ./d2tmo/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-5d999ca59ed0b7619273e7b7a448e262c55cd2b601e6f9f561bd249efb54a0fc  ./d2tmo/proprietary/lib/libqc-opt.so
+6b9634ab6118e30adaede70c0a6a14ad09f62c8a660e9581da8c059ec8b27f0a  ./d2tmo/proprietary/lib/libqc-opt.so
 0f1a0a80eaaa767ca5224e3de1b7564406c040a2125ffaa13c340f8d3cd18960  ./d2tmo/proprietary/lib/libquipc_ulp_adapter.so
 081ebfe3ca3548a3a7a5b732c1ee3f2314bcfb9ba77cb7282505de48f5823d93  ./d2tmo/proprietary/lib/libchromatix_imx074_preview.so
 04c4d44602c23ebcfb8d86dc02896f9a81587a8e079917d78125b8744880908a  ./d2tmo/proprietary/lib/libnetmgr.so
