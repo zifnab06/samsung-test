@@ -1892,7 +1892,6 @@ b771382e5932233d922cd52b4719ed7b29cff168b90bfdb7489c6d994b44d96c  ./p51xx/common
 9766545b9ae3dee8871d813dcf5b78fdfe03e698f982a5418f72a1a6158b06ae  ./p51xx/common/system/bin/geomagneticd
 65966062b65b05345074d31328628f2d8f40336a22fc482a278ef1ded35b5430  ./p51xx/common/system/bin/gpsd
 2d0cda78a59ffcfebb80033e28367ed770dbb69897a562608d767908c9c2ffcf  ./p51xx/common/system/bin/orientationd
-ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./p51xx/common/system/bin/hostapd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p51xx/common/system/lib/libQmageDecoder.so
 ac401a0316e85037eee2474c923c6024346109e387e3884fc58244b380630f7a  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
 6fbd644b51b4a77a0023dbc3f25bbe40a2156c203e647922786e0ffa7d496450  ./p51xx/common/system/lib/libsecnativefeature.so
@@ -2612,7 +2611,6 @@ b2f9ffd15dcd4824b49d61f7e279ed8d57dceef6675a24721774bb70f927e4f7  ./p31xx/common
 9766545b9ae3dee8871d813dcf5b78fdfe03e698f982a5418f72a1a6158b06ae  ./p31xx/common/system/bin/geomagneticd
 4fc99b737919bba4e9c70f44c39291d5441b41f7af8ae4881ce139c99ce65d22  ./p31xx/common/system/bin/gpsd
 2d0cda78a59ffcfebb80033e28367ed770dbb69897a562608d767908c9c2ffcf  ./p31xx/common/system/bin/orientationd
-ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./p31xx/common/system/bin/hostapd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p31xx/common/system/lib/libQmageDecoder.so
 ac401a0316e85037eee2474c923c6024346109e387e3884fc58244b380630f7a  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
 9f78452d3d6bca1aa61fdf6b61a0f871b1cb145b2c26599dca4e92657031547f  ./p31xx/common/system/lib/libsecnativefeature.so
@@ -2673,7 +2671,6 @@ c46bfa8548ef012615964d9745cb61d3af6d684b924802c0a63a1e7e012cc1ad  ./i9100g/propr
 0742d29f2e990b2787ad74e7aab6ddc4eeeccc8232f39e842ac5194225ff1b90  ./i9100g/proprietary/system/bin/rild
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./i9100g/proprietary/system/bin/fRom
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./i9100g/proprietary/system/bin/immvibed
-ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./i9100g/proprietary/system/bin/hostapd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9100g/proprietary/system/lib/libQmageDecoder.so
 857c4b155b1aae814fdd90b7178a7813e545e3933ccc130711ef5e91166ad120  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
 344ce314305a62c21ba9a10cee88481ac9668d590d2761581f6bbed9d00e91c1  ./i9100g/proprietary/system/lib/libhdcp.so
