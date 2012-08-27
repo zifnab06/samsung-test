@@ -1708,7 +1708,6 @@ f4f9da2fb1de1a423a2e743a0d9660e3f9ba43c47f23a06d18fc83aebb033de7  ./skyrocket/pr
 e5e79cd902d7ca5855c5e6cec16fe649e26cff9a050cc977e4d8027ac1db2677  ./skyrocket/proprietary/lib/libdiag.so
 a5583e5ed5782414f3205fa3f3f18a33cd1403e1b9c36b4b3f774a64ba79370a  ./skyrocket/proprietary/lib/libdsutils.so
 b2ba47461e1507714206a6468f58f0941eb0858ca365f3bc507b8b3fb4da1b16  ./skyrocket/proprietary/lib/libcommondefs.so
-5619b8b95940cb15367440a2ce256f569b98d6cfd2b86fb3dd85f132704182c9  ./skyrocket/proprietary/lib/libWVStreamControlAPI_L3.so
 a9d6a6e9296e2218370c986c53268c248e239096ab2882369c44240ed1c38d11  ./skyrocket/proprietary/lib/libmmosal.so
 1b83663f739395a4a9559a77d342a84981a4bc8c3e9151bd248e7ea16a91b596  ./skyrocket/proprietary/lib/libsc-a2xx.so
 cf1d34aaba9cc9898362123b2afbed3e670c5f549f519a992a1db44ebd570bcd  ./skyrocket/proprietary/lib/libmmjpeg.so
@@ -1729,7 +1728,6 @@ fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./skyrocket/pr
 03210fdc30db7847662154de4c564321eea3b83328eba6e7ea30ffe585b079bd  ./skyrocket/proprietary/lib/egl/libEGL_adreno200.so
 70e89e67dbc67740541df0c76be2dffdef17d3d7500cfdaf91eef6dd654424be  ./skyrocket/proprietary/lib/egl/libGLESv2_adreno200.so
 6d6e5b5a77c135732300ccc0e29e36a76436a8bf641dda900b1eeefd3af51de8  ./skyrocket/proprietary/lib/egl/libGLESv2S3D_adreno200.so
-db07613c21840cd7bf8424f586c0da663b091c26777762286a8943c4db892921  ./skyrocket/proprietary/lib/libwvm.so
 cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./skyrocket/proprietary/lib/liboncrpc.so
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./skyrocket/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./skyrocket/proprietary/lib/libc2d2_z180.so
@@ -2424,7 +2422,6 @@ be1860d820e23389c5a4f52ca4146c65517eacfd6e75a94f65aad6455bd5a301  ./hercules/pro
 0f73929e397f824032a2759710f710f7db881c5e239638abd3e475c545803f72  ./hercules/proprietary/lib/libdiag.so
 a5583e5ed5782414f3205fa3f3f18a33cd1403e1b9c36b4b3f774a64ba79370a  ./hercules/proprietary/lib/libdsutils.so
 b2ba47461e1507714206a6468f58f0941eb0858ca365f3bc507b8b3fb4da1b16  ./hercules/proprietary/lib/libcommondefs.so
-5619b8b95940cb15367440a2ce256f569b98d6cfd2b86fb3dd85f132704182c9  ./hercules/proprietary/lib/libWVStreamControlAPI_L3.so
 c96f7045571f0c1261dcaa77ab489400c6b8bf91f4224188c7d98d4afb5ae0af  ./hercules/proprietary/lib/libmmosal.so
 1b83663f739395a4a9559a77d342a84981a4bc8c3e9151bd248e7ea16a91b596  ./hercules/proprietary/lib/libsc-a2xx.so
 b75e2e6dd3e49b92f0efaedb383d938abdba6edf0ab000cde5632f51b172917e  ./hercules/proprietary/lib/libmmjpeg.so
@@ -2445,7 +2442,6 @@ fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./hercules/pro
 03210fdc30db7847662154de4c564321eea3b83328eba6e7ea30ffe585b079bd  ./hercules/proprietary/lib/egl/libEGL_adreno200.so
 70e89e67dbc67740541df0c76be2dffdef17d3d7500cfdaf91eef6dd654424be  ./hercules/proprietary/lib/egl/libGLESv2_adreno200.so
 6d6e5b5a77c135732300ccc0e29e36a76436a8bf641dda900b1eeefd3af51de8  ./hercules/proprietary/lib/egl/libGLESv2S3D_adreno200.so
-db07613c21840cd7bf8424f586c0da663b091c26777762286a8943c4db892921  ./hercules/proprietary/lib/libwvm.so
 cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./hercules/proprietary/lib/liboncrpc.so
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./hercules/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./hercules/proprietary/lib/libc2d2_z180.so
@@ -2977,7 +2973,6 @@ f4f9da2fb1de1a423a2e743a0d9660e3f9ba43c47f23a06d18fc83aebb033de7  ./quincyatt/pr
 e5e79cd902d7ca5855c5e6cec16fe649e26cff9a050cc977e4d8027ac1db2677  ./quincyatt/proprietary/lib/libdiag.so
 a5583e5ed5782414f3205fa3f3f18a33cd1403e1b9c36b4b3f774a64ba79370a  ./quincyatt/proprietary/lib/libdsutils.so
 b2ba47461e1507714206a6468f58f0941eb0858ca365f3bc507b8b3fb4da1b16  ./quincyatt/proprietary/lib/libcommondefs.so
-5619b8b95940cb15367440a2ce256f569b98d6cfd2b86fb3dd85f132704182c9  ./quincyatt/proprietary/lib/libWVStreamControlAPI_L3.so
 a9d6a6e9296e2218370c986c53268c248e239096ab2882369c44240ed1c38d11  ./quincyatt/proprietary/lib/libmmosal.so
 1b83663f739395a4a9559a77d342a84981a4bc8c3e9151bd248e7ea16a91b596  ./quincyatt/proprietary/lib/libsc-a2xx.so
 cf1d34aaba9cc9898362123b2afbed3e670c5f549f519a992a1db44ebd570bcd  ./quincyatt/proprietary/lib/libmmjpeg.so
@@ -2998,7 +2993,6 @@ fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./quincyatt/pr
 03210fdc30db7847662154de4c564321eea3b83328eba6e7ea30ffe585b079bd  ./quincyatt/proprietary/lib/egl/libEGL_adreno200.so
 70e89e67dbc67740541df0c76be2dffdef17d3d7500cfdaf91eef6dd654424be  ./quincyatt/proprietary/lib/egl/libGLESv2_adreno200.so
 6d6e5b5a77c135732300ccc0e29e36a76436a8bf641dda900b1eeefd3af51de8  ./quincyatt/proprietary/lib/egl/libGLESv2S3D_adreno200.so
-db07613c21840cd7bf8424f586c0da663b091c26777762286a8943c4db892921  ./quincyatt/proprietary/lib/libwvm.so
 cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./quincyatt/proprietary/lib/liboncrpc.so
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./quincyatt/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./quincyatt/proprietary/lib/libc2d2_z180.so
