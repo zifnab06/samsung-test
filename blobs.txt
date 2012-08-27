@@ -2778,7 +2778,7 @@ da9457faa129178477c4450186b4c8b8ccb68505e30213a777fdaa4d6390170d  ./vibrantmtd/p
 7e6afce7be721d2e2210eccdd2a3f5f257784aa5f194940203976a81ca61a763  ./vibrantmtd/proprietary/modem.bin
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
-94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./vibrantmtd/proprietary/libsecril-client.so
+026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2vzw/proprietary/etc/thermald.conf_S
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2vzw/proprietary/etc/thermald.conf
 761ec264b3362a2fb7d13690caba50e5043881088445156fa42109d1b185117e  ./d2vzw/proprietary/etc/wifi/bcmdhd_mfg.bin_b1
