@@ -3196,7 +3196,7 @@ f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./galaxysmtd/p
 70e880dc314aa37782846879affb65fa8e2a2beb13c6d33ed8731cd04c8dc339  ./galaxysmtd/proprietary/rild
 cd1243d883488314efb114f0fa6a568ca1e78f193b8b3f4609d802d6ed1f05c9  ./galaxysmtd/proprietary/libsec-ril.so
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./galaxysmtd/proprietary/libsecril-client.so
-d53ab3fd95c128202a3a99e600be655948d1dfd33a1f9c47d9a2b64424716c78  ./d710/reassemble-apks.sh
+1df70c4a3e7cda0cc2219a37bc3b8a3487cb2da753539a79c267ace11905ea26  ./d710/reassemble-apks.sh
 07a801a5754bc008a4fa898b68b3b5ece6f111f0651ecb42e1722d8dc2029274  ./d710/proprietary/WiMAXHiddenMenu.apk.parts/res/menu/dm_menu.xml
 aa8b8b8644faa2adbba04836fd7a362ffe386ff223a3234a79f929a61d0eb9d2  ./d710/proprietary/WiMAXHiddenMenu.apk.parts/res/menu/ct_menu.xml
 977ca60c75f5fe8bee8fb8f8cfa86c340558dd904c46d162d31dd7fcaa80cf34  ./d710/proprietary/WiMAXHiddenMenu.apk.parts/res/drawable-hdpi/icon.png
