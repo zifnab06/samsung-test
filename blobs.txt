@@ -1300,7 +1300,7 @@ c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2usc/propri
 7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2usc/proprietary/lib/libsensor1.so
 b17184196244dffe357a5dc489a451e6e6bcd1cb8ebb5599a27233ac8a378570  ./d2usc/proprietary/lib/libreference-ril.so
 5655c755efc085b07b453b7ae025e5b3d83c8f6e7d23e5bc1f3bf517276af797  ./d2usc/proprietary/lib/libqmiservices.so
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2usc/proprietary/vendor/firmware/libpn544_fw.so
+fc6e0b170c8e15ff015fb342eb3f65805aec7d10f2ca42f500ced92afc12ee34  ./d2usc/proprietary/vendor/firmware/libpn544_fw.so
 7d40d1cdd060f66bded8bced251274e0659ce032b81338b2d3c079907a8248f0  ./c1-common/overlay/packages/apps/Launcher2/res/layout/all_apps.xml
 9cd1597b8bcef1a82d237e79c8d2f52df5f3d708ed6c39a1acd7977bc115349b  ./c1-common/proprietary/libsecjpegboard.so
 227f08478d0c4372d0462e37183e4e3aa558d9449cbcb49971137cee0aa15400  ./c1-common/proprietary/libtvout.so
@@ -2891,7 +2891,7 @@ c5b522ca28846bb8c202f16c11d774c88fbd08897df76a54254f933f27a60908  ./d2vzw/propri
 b59ca81e816d28513765100aa265fe2681d4c03fda664ae896e3fa00e44a9da8  ./d2vzw/proprietary/lib/libaudcal.so
 30b1b2d7a0616c382940b83a53bfac14196e979c21629810fca1dc3b78e45bc6  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
 ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2vzw/proprietary/lib/hw/gps.default.so
-7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
+0a3a1e13fb308908cc38c281e1d50787f0358644a7d732871799eeeb0daa21fa  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
 05f7887b64e6d2cc05b4e3b32fae034f6ab806203c83e6426864095a3b2244d7  ./d2vzw/proprietary/lib/hw/sensors.msm8960.so
 7a8e5bebc4aacfa5b7f922f72538aa83b663d30238ffd9fa61cff7aec4a557e2  ./d2vzw/proprietary/lib/libqdi.so
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2vzw/proprietary/lib/libaudioalsa.so
@@ -2918,7 +2918,7 @@ f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2vzw/propri
 6ae36df085f7766903dcdfd46f91d701659edab313ff3f288e5a17006fd4f7d9  ./d2vzw/proprietary/apps/VZWAPNLib.apk
 10181638b74523ac37d5d97839f1ec50e895715f2071375d2779cdd3888af703  ./d2vzw/proprietary/apps/vzwapnpermission.apk
 d9aad6df56e3825f20803d97c170ca08e8bff3ee80a18bc25b55d1856cd812b5  ./d2vzw/proprietary/apps/VZWAPNService.apk
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2vzw/proprietary/vendor/firmware/libpn544_fw.so
+5bb17da2706ca9878736179f268080d403395f0a600abc7e3d5e1054a5c71fb1  ./d2vzw/proprietary/vendor/firmware/libpn544_fw.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincyatt/proprietary/etc/wifi/wl
 abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
 baba4387a81ddc57d9a18af508c243b528259e99271d9f09169e3520df3beba5  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt
