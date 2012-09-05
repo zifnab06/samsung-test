@@ -2577,9 +2577,11 @@ b7cab78c59f1ab159ab6f9be9406a5fe0ca60228208e634b2809b21ba5a6ce79  ./p4wifi/propr
 a50e5eb2fe78b9524837fe9d5b16f2a91803119aa99586e919e92027276a3f9c  ./p4wifi/proprietary/lib/libnvmm.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./p4wifi/proprietary/lib/lib_Samsung_Resampler.so
 09aa3f482f4f3f555037bb275588b4847ed33ef4b827141705491240d7f621fa  ./p31xx/p3100/system/lib/libril.so
+545f425919e3cd614ec1be25024734235e24ff16143a5002c47052ef9969aaee  ./p31xx/p3100/system/lib/hw/sensors.omap4.so
 a13e71b012a9a1e3c30b915f7903004965d95aea59470d3532ae8a6eff035038  ./p31xx/p3100/system/lib/libsec-ril.so
 48a293e6dc295fe5c2cb6a2d2827b3df67b9f8d972c74c275433b17661d4e014  ./p31xx/p3100/system/lib/libsecril-client.so
 09aa3f482f4f3f555037bb275588b4847ed33ef4b827141705491240d7f621fa  ./p31xx/p3113/system/lib/libril.so
+7341cbe817d52ac57ba4ad7e11625965ccb69ec88c3f384a2c72cc0b3e7dbaac  ./p31xx/p3113/system/lib/hw/sensors.omap4.so
 48a293e6dc295fe5c2cb6a2d2827b3df67b9f8d972c74c275433b17661d4e014  ./p31xx/p3113/system/lib/libsecril-client.so
 7ef7e2302f9aa908740573c50d597468b8d66d36f8824a9cdf1b9ebb0c97cd67  ./p31xx/common/system/etc/wifi/bcmdhd_apsta.bin
 fcad66df9f1ed849d3a63cfb33046b4df9266f2f586adc75882bba202ac6c311  ./p31xx/common/system/etc/wifi/nvram_mfg.txt
@@ -2603,7 +2605,6 @@ bf5b7ca6f4f621e024c4c352cb69941af3833bf5add2c129db5d843580a6232c  ./p31xx/common
 1bc210133b72843d0288e5ec750754c90c046b1c8783123b10936490449a9f8b  ./p31xx/common/system/lib/libmm_osal.so
 4a5f1ade170b38377943a24739197a44f5ec7b59300e09c032dee8aefc0c529f  ./p31xx/common/system/lib/libdomx.so
 ac088b294e9c9eb7acdd8cb62260f1e36a0497a102ef2e9de87a6ef12d91364a  ./p31xx/common/system/lib/hw/camera.omap4.so
-545f425919e3cd614ec1be25024734235e24ff16143a5002c47052ef9969aaee  ./p31xx/common/system/lib/hw/sensors.omap4.so
 8bc6f51b7f55273243cdd3d42be680a762c4d28c8c09f0b0cf420d63f6d606de  ./p31xx/common/system/lib/hw/gps.omap4.so
 485e49de5a93b40320e908f1d66f97f4c0463adc51a6256c10fa7f7d40751df4  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
 0abcf2ca7c3baea7e50119af1aa68ec6bf4de06278012d2fedc02d4df99f1df3  ./p31xx/common/system/lib/libI420colorconvert.so
@@ -2627,6 +2628,7 @@ e1bf4cdc04ab295467a348de7f7ccc29b2aa4e428c9f0f97b6384cf3dccb07ab  ./p31xx/common
 439d6a8b802c60a7d28aa24f487b7bb08d18dc31a430769260edb2e2b739ea1d  ./p31xx/common/system/vendor/lib/libusc.so
 a65d5c06c19b4437fa8483eebfd17b06cc287c1fed02a2a43529c8ff6fae19aa  ./p31xx/common/system/vendor/lib/libglslcompiler.so
 09aa3f482f4f3f555037bb275588b4847ed33ef4b827141705491240d7f621fa  ./p31xx/p3110/system/lib/libril.so
+7341cbe817d52ac57ba4ad7e11625965ccb69ec88c3f384a2c72cc0b3e7dbaac  ./p31xx/p3110/system/lib/hw/sensors.omap4.so
 48a293e6dc295fe5c2cb6a2d2827b3df67b9f8d972c74c275433b17661d4e014  ./p31xx/p3110/system/lib/libsecril-client.so
 9ab40ca48dce998c8b0154db227655f85b530093f187e40eed3fa4f839a78450  ./i9100g/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 8a5d73da7c422f7a30ecaffe2828a98c946daecb94e13bd5cd0bcbcb6d666b6f  ./i9100g/proprietary/system/etc/wifi/nvram_mfg.txt_murata
