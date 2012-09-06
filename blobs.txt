@@ -1102,12 +1102,14 @@ b7cab78c59f1ab159ab6f9be9406a5fe0ca60228208e634b2809b21ba5a6ce79  ./p5wifi/propr
 a50e5eb2fe78b9524837fe9d5b16f2a91803119aa99586e919e92027276a3f9c  ./p5wifi/proprietary/lib/libnvmm.so
 ed51a5ddafc64bd2f4d5f47d5bfc1b4343cb2ea9d552f695594ee0b7d07be07f  ./p5wifi/proprietary/lib/lib_Samsung_Resampler.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincytmo/proprietary/etc/wifi/wl
+abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincytmo/proprietary/etc/wifi/nvram_mfg.txt_murata
 baba4387a81ddc57d9a18af508c243b528259e99271d9f09169e3520df3beba5  ./quincytmo/proprietary/etc/wifi/nvram_mfg.txt
 920a2648d77c89d75ad3ff5be62e7a3621ec1e4eef97af3c25f8c67e95a32608  ./quincytmo/proprietary/etc/wifi/bcm4330_apsta.bin
 7cc793cf7de5677d704741fb4a7b9f57e026737fb54c7bb9c11069e2e379cc9b  ./quincytmo/proprietary/etc/wifi/wpa_supplicant.conf
 c46120196e503de4667f1ca423d5440fd101d180eb114243f710a3077cb651b3  ./quincytmo/proprietary/etc/wifi/nvram_net.txt
 1e3407afa44869852b3ac21fdc17c2f618e59d613873ba585afb8bcd1b958cc7  ./quincytmo/proprietary/etc/wifi/bcm4330_mfg.bin
 b771382e5932233d922cd52b4719ed7b29cff168b90bfdb7489c6d994b44d96c  ./quincytmo/proprietary/etc/wifi/bcm4330_p2p.bin
+426e9cb4fa8cb222d67891a5906293657d90e27d1c145bc92fdc2d529a5c3c79  ./quincytmo/proprietary/etc/wifi/nvram_net.txt_murata
 65e2332a41cca36ee58e37f07dda104990cb69ca128eed449a9f994f798feb7f  ./quincytmo/proprietary/etc/wifi/bcm4330_sta.bin
 07890b9d5192ea3a1cfa4c42722b882ee0b87fbcf77a107704bff361536cfec3  ./quincytmo/proprietary/etc/firmware/cyttsp_8660_ffa.hex
 820f561c46046b3077359f8402b198a46ea459c9bb28b62af81d6877003ffa61  ./quincytmo/proprietary/etc/firmware/vidc_1080p.fw
@@ -1169,7 +1171,9 @@ aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./quincytmo/pr
 26f146c51285600cb540482cb336315220ebb84b3a588d029d0b82461fd2a7bd  ./quincytmo/proprietary/lib/libqc-opt.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./quincytmo/proprietary/lib/libnetmgr.so
 a42252ffc7f5504e1da6dc452a3e9ee757c105aefc59a8d8f855cea9bef93d3c  ./quincytmo/proprietary/lib/libaudcal.so
+8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincytmo/proprietary/lib/libpn544_fw.so
 8bde4901c5e22ddfcf446e0ba539629c17a6eef27544877cbf4b4f69c9ab21d3  ./quincytmo/proprietary/lib/hw/sensors.default.so
+531bd29ba136ea18d8201fc5cec4ffeb87f4ce35cbdffecac504fedf3bc16ee3  ./quincytmo/proprietary/lib/hw/nfc.qcom.so
 81014b3111e267c9b08fd75769de1e17de3c9281440dba5041e47a882ed2a694  ./quincytmo/proprietary/lib/hw/camera.msm8660.so
 98ec0e41fbaa343e0a6953c96dcdbd5f14f66d5077a5fcccf7f021495294c598  ./quincytmo/proprietary/lib/libqdi.so
 142e9ab29464186956b4c687aafbe561f3bd7c376a83fa75a16804157caa38c1  ./quincytmo/proprietary/lib/libaudioalsa.so
@@ -3038,7 +3042,6 @@ a5f5c6d964d158ba0fe8159b58f100fd3c8d5c3103dd80eeac88a2c243e209c9  ./quincyatt/pr
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./quincyatt/proprietary/bin/immvibed
 0fc2a2d28baabe9b41004aa84feb65f32a500a7555ba26630c5c5bb16a040f13  ./quincyatt/proprietary/bin/btnvtool
 4b738aac51f511ad4e0b2e75c7692355e911f6dff95113bcad439bad1ca6b2ab  ./quincyatt/proprietary/bin/usbhub_init
-c2e57801ae5b60ff18023ca4d748efb908827078481072cbb2b02870fed19b49  ./quincyatt/proprietary/bin/hostapd
 dcb06564b17949f5cb145a6f80aa51603991afe5c1f75c1f2d3c9273b6eacca1  ./quincyatt/proprietary/bin/qmuxd
 47b5016d9f5bc13503e0ac8bfa094f93d0a4f57850fb1e4443c3d2c80d9a071b  ./quincyatt/proprietary/bin/netmgrd
 48562d66f10bef61db05a4eb6baac4fc1c0cd57d88e9ecfd7a55bb74a3dc5348  ./quincyatt/proprietary/bin/qcks
