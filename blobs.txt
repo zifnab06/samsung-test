@@ -598,6 +598,7 @@ fe31c605b104d63380ab99f42811bb42a559995324dc5475ee61adbca551adae  ./p5att/propri
 53a2c54d1addcf44c1395bd2590a642d72857d448cf4b9f5db2cf9ca00d0239e  ./p5att/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./p5att/proprietary/lib/libc2d2_z180.so
 e371ead59f35c4edfd5dc1ea17db0849dea4530323779b69f3c7b17d3af3f891  ./p5att/proprietary/lib/libloc_eng.so
+6aaa67a73783102032eb4ab2cda9df3ee6b76c03324270f0bba4e6f8450930c8  ./p5att/proprietary/lib/libqc-opt.so
 5bdcd4b4f222a8c09203ec15e3edc081c9223b28081f56c08dcad2527e7ec8ee  ./p5att/proprietary/lib/libnetmgr.so
 32c3df01f007962a81e2366111f87ac81df3b15a251c20853cd67b60ca8eb77a  ./p5att/proprietary/lib/libaudcal.so
 dfede90eeca81f06e272bc44b4a9e02ab2eaf62df6c45d39fe6bc244116dde5f  ./p5att/proprietary/lib/hw/sensors.default.so
@@ -1355,7 +1356,7 @@ cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./quincytmo/pr
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./quincytmo/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./quincytmo/proprietary/lib/libc2d2_z180.so
 aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./quincytmo/proprietary/lib/libloc_eng.so
-26f146c51285600cb540482cb336315220ebb84b3a588d029d0b82461fd2a7bd  ./quincytmo/proprietary/lib/libqc-opt.so
+6aaa67a73783102032eb4ab2cda9df3ee6b76c03324270f0bba4e6f8450930c8  ./quincytmo/proprietary/lib/libqc-opt.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./quincytmo/proprietary/lib/libnetmgr.so
 a42252ffc7f5504e1da6dc452a3e9ee757c105aefc59a8d8f855cea9bef93d3c  ./quincytmo/proprietary/lib/libaudcal.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincytmo/proprietary/lib/libpn544_fw.so
@@ -2091,7 +2092,7 @@ cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./skyrocket/pr
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./skyrocket/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./skyrocket/proprietary/lib/libc2d2_z180.so
 aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./skyrocket/proprietary/lib/libloc_eng.so
-26f146c51285600cb540482cb336315220ebb84b3a588d029d0b82461fd2a7bd  ./skyrocket/proprietary/lib/libqc-opt.so
+6aaa67a73783102032eb4ab2cda9df3ee6b76c03324270f0bba4e6f8450930c8  ./skyrocket/proprietary/lib/libqc-opt.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./skyrocket/proprietary/lib/libnetmgr.so
 b32af432a9a20cd7fcea6c9b6ff58eb5b9a48f93a2dc6452f89753778409663d  ./skyrocket/proprietary/lib/libaudcal.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./skyrocket/proprietary/lib/libpn544_fw.so
@@ -2709,7 +2710,7 @@ cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./hercules/pro
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./hercules/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./hercules/proprietary/lib/libc2d2_z180.so
 31e9643467012a3430d363a84b11b54ad40ee0edf289d2d94f857f48f9f78ef2  ./hercules/proprietary/lib/libloc_eng.so
-26f146c51285600cb540482cb336315220ebb84b3a588d029d0b82461fd2a7bd  ./hercules/proprietary/lib/libqc-opt.so
+6aaa67a73783102032eb4ab2cda9df3ee6b76c03324270f0bba4e6f8450930c8  ./hercules/proprietary/lib/libqc-opt.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./hercules/proprietary/lib/libnetmgr.so
 0663c3ab671c47c013c0ad1825138573801c29a59099a791bf81bfaa709ab47c  ./hercules/proprietary/lib/libaudcal.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./hercules/proprietary/lib/libpn544_fw.so
@@ -3263,7 +3264,7 @@ cd4287136b95c7f72ecf308095b580b93216826a0eb89831f55405a316a8df20  ./quincyatt/pr
 e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./quincyatt/proprietary/lib/libril-qcril-hook-oem.so
 d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./quincyatt/proprietary/lib/libc2d2_z180.so
 aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./quincyatt/proprietary/lib/libloc_eng.so
-26f146c51285600cb540482cb336315220ebb84b3a588d029d0b82461fd2a7bd  ./quincyatt/proprietary/lib/libqc-opt.so
+6aaa67a73783102032eb4ab2cda9df3ee6b76c03324270f0bba4e6f8450930c8  ./quincyatt/proprietary/lib/libqc-opt.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./quincyatt/proprietary/lib/libnetmgr.so
 accd411c48714b8adbf5d7ffd1e4eea601650e91b74e0f9dd3932b598022fe10  ./quincyatt/proprietary/lib/libaudcal.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/lib/libpn544_fw.so
