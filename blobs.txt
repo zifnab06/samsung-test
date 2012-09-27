@@ -28,7 +28,6 @@ b6acf9748515def03114deeaf326c787f18b149eafee032ae86deb3bb7681877  ./n80xx/propri
 8897b0717e6498f6e20ae546f5f90701a4e5d0b09eec76355d2c594097f3d15a  ./n80xx/proprietary/system/bin/rild
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./n80xx/proprietary/system/lib/libQmageDecoder.so
 4d1a0319e9da0138ec3205d68c18a0d347b2d6ac4f99c2bd2a2c5de9943adac4  ./n80xx/proprietary/system/lib/libcec.so
-19040e9fdec875b4b9d5d89f2b9cf5ca2f9cf515f771ca986a4054a5a8c73b79  ./n80xx/proprietary/system/lib/libsync.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./n80xx/proprietary/system/lib/libsecnativefeature.so
 8f4cd5fac70e0d00d31208c5d52d0b9e5c3d940a137c23e49404900c3f8cdd34  ./n80xx/proprietary/system/lib/libMcClient.so
 9d068181f3a34159a5240a27053ae93a7f2866517ab96e60d437a134af58e896  ./n80xx/proprietary/system/lib/libtvout_jni.so
@@ -333,7 +332,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-9ad125354eb3222332d6a36247e0256172c1996e5356d87f7a957f3eae500979  ./blobs.txt
+4ec01e100a7d696961df6379c8608f2f749eced8559e28ae3652350883185b9a  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -3528,7 +3527,6 @@ c41aec670d3201dfe6c36ec5a4bcd80c477887e10063d488995da0c8913189cc  ./i9300/propri
 9d11d0f2fff24e22c92b81ad22ef5d0d664fbce55b7e9e48ddb040d0a61dde64  ./i9300/proprietary/system/bin/bcm4334_semcosh.hcd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9300/proprietary/system/lib/libQmageDecoder.so
 4d1a0319e9da0138ec3205d68c18a0d347b2d6ac4f99c2bd2a2c5de9943adac4  ./i9300/proprietary/system/lib/libcec.so
-19040e9fdec875b4b9d5d89f2b9cf5ca2f9cf515f771ca986a4054a5a8c73b79  ./i9300/proprietary/system/lib/libsync.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./i9300/proprietary/system/lib/libsecnativefeature.so
 8f4cd5fac70e0d00d31208c5d52d0b9e5c3d940a137c23e49404900c3f8cdd34  ./i9300/proprietary/system/lib/libMcClient.so
 9d068181f3a34159a5240a27053ae93a7f2866517ab96e60d437a134af58e896  ./i9300/proprietary/system/lib/libtvout_jni.so
