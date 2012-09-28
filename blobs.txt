@@ -1710,7 +1710,7 @@ dae74d7e1eb74280c7d36b3efe65119fe59725ac03b081d0f8e285b2c8b98440  ./toro/proprie
 275ec40039e6ce312facd7b7c2b2e6ad4e6e286d3d13e1afdbff82033ef384a1  ./toro/proprietary/VZWAPNService.apk
 c7f3c2fbcc474dad94ed3cbcd66c88efd4fc9807e1b006f666122a6e324821b1  ./toro/proprietary/com.vzw.hardware.lte.xml
 2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./toro/proprietary/libwvm.so
-eaba2864967654ca6799a7a48faf9b4a9d4c310cbd6f04049fd0890d2ec7f58c  ./toro/proprietary/libsec-ril_lte.so
+54e681ed348fc9f9c151896b65f3fa9f6e48f6e9715710e551301e7a275d81e0  ./toro/proprietary/libsec-ril_lte.so
 43154a0a30d8eb3352c6e09db707e53783359a52c9ba16ae6e18ded2f7dd054e  ./toro/proprietary/SyncMLSvc.apk
 f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./toro/proprietary/libdrmwvmplugin.so
 401bf3225becafa08778a20f82ae8bb8313e387530773c34a6acf2433747fccd  ./toro/proprietary/lib_gsd4t.so
