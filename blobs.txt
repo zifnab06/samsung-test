@@ -218,7 +218,6 @@ d3908a13d303ea9996aac3d4cafc4f23c46b760196a465f684def82b914c1ed9  ./galaxys2-com
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./galaxys2-common/proprietary/system/cameradata/datapattern_front_420sp.yuv
 7e6dddaf9ab56446818d9b109f38ea3cfddd02ecfe53007b034d1c6e38daaccb  ./galaxys2-common/proprietary/system/bin/bintvoutservice
 c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./galaxys2-common/proprietary/system/lib/libcec.so
-19040e9fdec875b4b9d5d89f2b9cf5ca2f9cf515f771ca986a4054a5a8c73b79  ./galaxys2-common/proprietary/system/lib/libsync.so
 ee6fe6a84e5f5396716cdf2904b65716a3c7f25c9466d92d28bc8a0ca6908899  ./galaxys2-common/proprietary/system/lib/libtvout_jni.so
 ee98e23cc40c3a0c369b254854f473285dd38e28782cebf421c5dfe6d0bcbe46  ./galaxys2-common/proprietary/system/lib/liblvvefs.so
 83df6f7da988b85708a2ecb54a3950e46e7bbf8dad85bc6c609680063802477f  ./galaxys2-common/proprietary/system/lib/libsamsungAcousticeq.so
@@ -333,7 +332,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-f607333818e623687d5ac2ac008f89b3c35a25ad51739c1bff97fcc723d0120f  ./blobs.txt
+206c828ed0cfdc7e7fad2d18559f98598c466b2569b0d7c80bb2da2b3a9f3657  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -1000,7 +999,6 @@ eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./smdk4210-tab
 7e6dddaf9ab56446818d9b109f38ea3cfddd02ecfe53007b034d1c6e38daaccb  ./smdk4210-tab/props/system/bin/bintvoutservice
 8db2bc9be62d7c1f63338cb236b6a08eb2c5b3da93d2026c8de7c9ba982fbbc7  ./smdk4210-tab/props/system/bin/macloader
 c02c9b556b0d6036853b4ed11daa0813eb89e84cbe25ec5b4546abd1d21eb716  ./smdk4210-tab/props/system/lib/libcec.so
-19040e9fdec875b4b9d5d89f2b9cf5ca2f9cf515f771ca986a4054a5a8c73b79  ./smdk4210-tab/props/system/lib/libsync.so
 c4c097120e5cd6e9138b2b737eaa1a1e15cf91465b78071d46e209b7cedff6c6  ./smdk4210-tab/props/system/lib/libsecnativefeature.so
 305cd64edb40f1d733759dd9469ca25c7f1fce460d6e9e10ccc9e66593e954e5  ./smdk4210-tab/props/system/lib/libtvout_jni.so
 9c5b0f1068cfb17a9b1c4a9b2b89d8eb6eb195cd680e2f058d1861b395659bb4  ./smdk4210-tab/props/system/lib/libmllite.so
