@@ -3524,6 +3524,7 @@ b445fe660c35bd09eb12240fb516df72cf6081b41688a7ed0ab8a8150843ba1d  ./i9300/propri
 c41aec670d3201dfe6c36ec5a4bcd80c477887e10063d488995da0c8913189cc  ./i9300/proprietary/system/bin/bintvoutservice
 9d11d0f2fff24e22c92b81ad22ef5d0d664fbce55b7e9e48ddb040d0a61dde64  ./i9300/proprietary/system/bin/bcm4334.hcd
 2c75577f25b636115615d2ed6ae4375da4e70b8f7e4d75bcf0fbacbc3a921535  ./i9300/proprietary/system/bin/rild
+ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./i9300/proprietary/system/bin/hostapd
 9d11d0f2fff24e22c92b81ad22ef5d0d664fbce55b7e9e48ddb040d0a61dde64  ./i9300/proprietary/system/bin/bcm4334_semcosh.hcd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./i9300/proprietary/system/lib/libQmageDecoder.so
 4d1a0319e9da0138ec3205d68c18a0d347b2d6ac4f99c2bd2a2c5de9943adac4  ./i9300/proprietary/system/lib/libcec.so
