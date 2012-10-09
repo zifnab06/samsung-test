@@ -2054,6 +2054,7 @@ a73c4e6d8b72b1a34dbdb29833ba65103904eb8704e79e9880898192c9371456  ./t769/proprie
 cc457fb9f67a543f77e83daadad4d8167f74ca3b0f7258f5b07898d36e50cdfc  ./t769/proprietary/bin/mpdecision
 34c4a9c96af5202bd115ed959c35d034fdac56fc4ea2df62c4a9778862521adf  ./t769/proprietary/bin/usbhub
 b7992ad80b2312394ce12a1d056b0e5dd6a1c721bf22c6c6102b8d66712283c3  ./t769/proprietary/bin/qmiproxy
+2302f89b842153a5069e77817595147aaa2cf202ce8f3980f6263f3dfa8014da  ./t769/proprietary/bin/macloader
 d022833bc9793515222db4cf96fb42d977a6c5395af889f95b2ecf6d2ea0096c  ./t769/proprietary/bin/rmt_storage
 001bd98089a96e38fea8793fdb5e1403c06efbe7c948fe41fc5383567be6cd8f  ./t769/proprietary/bin/ds_fmc_appd
 3f2ec0d2df4cabf09f7daa54d6f002868eaa346b135df068cfc41bc2bebff9d7  ./t769/proprietary/bin/sec-ril
