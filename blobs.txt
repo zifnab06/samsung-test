@@ -3415,7 +3415,6 @@ c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2att/propri
 66a1ce0262e98c34b497170ce1a76ea3b4f9cb6ef997b7b2b83a867db01ae7bd  ./d2att/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2att/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2att/proprietary/vendor/firmware/libpn544_fw.so
-473fdea6a604b405682866179ebf0b18c6903ff03ee5c23c17ae09046ef79cb2  ./toroplus/proprietary/SprintExtension.apk
 99da5a9af2e7777e217fe29e90c7ea8b5953bf821b5cb2666b4a52af6e33737f  ./toroplus/proprietary/ducati-m3.bin
 0c159150abad63dc171c9c7fdfff1317c2d79015b86b3aba405dea8641dd79d6  ./toroplus/proprietary/libsyncml_core.so
 9bb86e95d751b90c5d616b329e615001fdaa87f328939960f9ceb4e121db5bb6  ./toroplus/proprietary/libwvm.so
@@ -3431,6 +3430,7 @@ bf8aed1b625663f685ae6c160ff185083a2f1f666a49cd2277ded31ecd38452c  ./toroplus/pro
 7f4e62776698dd4729e0aaf8ae2e96fddd52b76d13f10b1bc3102298425be6b3  ./toroplus/proprietary/libsyncml_port.so
 66f12227c10b7c9e3d76ef135be8cd5611b35014a30abd279425dbc7c45cda58  ./toroplus/proprietary/gps.omap4.so
 4fb73710f0fee263e15c8200cd06a80b706358bb42c1262c0d00b095905f268e  ./toroplus/proprietary/BIP.apk
+9b4c3cb1e57910b34037aee1a84c4389e3c88468692efa8803208c3af92df827  ./toroplus/proprietary/HiddenMenu.apk
 4f6cdb2eb9eb1ef47adc228f4f8af52c9a518f926a20ef2eb942fbdca6e2ac66  ./n7000/proprietary/system/etc/wifi/nvram_net.txt_semcove
 dfd4866706cfaf0d5a021d9dfec01f01e3a6cf1c02ffce3f5d5bcf404bf921b0  ./n7000/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 79fa2ac4503cd228a0895078ab644fb41c6113412ef57cbc6373794ff4d430c6  ./n7000/proprietary/system/etc/wifi/nvram_mfg.txt_semcove
