@@ -3479,10 +3479,12 @@ c24eb996c0073960ed9fe5d4b84de8730f71c18720200eb2f4ffef20073ea018  ./d710/proprie
 87e01ce2e80f10625ccd5952ef68bac2658df3cdc21eed12442c46f9f8eb63ac  ./d710/proprietary/system/lib/libsec-ril40.so
 97770ea4d5a8568e230d225a7957ebb2141bcdabfa15c81ec122b2d5f3b11864  ./d710/proprietary/system/lib/libril.so
 da054ec4827befc0c658a268047eca35c4bd29f16a84577c3e836575dc13b340  ./d710/proprietary/system/lib/libWiMAXNative.so
+0c159150abad63dc171c9c7fdfff1317c2d79015b86b3aba405dea8641dd79d6  ./d710/proprietary/system/lib/libsyncml_core.so
 fc641f78bbf9c8ec90565b1e4875c387bd6c5d053a3a11b430d3ac41b24928a8  ./d710/proprietary/system/lib/libakm.so
 a771314043f300dbe8bcdd697688e0db40c654595ac479cadd78ea1d19bfde4e  ./d710/proprietary/system/lib/libSECmWiMAXcAPI.so
 f71daed7bcc3dffd3767559b459c858fa0cd3cc09eea9147c4495532bb7c54f0  ./d710/proprietary/system/lib/hw/gps.exynos4.so
 c240ea42fd718a7c3760d10fe100a8c00e2606c3b7cddb6ec1aa1037f52b22b6  ./d710/proprietary/system/lib/libsecril-client.so
+7f4e62776698dd4729e0aaf8ae2e96fddd52b76d13f10b1bc3102298425be6b3  ./d710/proprietary/system/lib/libsyncml_port.so
 3e33295b1c0acc8fc423ea16a8b16740f19f6096ea81e3a3ed7bc1dfeff9084b  ./d710/proprietary/system/vendor/firmware/wimaxfw.bin
 dfebc1727f266dbb5d6d237183b79aaf94142192b364e802e3ccfc46315b1ba4  ./d710/proprietary/system/vendor/firmware/wimaxloader.bin
 7b1e33c7d64065902273bf36deed5301c70cf48533e6836a6e08de688f61014b  ./d710/proprietary/SyncMLSvc.apk
