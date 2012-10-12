@@ -3476,6 +3476,8 @@ cd789d1594c8e40dbd8e77411d232d378422de55ddeae976027be442220e3e2c  ./d710/proprie
 b5521af2ca0c0d19e083dd9d8494038a2e4d120ce741850e6c333d92ba438833  ./d710/proprietary/system/bin/gpsd
 c24eb996c0073960ed9fe5d4b84de8730f71c18720200eb2f4ffef20073ea018  ./d710/proprietary/system/bin/pppd_runner
 12f3c38e67d45f993d44b6a3b29c8f6f885386b1d8efcb444735d8ab4b76e4ad  ./d710/proprietary/system/bin/rild
+7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./d710/proprietary/system/bin/immvibed
+55f3391396bd69f0424b9c13de778f02d638c491baec6c92a9d2019bc92123f8  ./d710/proprietary/system/bin/dvfs.sh
 87e01ce2e80f10625ccd5952ef68bac2658df3cdc21eed12442c46f9f8eb63ac  ./d710/proprietary/system/lib/libsec-ril40.so
 97770ea4d5a8568e230d225a7957ebb2141bcdabfa15c81ec122b2d5f3b11864  ./d710/proprietary/system/lib/libril.so
 da054ec4827befc0c658a268047eca35c4bd29f16a84577c3e836575dc13b340  ./d710/proprietary/system/lib/libWiMAXNative.so
