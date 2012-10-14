@@ -12,16 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/p31xx
+# Pick up overlay for features that depend on non-open-source files
+DEVICE_PACKAGE_OVERLAYS := vendor/samsung/n80xx/overlay
 
-# Prebuilt libraries that are needed to build open-source libraries
-PRODUCT_COPY_FILES := \
-    $(LOCAL_PATH)/p3113/system/lib/libril.so:obj/lib/libril.so \
-    $(LOCAL_PATH)/p3113/system/lib/libsecril-client.so:obj/lib/libsecril-client.so
-
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/p3113/system/lib/libril.so:system/lib/libril.so \
-    $(LOCAL_PATH)/p3113/system/lib/libsecril-client.so:system/lib/libsecril-client.so
-
-PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/p3113/system/lib/hw/sensors.omap4.so:system/lib/hw/sensors.omap4.so
+$(call inherit-product, vendor/samsung/n80xx/n80xx-vendor-blobs.mk)
