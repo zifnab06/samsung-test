@@ -1283,7 +1283,7 @@ ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2usc/propri
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2usc/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2usc/proprietary/lib/libchromatix_ov2720_default_video.so
 c2e06549757ca4da7d836620879970c9a103c16068008d9ecc0b46cfe6f5d819  ./d2usc/proprietary/lib/libsecril-client.so
-d0bbbfdff0964c6b4a19f30bd71ba3fcff93e0ec72b7e351e0d161f78477d4ea  ./d2usc/proprietary/lib/liboemcamera.so
+2f96930bb6a0a3e10ee4067514e6064109f899972c81be51bb22c77bf3225c1b  ./d2usc/proprietary/lib/liboemcamera.so
 22b7674d3da213988c41eeb70c3b2151c7c4b4c1c1cd63fe38cefb25d56edff6  ./d2usc/proprietary/lib/libmlplatform.so
 74cf626af34727c48cbd802933249f0a7b3c64d878043e40c6494e775a4b1713  ./d2usc/proprietary/lib/libquipc_os_api.so
 bfc4515fe70b990666a3701aee0b9c885b30a377e7dc197887e8c75f0741b1c8  ./d2usc/proprietary/lib/libchromatix_s5k6a3yx_preview.so
@@ -1297,7 +1297,7 @@ f2ff4513508b1f486f6c81fae42974d81bbeeafd25f1df103a9fe736e2f20ce3  ./d2usc/propri
 c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2usc/proprietary/lib/libgps.utils.so
 612fe877443c7eb3a81f03cf6ddd57f8eb5d076faf1c0091b8efe45f1caeacc2  ./d2usc/proprietary/lib/libmmstillomx.so
 27f3348e451cf0bdec03111a944e8b074a7b2e41fe7d3d390a96d7325a25b79b  ./d2usc/proprietary/lib/libDivxDrm.so
-7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2usc/proprietary/lib/libsensor1.so
+2226174cbe1957b35c238db03f363c6457075aade49e0a2d3e54932702539e84  ./d2usc/proprietary/lib/libsensor1.so
 b17184196244dffe357a5dc489a451e6e6bcd1cb8ebb5599a27233ac8a378570  ./d2usc/proprietary/lib/libreference-ril.so
 5655c755efc085b07b453b7ae025e5b3d83c8f6e7d23e5bc1f3bf517276af797  ./d2usc/proprietary/lib/libqmiservices.so
 fc6e0b170c8e15ff015fb342eb3f65805aec7d10f2ca42f500ced92afc12ee34  ./d2usc/proprietary/vendor/firmware/libpn544_fw.so
@@ -1735,7 +1735,7 @@ e6f6ff8bb90f522b160a0b7fe4725e2bd9f417b3dc1fc344cede3ca8964ced40  ./d2tmo/propri
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2tmo/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2tmo/proprietary/lib/libchromatix_ov2720_default_video.so
 c2e06549757ca4da7d836620879970c9a103c16068008d9ecc0b46cfe6f5d819  ./d2tmo/proprietary/lib/libsecril-client.so
-d0bbbfdff0964c6b4a19f30bd71ba3fcff93e0ec72b7e351e0d161f78477d4ea  ./d2tmo/proprietary/lib/liboemcamera.so
+2f96930bb6a0a3e10ee4067514e6064109f899972c81be51bb22c77bf3225c1b  ./d2tmo/proprietary/lib/liboemcamera.so
 22b7674d3da213988c41eeb70c3b2151c7c4b4c1c1cd63fe38cefb25d56edff6  ./d2tmo/proprietary/lib/libmlplatform.so
 74cf626af34727c48cbd802933249f0a7b3c64d878043e40c6494e775a4b1713  ./d2tmo/proprietary/lib/libquipc_os_api.so
 bfc4515fe70b990666a3701aee0b9c885b30a377e7dc197887e8c75f0741b1c8  ./d2tmo/proprietary/lib/libchromatix_s5k6a3yx_preview.so
@@ -1749,7 +1749,7 @@ bc03c03a43db0e86ee797c8787edf6d2955b35097c3ebb21a0b5abc681e38de3  ./d2tmo/propri
 c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2tmo/proprietary/lib/libgps.utils.so
 612fe877443c7eb3a81f03cf6ddd57f8eb5d076faf1c0091b8efe45f1caeacc2  ./d2tmo/proprietary/lib/libmmstillomx.so
 27f3348e451cf0bdec03111a944e8b074a7b2e41fe7d3d390a96d7325a25b79b  ./d2tmo/proprietary/lib/libDivxDrm.so
-7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2tmo/proprietary/lib/libsensor1.so
+2226174cbe1957b35c238db03f363c6457075aade49e0a2d3e54932702539e84  ./d2tmo/proprietary/lib/libsensor1.so
 b17184196244dffe357a5dc489a451e6e6bcd1cb8ebb5599a27233ac8a378570  ./d2tmo/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2tmo/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2tmo/proprietary/vendor/firmware/libpn544_fw.so
@@ -2060,7 +2060,7 @@ b718e86d95310484610f3b6ae2f417f036cacfcf86828591b258230ebbb5b2c2  ./d2spr/propri
 0d54b0c274a38b99fdba2f7890cfabdba4d7f6bd8f6546f04bcbe915e02ef8cf  ./d2spr/proprietary/bin/macloader
 06e7454435fbe10ee95cb7c1f5a28d88e5b95940b2d22c3440d0d6e96251e2b2  ./d2spr/proprietary/bin/rmt_storage
 fb76b6e6a6ce97bccd32123b9621e0154dbae5fbb1e651cba2889f04c79b8aa7  ./d2spr/proprietary/bin/ds_fmc_appd
-0171bc1d64205a7758cf91ca136933838fbc7f36e565865dbc0c2f4e619c1eae  ./d2spr/proprietary/bin/sec-ril
+0044c7871c483fa0c9b365b21d325e1f565e2abb33e42092864df521ebbc6812  ./d2spr/proprietary/bin/sec-ril
 8be333d32ba2693cc990e02f6025645d8ba1d06fda2cb08930c7cffa746aa0cd  ./d2spr/proprietary/bin/brcm_poke_helper
 e9d658a485623019799f0f199f2b4cc32d7844c59350fa8fd062ca999a254a96  ./d2spr/proprietary/bin/thermald
 fb2b7c4426280edde2eb95d40657414344f1a0cb02ed446a1cfc42d2cb9b99ff  ./d2spr/proprietary/bin/port-bridge
@@ -2137,7 +2137,7 @@ ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2spr/propri
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2spr/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2spr/proprietary/lib/libchromatix_ov2720_default_video.so
 c2f9e915e61ce8a509db1553387a8dc6535905e7db89db5dd0ccec59053dd3aa  ./d2spr/proprietary/lib/libsecril-client.so
-d0bbbfdff0964c6b4a19f30bd71ba3fcff93e0ec72b7e351e0d161f78477d4ea  ./d2spr/proprietary/lib/liboemcamera.so
+2f96930bb6a0a3e10ee4067514e6064109f899972c81be51bb22c77bf3225c1b  ./d2spr/proprietary/lib/liboemcamera.so
 22b7674d3da213988c41eeb70c3b2151c7c4b4c1c1cd63fe38cefb25d56edff6  ./d2spr/proprietary/lib/libmlplatform.so
 74cf626af34727c48cbd802933249f0a7b3c64d878043e40c6494e775a4b1713  ./d2spr/proprietary/lib/libquipc_os_api.so
 bfc4515fe70b990666a3701aee0b9c885b30a377e7dc197887e8c75f0741b1c8  ./d2spr/proprietary/lib/libchromatix_s5k6a3yx_preview.so
@@ -2151,7 +2151,7 @@ f2ff4513508b1f486f6c81fae42974d81bbeeafd25f1df103a9fe736e2f20ce3  ./d2spr/propri
 c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2spr/proprietary/lib/libgps.utils.so
 612fe877443c7eb3a81f03cf6ddd57f8eb5d076faf1c0091b8efe45f1caeacc2  ./d2spr/proprietary/lib/libmmstillomx.so
 27f3348e451cf0bdec03111a944e8b074a7b2e41fe7d3d390a96d7325a25b79b  ./d2spr/proprietary/lib/libDivxDrm.so
-7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2spr/proprietary/lib/libsensor1.so
+2226174cbe1957b35c238db03f363c6457075aade49e0a2d3e54932702539e84  ./d2spr/proprietary/lib/libsensor1.so
 66a1ce0262e98c34b497170ce1a76ea3b4f9cb6ef997b7b2b83a867db01ae7bd  ./d2spr/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2spr/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2spr/proprietary/vendor/firmware/libpn544_fw.so
@@ -2897,7 +2897,7 @@ ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2vzw/propri
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2vzw/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2vzw/proprietary/lib/libchromatix_ov2720_default_video.so
 da0d7fe66b127908b1624c84d4ea93f0bdb8cf997cb635e86e382931e99af42a  ./d2vzw/proprietary/lib/libsecril-client.so
-d0bbbfdff0964c6b4a19f30bd71ba3fcff93e0ec72b7e351e0d161f78477d4ea  ./d2vzw/proprietary/lib/liboemcamera.so
+2f96930bb6a0a3e10ee4067514e6064109f899972c81be51bb22c77bf3225c1b  ./d2vzw/proprietary/lib/liboemcamera.so
 22b7674d3da213988c41eeb70c3b2151c7c4b4c1c1cd63fe38cefb25d56edff6  ./d2vzw/proprietary/lib/libmlplatform.so
 74cf626af34727c48cbd802933249f0a7b3c64d878043e40c6494e775a4b1713  ./d2vzw/proprietary/lib/libquipc_os_api.so
 bfc4515fe70b990666a3701aee0b9c885b30a377e7dc197887e8c75f0741b1c8  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_preview.so
@@ -2912,7 +2912,7 @@ f2ff4513508b1f486f6c81fae42974d81bbeeafd25f1df103a9fe736e2f20ce3  ./d2vzw/propri
 c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2vzw/proprietary/lib/libgps.utils.so
 612fe877443c7eb3a81f03cf6ddd57f8eb5d076faf1c0091b8efe45f1caeacc2  ./d2vzw/proprietary/lib/libmmstillomx.so
 27f3348e451cf0bdec03111a944e8b074a7b2e41fe7d3d390a96d7325a25b79b  ./d2vzw/proprietary/lib/libDivxDrm.so
-7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2vzw/proprietary/lib/libsensor1.so
+2226174cbe1957b35c238db03f363c6457075aade49e0a2d3e54932702539e84  ./d2vzw/proprietary/lib/libsensor1.so
 f2a199b8a5ab61b88e4222224a01f48b0c10845449a7142cb8f46ec38378e2c8  ./d2vzw/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2vzw/proprietary/lib/libqmiservices.so
 6ae36df085f7766903dcdfd46f91d701659edab313ff3f288e5a17006fd4f7d9  ./d2vzw/proprietary/apps/VZWAPNLib.apk
@@ -3133,7 +3133,7 @@ e6f6ff8bb90f522b160a0b7fe4725e2bd9f417b3dc1fc344cede3ca8964ced40  ./d2att/propri
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./d2att/proprietary/lib/libaudioalsa.so
 67fcb15048cc1e289aab9095630b574769d883c0bfc1412ed33f4bf53f6bc67d  ./d2att/proprietary/lib/libchromatix_ov2720_default_video.so
 c2f9e915e61ce8a509db1553387a8dc6535905e7db89db5dd0ccec59053dd3aa  ./d2att/proprietary/lib/libsecril-client.so
-d0bbbfdff0964c6b4a19f30bd71ba3fcff93e0ec72b7e351e0d161f78477d4ea  ./d2att/proprietary/lib/liboemcamera.so
+2f96930bb6a0a3e10ee4067514e6064109f899972c81be51bb22c77bf3225c1b  ./d2att/proprietary/lib/liboemcamera.so
 22b7674d3da213988c41eeb70c3b2151c7c4b4c1c1cd63fe38cefb25d56edff6  ./d2att/proprietary/lib/libmlplatform.so
 74cf626af34727c48cbd802933249f0a7b3c64d878043e40c6494e775a4b1713  ./d2att/proprietary/lib/libquipc_os_api.so
 fa99225e69375b1f4007cf95a77fba5c64fe42be20718bca356cfe86ab46c0f8  ./d2att/proprietary/lib/libchromatix_s5k6a3yx_preview.so
@@ -3147,7 +3147,7 @@ bc03c03a43db0e86ee797c8787edf6d2955b35097c3ebb21a0b5abc681e38de3  ./d2att/propri
 c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2att/proprietary/lib/libgps.utils.so
 612fe877443c7eb3a81f03cf6ddd57f8eb5d076faf1c0091b8efe45f1caeacc2  ./d2att/proprietary/lib/libmmstillomx.so
 27f3348e451cf0bdec03111a944e8b074a7b2e41fe7d3d390a96d7325a25b79b  ./d2att/proprietary/lib/libDivxDrm.so
-7c0ca447fac178c2dc569f7258ab28f76af01adda860aca695995072911240be  ./d2att/proprietary/lib/libsensor1.so
+2226174cbe1957b35c238db03f363c6457075aade49e0a2d3e54932702539e84  ./d2att/proprietary/lib/libsensor1.so
 66a1ce0262e98c34b497170ce1a76ea3b4f9cb6ef997b7b2b83a867db01ae7bd  ./d2att/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2att/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2att/proprietary/vendor/firmware/libpn544_fw.so
