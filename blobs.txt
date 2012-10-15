@@ -3475,6 +3475,7 @@ cfea85fa9fa2e33f0d70f7ffa0ef8006c541bf7ad26b016d7afca0d34ba92000  ./d710/proprie
 cd789d1594c8e40dbd8e77411d232d378422de55ddeae976027be442220e3e2c  ./d710/proprietary/system/bin/bcm_dut
 b5521af2ca0c0d19e083dd9d8494038a2e4d120ce741850e6c333d92ba438833  ./d710/proprietary/system/bin/gpsd
 c24eb996c0073960ed9fe5d4b84de8730f71c18720200eb2f4ffef20073ea018  ./d710/proprietary/system/bin/pppd_runner
+8d2755c46d376121d16ed8b30d2269057551535ad2b4b952aebcbf137e5408be  ./d710/proprietary/system/bin/wlandutservice
 12f3c38e67d45f993d44b6a3b29c8f6f885386b1d8efcb444735d8ab4b76e4ad  ./d710/proprietary/system/bin/rild
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./d710/proprietary/system/bin/immvibed
 87e01ce2e80f10625ccd5952ef68bac2658df3cdc21eed12442c46f9f8eb63ac  ./d710/proprietary/system/lib/libsec-ril40.so
