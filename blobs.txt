@@ -3464,11 +3464,11 @@ e527c36b3129e7f8aa1e79e16d45154b31787d7f3fb2c49c43f80c079f3145bb  ./d710/proprie
 c82982a41d0cb27d954eb8916dd213f30623aef833eb7161337c8dc35e55527f  ./d710/proprietary/SystemUpdateUI.apk
 6823c9c311d5d2e785b1f6cab089dc5f1592640240e8ed0fe685c32241420f61  ./d710/proprietary/system/framework/wimax_service.jar
 8b4ed4f0b70183662b0a689723d5cf7ea3c107f11c747aff6bd329e173922ec4  ./d710/proprietary/system/etc/wifi/nvram_mfg.txt
-336f622cb2cc51c3bb45f6b37ca6e935a17cacd6006f694b7418f752ab43c850  ./d710/proprietary/system/etc/wifi/bcm4330_apsta.bin
+6cefab2a70fe20043e3c793b16b7eba627faa237b65dcc50d40337184823d6ba  ./d710/proprietary/system/etc/wifi/bcm4330_apsta.bin
 2932ee8856be64bfa9e5163607fa5eb395660d0f8adb1f4c09a6981b06ce556f  ./d710/proprietary/system/etc/wifi/nvram_net.txt
-b9e7a6a3ffa06e722814e5558098d84c8208b0fd41e50f927ab0b898547e7b79  ./d710/proprietary/system/etc/wifi/bcm4330_mfg.bin
-abc870841fa031fce251a8bab1b0f4df88514a99162072c7c731f6c695b65fd4  ./d710/proprietary/system/etc/wifi/bcm4330_p2p.bin
-cfea85fa9fa2e33f0d70f7ffa0ef8006c541bf7ad26b016d7afca0d34ba92000  ./d710/proprietary/system/etc/wifi/bcm4330_sta.bin
+45fbb05220083b4d1d565b52cc13773ecdae20ab1d4e5bbf32c3d33950b903b8  ./d710/proprietary/system/etc/wifi/bcm4330_mfg.bin
+a0a362086dde9dd7d0698808ee41c8131b99227e1e2bf468bf9adbcac2b44ee7  ./d710/proprietary/system/etc/wifi/bcm4330_p2p.bin
+d0009e4d192fe4c3bad324278dc7b2791f262b5955215e5b62510a275bce2253  ./d710/proprietary/system/etc/wifi/bcm4330_sta.bin
 4f04a3c4a683a4ba93b72336275dbd50fd0e62e832b1d583e9ad12004a3895d8  ./d710/proprietary/system/etc/wimax_boot.bin
 8aa7ee50fb64dab4c00d3272877947c97397b520804cb5eb4ba0094650a83074  ./d710/proprietary/system/etc/security/otacerts.zip
 5490fa8076bbf14febe27d111844e943b8107df761fe22d6d9ee8a9699d85d23  ./d710/proprietary/system/bin/bcm4330B1.hcd
@@ -3478,8 +3478,8 @@ c24eb996c0073960ed9fe5d4b84de8730f71c18720200eb2f4ffef20073ea018  ./d710/proprie
 8d2755c46d376121d16ed8b30d2269057551535ad2b4b952aebcbf137e5408be  ./d710/proprietary/system/bin/wlandutservice
 12f3c38e67d45f993d44b6a3b29c8f6f885386b1d8efcb444735d8ab4b76e4ad  ./d710/proprietary/system/bin/rild
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./d710/proprietary/system/bin/immvibed
-87e01ce2e80f10625ccd5952ef68bac2658df3cdc21eed12442c46f9f8eb63ac  ./d710/proprietary/system/lib/libsec-ril40.so
-97770ea4d5a8568e230d225a7957ebb2141bcdabfa15c81ec122b2d5f3b11864  ./d710/proprietary/system/lib/libril.so
+51ffd4263dc66f6a26569ec28e7da2565052b1302d351867e81f6b1348fe6509  ./d710/proprietary/system/lib/libsec-ril40.so
+9eb4bfa70f250332eba2d629ebcad0a26cf5eef8df77ccc30d6695843f63011b  ./d710/proprietary/system/lib/libril.so
 da054ec4827befc0c658a268047eca35c4bd29f16a84577c3e836575dc13b340  ./d710/proprietary/system/lib/libWiMAXNative.so
 fc641f78bbf9c8ec90565b1e4875c387bd6c5d053a3a11b430d3ac41b24928a8  ./d710/proprietary/system/lib/libakm.so
 a771314043f300dbe8bcdd697688e0db40c654595ac479cadd78ea1d19bfde4e  ./d710/proprietary/system/lib/libSECmWiMAXcAPI.so
