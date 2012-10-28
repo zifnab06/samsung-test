@@ -2625,6 +2625,7 @@ c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2sprjb/prop
 4ab771ccdc636007501a4a9357bb8cfc1916aaac94a80aaaa1e3c1f8d6910179  ./d2sprjb/proprietary/lib/liboemcamera.so
 78276fd07b1ded2a94374f4365e8d46534e0ca95658e98bd2e292588a04f6288  ./d2sprjb/proprietary/lib/libmlplatform.so
 07c6f0cfacfb09e2d1cabb030c113fcc203383278268a5c3a6e57edebbea8c79  ./d2sprjb/proprietary/lib/libquipc_os_api.so
+5517b752a6946c3df25fb93a8482fc32024e9345a262fbbf7793c52d3daa993f  ./d2sprjb/proprietary/lib/libqcci_legacy.so
 062e62b9c02202f82e96e46b1c26ca0fd93b3c5ed207e64c1e361b69ccd22c2e  ./d2sprjb/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 de5543110430382e10ebb6b7772e94d8db4eef487d1d7122c07cb02325e02f3c  ./d2sprjb/proprietary/lib/libmmparser.so
 b6c3f5ec8dc2fe20437570f41cf5d7578d862af4a458ecaa8b9aa623b9041c69  ./d2sprjb/proprietary/lib/libqmi.so
@@ -2633,6 +2634,7 @@ df3fcfd457ff5cec457ae43eb6f9c914c65339a414020960d2f2ed8083ab6d69  ./d2sprjb/prop
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2sprjb/proprietary/lib/libchromatix_ov2720_preview.so
 1e31c69ea44c7c54d7fda55230465afc62618dc9a55a633efbce572e2a70c8e8  ./d2sprjb/proprietary/lib/libloc_adapter.so
 2db5c5b46d9c9146519fbb7663ef7a2391671b3afa5de3b09f5eb60c96c7d304  ./d2sprjb/proprietary/lib/libOpenVG.so
+b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./d2sprjb/proprietary/lib/libqmi_client_qmux.so
 a43a89fc5fad7bdd8385331c6521618fce23f421083ac9bc45a403a3510e27bc  ./d2sprjb/proprietary/lib/libgps.utils.so
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2sprjb/proprietary/lib/libmmstillomx.so
 2c1c582c1e851d005bead27022c4555bbe1153657760c01f5346d0fea76f6693  ./d2sprjb/proprietary/lib/libreference-ril.so
