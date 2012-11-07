@@ -3653,7 +3653,7 @@ adb91063c9ead81cc5271f7ffac7eebee765167039d6bffa7baddb12df582232  ./d710/proprie
 59a4522c7af8720d209def21e6f6a0d61725d64a6d0570712f15fe02a71ec984  ./d710/proprietary/system/lib/libaudiopolicy_sec.so
 146eb76e2036bd1b4c3b8fd317a7e84fcddedbce5afdb794c7fbb8f8da2425b1  ./d710/proprietary/system/lib/libmtp_samsung.so
 851bbce529c102e8b8c9911a6dd20a9505ebcf5b23d92a017f551e09ca376f01  ./d710/proprietary/system/lib/libMali.so
-fc641f78bbf9c8ec90565b1e4875c387bd6c5d053a3a11b430d3ac41b24928a8  ./d710/proprietary/system/lib/libakm.so
+ab20012704207c0d4bce943e7eb46ee7f911ae40777ee9baaaa5296fe3214fbd  ./d710/proprietary/system/lib/libakm.so
 c7ba73cf68e37ff571784bcdd42f4a4a02cd193eb977ec052e93995f2967de31  ./d710/proprietary/system/lib/egl/libGLESv2_mali.so
 c7438a6ef2015adc6a0957f89ed43f00d271273440432ef48d8cb24432359f0a  ./d710/proprietary/system/lib/egl/libEGL_mali.so
 8953f809ad32b89961be89882498c9b3f7907545fcd8875fa910a5731d6ef87b  ./d710/proprietary/system/lib/egl/libGLESv1_CM_mali.so
@@ -3666,6 +3666,7 @@ fe38945c782683edf90e00131fb2a4dcb0f266bd62ba50bde295970b6705e0a3  ./d710/proprie
 259bfe2914347fb9d47a5d14e56f3197256dc269dcf0c1a6377c8c13f488366f  ./d710/proprietary/system/lib/hw/audio.a2dp.default.so
 acb69593074590f8731b75a04e6478edbe56f2c233c515efb91947183dd914ed  ./d710/proprietary/system/lib/hw/hwcomposer.smdk4210.so
 651561cf334c1a627c20356efc0a44ca9de2ef9a791e08d6e82dadfc2208f507  ./d710/proprietary/system/lib/hw/gralloc.smdk4210.so
+7845020f3b350d1f0e71797a366f0ede9a6ec0155c5db7735d9349a9f338abd6  ./d710/proprietary/system/lib/hw/sensors.smdk4210.so
 5690e5e2254f70be058b81a79d43bf37099e3110c29ad95aa89eea3addd5b8b2  ./d710/proprietary/system/lib/hw/gps.exynos4.so
 e7795cfdb63d0aa09e12759d150701644f31cbf66044640ad3f784fa5eea28bf  ./d710/proprietary/system/lib/hw/camera.exynos4.so
 d3d5dfebae0123d5baf557bc25a9ec6fe38b1289734adaa5701826679ad900df  ./d710/proprietary/system/lib/hw/alsa.default.so
