@@ -3448,7 +3448,7 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/propri
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
 05ce013ca3b0bede533ad18cff3d732f30e26c9c69b2e617ccf97ce7f6c88018  ./n7100/proprietary/system/vendor/firmware/SlimISP_GK.bin
-3da10d301bb7f3a840823340d57897f2f9317feb9cc425b127f38c4a67ea7afe  ./n7100/proprietary/system/vendor/firmware/SlimISP_ZK.bin
+91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./n7100/proprietary/system/vendor/firmware/SlimISP_ZK.bin
 03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/sbin/cbd
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/system/etc/srm.bin
 0d2deaaf89c18fc1a7292caae676607c4dd070af69f4bd21a7449c0cc6f459e6  ./smdk4412-common/proprietary/system/etc/wifi/bcmdhd_mfg.bin_b0
