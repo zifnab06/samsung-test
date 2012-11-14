@@ -2184,12 +2184,12 @@ ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./skyrocket/pr
 b32af432a9a20cd7fcea6c9b6ff58eb5b9a48f93a2dc6452f89753778409663d  ./skyrocket/proprietary/lib/libaudcal.so
 d9025abf65fc28a37354a144dc7acba2e4f3fbe099ac1322c66174a457147985  ./skyrocket/proprietary/lib/hw/sensors.default.so
 29c089a253989a293ecf06976cd89f8a74309bdf0337ba3d591aa3d751f02709  ./skyrocket/proprietary/lib/hw/nfc.qcom.so
-7e2112ba1043090d8dcaedd7370c88df6c3bf97fbb41ec924ef05d2c2d694d76  ./skyrocket/proprietary/lib/hw/camera.msm8660.so
+fe3179b2a6fe9375a78240eac4ca332bd91dd1d28152b4e56027f6213a60b426  ./skyrocket/proprietary/lib/hw/camera.msm8660.so
 98ec0e41fbaa343e0a6953c96dcdbd5f14f66d5077a5fcccf7f021495294c598  ./skyrocket/proprietary/lib/libqdi.so
 142e9ab29464186956b4c687aafbe561f3bd7c376a83fa75a16804157caa38c1  ./skyrocket/proprietary/lib/libaudioalsa.so
 ec7d3e4f459209034f70a4da82aa49a33bb21408918206ecd5f70600ba83573e  ./skyrocket/proprietary/lib/libacdbmapper.so
 061c0bce2941c161e03feac3d401e28100c475fd5f2f4f59be342681d09a8755  ./skyrocket/proprietary/lib/libsecril-client.so
-4e2b94e6c69b68cf6c406c43fd18145bcd425cbd17f165bb8d262853a0dd1af5  ./skyrocket/proprietary/lib/liboemcamera.so
+b204f05b0353e3834a3d1389387aa7de1c6c1e55deff6394d6e98986eb2c41a1  ./skyrocket/proprietary/lib/liboemcamera.so
 2b968c1e3ab9e73196de2fd5b3c4ffb6e836d6d1bda899cde3a9872a6db6576f  ./skyrocket/proprietary/lib/libmmparser.so
 a1a903c608dc0ccaaa9d45b89a84ea2a7318145f565840f1a25879c293a5f8bd  ./skyrocket/proprietary/lib/libqmi.so
 432d80a91557f14d15cc3a7f83d1260dfbc9eb4db1b3bbad6ec2fe892b075390  ./skyrocket/proprietary/lib/libril-qc-qmi-1.so
