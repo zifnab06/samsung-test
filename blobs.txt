@@ -3587,6 +3587,7 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/propri
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
 05ce013ca3b0bede533ad18cff3d732f30e26c9c69b2e617ccf97ce7f6c88018  ./n7100/proprietary/system/vendor/firmware/SlimISP_GK.bin
 91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./n7100/proprietary/system/vendor/firmware/SlimISP_ZK.bin
+c46599b71ae7bb552f8f138d589a26375580cea74fed2cf5fe53187fd92014cc  ./n7100/proprietary/system/vendor/firmware/libpn544_fw.so
 03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/sbin/cbd
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/system/etc/srm.bin
 0d2deaaf89c18fc1a7292caae676607c4dd070af69f4bd21a7449c0cc6f459e6  ./smdk4412-common/proprietary/system/etc/wifi/bcmdhd_mfg.bin_b0
@@ -3675,7 +3676,6 @@ a26347ca37f8040b55c334f17bf7aafb2989b31723e620b419de2d5c1d272515  ./smdk4412-com
 fb3c3d0951bd2003c296d93f356677f63f8d015b62f19cca3249734403475120  ./smdk4412-common/proprietary/system/vendor/firmware/fimc_is_fw.bin
 57021d1f2255c175d3b425dc3d46e3032d16abe98ca729b1febcedb75f7e927f  ./smdk4412-common/proprietary/system/vendor/firmware/mfc_fw.bin
 987a35e0c5bb6d5ed13051ab225f295024c1e363d83c80794942516419d8b68a  ./smdk4412-common/proprietary/system/vendor/firmware/setfile.bin
-db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./smdk4412-common/proprietary/system/vendor/firmware/libpn544_fw.so
 51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./smdk4412-common/proprietary/system/vendor/lib/libwvdrm_L1.so
 01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./smdk4412-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
 f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./smdk4412-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
@@ -3866,6 +3866,7 @@ feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/propri
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
 dc5e76bc7cd516634d2d6c6fa7d7673e882e3bbc4445bbb2f6e9dad25ccaf122  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 6b1f79a6b5bdd72496c9bb17911d8f2098542e95c6c7bf6a8586bbe5f7215877  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
+db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./i9300/proprietary/system/vendor/firmware/libpn544_fw.so
 b941125ae2357fa343632239049563a3b95a28160308d40a4a3b93ecfc850603  ./d2mtr/.DS_Store
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2mtr/proprietary/etc/thermald.conf_S
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2mtr/proprietary/etc/thermald.conf
