@@ -1,6 +1,8 @@
+b445fe660c35bd09eb12240fb516df72cf6081b41688a7ed0ab8a8150843ba1d  ./n80xx/proprietary/system/bin/gpsd
 8897b0717e6498f6e20ae546f5f90701a4e5d0b09eec76355d2c594097f3d15a  ./n80xx/proprietary/system/bin/rild
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./n80xx/proprietary/system/lib/libril.so
 705c1cb80db55df6627c1df7092270631e9db6ac100c66e151e65e165624cd9a  ./n80xx/proprietary/system/lib/hw/sensors.smdk4x12.so
+cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./n80xx/proprietary/system/lib/hw/gps.exynos4.so
 e35ab7d85d981bd132e6f11399a6fd178d30ff149e3634933b35709e32c4172f  ./n80xx/proprietary/system/lib/hw/camera.smdk4x12.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./n80xx/proprietary/system/lib/libsec-ril.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n80xx/proprietary/system/usr/idc/sec_e-pen.idc
@@ -218,7 +220,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-f4cd29d45d29932624456fa0006c1d0846839779b8100442de7c7aa9e13f294b  ./blobs.txt
+2735f88c93508fcabb5b71ac479231d447cb30675f0b96e8adc7e07ae39f30e1  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -3573,6 +3575,7 @@ c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2att/propri
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2att/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2att/proprietary/vendor/firmware/libpn544_fw.so
 2db8ab72fdafa73b22781a48055e0e4715854e3248ef5e544b97dda90802d7fc  ./n7100/proprietary/system/bin/sensorservice
+aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
 50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./n7100/proprietary/system/lib/libril.so
@@ -3580,6 +3583,7 @@ e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./n7100/propri
 829e57be164a3ebc76452405e24c356df694d0260b69524d5cc612f50081e72a  ./n7100/proprietary/system/lib/libsensorhubservice.so
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
 d1c5376e32691494913919979d96a21870ebd25e8653a50a815fffc6b11b179d  ./n7100/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
+5ae8489f54dc28df42836ccd7ef5377dee4d3a9b9be1df4c9c7dd240800a44c0  ./n7100/proprietary/system/lib/hw/gps.exynos4.so
 efbd70ae3fa0dc43a9a932c51449c99349c777ceac4a710b87a91d5646c26517  ./n7100/proprietary/system/lib/hw/camera.smdk4x12.so
 3177cdd45b08641fd87b96320ff331ddb665bd172ca5c10dc30fe7aabef4171c  ./n7100/proprietary/system/lib/libsec-ril.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
@@ -3614,7 +3618,6 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./smdk4412-com
 a3310552cd5901b7e7d209d48e377f585d0022e485e30ac34d61c9d2ab74680c  ./smdk4412-common/proprietary/system/bin/gps.cer
 866767eef84ffb9cd98529cdff0e6b4c963baea02c59a08eb47f168ec3c90293  ./smdk4412-common/proprietary/system/bin/bcm4334_murata.hcd
 30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./smdk4412-common/proprietary/system/bin/playlpm
-b445fe660c35bd09eb12240fb516df72cf6081b41688a7ed0ab8a8150843ba1d  ./smdk4412-common/proprietary/system/bin/gpsd
 c41aec670d3201dfe6c36ec5a4bcd80c477887e10063d488995da0c8913189cc  ./smdk4412-common/proprietary/system/bin/bintvoutservice
 866767eef84ffb9cd98529cdff0e6b4c963baea02c59a08eb47f168ec3c90293  ./smdk4412-common/proprietary/system/bin/bcm4334.hcd
 ad1ebaf98a4e33068f6415b9ace55ce14f4357afa0c3ffb24673d2cbe62c2817  ./smdk4412-common/proprietary/system/bin/hostapd
@@ -3644,7 +3647,6 @@ a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4412-com
 dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./smdk4412-common/proprietary/system/lib/libfimc.so
 d0a345904ce5c5acf61b294a4c59ae4afbc3c7df2aecd10786a8571501bde1e4  ./smdk4412-common/proprietary/system/lib/hw/nfc.smdk4x12.so
 dd3d4ba592d1fe9cb1aaf34feed2fc9abe060b4717e98d492b11defc272bea31  ./smdk4412-common/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
-cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./smdk4412-common/proprietary/system/lib/hw/gps.exynos4.so
 05b49bd3cbe29a59bfa3200ce824a864daba03dfd36466470ab7e1469388fef4  ./smdk4412-common/proprietary/system/lib/hw/lights.exynos4.so
 96a2d4608e78159c32241600c8bac7bff6cc28b995ac89298235559c0c37aede  ./smdk4412-common/proprietary/system/lib/hw/gralloc.smdk4x12.so
 09627a459012489511fbd3e5c66a3a11591c1d885aaaeb46651bd7d4c4a3ce68  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
@@ -3858,9 +3860,11 @@ db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./d710/proprie
 8ad0695e0979ba0bf2057ecb88f5f72b9f5a92a89d67c3e2780f03fd7df5c66e  ./d710/proprietary/system/vendor/lib/libwvm.so
 100397a6b5cfd8fd7a4a1ebcda927dea26a5ad141ddc3c5c2893404a56533100  ./d710/proprietary/SprintMenu.apk
 db8e68c9e011601ecf26afc9ae4675c1f6ef9b71e4e3c283c90c5ecfc6ca5ef6  ./d710/proprietary/AngryGPS.apk
+b445fe660c35bd09eb12240fb516df72cf6081b41688a7ed0ab8a8150843ba1d  ./i9300/proprietary/system/bin/gpsd
 2c75577f25b636115615d2ed6ae4375da4e70b8f7e4d75bcf0fbacbc3a921535  ./i9300/proprietary/system/bin/rild
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./i9300/proprietary/system/lib/libril.so
 aa11d026ceff0ed4b80c38f6acb3660133cdfd6f85d88b1d01ab1651a3d75f4c  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
+cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 e268a577d90ef93587b9cb7cee0658a2167699346ad44669764aa63e843c0d31  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
