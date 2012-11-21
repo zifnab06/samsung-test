@@ -2094,7 +2094,6 @@ d8b7cc675af11ff2f0067926e952ebf9d6c87a5e652b1f5fbd13ffaa1a4adb5f  ./t769/proprie
 0cca879e42560b0b4bb887329810a65b56d536808378cab28775a820a5c2a055  ./t769/proprietary/lib/libloc_eng.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./t769/proprietary/lib/libnetmgr.so
 f30f65e655339badedd3ec58e17899b4eadc961defaa00c54989f382032e1c5a  ./t769/proprietary/lib/libaudcal.so
-8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./t769/proprietary/lib/libpn544_fw.so
 deb51039f79ee673789fca7dd7331393b530c796bd46357074ba0c72701bc914  ./t769/proprietary/lib/hw/sensors.default.so
 29c089a253989a293ecf06976cd89f8a74309bdf0337ba3d591aa3d751f02709  ./t769/proprietary/lib/hw/nfc.qcom.so
 7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./t769/proprietary/lib/hw/camera.msm8660.so
@@ -2115,6 +2114,7 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./t769/proprie
 8a3f2c93d3455f70e699922a91c578cec57eb712656f66e046ff602b25960371  ./t769/proprietary/lib/libreference-ril.so
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./t769/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./t769/proprietary/lib/libqmiservices.so
+8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./t769/proprietary/vendor/firmware/libpn544_fw.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./skyrocket/proprietary/etc/wifi/wl
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./skyrocket/proprietary/etc/wifi/nvram_mfg.txt_murata
 c28758b44893148780739b47fe6e668d854cdb33fce6ca17ec483d517d168f8b  ./skyrocket/proprietary/etc/wifi/nvram_mfg.txt
