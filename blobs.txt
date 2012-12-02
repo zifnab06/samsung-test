@@ -3573,12 +3573,10 @@ c532c50ad56330b628be5e8b74cd9da29bc14399ce296e185e47539c7339cd94  ./d2att/propri
 66a1ce0262e98c34b497170ce1a76ea3b4f9cb6ef997b7b2b83a867db01ae7bd  ./d2att/proprietary/lib/libreference-ril.so
 f924d17bf5f08ad2da159621d3be70c13751d38d00796802c17575095d2ae8e6  ./d2att/proprietary/lib/libqmiservices.so
 eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2att/proprietary/vendor/firmware/libpn544_fw.so
-2db8ab72fdafa73b22781a48055e0e4715854e3248ef5e544b97dda90802d7fc  ./n7100/proprietary/system/bin/sensorservice
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
 50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./n7100/proprietary/system/lib/libril.so
-4b6ecc08a01939c7cb7120783ff648fe68674b9bb78ba24a590bfed24957b3e5  ./n7100/proprietary/system/lib/libsensorservice.so
 d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./n7100/proprietary/system/lib/libakm.so
 829e57be164a3ebc76452405e24c356df694d0260b69524d5cc612f50081e72a  ./n7100/proprietary/system/lib/libsensorhubservice.so
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
