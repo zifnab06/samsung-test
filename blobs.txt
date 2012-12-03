@@ -732,7 +732,6 @@ e0f1d7c2b3bdf6acf3736b008824bcd274c33998072b3a1a0c74426753e12cc1  ./p4tmo/propri
 08697eba3f0b285a0e5e7e38a644e9778ce0c01803068ec84a1843e64ac89dd4  ./maguro/proprietary/ducati-m3.bin
 6c7d148ecae3374aee684c420c434e6a55eb5ee8ad883d7a9b8e3214f76d5c13  ./maguro/proprietary/libwvm.so
 7d542767accda66a2634638eff40855f047b2d8744e1898db34d991deddd2c5e  ./maguro/proprietary/libdrmwvmplugin.so
-b5a8f65342468c66a11415c0cecd60231b73f2e62cfae7e22a6b274d7fca4aa1  ./maguro/proprietary/libpn544_fw.so
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./maguro/proprietary/fRom
 3c7973b492f76d639f6c829919cf5fe8d010d61b63ad7b4e0154e2d9c7d9d1da  ./maguro/proprietary/libsec-ril.so
 a8939847e9019cf370242b7a42d98f7d20c7edc60ec37da0004a3671dbdbc69c  ./maguro/proprietary/libsecril-client.so
