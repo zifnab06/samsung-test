@@ -923,9 +923,7 @@ ebd6ed91c2842b284aa415af946a0accc72c30993292e68e5d74f9b14a4c10a2  ./smdk4210-tab
 a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4210-tab/props/system/lib/libsecion.so
 11efcaa4115f2f98e440e3873972c99fa150d51cedc3049f7e0ca13a3eba6f2c  ./smdk4210-tab/props/system/lib/libfimc.so
 c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab/props/system/lib/libyamahasrc.so
-e55fcf5ce54282f30173cf8a382347988fe767ba0a6124dcddf743adfac7fbea  ./smdk4210-tab/props/system/lib/hw/hwcomposer.smdk4210.so
 15446a4682d6f9c3f4618f0a4cdce5facadd7fe9189a71e873f709a98295eb50  ./smdk4210-tab/props/system/lib/hw/gps.exynos4.so
-96a2d4608e78159c32241600c8bac7bff6cc28b995ac89298235559c0c37aede  ./smdk4210-tab/props/system/lib/hw/gralloc.exynos4.so
 0d9ad5c4fb06588503b843980973376f4ee88e6a364947c35f34779bb4d34ade  ./smdk4210-tab/props/system/lib/hw/audio.primary.exynos4.so
 cc1c9cd4732be8e2a6aa3cda2648ad9689df70964645fe2ebde15eaf1863549e  ./smdk4210-tab/props/system/lib/hw/audio_policy.exynos4.so
 e9867cf8fe927f14bca235d9867a8f0ce426c02b5ac326f6f4db7d6609b00095  ./smdk4210-tab/props/system/lib/hw/alsa.default.so
