@@ -1531,7 +1531,7 @@ bc00ecbd3348150b30d579decc3d5bab45cd5a5a3a008f22ca7131acf0a76ff7  ./d2usc/propri
 6656eb08e802424906c10cad1bceec7dbe7dfb5fe2bfddc65023dbcf8c177283  ./d2usc/proprietary/lib/libmmmpod.so
 c5b522ca28846bb8c202f16c11d774c88fbd08897df76a54254f933f27a60908  ./d2usc/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 f05724414c4e6afff24c070dfedaf912a8c029ac994fd65b47ab076df797159e  ./d2usc/proprietary/lib/libaudcal.so
-30b1b2d7a0616c382940b83a53bfac14196e979c21629810fca1dc3b78e45bc6  ./d2usc/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2usc/proprietary/lib/hw/camera.msm8960.so
 ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2usc/proprietary/lib/hw/gps.default.so
 5c3e044c0ab0cab24898adb508287f96990d9c51601dfbc6a3d73e4f7b2269cb  ./d2usc/proprietary/lib/hw/nfc.MSM8960.so
 05f7887b64e6d2cc05b4e3b32fae034f6ab806203c83e6426864095a3b2244d7  ./d2usc/proprietary/lib/hw/sensors.msm8960.so
@@ -1979,7 +1979,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2tmo/propri
 9c7a6365ee5c7c47db6bf2c232dd6a504a32464d4ac889c5651d9e250b692495  ./d2tmo/proprietary/lib/libmmmpod.so
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2tmo/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 fda966eb35ce94ff253ab4675ca45804cf65f1c3708b024e0a22ed38d217c841  ./d2tmo/proprietary/lib/libaudcal.so
-9d57776e4d5b43ee98969df4cf2d36c45a26e4a818edc5a8af378e4de9a3e626  ./d2tmo/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2tmo/proprietary/lib/hw/camera.msm8960.so
 e7a400a0531ebc46ecaf4532ed1375f8bf8599aed16de3b835ddf5174ba082e8  ./d2tmo/proprietary/lib/hw/nfc.MSM8960.so
 4c69a02d9beafa82f5d5128b62587e13787960429d58ba463e8258712286a99c  ./d2tmo/proprietary/lib/hw/sensors.msm8960.so
 fe9289143a3e23dac55fd453a0b244ce45fed9f015db271446c382e03a8e8fa3  ./d2tmo/proprietary/lib/libqdi.so
@@ -2379,7 +2379,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2spr/propri
 9c7a6365ee5c7c47db6bf2c232dd6a504a32464d4ac889c5651d9e250b692495  ./d2spr/proprietary/lib/libmmmpod.so
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2spr/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 993098b457a02228b09fb916a711587676aeb8c97d30f831faecb959e5e205b9  ./d2spr/proprietary/lib/libaudcal.so
-9d57776e4d5b43ee98969df4cf2d36c45a26e4a818edc5a8af378e4de9a3e626  ./d2spr/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2spr/proprietary/lib/hw/camera.msm8960.so
 e7a400a0531ebc46ecaf4532ed1375f8bf8599aed16de3b835ddf5174ba082e8  ./d2spr/proprietary/lib/hw/nfc.MSM8960.so
 c9d421c51a7ba6833fbdf03918a13edac982b07139b9c76efa7d125cb87737f9  ./d2spr/proprietary/lib/hw/sensors.msm8960.so
 fe9289143a3e23dac55fd453a0b244ce45fed9f015db271446c382e03a8e8fa3  ./d2spr/proprietary/lib/libqdi.so
@@ -3061,7 +3061,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2vzw/propri
 454ff63471491df59968751a101db6a7f1805b734d5c383fb4a9018939ed6579  ./d2vzw/proprietary/lib/libfrsdk.so
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 bc9d4409a52a8ae2c1530de6f014f6b9cc5bca05ffaf6c2e6f64d0240f69fd46  ./d2vzw/proprietary/lib/libaudcal.so
-9d57776e4d5b43ee98969df4cf2d36c45a26e4a818edc5a8af378e4de9a3e626  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
 6ea0d3d4428ba8a9d71c470c892c9430ba26068aba4aee0b0dc86396f2f7f170  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
 9dbd5eeedeed936b11f1813b59c73d4f6c0c36a195c4417b7962241439682e1b  ./d2vzw/proprietary/lib/hw/sensors.msm8960.so
 66d47851218c61743c2149ff7ba92bf97d669465dea56401b06c1ca8bd287e20  ./d2vzw/proprietary/lib/libqdi.so
@@ -3276,7 +3276,7 @@ fba874583db1f96b18413ecd282e436def9298f6abd7c5f5b4a22461b5295dd3  ./d2att/propri
 9c7a6365ee5c7c47db6bf2c232dd6a504a32464d4ac889c5651d9e250b692495  ./d2att/proprietary/lib/libmmmpod.so
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2att/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 2f3b80f454a775a2274bb1746e0800748519e69ca55b71ed2f26f2c78943c73b  ./d2att/proprietary/lib/libaudcal.so
-3fe8c21db7b5b61bbc350cde68117493ffc3ed660b71c6c96163416cf82dcd53  ./d2att/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2att/proprietary/lib/hw/camera.msm8960.so
 742d1ad866570281926714aec46d5d7992cef39e80b554cc09765719a6e90d58  ./d2att/proprietary/lib/hw/gps.default.so
 e7a400a0531ebc46ecaf4532ed1375f8bf8599aed16de3b835ddf5174ba082e8  ./d2att/proprietary/lib/hw/nfc.MSM8960.so
 4c69a02d9beafa82f5d5128b62587e13787960429d58ba463e8258712286a99c  ./d2att/proprietary/lib/hw/sensors.msm8960.so
@@ -3730,7 +3730,7 @@ bc00ecbd3348150b30d579decc3d5bab45cd5a5a3a008f22ca7131acf0a76ff7  ./d2mtr/propri
 6656eb08e802424906c10cad1bceec7dbe7dfb5fe2bfddc65023dbcf8c177283  ./d2mtr/proprietary/lib/libmmmpod.so
 c5b522ca28846bb8c202f16c11d774c88fbd08897df76a54254f933f27a60908  ./d2mtr/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 f05724414c4e6afff24c070dfedaf912a8c029ac994fd65b47ab076df797159e  ./d2mtr/proprietary/lib/libaudcal.so
-30b1b2d7a0616c382940b83a53bfac14196e979c21629810fca1dc3b78e45bc6  ./d2mtr/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2mtr/proprietary/lib/hw/camera.msm8960.so
 ffdf7f5871554b069bf76e0380400b2e3e5ed02babcf34fb424ceda88e462cd0  ./d2mtr/proprietary/lib/hw/gps.default.so
 7ffa8cf7f2a363487feb232e1b304985339005f777b8db049715f8fc85f098d3  ./d2mtr/proprietary/lib/hw/nfc.MSM8960.so
 05f7887b64e6d2cc05b4e3b32fae034f6ab806203c83e6426864095a3b2244d7  ./d2mtr/proprietary/lib/hw/sensors.msm8960.so
