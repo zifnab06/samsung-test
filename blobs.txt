@@ -1422,13 +1422,9 @@ b62ab19dd30596a5fdf6a4c1ddd2d188bd45ef8ffc57a1297ed0a1c0168732a4  ./p1/proprieta
 49bf7008bfda7cfb7eb1d89b7e9e4ced586fe0658ef7a16f37cacd9a5ae7571a  ./p1/proprietary/libsec-ril.so
 f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./p1/proprietary/gps.s5pc110.so
 6a4086fb8ce42aad8500ac3ca8c08b3484ad5d79094ecfb9cbf69a18d74ab80b  ./p1/proprietary/libsecril-client.so
-c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./i815/props/system/bin/rild
-cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./i815/props/system/lib/libril.so
+9e92794855eebcc914b4cbc093df4c6209a578fb6fa5d88c8c0113e9a5b66e67  ./i815/props/system/lib/libsec-ril_lte.so
 6b63f6d10359c2ea1f96731dfc3d0a74b0541bfd60a15c3e77d0067c21c5984e  ./i815/props/system/lib/hw/sensors.exynos4.so
 3e376dfa0f75f120b16e7151a4413c66a9c4a118d438138ba0fbdc62d99853ad  ./i815/props/system/lib/hw/camera.exynos4.so
-d80871298b86e61510b162069c26638ee85833635affcbec28e02aa780960734  ./i815/props/system/lib/libsec-ril.so
-7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i815/props/system/lib/libsecril-client.so
-5db49ddc457024c9972ef934eb19f966f85b7769a28154b2f8b04f74684bcf62  ./i815/props/system/lib/libsec-ril-apalone.so
 45030212b8e6a3d158b29a16e0ed86b1f39b4be70bf8447959a2a1a1355830a8  ./p6800/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6800/props/system/lib/libril.so
 dd9e78b70863eba36d831b24dd161f3e3b29a9ea6a28efd37428e211418b93a7  ./p6800/props/system/lib/hw/sensors.exynos4.so
