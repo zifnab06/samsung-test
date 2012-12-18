@@ -1412,7 +1412,6 @@ cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6810/props/
 dd9e78b70863eba36d831b24dd161f3e3b29a9ea6a28efd37428e211418b93a7  ./p6810/props/system/lib/hw/sensors.exynos4.so
 3e376dfa0f75f120b16e7151a4413c66a9c4a118d438138ba0fbdc62d99853ad  ./p6810/props/system/lib/hw/camera.exynos4.so
 d80871298b86e61510b162069c26638ee85833635affcbec28e02aa780960734  ./p6810/props/system/lib/libsec-ril.so
-7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./p6810/props/system/lib/libsecril-client.so
 5db49ddc457024c9972ef934eb19f966f85b7769a28154b2f8b04f74684bcf62  ./p6810/props/system/lib/libsec-ril-apalone.so
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./p1/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./p1/proprietary/gpsd
@@ -1430,7 +1429,6 @@ cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6800/props/
 dd9e78b70863eba36d831b24dd161f3e3b29a9ea6a28efd37428e211418b93a7  ./p6800/props/system/lib/hw/sensors.exynos4.so
 3e376dfa0f75f120b16e7151a4413c66a9c4a118d438138ba0fbdc62d99853ad  ./p6800/props/system/lib/hw/camera.exynos4.so
 a4ea932587ffeaa14e82b98487a6a20b22b672acec6d7a9c068ea628fb24ef40  ./p6800/props/system/lib/libsec-ril.so
-7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./p6800/props/system/lib/libsecril-client.so
 9fa98992af46754e9bedb5609d95ff04eebeb28fc3d1228952c699e22c961698  ./toro/proprietary/VZWAPNLib.apk
 df2dfba1dbd236ed59749bea31e76da157feb8ccac43a615cb3e9046df345ddd  ./toro/proprietary/RTN.apk
 07222e451fb474cbe5462bb5444b101c6e3b243d7f053c565f7cf28668da3fc5  ./toro/proprietary/SPG.apk
