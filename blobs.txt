@@ -3032,7 +3032,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2vzw/propri
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 bc9d4409a52a8ae2c1530de6f014f6b9cc5bca05ffaf6c2e6f64d0240f69fd46  ./d2vzw/proprietary/lib/libaudcal.so
 3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
-6ea0d3d4428ba8a9d71c470c892c9430ba26068aba4aee0b0dc86396f2f7f170  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
+0a3a1e13fb308908cc38c281e1d50787f0358644a7d732871799eeeb0daa21fa  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
 9dbd5eeedeed936b11f1813b59c73d4f6c0c36a195c4417b7962241439682e1b  ./d2vzw/proprietary/lib/hw/sensors.msm8960.so
 66d47851218c61743c2149ff7ba92bf97d669465dea56401b06c1ca8bd287e20  ./d2vzw/proprietary/lib/libqdi.so
 c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2vzw/proprietary/lib/libchromatix_ov2720_default_video.so
@@ -3053,10 +3053,7 @@ c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2vzw/propri
 6ecf2a411d7032e75f3186e4780bd096f8043801507930b444050e5a921b878a  ./d2vzw/proprietary/lib/libDivxDrm.so
 17f0c357c2927f72613253325394ae66b13548ff72faa1be4e340083292115a7  ./d2vzw/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2vzw/proprietary/lib/libqmiservices.so
-6ae36df085f7766903dcdfd46f91d701659edab313ff3f288e5a17006fd4f7d9  ./d2vzw/proprietary/apps/VZWAPNLib.apk
-10181638b74523ac37d5d97839f1ec50e895715f2071375d2779cdd3888af703  ./d2vzw/proprietary/apps/vzwapnpermission.apk
-d9aad6df56e3825f20803d97c170ca08e8bff3ee80a18bc25b55d1856cd812b5  ./d2vzw/proprietary/apps/VZWAPNService.apk
-c46599b71ae7bb552f8f138d589a26375580cea74fed2cf5fe53187fd92014cc  ./d2vzw/proprietary/vendor/firmware/libpn544_fw.so
+5bb17da2706ca9878736179f268080d403395f0a600abc7e3d5e1054a5c71fb1  ./d2vzw/proprietary/vendor/firmware/libpn544_fw.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincyatt/proprietary/etc/wifi/wl
 abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
 baba4387a81ddc57d9a18af508c243b528259e99271d9f09169e3520df3beba5  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt
