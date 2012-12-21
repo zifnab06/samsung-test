@@ -1740,7 +1740,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
 bf1b355c992d76296a3c32d001209deefa26155a05ca584e8ac6e52afc620b15  ./d2r530/.DS_Store
-465a221138fd021d2a24d192b04d77e24c0ff56db2dd4f6493defc574f7bcd19  ./d2r530/proprietary/.DS_Store
+d441e5f682b1a03a414ca8d8660c312cbef8cff4d105eeb15bf986e019f121c1  ./d2r530/proprietary/.DS_Store
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2r530/proprietary/etc/thermald-8960.conf
 9eecab73314a3158d2dce477fcd8ed411c514dd22bbb42efd009a99892c182f0  ./d2r530/proprietary/etc/thermald-8064.conf
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2r530/proprietary/etc/wifi/nvram_mfg.txt_murata
@@ -1851,7 +1851,6 @@ b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./d2r530/propr
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2r530/proprietary/lib/libmmstillomx.so
 17f0c357c2927f72613253325394ae66b13548ff72faa1be4e340083292115a7  ./d2r530/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2r530/proprietary/lib/libqmiservices.so
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2r530/proprietary/vendor/firmware/libpn544_fw.so
 c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./p6210/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6210/props/system/lib/libril.so
 f691b6a169df912e8ffe5d5dd6b314d1c20d991c04bb8a0936300c78503bea3a  ./p6210/props/system/lib/hw/sensors.exynos4.so
@@ -1969,7 +1968,6 @@ b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./d2tmo/propri
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2tmo/proprietary/lib/libmmstillomx.so
 2c1c582c1e851d005bead27022c4555bbe1153657760c01f5346d0fea76f6693  ./d2tmo/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2tmo/proprietary/lib/libqmiservices.so
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2tmo/proprietary/vendor/firmware/libpn544_fw.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./t769/proprietary/etc/wifi/wl
 aee6b107ceeb854ecf8d1f836fda8e992489bb9f5d7c306180242ace61c15619  ./t769/proprietary/etc/wifi/nvram_mfg.txt_murata
 8cfc6358ee5d0fbedb2fbe11ebf33f92a10837328c7899ef68e8891e1c4d78d0  ./t769/proprietary/etc/wifi/nvram_mfg.txt
@@ -2369,7 +2367,6 @@ b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./d2spr/propri
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2spr/proprietary/lib/libmmstillomx.so
 2c1c582c1e851d005bead27022c4555bbe1153657760c01f5346d0fea76f6693  ./d2spr/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2spr/proprietary/lib/libqmiservices.so
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2spr/proprietary/vendor/firmware/libpn544_fw.so
 55006efdeabdeb934aed103741336323a8bf452f0c03f2baab480b9f03a6f716  ./fascinatemtd/proprietary/geomagneticd
 f1c379fd590256a53df55e2e4b0fdfe86c0dca8c7484084f181b1168a5072dbf  ./fascinatemtd/proprietary/libsec-ril40.so
 beaae85ed20b392010448a4fc7be8f7f4689f981674144c14c8abec3c92f9cda  ./fascinatemtd/proprietary/gpsd
@@ -3032,7 +3029,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2vzw/propri
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2vzw/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 bc9d4409a52a8ae2c1530de6f014f6b9cc5bca05ffaf6c2e6f64d0240f69fd46  ./d2vzw/proprietary/lib/libaudcal.so
 3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2vzw/proprietary/lib/hw/camera.msm8960.so
-0a3a1e13fb308908cc38c281e1d50787f0358644a7d732871799eeeb0daa21fa  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
+6ea0d3d4428ba8a9d71c470c892c9430ba26068aba4aee0b0dc86396f2f7f170  ./d2vzw/proprietary/lib/hw/nfc.MSM8960.so
 9dbd5eeedeed936b11f1813b59c73d4f6c0c36a195c4417b7962241439682e1b  ./d2vzw/proprietary/lib/hw/sensors.msm8960.so
 66d47851218c61743c2149ff7ba92bf97d669465dea56401b06c1ca8bd287e20  ./d2vzw/proprietary/lib/libqdi.so
 c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2vzw/proprietary/lib/libchromatix_ov2720_default_video.so
@@ -3053,7 +3050,6 @@ c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2vzw/propri
 6ecf2a411d7032e75f3186e4780bd096f8043801507930b444050e5a921b878a  ./d2vzw/proprietary/lib/libDivxDrm.so
 17f0c357c2927f72613253325394ae66b13548ff72faa1be4e340083292115a7  ./d2vzw/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2vzw/proprietary/lib/libqmiservices.so
-5bb17da2706ca9878736179f268080d403395f0a600abc7e3d5e1054a5c71fb1  ./d2vzw/proprietary/vendor/firmware/libpn544_fw.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincyatt/proprietary/etc/wifi/wl
 abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
 baba4387a81ddc57d9a18af508c243b528259e99271d9f09169e3520df3beba5  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt
@@ -3267,7 +3263,6 @@ a3c4db6086f87e7ff66b1fed42ea4e57b21ecf0e35b4ac2b92361928a7d9e13d  ./d2att/propri
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2att/proprietary/lib/libmmstillomx.so
 bee36ac416928c79a65ce6f3d28982f333ec5483f9c10f4bd199a4f492cc4184  ./d2att/proprietary/lib/libreference-ril.so
 40f08c007350d1a962a9438f71801a5f5a2a1c2313ba4a551deed6524f3c0270  ./d2att/proprietary/lib/libqmiservices.so
-eb686f4d488f8d9f468ae704f017620de3438de431e0025994f2336961a0a2c1  ./d2att/proprietary/vendor/firmware/libpn544_fw.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
 50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
