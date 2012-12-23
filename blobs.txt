@@ -1378,7 +1378,6 @@ d61e4d9ba9389cd8cbfe3a580f60013f4ccc1a2d7c627a629b655eb7bf705826  ./p1-common/pr
 9610ab892813815e9fe36ad187595ed088886d80aeff1c3eaa2cc016ef5083f0  ./p1-common/proprietary/libedid.so
 37cd29cf558b3d403a82b6abe5e10741a07b8936eda8b9634a66218bcb1a741e  ./p1-common/proprietary/gps.conf
 77b2fbc6207c3f04d9e7f480e4eda663fd9cfa4519aa2fda4bbc5d4eb2f93685  ./p1-common/proprietary/battery_charging_85.qmg
-135e0dae1ac0c811aa5e386462b68a72e28d4e6f4e6bb5f8747a94277f5387cd  ./p1-common/proprietary/BCM4329B1_002.002.023.0534.0590.hcd
 444b0ce3eae00681c02a024fba3d4e17d4bfbd78da41b7e89423c70ffbdd15ed  ./p1-common/proprietary/battery_charging_30.qmg
 66fa4967877311b71f7057b81f0ce127856db29dc4a24c34a332ffc1654b1640  ./p1-common/proprietary/battery_charging_70.qmg
 fc4700888a6407bd7dfa7a36e54c0c0391082264cb1ac83a1c05832aad9c25d2  ./p1-common/proprietary/gralloc.s5pc110.so
@@ -1401,6 +1400,7 @@ ff90386a05078f1dc3babea833ac30a83096872e6b42ce337a563fed300e0f5d  ./p1-common/pr
 ef6faa51ec8d5f6f5592fbc0eaaa9f9f90fdf46edb1796326553d552e0255e23  ./p1-common/proprietary/pvrsrvinit
 0edc7ac53550ac4015a0420249f7f914bc2c7d06a3463a78959375e6208169eb  ./p1-common/proprietary/sensors.s5pc110.so
 a8a01825d39787bd40f2d39184e2cbd5f76b80c85e8bc7624fc3de18b9f9f7ce  ./p1-common/proprietary/battery_charging_10.qmg
+b5c2b9dc3da9b891248b7850b179ae174b34308cdaef9f7fa234906653703733  ./p1-common/proprietary/bcm4329.hcd
 3c049c683cb96114adf75ffd770c17da96e12eb456ec6b42c4c01f1338393c63  ./p1-common/proprietary/battery_charging_35.qmg
 53a4cba23404f43953f06bede8de70cf841e932f2635280591331be85daff23b  ./p1-common/proprietary/battery_charging_50.qmg
 950694cf3b2fa979875bb5a225912a9584ebae58a49383d1e2ec9d1ce6ab6adc  ./p1-common/proprietary/libtvoutfimc.so
