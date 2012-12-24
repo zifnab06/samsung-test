@@ -1739,7 +1739,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./mesmerizemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./d2r530/proprietary/.DS_Store
+05d45abf7f3538f93a447eb8f59e0e1a22822024770e6343a0329a977aed6457  ./d2r530/proprietary/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2r530/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2r530/proprietary/bin/rmt_storage
 bbb84be2b412f2598d9ffa13035353562ccf84414df2a88c8839e322910aba23  ./d2r530/proprietary/bin/sec-ril
@@ -1765,7 +1765,6 @@ b6c3f5ec8dc2fe20437570f41cf5d7578d862af4a458ecaa8b9aa623b9041c69  ./d2r530/propr
 1de4c59549abcc47ef686236e3e97bf032764e6ee783c934ca149e010f3f7e21  ./d2r530/proprietary/lib/libqmi_encdec.so
 b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./d2r530/proprietary/lib/libqmi_client_qmux.so
 17f0c357c2927f72613253325394ae66b13548ff72faa1be4e340083292115a7  ./d2r530/proprietary/lib/libreference-ril.so
-933f50591b3ec9eff8b6f67d2590bbfe2a686680d7b02634b7a6082dafc82bbd  ./d2r530/proprietary/lib/log.txt
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2r530/proprietary/lib/libqmiservices.so
 c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./p6210/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6210/props/system/lib/libril.so
@@ -2084,7 +2083,7 @@ a5484122e684b7c8bd4f4063afae35355a3121176c8968e62af27bff6863de2e  ./adrenoblobs4
 af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./adrenoblobs4.2/lib/libc2d2_z180.so
 84e9e034fc670634c4e10f2c44df90673f1bc81978d34765cc81c1db15c1ec02  ./adrenoblobs4.2/lib/libOpenCL.so
 f6ebf8ca2f6481cde1b0285e04c59d44cf7277f2ee89bd4dcfd428ec925037c4  ./adrenoblobs4.2/lib/libOpenVG.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./d2spr/.DS_Store
+54a546fb6ee1a596e95148ac0ee2c871fda778a14685d255e793b35dc50a2d1e  ./d2spr/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2spr/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2spr/proprietary/bin/rmt_storage
 a07097a4c2b4fa1a563e1c0c9a4d25cf71c0c6a56ad13e7ab3fa4ed87bd193a2  ./d2spr/proprietary/bin/sec-ril
@@ -2678,7 +2677,7 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
-118975ed771425cf7ba317444d385ebb9b5ba1b9c7155631f2c76274aded7442  ./d2vzw/.DS_Store
+a8d44f640cd85fbdf13c663ed759817967a0c616e38804ae59dc022cb11ecf2b  ./d2vzw/.DS_Store
 457a7e81ccab04d993f1477d5f1d0dcdbe77b09a317ad3d082b4fddeb93a0f12  ./d2vzw/proprietary/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2vzw/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2vzw/proprietary/bin/rmt_storage
@@ -2797,7 +2796,7 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./quincyatt/pr
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./quincyatt/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./quincyatt/proprietary/lib/libqmiservices.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./d2att/proprietary/.DS_Store
+483f89725a897afb40bca99ff0ddad22159b4c9c64135166cdd103b2eb7f67ed  ./d2att/proprietary/.DS_Store
 db57b90f65341ce4022b7bf119f3ed8f348ee1431e86ecf021db2349514b82d2  ./d2att/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2att/proprietary/bin/rmt_storage
 df97270ea89086084fddef402d31d25f4edd58cac56473ff983378946335dea3  ./d2att/proprietary/bin/sec-ril
