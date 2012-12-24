@@ -1739,7 +1739,6 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./mesmerizemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
-05d45abf7f3538f93a447eb8f59e0e1a22822024770e6343a0329a977aed6457  ./d2r530/proprietary/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2r530/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2r530/proprietary/bin/rmt_storage
 bbb84be2b412f2598d9ffa13035353562ccf84414df2a88c8839e322910aba23  ./d2r530/proprietary/bin/sec-ril
@@ -1773,7 +1772,6 @@ f691b6a169df912e8ffe5d5dd6b314d1c20d991c04bb8a0936300c78503bea3a  ./p6210/props/
 0340a01dfa060b7e506fd6f174f7ba34ca50557bc04b4306ab10b9f3830fe4f7  ./p6210/props/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./p6210/props/system/lib/libsecril-client.so
 12aaf6240f97143dbda961084d33ba7fdf018f1f8f238faf6e17e4bdcf0564fc  ./p6210/props/system/lib/libsec-ril-apalone.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./d2tmo/proprietary/.DS_Store
 01e8991e7a8610614cdbd3504b3ef32cfddc9ed4b6788080fdcb0566368df618  ./d2tmo/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2tmo/proprietary/bin/rmt_storage
 5d0c15122e28eae2beb828a2da8368c4eabb7df6f9a55df34b4c4db3fd16c898  ./d2tmo/proprietary/bin/sec-ril
@@ -2083,7 +2081,6 @@ a5484122e684b7c8bd4f4063afae35355a3121176c8968e62af27bff6863de2e  ./adrenoblobs4
 af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./adrenoblobs4.2/lib/libc2d2_z180.so
 84e9e034fc670634c4e10f2c44df90673f1bc81978d34765cc81c1db15c1ec02  ./adrenoblobs4.2/lib/libOpenCL.so
 f6ebf8ca2f6481cde1b0285e04c59d44cf7277f2ee89bd4dcfd428ec925037c4  ./adrenoblobs4.2/lib/libOpenVG.so
-54a546fb6ee1a596e95148ac0ee2c871fda778a14685d255e793b35dc50a2d1e  ./d2spr/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2spr/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2spr/proprietary/bin/rmt_storage
 a07097a4c2b4fa1a563e1c0c9a4d25cf71c0c6a56ad13e7ab3fa4ed87bd193a2  ./d2spr/proprietary/bin/sec-ril
@@ -2677,8 +2674,6 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
-a8d44f640cd85fbdf13c663ed759817967a0c616e38804ae59dc022cb11ecf2b  ./d2vzw/.DS_Store
-457a7e81ccab04d993f1477d5f1d0dcdbe77b09a317ad3d082b4fddeb93a0f12  ./d2vzw/proprietary/.DS_Store
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2vzw/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2vzw/proprietary/bin/rmt_storage
 e5f3e52d16773e903ff50318fffa7d94f1095f745ae8feb1bcdd2b4e7324972d  ./d2vzw/proprietary/bin/sec-ril
@@ -2796,7 +2791,6 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./quincyatt/pr
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./quincyatt/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./quincyatt/proprietary/lib/libqmiservices.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-483f89725a897afb40bca99ff0ddad22159b4c9c64135166cdd103b2eb7f67ed  ./d2att/proprietary/.DS_Store
 db57b90f65341ce4022b7bf119f3ed8f348ee1431e86ecf021db2349514b82d2  ./d2att/proprietary/bin/qmiproxy
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2att/proprietary/bin/rmt_storage
 df97270ea89086084fddef402d31d25f4edd58cac56473ff983378946335dea3  ./d2att/proprietary/bin/sec-ril
@@ -3169,7 +3163,6 @@ b718e86d95310484610f3b6ae2f417f036cacfcf86828591b258230ebbb5b2c2  ./d2-common/pr
 c6105b4f2acd2073cf5fddc437c2e3e899fdd4909a7d283f1274cde6a79ece72  ./d2-common/proprietary/bin/macloader
 92d8091ef675ae40c56fbb4fa37706cda61959940a3c30733f6d7f93ce1160fb  ./d2-common/proprietary/bin/thermald
 3d5212f2c646bc2860268f77f48352a43027f8e28932cf1e582e4c3fe4d1846e  ./d2-common/proprietary/bin/bcm4334.hcd
-14215fea97579664c37906494ff72e11cbbba94b4abb8281481a8c36c115cef2  ./d2-common/proprietary/lib/libqdp.so
 ed0aa94c2d5a895e553b320c5f5605d351b1ba561e7552421adfa32daa48870b  ./d2-common/proprietary/lib/libmmcamera_statsproc30.so
 950618a661cad27ab72698c428fe7da48082df852054427c05b1c794cd0130e5  ./d2-common/proprietary/lib/libdiag.so
 105372d1ce9b5f08cbe3b0d97de99e18357f25e93bdb8953c520d784840d74e1  ./d2-common/proprietary/lib/libmmcamera_faceproc.so
