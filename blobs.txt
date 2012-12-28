@@ -1739,7 +1739,6 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./mesmerizemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
-169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2r530/proprietary/bin/qmiproxy
 57ef39aad67c78123934703958fe461e8a90a1290ef9d2aa1071eb28659e932f  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
 c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./p6210/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6210/props/system/lib/libril.so
@@ -1748,7 +1747,6 @@ f691b6a169df912e8ffe5d5dd6b314d1c20d991c04bb8a0936300c78503bea3a  ./p6210/props/
 0340a01dfa060b7e506fd6f174f7ba34ca50557bc04b4306ab10b9f3830fe4f7  ./p6210/props/system/lib/libsec-ril.so
 7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./p6210/props/system/lib/libsecril-client.so
 12aaf6240f97143dbda961084d33ba7fdf018f1f8f238faf6e17e4bdcf0564fc  ./p6210/props/system/lib/libsec-ril-apalone.so
-01e8991e7a8610614cdbd3504b3ef32cfddc9ed4b6788080fdcb0566368df618  ./d2tmo/proprietary/bin/qmiproxy
 e22049b0ef5ef5a2967041e9a7b32a74d35dc1b0fee8d60500e9190cb665befc  ./d2tmo/proprietary/lib/libril-qc-qmi-1.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./t769/proprietary/etc/wifi/wl
 aee6b107ceeb854ecf8d1f836fda8e992489bb9f5d7c306180242ace61c15619  ./t769/proprietary/etc/wifi/nvram_mfg.txt_murata
@@ -2032,9 +2030,7 @@ eecb432a64b6d9c1c6ece76f96744dd5715df91c9779654958b4b33c9da1377b  ./adrenoblobs4
 a5484122e684b7c8bd4f4063afae35355a3121176c8968e62af27bff6863de2e  ./adrenoblobs4.2/lib/libllvm-a3xx.so
 af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./adrenoblobs4.2/lib/libc2d2_z180.so
 84e9e034fc670634c4e10f2c44df90673f1bc81978d34765cc81c1db15c1ec02  ./adrenoblobs4.2/lib/libOpenCL.so
-3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./adrenoblobs4.2/lib/hw/camera.msm8960.so
 f6ebf8ca2f6481cde1b0285e04c59d44cf7277f2ee89bd4dcfd428ec925037c4  ./adrenoblobs4.2/lib/libOpenVG.so
-169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2spr/proprietary/bin/qmiproxy
 df3fcfd457ff5cec457ae43eb6f9c914c65339a414020960d2f2ed8083ab6d69  ./d2spr/proprietary/lib/libril-qc-qmi-1.so
 55006efdeabdeb934aed103741336323a8bf452f0c03f2baab480b9f03a6f716  ./fascinatemtd/proprietary/geomagneticd
 f1c379fd590256a53df55e2e4b0fdfe86c0dca8c7484084f181b1168a5072dbf  ./fascinatemtd/proprietary/libsec-ril40.so
@@ -2603,7 +2599,6 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
-169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2vzw/proprietary/bin/qmiproxy
 0d34466f18e962f12f8b359847d9efa9f95c6e69f130a46ebc436854133ec1b6  ./d2vzw/proprietary/lib/libril-qc-qmi-1.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincyatt/proprietary/etc/wifi/wl
 abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
@@ -2696,7 +2691,6 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./quincyatt/pr
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./quincyatt/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./quincyatt/proprietary/lib/libqmiservices.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-db57b90f65341ce4022b7bf119f3ed8f348ee1431e86ecf021db2349514b82d2  ./d2att/proprietary/bin/qmiproxy
 a3ad9dcc4f444e06ebe3a018e86e0d3f25290dca2af37c48ef6e1c10f23f0046  ./d2att/proprietary/lib/libril-qc-qmi-1.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
@@ -3041,6 +3035,7 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./d2-common/pr
 97d3c89bbb99564c47d4d117fa0ed6c3bfe19434efe676c1683354a6929b78b1  ./d2-common/proprietary/bin/mpdecision
 b718e86d95310484610f3b6ae2f417f036cacfcf86828591b258230ebbb5b2c2  ./d2-common/proprietary/bin/bcm4334_murata.hcd
 3d5212f2c646bc2860268f77f48352a43027f8e28932cf1e582e4c3fe4d1846e  ./d2-common/proprietary/bin/bcm4334_semco.hcd
+169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./d2-common/proprietary/bin/qmiproxy
 0e21a4a2f15e32c8f27f65ad5ec795d0e254be99906de95b15db396dae30571b  ./d2-common/proprietary/bin/mm-qcamera-daemon
 c6105b4f2acd2073cf5fddc437c2e3e899fdd4909a7d283f1274cde6a79ece72  ./d2-common/proprietary/bin/macloader
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./d2-common/proprietary/bin/rmt_storage
