@@ -3096,7 +3096,7 @@ af2582cc72aea8786b3ba261b4b3c4bbe8471fd84fa56b1179facd921f594e16  ./d2-common/pr
 9c7a6365ee5c7c47db6bf2c232dd6a504a32464d4ac889c5651d9e250b692495  ./d2-common/proprietary/lib/libmmmpod.so
 6e64019cd0508894750062d95915b02a8baaf271351099fcc1c08bbc99761f1f  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 b91c792446c1e8b605f6aee108d26f80bc9a42ac2e26909fb95548fc58b2534b  ./d2-common/proprietary/lib/libaudcal.so
-9d57776e4d5b43ee98969df4cf2d36c45a26e4a818edc5a8af378e4de9a3e626  ./d2-common/proprietary/lib/hw/camera.msm8960.so
+3b19efce89780c5f276aca0d06c9ba7b88a578415ba427e9d050e6664c2f4959  ./d2-common/proprietary/lib/hw/camera.msm8960.so
 e7a400a0531ebc46ecaf4532ed1375f8bf8599aed16de3b835ddf5174ba082e8  ./d2-common/proprietary/lib/hw/nfc.MSM8960.so
 9dbd5eeedeed936b11f1813b59c73d4f6c0c36a195c4417b7962241439682e1b  ./d2-common/proprietary/lib/hw/sensors.msm8960.so
 fe9289143a3e23dac55fd453a0b244ce45fed9f015db271446c382e03a8e8fa3  ./d2-common/proprietary/lib/libqdi.so
