@@ -3075,7 +3075,6 @@ b5149a6e0fee2a7b80e6ee262dab9b84e3fd91a9164d8565d2d8613d2b00f0bf  ./d2-common/pr
 95eafdbc299f0fa3b5ebd9d76c17742189173887df35119f34c697e102868a9d  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2-common/proprietary/lib/libchromatix_imx074_default_video.so
 6e26a46555a62e0bc26b58d1bccbc8525ad72bf609718de0d8e6e0e7f83fae47  ./d2-common/proprietary/lib/libC2D2.so
-36eeb1d64b788f038228238d183d413969b8e69ce084501963f56d187dde26b7  ./d2-common/proprietary/lib/libril.so
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2-common/proprietary/lib/libvdis.so
 b691d6d212cb9edeb352f1918ad6cc29081b3c79f48744ffaf51a9a004c4fb93  ./d2-common/proprietary/lib/libacdbloader.so
 7951aff2a28d5bb3beb3bfc8529e579b35ee08d0624ef10f7267f58b15685c87  ./d2-common/proprietary/lib/libidl.so
