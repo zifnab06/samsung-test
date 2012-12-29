@@ -2695,8 +2695,8 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./quincyatt/pr
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./quincyatt/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./quincyatt/proprietary/lib/libqmiservices.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-ee2977c292d768d896dbf5a9ddae35881f11c0c89146eeeee681fb231eb01c0c  ./d2att/proprietary/lib/libril.so
-a3ad9dcc4f444e06ebe3a018e86e0d3f25290dca2af37c48ef6e1c10f23f0046  ./d2att/proprietary/lib/libril-qc-qmi-1.so
+86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2att/proprietary/lib/libril.so
+7cf3f9491d6b61c99d6889a07204da8f56245e428b4d4868a3ed3386501f867d  ./d2att/proprietary/lib/libril-qc-qmi-1.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
 50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
