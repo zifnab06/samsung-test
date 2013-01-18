@@ -2193,7 +2193,7 @@ e1b82cfd6ce109e358e3be06f954f36e7284a770978b05d052c4e68f51d86d81  ./p4wifi/propr
 628c73ad79fb22c15a4abd6ba17e2c65409cc7efcf2a8fe62f41de73ac5713d8  ./p4wifi/proprietary/lib/libnvmm_contentpipe.so
 fd6cac431001cfa7c536a28aadf33e7a9183aba7158714f7a558969549ba1eb5  ./p4wifi/proprietary/lib/libnvtestio.so
 cb4c5c04145cc493e31d360bf7822c48cb0a687a571b33e48e3367acbe7d54ae  ./p4wifi/proprietary/lib/libnvcpud.so
-bd9da1b2ad4c653785d0733c3a354eeedfde70baef2fe89fd5c31cbe255f1f6e  ./p4wifi/proprietary/lib/libnvcamerahdr.so
+80f0c1551e31b1c63b0903763fb432f46b1a7ef043b6f210bedf8addc462d3da  ./p4wifi/proprietary/lib/libnvcamerahdr.so
 b9e7751cf751958984a42a12799c64769210c5c7b28103e7d2a2eb85ead93c24  ./p4wifi/proprietary/lib/libardrv_dynamic.so
 072053e7813595eeac862647fe73fae50eaeecc2418a6683bbe5306dfe414b42  ./p4wifi/proprietary/lib/libnvmmlite.so
 277f681d0fbf541309457b860e3ecb93a45352be48250cd33e0d1d388efbfb36  ./p4wifi/proprietary/lib/libnvomxilclient.so
@@ -2220,13 +2220,14 @@ ccfc0053288c6678282190c6963ae5ec19e64213e6433f46c009e2a6ac0b2797  ./p4wifi/propr
 a4f4dece8f4098e27471414127076b782137f2b1c0d8c6e8bc2d84a83f92a9cf  ./p4wifi/proprietary/lib/libnvmmlite_audio.so
 ccb79142a4da8d293441f7059cafeb3a0bb2dda052480f9ed1f9fbc6421cf0de  ./p4wifi/proprietary/lib/libnvrm_graphics.so
 9aceb6513a0355dc5396d53911cc83e6cb0770f249de40288e25d9fcc65c22d4  ./p4wifi/proprietary/lib/libnvwinsys.so
-39dfc9594eaa77ce11965d899cb84539e28a11f05cbda60d51b192c931942ac2  ./p4wifi/proprietary/lib/libnvmm_camera.so
+a605aa2f5c21edc08920405462645d068622d9d7b22856a85175c5d5ee3b1e62  ./p4wifi/proprietary/lib/libnvmm_camera.so
 0eab50bc5e2dce5a4d28ccf098f4a96ed532c46248ecf21c42671d76e626932c  ./p4wifi/proprietary/lib/libstagefrighthw.so
 63bfa463fa485ca0255a1704e3734c6ea639fe65f17bfcd4bd1c94d76a338eb9  ./p4wifi/proprietary/lib/libnvasfparserhal.so
 2e77146949d8848a0de19764b43a8b5ad3657fcb8c1c173bd4071078679370e6  ./p4wifi/proprietary/lib/hw/hwcomposer.tegra.so
 1ab1eedb2239e0390bcc3e0080391eb2815e9c8bf3bb115386b33d9baf0dde61  ./p4wifi/proprietary/lib/hw/lights.p3.so
 a6ac75620f40ea1e5068aa77236d6ba1775cea4e8fc13918db1236d9b9bd9327  ./p4wifi/proprietary/lib/hw/sensors.p3.so
 810733c547182c29e196ec88b45eae567a71b5bd01161a956b976f23e8db5370  ./p4wifi/proprietary/lib/hw/gps.tegra.so
+7432f93ac7d0cffeb065a7e197186575f5b09ea74be051f0fb5d5134bf7e29d6  ./p4wifi/proprietary/lib/hw/audio_policy.tegra.so
 be6afe3811b1bd90d0a522c33304015d16a887e9232d3d8960edd0f61960e7fe  ./p4wifi/proprietary/lib/hw/audio.primary.tegra.so
 ae2e61c12e01f2a080f0292b20ad0c33ec72f0571cf305c5f3a6a8d138957369  ./p4wifi/proprietary/lib/hw/camera.tegra.so
 02257f991a23180c8599af2118dd1a1e1532aeeaa60a77a08f107ed8c014664f  ./p4wifi/proprietary/lib/hw/gralloc.tegra.so
