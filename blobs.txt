@@ -1558,6 +1558,7 @@ b98b6b3dc290daffc27cb0734b91485fbc3831305e33a92c357136a7dfaf67c1  ./p4vzw/propri
 1ab1eedb2239e0390bcc3e0080391eb2815e9c8bf3bb115386b33d9baf0dde61  ./p4vzw/proprietary/lib/hw/lights.p3.so
 c69a1084c1243d6dda1409a863c2c34f3abd335c784032a82ca8392646810ee9  ./p4vzw/proprietary/lib/hw/sensors.p3.so
 d8da49bb6dbc7a0ae53ee1d79814b3520311f8cdc418861c037ff4b816aee22e  ./p4vzw/proprietary/lib/hw/gps.tegra.so
+7432f93ac7d0cffeb065a7e197186575f5b09ea74be051f0fb5d5134bf7e29d6  ./p4vzw/proprietary/lib/hw/audio_policy.tegra.so
 be6afe3811b1bd90d0a522c33304015d16a887e9232d3d8960edd0f61960e7fe  ./p4vzw/proprietary/lib/hw/audio.primary.tegra.so
 62cee72b30b77cdebb61a409e4144ec1f865ffe69c4bfc269afd738d9974f41d  ./p4vzw/proprietary/lib/hw/camera.tegra.so
 02257f991a23180c8599af2118dd1a1e1532aeeaa60a77a08f107ed8c014664f  ./p4vzw/proprietary/lib/hw/gralloc.tegra.so
