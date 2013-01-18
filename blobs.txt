@@ -735,10 +735,11 @@ d1e3be2eabccbfe66d337f7de3a317a04473537a22c3932d906b770480902fce  ./p3/proprieta
 1ab1eedb2239e0390bcc3e0080391eb2815e9c8bf3bb115386b33d9baf0dde61  ./p3/proprietary/lib/hw/lights.p3.so
 7fe2f005dbedf158010ffb7943bc6f86ae2e0d79766bc8db4b1c352c4a997990  ./p3/proprietary/lib/hw/sensors.p3.so
 810733c547182c29e196ec88b45eae567a71b5bd01161a956b976f23e8db5370  ./p3/proprietary/lib/hw/gps.tegra.so
+7432f93ac7d0cffeb065a7e197186575f5b09ea74be051f0fb5d5134bf7e29d6  ./p3/proprietary/lib/hw/audio_policy.tegra.so
 be6afe3811b1bd90d0a522c33304015d16a887e9232d3d8960edd0f61960e7fe  ./p3/proprietary/lib/hw/audio.primary.tegra.so
 a2198d7170408483082e3b1205f7597d70313651dd0e0a1fd61cb2a59b1bd59e  ./p3/proprietary/lib/hw/camera.tegra.so
 b455851ee0b82c1a5e0ec8394e179bc7f0032173321cdbc6274f0ea3d6478c12  ./p3/proprietary/lib/hw/gralloc.tegra.so
-c780297270283ec145b718adbd31231207cb957d94ad66ea153acc8b58a943b6  ./p3/proprietary/lib/libsec-ril.so
+feba8fb670acd9c507c424c2f3bd84b505d7ea6493687fa7e8c862b9e0f8a0a7  ./p3/proprietary/lib/libsec-ril.so
 b2a6b2d3fa725b77b07f4608f82e971fdf2216074429bdede613e0d7159b9a71  ./p3/proprietary/lib/libnvsystemuiext_jni.so
 fa494e051c6a570677607907f72250ca3f6ee6cbbd53c6aec64b1c8fe6995c19  ./p3/proprietary/lib/libnvapputil.so
 95d50eca2f0812413b1c6f4210dae2e46d9e513cfc81c8212bcb80f6918373cf  ./p3/proprietary/lib/libnvmm_image.so
