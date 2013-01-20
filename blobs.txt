@@ -2782,9 +2782,7 @@ a8c883a3f0d58e8c33587c50ba721e707e5cacca2d81374edc13802bfa503ed6  ./smdk4412-com
 a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4412-common/proprietary/system/lib/libsecion.so
 dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./smdk4412-common/proprietary/system/lib/libfimc.so
 d0a345904ce5c5acf61b294a4c59ae4afbc3c7df2aecd10786a8571501bde1e4  ./smdk4412-common/proprietary/system/lib/hw/nfc.smdk4x12.so
-dd3d4ba592d1fe9cb1aaf34feed2fc9abe060b4717e98d492b11defc272bea31  ./smdk4412-common/proprietary/system/lib/hw/hwcomposer.smdk4x12.so
 05b49bd3cbe29a59bfa3200ce824a864daba03dfd36466470ab7e1469388fef4  ./smdk4412-common/proprietary/system/lib/hw/lights.exynos4.so
-96a2d4608e78159c32241600c8bac7bff6cc28b995ac89298235559c0c37aede  ./smdk4412-common/proprietary/system/lib/hw/gralloc.smdk4x12.so
 09627a459012489511fbd3e5c66a3a11591c1d885aaaeb46651bd7d4c4a3ce68  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
 bda3fee20197cc6e8288aba110fc3c56b78c841e2bddc588fb34e35c2556397d  ./smdk4412-common/proprietary/system/lib/libMcRegistry.so
 d5987f9905dcafa2457b820ba813b0caae5e6d212a3ea7ca4d575d0e5bf29bb4  ./smdk4412-common/proprietary/system/lib/libquramimagecodec.so
