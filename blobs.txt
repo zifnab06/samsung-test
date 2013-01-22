@@ -2993,8 +2993,8 @@ cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./i9300/propri
 e268a577d90ef93587b9cb7cee0658a2167699346ad44669764aa63e843c0d31  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
-dc5e76bc7cd516634d2d6c6fa7d7673e882e3bbc4445bbb2f6e9dad25ccaf122  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
-6b1f79a6b5bdd72496c9bb17911d8f2098542e95c6c7bf6a8586bbe5f7215877  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
+353c19b74bd613389d715840eac71a51e43e25263a05114c089cfeebb15dddd5  ./i9300/proprietary/system/vendor/firmware/SlimISP_ZD.bin
+8f5d53c3c21b065c973caccdc6a6bb8c589f0bc4dcb80c5da1350cb38df19f1f  ./i9300/proprietary/system/vendor/firmware/SlimISP_GD.bin
 db342344449fba181a55de87e73eaa4f69c7093f9af761a257d272e39fa6daa3  ./i9300/proprietary/system/vendor/firmware/libpn544_fw.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./d2-common/proprietary/etc/thermald-8960.conf
 9eecab73314a3158d2dce477fcd8ed411c514dd22bbb42efd009a99892c182f0  ./d2-common/proprietary/etc/thermald-8064.conf
