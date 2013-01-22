@@ -2630,7 +2630,7 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/propri
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
 05ce013ca3b0bede533ad18cff3d732f30e26c9c69b2e617ccf97ce7f6c88018  ./n7100/proprietary/system/vendor/firmware/SlimISP_GK.bin
-91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./n7100/proprietary/system/vendor/firmware/SlimISP_ZK.bin
+a45ea9240f9dbdd879810c2b01331d09857e907e74adaec7af3a7c03ee852e92  ./n7100/proprietary/system/vendor/firmware/SlimISP_ZK.bin
 c46599b71ae7bb552f8f138d589a26375580cea74fed2cf5fe53187fd92014cc  ./n7100/proprietary/system/vendor/firmware/libpn544_fw.so
 82206df753accd8f567cc570d930afc412b0e1f5cdfa21edbf68d5530c5a857d  ./manta/proprietary/07060000000000000000000000000000.tlbin
 136d423e81a951546f9ca0a920883482709e0e921e9d4fe94e7cca9a6a450eed  ./manta/proprietary/fimc_is_fw.bin
