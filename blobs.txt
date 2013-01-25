@@ -3022,6 +3022,7 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./d2-common/pr
 582382babe6bbaf0f4e300022134a56a1892a6b697351e92f75c45c485fd6fdc  ./d2-common/proprietary/cameradata/SlimISP_GE.bin
 8f5d53c3c21b065c973caccdc6a6bb8c589f0bc4dcb80c5da1350cb38df19f1f  ./d2-common/proprietary/cameradata/SlimISP_GD.bin
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./d2-common/proprietary/cameradata/datapattern_420sp.yuv
+271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./d2-common/proprietary/cameradata/SlimISP_ZH.bin
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./d2-common/proprietary/cameradata/datapattern_front_420sp.yuv
 97d3c89bbb99564c47d4d117fa0ed6c3bfe19434efe676c1683354a6929b78b1  ./d2-common/proprietary/bin/mpdecision
 b718e86d95310484610f3b6ae2f417f036cacfcf86828591b258230ebbb5b2c2  ./d2-common/proprietary/bin/bcm4334_murata.hcd
