@@ -3007,6 +3007,7 @@ aac2cfb1d9cf930094e92cdef5a09113dfd2e8543e5812672c23dfa10190223c  ./d2-common/pr
 41ad1947657def39ca367c667e66b169d54a735b80ac567b735660a5499f241b  ./d2-common/proprietary/bin/netmgrd
 1ec8c2b640ce562fa82dce6f2f57499eeda7acfbddf9d12a83f7c1ebda6f2dcb  ./d2-common/proprietary/lib/libqdp.so
 ed0aa94c2d5a895e553b320c5f5605d351b1ba561e7552421adfa32daa48870b  ./d2-common/proprietary/lib/libmmcamera_statsproc30.so
+610c1259a8895e1b258442e754a740b48bd32aba366b466b94938fb6e31e4879  ./d2-common/proprietary/lib/libomission_avoidance.so
 8395487e71b95527318f78f52881f034ac9789025ce7ab89ff4973ac49e7cacc  ./d2-common/proprietary/lib/libdiag.so
 105372d1ce9b5f08cbe3b0d97de99e18357f25e93bdb8953c520d784840d74e1  ./d2-common/proprietary/lib/libmmcamera_faceproc.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./d2-common/proprietary/lib/libsecnativefeature.so
@@ -3060,6 +3061,7 @@ e7a400a0531ebc46ecaf4532ed1375f8bf8599aed16de3b835ddf5174ba082e8  ./d2-common/pr
 9dbd5eeedeed936b11f1813b59c73d4f6c0c36a195c4417b7962241439682e1b  ./d2-common/proprietary/lib/hw/sensors.msm8960.so
 fe9289143a3e23dac55fd453a0b244ce45fed9f015db271446c382e03a8e8fa3  ./d2-common/proprietary/lib/libqdi.so
 c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2-common/proprietary/lib/libchromatix_ov2720_default_video.so
+28b01475f11ee95df4c82e1da62d7c557f5acba215d9c148215cfcf30e1766de  ./d2-common/proprietary/lib/libfactoryutil.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./d2-common/proprietary/lib/libsecril-client.so
 8410c42ebd11cabbe7db2742db9da23aafb1eb0f633f503d3c0a598967963f84  ./d2-common/proprietary/lib/liboemcamera.so
 78276fd07b1ded2a94374f4365e8d46534e0ca95658e98bd2e292588a04f6288  ./d2-common/proprietary/lib/libmlplatform.so
