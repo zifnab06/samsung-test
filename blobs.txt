@@ -1884,6 +1884,7 @@ f174b2aa1bdaa084b4277d518f9b81d64b32915954ad4acd126c09717632ef3b  ./t0ltecdma/pr
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./t0ltecdma/proprietary/system/bin/sensorhubservice
 80b365de30952b99979e405ccdd3815ecd84d58ab8804046f042ace04f604a39  ./t0ltecdma/proprietary/system/bin/gsiff_daemon
 5c17c8eb50659c6de7d72f17fb1b70f8c6a98f41df3013246350fe6b15b23068  ./t0ltecdma/proprietary/system/bin/rild
+ba9fa2adcee8d62c20cf7cdd906334ae5c6ec372c1f4a7971fca1cbcffe7c56d  ./t0ltecdma/proprietary/system/bin/smdexe
 c9ed057fba43b91244f28f589dc25efd74b9c9d292455c4bf0ab35a16345bd46  ./t0ltecdma/proprietary/system/bin/qmuxd
 84b82be392a8797911f7e73d67a128d4eb0f6b7f4a4297d6b972fb252dce2a11  ./t0ltecdma/proprietary/system/bin/netmgrd
 5a0253fb899c9df8384ad8c90c6b2db3ecb1d9f36881a044e0cfe4708927114d  ./t0ltecdma/proprietary/system/bin/LE_dut
@@ -1893,6 +1894,7 @@ c9ed057fba43b91244f28f589dc25efd74b9c9d292455c4bf0ab35a16345bd46  ./t0ltecdma/pr
 806a3c8283d2586f875db8e3cb97be97c0de5b47262953708709f14b35bd45a9  ./t0ltecdma/proprietary/system/lib/libcsd-client.so
 2288a11468b05b6aaef39cbf31ce68a7d3f8d881f858386a1dd5e89711772252  ./t0ltecdma/proprietary/system/lib/libomission_avoidance.so
 58a98c22474d9e3a99d99afd2a0cdc6059bd451e62c4ba7422189f7651531e48  ./t0ltecdma/proprietary/system/lib/libdiag.so
+0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0ltecdma/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0ltecdma/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0ltecdma/proprietary/system/lib/libqmi_csi.so
 938116d880193141b633dff95cd6ab81cc6d7862ca486a6f164aee1063202601  ./t0ltecdma/proprietary/system/lib/libloc_api_v02.so
