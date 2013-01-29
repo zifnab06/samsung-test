@@ -1893,6 +1893,7 @@ c9ed057fba43b91244f28f589dc25efd74b9c9d292455c4bf0ab35a16345bd46  ./t0ltecdma/pr
 806a3c8283d2586f875db8e3cb97be97c0de5b47262953708709f14b35bd45a9  ./t0ltecdma/proprietary/system/lib/libcsd-client.so
 2288a11468b05b6aaef39cbf31ce68a7d3f8d881f858386a1dd5e89711772252  ./t0ltecdma/proprietary/system/lib/libomission_avoidance.so
 58a98c22474d9e3a99d99afd2a0cdc6059bd451e62c4ba7422189f7651531e48  ./t0ltecdma/proprietary/system/lib/libdiag.so
+0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0ltecdma/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0ltecdma/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0ltecdma/proprietary/system/lib/libqmi_csi.so
 938116d880193141b633dff95cd6ab81cc6d7862ca486a6f164aee1063202601  ./t0ltecdma/proprietary/system/lib/libloc_api_v02.so
