@@ -1792,6 +1792,7 @@ aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./skyrocket/pr
 84e9e034fc670634c4e10f2c44df90673f1bc81978d34765cc81c1db15c1ec02  ./skyrocket/proprietary/lib/libOpenCL.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./skyrocket/proprietary/lib/libnetmgr.so
 b32af432a9a20cd7fcea6c9b6ff58eb5b9a48f93a2dc6452f89753778409663d  ./skyrocket/proprietary/lib/libaudcal.so
+8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./skyrocket/proprietary/lib/libpn544_fw.so
 d9025abf65fc28a37354a144dc7acba2e4f3fbe099ac1322c66174a457147985  ./skyrocket/proprietary/lib/hw/sensors.default.so
 29c089a253989a293ecf06976cd89f8a74309bdf0337ba3d591aa3d751f02709  ./skyrocket/proprietary/lib/hw/nfc.qcom.so
 fe3179b2a6fe9375a78240eac4ca332bd91dd1d28152b4e56027f6213a60b426  ./skyrocket/proprietary/lib/hw/camera.msm8660.so
@@ -1812,7 +1813,6 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./skyrocket/pr
 8a3f2c93d3455f70e699922a91c578cec57eb712656f66e046ff602b25960371  ./skyrocket/proprietary/lib/libreference-ril.so
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./skyrocket/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./skyrocket/proprietary/lib/libqmiservices.so
-8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./skyrocket/proprietary/vendor/firmware/libpn544_fw.so
 e721b80fc135a9dfd2af39e9a80d5d4977580a0b3d77902c0b8a42e2aa118559  ./crespo4g/proprietary/WiMAXSettings.apk
 3e33295b1c0acc8fc423ea16a8b16740f19f6096ea81e3a3ed7bc1dfeff9084b  ./crespo4g/proprietary/wimaxfw.bin
 dfebc1727f266dbb5d6d237183b79aaf94142192b364e802e3ccfc46315b1ba4  ./crespo4g/proprietary/wimaxloader.bin
