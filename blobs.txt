@@ -1819,6 +1819,7 @@ e4f22b73c3689fa955324da3059fd0ff00a5128ffcfee359c9dd614669e76a59  ./p51xx/common
 b7c96c4fe1b0497cde95e1f34666130a2a4e73c1018c7e0ec99effd905e67b59  ./p51xx/common/system/bin/dock_kbd_attach
 82fbae3d4ea4a2555792cb1d74fd6362eea4b0fb919fd4f0aeea643826030235  ./p51xx/common/system/bin/gpsd
 b8dfe7ae6852ffdaae29de4b6b4061987527a8c3952244f4125bc0250ffbc276  ./p51xx/common/system/bin/orientationd
+065c10742372591fd8af00c6b4d7ae31c226dc879f7de04205a5b92de33449db  ./p51xx/common/system/bin/hostapd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p51xx/common/system/bin/smc.ini
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p51xx/common/system/lib/libQmageDecoder.so
 a1043ef14ff0925242ed0e6a88e7160f9fc6d92610cb9b00f637e58740053225  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
@@ -2300,6 +2301,7 @@ e4f22b73c3689fa955324da3059fd0ff00a5128ffcfee359c9dd614669e76a59  ./p31xx/common
 b7c96c4fe1b0497cde95e1f34666130a2a4e73c1018c7e0ec99effd905e67b59  ./p31xx/common/system/bin/dock_kbd_attach
 d3bb6b588afd4303556be125c1287e191c833bb1f0f4f26940e8594f1bf92935  ./p31xx/common/system/bin/gpsd
 b8dfe7ae6852ffdaae29de4b6b4061987527a8c3952244f4125bc0250ffbc276  ./p31xx/common/system/bin/orientationd
+065c10742372591fd8af00c6b4d7ae31c226dc879f7de04205a5b92de33449db  ./p31xx/common/system/bin/hostapd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p31xx/common/system/bin/smc.ini
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./p31xx/common/system/lib/libQmageDecoder.so
 a1043ef14ff0925242ed0e6a88e7160f9fc6d92610cb9b00f637e58740053225  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
