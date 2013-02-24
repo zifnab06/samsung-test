@@ -2691,16 +2691,12 @@ bf015b37b3526da436340d2399a53e6dcde6b3f34c52aefaa6bb6530e3edb24a  ./smdk4412-com
 10a44adcf1a818e3a25acc8479abb3f273e35058aff9b5b77da36ceb2a5a082c  ./smdk4412-common/proprietary/system/lib/libhwconverter.so
 a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4412-common/proprietary/system/lib/libsecion.so
 dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./smdk4412-common/proprietary/system/lib/libfimc.so
-d0a345904ce5c5acf61b294a4c59ae4afbc3c7df2aecd10786a8571501bde1e4  ./smdk4412-common/proprietary/system/lib/hw/nfc.smdk4x12.so
-05b49bd3cbe29a59bfa3200ce824a864daba03dfd36466470ab7e1469388fef4  ./smdk4412-common/proprietary/system/lib/hw/lights.exynos4.so
 09627a459012489511fbd3e5c66a3a11591c1d885aaaeb46651bd7d4c4a3ce68  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
 bda3fee20197cc6e8288aba110fc3c56b78c841e2bddc588fb34e35c2556397d  ./smdk4412-common/proprietary/system/lib/libMcRegistry.so
 d5987f9905dcafa2457b820ba813b0caae5e6d212a3ea7ca4d575d0e5bf29bb4  ./smdk4412-common/proprietary/system/lib/libquramimagecodec.so
 d37cd1d3334c238d3232de874e57ab229a77b8c4d053fd94ef7546e437c321f9  ./smdk4412-common/proprietary/system/lib/libtvoutservice.so
-cc9aa2fcb7936bfdb6c5001ff9fd3897953e2245abd5a697726c3b6b47ca2859  ./smdk4412-common/proprietary/system/usr/idc/qwerty.idc
 9915cd2b79a83d6f2855c75606364dd73d455460a5fa79deb2ffefc3e263bce1  ./smdk4412-common/proprietary/system/usr/idc/melfas_ts.idc
 d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./smdk4412-common/proprietary/system/usr/idc/sec_touchscreen.idc
-69e40ed021ca825065633f2f419134079d0b080fada036c24c4120a66526ee12  ./smdk4412-common/proprietary/system/usr/idc/qwerty2.idc
 5ccc92158ea9cccf8b176ced1e3aa1f97c66283527895bbbbbc64bd5a5e01743  ./smdk4412-common/proprietary/system/usr/keylayout/sii9234_rcp.kl
 d5340b8a77b92ff91f0b1462a7edadf6548751770f2b0524e468ce7bfdb44f61  ./smdk4412-common/proprietary/system/usr/keylayout/gpio-keys.kl
 fb3c3d0951bd2003c296d93f356677f63f8d015b62f19cca3249734403475120  ./smdk4412-common/proprietary/system/vendor/firmware/fimc_is_fw.bin
