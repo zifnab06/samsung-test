@@ -2689,7 +2689,6 @@ bf015b37b3526da436340d2399a53e6dcde6b3f34c52aefaa6bb6530e3edb24a  ./smdk4412-com
 3e28aed0280f1757607340795d247db9f8b34a5f748e26eb42da7a3b235cf35d  ./smdk4412-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
 0e0d255a7db5c823f4e0bf513df088dc991b2ef061325e28aa8cabdc926d86da  ./smdk4412-common/proprietary/system/lib/libhdmi.so
 10a44adcf1a818e3a25acc8479abb3f273e35058aff9b5b77da36ceb2a5a082c  ./smdk4412-common/proprietary/system/lib/libhwconverter.so
-a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4412-common/proprietary/system/lib/libsecion.so
 dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./smdk4412-common/proprietary/system/lib/libfimc.so
 09627a459012489511fbd3e5c66a3a11591c1d885aaaeb46651bd7d4c4a3ce68  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
 bda3fee20197cc6e8288aba110fc3c56b78c841e2bddc588fb34e35c2556397d  ./smdk4412-common/proprietary/system/lib/libMcRegistry.so
