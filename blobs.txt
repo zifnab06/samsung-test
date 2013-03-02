@@ -19,11 +19,11 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i777/proprie
 913ef575cdd8d5f3a88bc6a01804779a389e19ca5393a59ad2b2fb4c40288cf7  ./i777/proprietary/system/etc/wifi/bcmdhd_mfg.bin
 3918366bef7dbc9a5eb5ef64b7b9f23a0ad2f9b8f413bd34992d9402cd4eeadd  ./i777/proprietary/system/etc/wifi/nvram_net.txt_murata
 b73a9c39962d17680d94cd0e6f90444afcd576af728c83536027368da1b3ebaa  ./i777/proprietary/system/bin/rild
-952e6a64c47d0781f55b7724ae9cef65c29c954be6d38320da1d8d146a856739  ./i777/proprietary/system/lib/libril.so
+736a6fcba35eae8511393d5b253e351476642e0ddfa8a828f9304bd8911cb991  ./i777/proprietary/system/lib/libril.so
 4e7323db3e068d7e5852136f09dec4dfa4c30c4d3765f106d65c742283f3f5e4  ./i777/proprietary/system/lib/libakm.so
 5de9f82fe3b7f8be2eb6bdb292b02a40aca7a1b8f9f62ecf1d7f577a27ea4980  ./i777/proprietary/system/lib/hw/gps.exynos4.so
-5f2036734176831efcb6646c4627d63d044afb4949eab779741eb1161320e96d  ./i777/proprietary/system/lib/libsec-ril.so
-7cc25a51fbf3aa87cdc07fd21abd26ed54447d73b6b621ccdd54358724225f35  ./i777/proprietary/system/lib/libsecril-client.so
+3ec914c4682bc61b01af23820b9e8c8bde35c4bb4c4694c27376786d14d2fb31  ./i777/proprietary/system/lib/libsec-ril.so
+d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./i777/proprietary/system/lib/libsecril-client.so
 2e4b5a2a270f167aa0d0c63868ec12f51ed474a02604e27933c04f85c8652130  ./galaxys2-common/proprietary/sbin/cbd
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./galaxys2-common/proprietary/system/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./galaxys2-common/proprietary/system/cameradata/datapattern_front_420sp.yuv
@@ -104,7 +104,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-db22b68647e4bfba7323965b5a71a3cfd3d8662b722bb7a843f6ac5b012e9d7d  ./blobs.txt
+c5e753c8d2b75dba962bd08ddf5166577b1533527ef88aa21131693de6011a21  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
