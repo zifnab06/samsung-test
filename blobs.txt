@@ -2852,7 +2852,6 @@ a3310552cd5901b7e7d209d48e377f585d0022e485e30ac34d61c9d2ab74680c  ./smdk4412-com
 30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./smdk4412-common/proprietary/system/bin/playlpm
 c41aec670d3201dfe6c36ec5a4bcd80c477887e10063d488995da0c8913189cc  ./smdk4412-common/proprietary/system/bin/bintvoutservice
 9d11d0f2fff24e22c92b81ad22ef5d0d664fbce55b7e9e48ddb040d0a61dde64  ./smdk4412-common/proprietary/system/bin/bcm4334.hcd
-065c10742372591fd8af00c6b4d7ae31c226dc879f7de04205a5b92de33449db  ./smdk4412-common/proprietary/system/bin/hostapd
 9d11d0f2fff24e22c92b81ad22ef5d0d664fbce55b7e9e48ddb040d0a61dde64  ./smdk4412-common/proprietary/system/bin/bcm4334_semcosh.hcd
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./smdk4412-common/proprietary/system/lib/libQmageDecoder.so
 4d1a0319e9da0138ec3205d68c18a0d347b2d6ac4f99c2bd2a2c5de9943adac4  ./smdk4412-common/proprietary/system/lib/libcec.so
