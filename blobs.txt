@@ -774,7 +774,6 @@ a8c883a3f0d58e8c33587c50ba721e707e5cacca2d81374edc13802bfa503ed6  ./smdk4210-tab
 06d808c079f39365b8ac849c978f1e7366fa02ac5109e4dcb9d387d512313499  ./smdk4210-tab/props/system/lib/libwvm.so
 c7c245052929c2ec4fe73e17e2670d23802071c74a94500e7db1367d17d8bb09  ./smdk4210-tab/props/system/lib/libmpl.so
 dee060cae8889997d61885c2b7ff540621fd7b309236fb94144d897f64a85a70  ./smdk4210-tab/props/system/lib/libhdmi.so
-a7250fbfa1016a1284015e26138c4abc2b082be12a36b7bfd1941755dd03b8ac  ./smdk4210-tab/props/system/lib/libsecion.so
 11efcaa4115f2f98e440e3873972c99fa150d51cedc3049f7e0ca13a3eba6f2c  ./smdk4210-tab/props/system/lib/libfimc.so
 c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab/props/system/lib/libyamahasrc.so
 33d61953435cebd6355da5e51e97eb0b2d44286c5b42aafc91be2c0be30c063f  ./smdk4210-tab/props/system/lib/libmlplatform.so
