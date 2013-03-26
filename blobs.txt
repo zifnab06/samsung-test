@@ -2007,7 +2007,6 @@ c9ed057fba43b91244f28f589dc25efd74b9c9d292455c4bf0ab35a16345bd46  ./t0ltecdma/pr
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0ltecdma/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0ltecdma/proprietary/system/lib/libqmi_csi.so
 938116d880193141b633dff95cd6ab81cc6d7862ca486a6f164aee1063202601  ./t0ltecdma/proprietary/system/lib/libloc_api_v02.so
-6afe09df504d8af61dd95cc93118b0a5536a2fe543a841094df84af715c9c182  ./t0ltecdma/proprietary/system/lib/libgps.so
 a5f610bceeb61b584d61cc79c9cdbe030415171d1065b710ee73fdad7fd4f6f1  ./t0ltecdma/proprietary/system/lib/libdsi_netctrl.so
 33ee02a666b20969b04f6a2a33f6f929cbbf636fa0a2c5c10805b5f5245c1161  ./t0ltecdma/proprietary/system/lib/liblvvetx.so
 217b86ded5caf6fddef5e24c6e20975b80546cab92ec701bbccb173889ea45fc  ./t0ltecdma/proprietary/system/lib/libbt-aptx-4.0.3.so
@@ -2017,12 +2016,10 @@ a5f610bceeb61b584d61cc79c9cdbe030415171d1065b710ee73fdad7fd4f6f1  ./t0ltecdma/pr
 b8f8aa2d2266945a84c16b00892dcb55d4e2e5ced1263a0f0f408804584c70e6  ./t0ltecdma/proprietary/system/lib/libcontrolcsc.so
 d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./t0ltecdma/proprietary/system/lib/libakm.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0ltecdma/proprietary/system/lib/libril-qcril-hook-oem.so
-8cfb6bba88ca2de8740a6e90c8ee58107f223e71afe5afb02316f101e1f0e9b2  ./t0ltecdma/proprietary/system/lib/libloc_eng.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./t0ltecdma/proprietary/system/lib/libqmi_common_so.so
 829e57be164a3ebc76452405e24c356df694d0260b69524d5cc612f50081e72a  ./t0ltecdma/proprietary/system/lib/libsensorhubservice.so
 6dc1a1d6b0cf3bb63a94e3a6fdcbe237bb41895b0fb39be88f1019a55ff6ad17  ./t0ltecdma/proprietary/system/lib/libnetmgr.so
 c17383f4a31a28fd5f88b01f4559c052a4bfdd1aef4a98f861cf55de1f5b10ff  ./t0ltecdma/proprietary/system/lib/libqmi_cci.so
-08bee880ac1ff7cd559d9c9307f50c9f2b886023eb4f1d695fa20066146b622a  ./t0ltecdma/proprietary/system/lib/hw/gps.default.so
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./t0ltecdma/proprietary/system/lib/hw/sensors.smdk4x12.so
 d5032a84f69621e7938fed6c63074876d4d19b3f3235155de6ec3598941e89a9  ./t0ltecdma/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
 543c9424a2ff50f6de934a8e098f9188f2e12793641aa800b542bef91e35ddf4  ./t0ltecdma/proprietary/system/lib/hw/camera.smdk4x12.so
@@ -2034,9 +2031,7 @@ ebd7d0dc90cd7087e5bca1eb2154c7713310bcf21877a927f6233633ecc2328a  ./t0ltecdma/pr
 f4d4131f153bf47e1536a87ffb25e67d7f861fd2aef14c9e51e359106a6c2844  ./t0ltecdma/proprietary/system/lib/libqmi.so
 519f00880f08adf5777230ee22e07826348b403dff76b4087cd2e80e0c09df7e  ./t0ltecdma/proprietary/system/lib/libril-qc-qmi-1.so
 1de4c59549abcc47ef686236e3e97bf032764e6ee783c934ca149e010f3f7e21  ./t0ltecdma/proprietary/system/lib/libqmi_encdec.so
-f20bbf2187b4033a533058ee2f80020b117c380ef28c36cb11d62fd36889bda2  ./t0ltecdma/proprietary/system/lib/libloc_adapter.so
 b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./t0ltecdma/proprietary/system/lib/libqmi_client_qmux.so
-1d7c2a8ab00b94786197b9f922b09889f6f30ffb1eb0f2558554c4bddb8a9a1f  ./t0ltecdma/proprietary/system/lib/libgps.utils.so
 2c1c582c1e851d005bead27022c4555bbe1153657760c01f5346d0fea76f6693  ./t0ltecdma/proprietary/system/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./t0ltecdma/proprietary/system/lib/libqmiservices.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./t0ltecdma/proprietary/system/usr/idc/sec_e-pen.idc
