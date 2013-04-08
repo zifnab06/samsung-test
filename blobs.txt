@@ -493,6 +493,8 @@ e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/propri
 125a31a9b29db825c71b3d1e79020f94619921a83e789788d085b8fbde8c790c  ./celox/proprietary/lib/libmmmpo.so
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./celox/proprietary/lib/libaudioparsers.so
 51d1f5e3f2152925405c81b0cdd2e10a9e091db8bd2bdef8771ed23c5c604cda  ./celox/proprietary/lib/libqmiservices.so
+95f46308e74fbb07bf2f37761484c94d2a42d59b115f9394834e68a2c96851cf  ./t0ltetmo/proprietary/system/lib/libloc_api_v02.so
+c3783df6c9e866633595d3dbde53caacdbddc2faa2f80c44274ad9d205ed08ca  ./t0ltetmo/proprietary/system/lib/libril-qc-qmi-1.so
 601dc00595e2c8cc544d744b2a4ef41465b33337b7d5dded454cee712e575528  ./p4tmo/proprietary/etc/audio/LVVEFS_Rx_Configuration.txt
 0fe6e3c1cca0fd53d402c59d7cdec7dd63121e41bf89f1db66298e63dae6cd48  ./p4tmo/proprietary/etc/audio/Tx_ControlParams_EARPIECE_WIDEBAND.txt
 36863915c98ba927c6586affcde4b8a20af423f14f389a12fe2a723be4e8c980  ./p4tmo/proprietary/etc/audio/Rx_ControlParams_EARPIECE_WIDEBAND.txt
@@ -2679,6 +2681,8 @@ f6baad7dffed8c8c2743e381a554691532cebd87176e77ac1d196c17c5ca85a5  ./quincyatt/pr
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./quincyatt/proprietary/lib/libaudioparsers.so
 a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./quincyatt/proprietary/lib/libqmiservices.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
+2c8cd2b9d3e9e4b7419954f2ada82356e329d6f126f216726947fccf3e688551  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
+12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
 86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2att/proprietary/lib/libril.so
 7cf3f9491d6b61c99d6889a07204da8f56245e428b4d4868a3ed3386501f867d  ./d2att/proprietary/lib/libril-qc-qmi-1.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
