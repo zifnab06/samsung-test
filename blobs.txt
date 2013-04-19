@@ -2586,8 +2586,8 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
-36eeb1d64b788f038228238d183d413969b8e69ce084501963f56d187dde26b7  ./d2vzw/proprietary/lib/libril.so
-0d34466f18e962f12f8b359847d9efa9f95c6e69f130a46ebc436854133ec1b6  ./d2vzw/proprietary/lib/libril-qc-qmi-1.so
+0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2vzw/proprietary/lib/libril.so
+a35f6241ddcde4a83e609e415f52af4be2fbd0d97d416f0bdcaf7df60f01ab8a  ./d2vzw/proprietary/lib/libril-qc-qmi-1.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./quincyatt/proprietary/etc/wifi/wl
 abd33f18ea151a175277241ac01c2dc7e0f46caa46f3906111bf54b62edb76df  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
 baba4387a81ddc57d9a18af508c243b528259e99271d9f09169e3520df3beba5  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt
