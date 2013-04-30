@@ -1196,7 +1196,7 @@ d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./quincytmo/pr
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./quincytmo/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./quincytmo/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./quincytmo/proprietary/lib/libidl.so
-f0539532846cad26cfc99990f47baac530a85e71b176d92c9c6c1f1aa81bce34  ./quincytmo/proprietary/lib/libakm.so
+2d472a536fa502f02d757dd824ad368ce34af70e2ddecd7936f641d339c2a9b0  ./quincytmo/proprietary/lib/libakm.so
 eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./quincytmo/proprietary/lib/egl/libq3dtools_adreno200.so
 4a557367cfac0b7905df23c70f60fdf95a1cceb93afa6d79ef51fe3c8d08e763  ./quincytmo/proprietary/lib/egl/eglsubAndroid.so
 3481b374a5fd587772b39612af20e002213cfe44460a9f914aa86be850127e4f  ./quincytmo/proprietary/lib/egl/libGLESv1_CM_adreno200.so
@@ -2631,7 +2631,7 @@ d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./quincyatt/pr
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./quincyatt/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./quincyatt/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./quincyatt/proprietary/lib/libidl.so
-f3b3378b6853bdf5387495ba5824cc07f08925ccbedc2c866bd8fc2e6564a349  ./quincyatt/proprietary/lib/libakm.so
+2d472a536fa502f02d757dd824ad368ce34af70e2ddecd7936f641d339c2a9b0  ./quincyatt/proprietary/lib/libakm.so
 eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./quincyatt/proprietary/lib/egl/libq3dtools_adreno200.so
 4a557367cfac0b7905df23c70f60fdf95a1cceb93afa6d79ef51fe3c8d08e763  ./quincyatt/proprietary/lib/egl/eglsubAndroid.so
 3481b374a5fd587772b39612af20e002213cfe44460a9f914aa86be850127e4f  ./quincyatt/proprietary/lib/egl/libGLESv1_CM_adreno200.so
