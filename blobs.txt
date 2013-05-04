@@ -539,7 +539,6 @@ b8f52a0ee7f9c63f277637cef6d913c9ce085cce37e53541d3fc342242a867f4  ./jf-common/pr
 b4a646f9eb4d068f4b43aaba89014ca6f095a6248532d29a5cfcfd0c82a6f2a7  ./jf-common/proprietary/lib/hw/sensorhubs.msm8960.so
 a73a0c0077f6d293b92ec502ac9e70f82919c6a447a5ad9cc80382151a02827d  ./jf-common/proprietary/lib/hw/camera.msm8960.so
 1c3bcf887e5433337413e317db577ac9e621945b38f8b96550200a0e578ce0b7  ./jf-common/proprietary/lib/hw/sensors.msm8960.so
-9be089832068392dc7d0948f2950e26ac88f5bc8a4aac352308e3bd2ba029396  ./jf-common/proprietary/lib/hw/nfc_nci.MSM8960.so
 bc62d810f54f8bebb96b1ffcb6a8dc0100bc4700116e9e8b372f7025ada935ba  ./jf-common/proprietary/lib/libqdi.so
 4c10cb61f2aea1930b940e0f988d3f7ea2c33b7b623930f2d0c10b9d8357f89a  ./jf-common/proprietary/lib/libchromatix_ov2720_default_video.so
 f5099d4b279da337788f1c2283e46c6cf60d51053f4e7d3d55ee4f3e996c381b  ./jf-common/proprietary/lib/libfactoryutil.so
