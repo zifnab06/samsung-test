@@ -3279,7 +3279,7 @@ b38ac948e48b51c3f41c8b527f8ee29698b954e3f065be8d6a409d220f3308fb  ./d2-common/pr
 7e86012f29b2cd2d3f77ee7f0dfea2a2de4c314ef31ee030844a6c63da132d2e  ./d2-common/proprietary/lib/libmllite.so
 b6aeca7afa334b03a6c2dba8a54d6eb2e6f8cb4e39372dcad374449694f9e1cc  ./d2-common/proprietary/lib/libmmosal.so
 6c0df0eac0cfe8457288d9ecaae45d723bdd484cca69e8a93804c63d45e681b6  ./d2-common/proprietary/lib/libsc-a2xx.so
-14e892c83a3c4372d568ce7757023df9c8ac7fc1844dfa09dd41ff8372a426ff  ./d2-common/proprietary/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./d2-common/proprietary/lib/libloc_api_v02.so
 ea18468057fa5859df76149868f4547283084b5f97a5180ae6f2df5759a65847  ./d2-common/proprietary/lib/libmmjpeg.so
 bcab325880ed82261b60f30b872306fba01fe60d1725be6aeef63328e4bbc39e  ./d2-common/proprietary/lib/libmmcamera_frameproc.so
 f346d801d8e7b20d9c394604dea518bf21607edf719998f26b8f833d9e44ffe9  ./d2-common/proprietary/lib/libgemini.so
