@@ -674,7 +674,7 @@ e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/propri
 125a31a9b29db825c71b3d1e79020f94619921a83e789788d085b8fbde8c790c  ./celox/proprietary/lib/libmmmpo.so
 944a7a8ffc5ea875c6e9054f7c7a9f0e1e83f1b53ce9ac763a3d8598a6794f48  ./celox/proprietary/lib/libaudioparsers.so
 51d1f5e3f2152925405c81b0cdd2e10a9e091db8bd2bdef8771ed23c5c604cda  ./celox/proprietary/lib/libqmiservices.so
-95f46308e74fbb07bf2f37761484c94d2a42d59b115f9394834e68a2c96851cf  ./t0ltetmo/proprietary/system/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0ltetmo/proprietary/system/lib/libloc_api_v02.so
 c3783df6c9e866633595d3dbde53caacdbddc2faa2f80c44274ad9d205ed08ca  ./t0ltetmo/proprietary/system/lib/libril-qc-qmi-1.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltetmo/proprietary/lib/libril.so
 58369f5fcb0cf09a14b3069791a9b7d4a82da7b7ef5f60c999543f3bf2a5d7ca  ./jfltetmo/proprietary/lib/libril-qc-qmi-1.so
@@ -2166,7 +2166,7 @@ c9ed057fba43b91244f28f589dc25efd74b9c9d292455c4bf0ab35a16345bd46  ./t0ltecdma/pr
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0ltecdma/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0ltecdma/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0ltecdma/proprietary/system/lib/libqmi_csi.so
-938116d880193141b633dff95cd6ab81cc6d7862ca486a6f164aee1063202601  ./t0ltecdma/proprietary/system/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0ltecdma/proprietary/system/lib/libloc_api_v02.so
 a5f610bceeb61b584d61cc79c9cdbe030415171d1065b710ee73fdad7fd4f6f1  ./t0ltecdma/proprietary/system/lib/libdsi_netctrl.so
 33ee02a666b20969b04f6a2a33f6f929cbbf636fa0a2c5c10805b5f5245c1161  ./t0ltecdma/proprietary/system/lib/liblvvetx.so
 217b86ded5caf6fddef5e24c6e20975b80546cab92ec701bbccb173889ea45fc  ./t0ltecdma/proprietary/system/lib/libbt-aptx-4.0.3.so
@@ -2852,7 +2852,7 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./quincyatt/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./quincyatt/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./quincyatt/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-2c8cd2b9d3e9e4b7419954f2ada82356e329d6f126f216726947fccf3e688551  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
 12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
 86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2att/proprietary/lib/libril.so
 7cf3f9491d6b61c99d6889a07204da8f56245e428b4d4868a3ed3386501f867d  ./d2att/proprietary/lib/libril-qc-qmi-1.so
@@ -2939,7 +2939,7 @@ f08cc62c3ccc12f145a026e67da7980c0a2b92eb5fa7b3d01cacb6637d6f0685  ./t0lte/propri
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0lte/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0lte/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0lte/proprietary/system/lib/libqmi_csi.so
-2c8cd2b9d3e9e4b7419954f2ada82356e329d6f126f216726947fccf3e688551  ./t0lte/proprietary/system/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lte/proprietary/system/lib/libloc_api_v02.so
 5b02828a5b6fa56c155afa87856a91fba7d7876f55892797b03dfc3f87f8166a  ./t0lte/proprietary/system/lib/libdsi_netctrl.so
 514667cd5159d4c5c1658088832f2ba1619f87f9947b2aec8a47a9dbb686fbd5  ./t0lte/proprietary/system/lib/libatparser.so
 052c0c721bf4a34837a8337802e980219fe1eca230786928ed15566d04940932  ./t0lte/proprietary/system/lib/libril.so
