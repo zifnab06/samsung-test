@@ -33,11 +33,11 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./galaxys2-com
 8fa27574ed87f1a6a30148eacf0e75bff72c734d11ebe4c326009e8db8e4e09b  ./galaxys2-common/proprietary/system/bin/bcm4330B1_murata.hcd
 8d3850e4ff6bef9369fe7c281e90dde822948c83f0503e8dbea3872b31c6cc28  ./galaxys2-common/proprietary/system/lib/libomission_avoidance.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./galaxys2-common/proprietary/system/lib/libsecnativefeature.so
-ca74d7ee8686db320202d5c7919b500f4f59856841866d510e07052e534a6976  ./galaxys2-common/proprietary/system/lib/libUMP.so
-91612a3d683fbec7025f48b61fe657a430e77f5b245c3c22b1ba1a3bf2057125  ./galaxys2-common/proprietary/system/lib/libMali.so
-2dbaaa5d172a9df517debf5aba3c2d5d66f24bef372a59fa5355c91b6e5331ed  ./galaxys2-common/proprietary/system/lib/egl/libGLESv2_mali.so
-bf015b37b3526da436340d2399a53e6dcde6b3f34c52aefaa6bb6530e3edb24a  ./galaxys2-common/proprietary/system/lib/egl/libEGL_mali.so
-3e28aed0280f1757607340795d247db9f8b34a5f748e26eb42da7a3b235cf35d  ./galaxys2-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
+585aaa5ee7b9f054bb514a7e804fcecbf261e8a676f5648a60789656bcdc379d  ./galaxys2-common/proprietary/system/lib/libUMP.so
+5fcdd749f876089d9cbb005d7358101962df071b026941c2b16ae92d7b8768d2  ./galaxys2-common/proprietary/system/lib/libMali.so
+8887d80b52e99200df5bb119ff6cee0dbcf82f986959706d414d8e204808ff07  ./galaxys2-common/proprietary/system/lib/egl/libGLESv2_mali.so
+41850ae185420841b63db602ce9889533310b2fba88266f0ccaf8e21d5a8622d  ./galaxys2-common/proprietary/system/lib/egl/libEGL_mali.so
+6bf133786b63fc4ae2de7da0b35828dc0948c06478efa2335abae3e886d315ca  ./galaxys2-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
 dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./galaxys2-common/proprietary/system/lib/libfimc.so
 b31ea9d214c182da332170e3895aeb364007d680eae20ac8b9f74f9b232a99ab  ./galaxys2-common/proprietary/system/lib/libfactoryutil.so
 851e7f008cee93dd1746114d241807252b8d7ac58be5d7e748d34376163abe5a  ./galaxys2-common/proprietary/system/vendor/firmware/mfc_fw.bin
@@ -103,7 +103,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-ce6c7a0e98dbfbee71195d7941c37442bac04c46c2d56e8f393839e795eeb520  ./blobs.txt
+1affe24dff4de85ff2b5862f9508143d8e0e0400aed1e57a2e9f52e953f8d24f  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
