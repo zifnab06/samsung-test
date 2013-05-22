@@ -489,7 +489,7 @@ f9ec0dec4bebebfa2f408c22b95c52f883a5ee034f913f5c189e83f1b3e1cdab  ./jf-common/pr
 f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./jf-common/proprietary/lib/libatparser.so
 6206cb6a16466f298cc36eebcb93475ab5f5270f7c0b0ab4faade901c6eb06a3  ./jf-common/proprietary/lib/libchromatix_imx074_default_video.so
 77495797f57a5c6b4ad811679be5ee463d47ca0db5df46ff31576e8a1aaf83c4  ./jf-common/proprietary/lib/libchromatix_ov2720_hfr.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./jf-common/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./jf-common/proprietary/lib/libC2D2.so
 c0933bacd70bb1a4d8acd9061c10caf73f437342ee3c4a933186d843efc01a78  ./jf-common/proprietary/lib/libsam.so
 2e55711288cb5b1f363f73cd82d075ef597044cfc6258764db0acc3978425ae1  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_pip.so
 6251428c7f36bff0b0fc5cbda7bbbc4e692db97322c7952689a4d758ee7ae273  ./jf-common/proprietary/lib/libvdis.so
@@ -499,7 +499,7 @@ b35c7d5175629ca1581235da5d2c2b726e82ed1bb67b5d748bf7f76f4cfb465f  ./jf-common/pr
 3796bb8465532bbb88acbb72dc5ae1b6891d7774e25420d2809e5c8f0fa79964  ./jf-common/proprietary/lib/libchromatix_imx074_video_hd.so
 8b4a5a56ed98c44745f57b45bd0d2c69eed21ae1239a13fcdc8585944fcc6f80  ./jf-common/proprietary/lib/libacdbloader.so
 9af4b576b0e239da6b48f211e2f4ce34ab2fcc79aedcc79c9efd41595755a1d9  ./jf-common/proprietary/lib/libidl.so
-027330c912f9e30524c928adf3410144e0dd7488c8dfdf004fce8947b60cb7d2  ./jf-common/proprietary/lib/libc2d2_a3xx.so
+fed6f1d19cf8b1b9b5ece490a01860db145e25f491cc1c6bc248217da23ff704  ./jf-common/proprietary/lib/libc2d2_a3xx.so
 015dabed059902b92bced4a278816cb835b670cef90adea41a9eb95f754c1947  ./jf-common/proprietary/lib/libchromatix_ov9726_default_video.so
 190a77c6bf0bb7a4c4be3c5a8741ea6db7947a5fb22a407bc8848682a38b50dc  ./jf-common/proprietary/lib/libchromatix_imx074_zsl.so
 ca37e10d4b4e262ec09fe8b8d9aa50393f1a02ab179845c7d59c14f61e4d7069  ./jf-common/proprietary/lib/libimage-omx-common.so
@@ -521,7 +521,7 @@ b5bef4f329780f63d639f10de7c3b8745db7783568b01a75c974c2dbe1d7b430  ./jf-common/pr
 b27092ccdebadbfb3c7eba86174ead6df5bbfddb77d23b50cee5467adf48d941  ./jf-common/proprietary/lib/libril-qcril-hook-oem.so
 fe68a2cc89e40f5d0c4b7e3974ce6c84171020f88405eba61cc007eb888dfd5f  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_preview.so
 6d24066cd2ad4049515cb6d89b3a30e721da090eeedeab46d869f3e181ab9f8f  ./jf-common/proprietary/lib/libllvm-a3xx.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./jf-common/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./jf-common/proprietary/lib/libc2d2_z180.so
 ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./jf-common/proprietary/lib/libqmi_common_so.so
 82f0bb1c22b6e255659e9e8aeb83f1a683af5a909873a1b39e19216e0de60e1b  ./jf-common/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./jf-common/proprietary/lib/libOpenCL.so
@@ -1375,7 +1375,7 @@ f767b51533586b8af699a57074846106f9b7e21876db8ccc77ce9757171f3c33  ./quincytmo/pr
 b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./quincytmo/proprietary/lib/libgsl.so
 d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./quincytmo/proprietary/lib/libdsi_netctrl.so
 85f98043863805c71a47b60b2658b92ab288d9babd29cb71bdd3d012e4d72201  ./quincytmo/proprietary/lib/libqueue.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./quincytmo/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./quincytmo/proprietary/lib/libC2D2.so
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./quincytmo/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./quincytmo/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./quincytmo/proprietary/lib/libidl.so
@@ -1389,7 +1389,7 @@ eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./quincytmo/pr
 302c12ba2734106d7ef1c9d3595c7a171a1cc709e559e6c0fbde88258e650227  ./quincytmo/proprietary/lib/egl/libGLESv2S3D_adreno200.so
 cef856ed507b9cd00cdd8acb5bfa6d784ca3850315f915a35718de7fa8d2331d  ./quincytmo/proprietary/lib/liboncrpc.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./quincytmo/proprietary/lib/libril-qcril-hook-oem.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./quincytmo/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./quincytmo/proprietary/lib/libc2d2_z180.so
 77b2f5d0208c2130121666ad26d84d80cad1533785875de1fdaa81fa179b8080  ./quincytmo/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./quincytmo/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./quincytmo/proprietary/lib/libnetmgr.so
@@ -2051,7 +2051,7 @@ f767b51533586b8af699a57074846106f9b7e21876db8ccc77ce9757171f3c33  ./skyrocket/pr
 b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./skyrocket/proprietary/lib/libgsl.so
 d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./skyrocket/proprietary/lib/libdsi_netctrl.so
 85f98043863805c71a47b60b2658b92ab288d9babd29cb71bdd3d012e4d72201  ./skyrocket/proprietary/lib/libqueue.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./skyrocket/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./skyrocket/proprietary/lib/libC2D2.so
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./skyrocket/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./skyrocket/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./skyrocket/proprietary/lib/libidl.so
@@ -2065,7 +2065,7 @@ eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./skyrocket/pr
 302c12ba2734106d7ef1c9d3595c7a171a1cc709e559e6c0fbde88258e650227  ./skyrocket/proprietary/lib/egl/libGLESv2S3D_adreno200.so
 cef856ed507b9cd00cdd8acb5bfa6d784ca3850315f915a35718de7fa8d2331d  ./skyrocket/proprietary/lib/liboncrpc.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./skyrocket/proprietary/lib/libril-qcril-hook-oem.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./skyrocket/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./skyrocket/proprietary/lib/libc2d2_z180.so
 77b2f5d0208c2130121666ad26d84d80cad1533785875de1fdaa81fa179b8080  ./skyrocket/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./skyrocket/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./skyrocket/proprietary/lib/libnetmgr.so
@@ -2455,7 +2455,7 @@ f767b51533586b8af699a57074846106f9b7e21876db8ccc77ce9757171f3c33  ./hercules/pro
 b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./hercules/proprietary/lib/libgsl.so
 d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./hercules/proprietary/lib/libdsi_netctrl.so
 85f98043863805c71a47b60b2658b92ab288d9babd29cb71bdd3d012e4d72201  ./hercules/proprietary/lib/libqueue.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./hercules/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./hercules/proprietary/lib/libC2D2.so
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./hercules/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./hercules/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./hercules/proprietary/lib/libidl.so
@@ -2469,7 +2469,7 @@ eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./hercules/pro
 302c12ba2734106d7ef1c9d3595c7a171a1cc709e559e6c0fbde88258e650227  ./hercules/proprietary/lib/egl/libGLESv2S3D_adreno200.so
 cef856ed507b9cd00cdd8acb5bfa6d784ca3850315f915a35718de7fa8d2331d  ./hercules/proprietary/lib/liboncrpc.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./hercules/proprietary/lib/libril-qcril-hook-oem.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./hercules/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./hercules/proprietary/lib/libc2d2_z180.so
 77b2f5d0208c2130121666ad26d84d80cad1533785875de1fdaa81fa179b8080  ./hercules/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./hercules/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./hercules/proprietary/lib/libnetmgr.so
@@ -2810,7 +2810,7 @@ f767b51533586b8af699a57074846106f9b7e21876db8ccc77ce9757171f3c33  ./quincyatt/pr
 b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./quincyatt/proprietary/lib/libgsl.so
 d571cd4008b6eeb8051b6ff98d36288c00f4c386c6cae9f5086dfacd120e6bb7  ./quincyatt/proprietary/lib/libdsi_netctrl.so
 85f98043863805c71a47b60b2658b92ab288d9babd29cb71bdd3d012e4d72201  ./quincyatt/proprietary/lib/libqueue.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./quincyatt/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./quincyatt/proprietary/lib/libC2D2.so
 566426cd2103a5700c43a5e64765a51923b2863dc2de914962ee9abe68324bd7  ./quincyatt/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./quincyatt/proprietary/lib/libacdbloader.so
 1f2c8d46e6a6c24474d436993711dbeb12603599fefc26c014e10307752e98b2  ./quincyatt/proprietary/lib/libidl.so
@@ -2824,7 +2824,7 @@ eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./quincyatt/pr
 302c12ba2734106d7ef1c9d3595c7a171a1cc709e559e6c0fbde88258e650227  ./quincyatt/proprietary/lib/egl/libGLESv2S3D_adreno200.so
 cef856ed507b9cd00cdd8acb5bfa6d784ca3850315f915a35718de7fa8d2331d  ./quincyatt/proprietary/lib/liboncrpc.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./quincyatt/proprietary/lib/libril-qcril-hook-oem.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./quincyatt/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./quincyatt/proprietary/lib/libc2d2_z180.so
 77b2f5d0208c2130121666ad26d84d80cad1533785875de1fdaa81fa179b8080  ./quincyatt/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./quincyatt/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./quincyatt/proprietary/lib/libnetmgr.so
@@ -3293,7 +3293,7 @@ b5149a6e0fee2a7b80e6ee262dab9b84e3fd91a9164d8565d2d8613d2b00f0bf  ./d2-common/pr
 514667cd5159d4c5c1658088832f2ba1619f87f9947b2aec8a47a9dbb686fbd5  ./d2-common/proprietary/lib/libatparser.so
 95eafdbc299f0fa3b5ebd9d76c17742189173887df35119f34c697e102868a9d  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2-common/proprietary/lib/libchromatix_imx074_default_video.so
-633844f133a7201cf896a36083a575e4d1ba8453aaf0ae81190c060264da9520  ./d2-common/proprietary/lib/libC2D2.so
+75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./d2-common/proprietary/lib/libC2D2.so
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2-common/proprietary/lib/libvdis.so
 b691d6d212cb9edeb352f1918ad6cc29081b3c79f48744ffaf51a9a004c4fb93  ./d2-common/proprietary/lib/libacdbloader.so
 7951aff2a28d5bb3beb3bfc8529e579b35ee08d0624ef10f7267f58b15685c87  ./d2-common/proprietary/lib/libidl.so
@@ -3308,7 +3308,7 @@ bb840ab0377991360718f23dcb494bfc156f390e0aac318b9e478a31292d76c4  ./d2-common/pr
 72301711fd941b8b80ad83d8aa531778f6f06ced20ea082c22e5f2c6935d57c0  ./d2-common/proprietary/lib/libmplmpu.so
 57abb5f0a7cf9753eddc4530a5616a49e1222f2cf8e06185b7610209db900f78  ./d2-common/proprietary/lib/libyamaha.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./d2-common/proprietary/lib/libril-qcril-hook-oem.so
-f716cdce17e30439b2b0b35c91b056ab0f819958782add8921382aa85ad367b6  ./d2-common/proprietary/lib/libc2d2_z180.so
+09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./d2-common/proprietary/lib/libc2d2_z180.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./d2-common/proprietary/lib/libqmi_common_so.so
 34d535974edaa9adb117fa02a86db04f2c95fcd446459b235ef856cb810d961f  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
 004c5968df3ca28819e79f0a272ee86decbc592f4933a76f86dfd10721aba167  ./d2-common/proprietary/lib/libqc-opt.so
