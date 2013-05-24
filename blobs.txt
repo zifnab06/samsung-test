@@ -964,6 +964,8 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 33d61953435cebd6355da5e51e97eb0b2d44286c5b42aafc91be2c0be30c063f  ./smdk4210-tab/props/system/lib/libmlplatform.so
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
+a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltespr/proprietary/lib/libril.so
+44f115bfb8f09aa0551373128b91adfdb7b506a27fed8318ee921ec7eb4a606f  ./jfltespr/proprietary/lib/libril-qc-qmi-1.so
 1b76bc16788f3bac3c01531551b2fef0e357e00a2377b997a097d17d77599fe7  ./i927/proprietary/libnvrm.so
 c02f44d55341542e207888e10ce47aba66b3690ff9491c6ff2fc6943b345db60  ./i927/proprietary/libnvomxadaptor.so
 beac03e09a92a1f6e0daf136350edd8af0953dec528c7c03ad66f91051a00f0e  ./i927/proprietary/libnvmm_service.so
