@@ -964,6 +964,8 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 33d61953435cebd6355da5e51e97eb0b2d44286c5b42aafc91be2c0be30c063f  ./smdk4210-tab/props/system/lib/libmlplatform.so
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
+a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltespr/proprietary/lib/libril.so
+44f115bfb8f09aa0551373128b91adfdb7b506a27fed8318ee921ec7eb4a606f  ./jfltespr/proprietary/lib/libril-qc-qmi-1.so
 1b76bc16788f3bac3c01531551b2fef0e357e00a2377b997a097d17d77599fe7  ./i927/proprietary/libnvrm.so
 c02f44d55341542e207888e10ce47aba66b3690ff9491c6ff2fc6943b345db60  ./i927/proprietary/libnvomxadaptor.so
 beac03e09a92a1f6e0daf136350edd8af0953dec528c7c03ad66f91051a00f0e  ./i927/proprietary/libnvmm_service.so
@@ -2870,8 +2872,8 @@ efbd70ae3fa0dc43a9a932c51449c99349c777ceac4a710b87a91d5646c26517  ./n7100/propri
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
-4c3aecc2a9f4d728843d676448057ff25c47e5033ac7564b9d2a2975e95164ec  ./jfltevzw/proprietary/lib/libril.so
-861414a3cacb658463fc473983630400c69e5acadab0cc0eefa2a70b811d6446  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
+a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltevzw/proprietary/lib/libril.so
+44f115bfb8f09aa0551373128b91adfdb7b506a27fed8318ee921ec7eb4a606f  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltecan/proprietary/lib/libril.so
 b36a3c1be85b2afbc866f785282479457de6c4710fbea71e202c0ac2a04e49ab  ./jfltecan/proprietary/lib/libril-qc-qmi-1.so
 82206df753accd8f567cc570d930afc412b0e1f5cdfa21edbf68d5530c5a857d  ./manta/proprietary/07060000000000000000000000000000.tlbin
