@@ -18,8 +18,6 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i777/proprie
 462e89e7bcf1f4fd701933d9cb80e795acca27a7c80300e42661d7e3bc6f5ea7  ./i777/proprietary/system/etc/wifi/bcmdhd_p2p.bin
 913ef575cdd8d5f3a88bc6a01804779a389e19ca5393a59ad2b2fb4c40288cf7  ./i777/proprietary/system/etc/wifi/bcmdhd_mfg.bin
 3918366bef7dbc9a5eb5ef64b7b9f23a0ad2f9b8f413bd34992d9402cd4eeadd  ./i777/proprietary/system/etc/wifi/nvram_net.txt_murata
-50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./i777/proprietary/system/bin/rild
-c311342524124e453ed4c80e37eb8fedd25c47bf0bb08c4aecbd0377b6f03e8e  ./i777/proprietary/system/lib/libril.so
 4e7323db3e068d7e5852136f09dec4dfa4c30c4d3765f106d65c742283f3f5e4  ./i777/proprietary/system/lib/libakm.so
 5de9f82fe3b7f8be2eb6bdb292b02a40aca7a1b8f9f62ecf1d7f577a27ea4980  ./i777/proprietary/system/lib/hw/gps.exynos4.so
 487ea96d39b7184552083139d0ec73d6dd8cb807fb7b65200a21a37f32814d34  ./i777/proprietary/system/lib/libsec-ril.so
@@ -102,7 +100,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-d053a0b4ec5ffe7fac05a5dec007350eaa3e01e44028bb16ad3b0d181ec0a524  ./blobs.txt
+2f9ba99f71a0aecdff0cead903895ad383fa1b4cde8b02591e28f34427972c69  ./blobs.txt
 81842f9ccd01466be5d57a0b474e29f236910a3868a0bf27f63a7f4e14231010  ./captivatemtd/proprietary/gps.xml
 1b9bff8a392e41ed009c6d45b8fbcaf1733d6176d98bcf42574adf97750080b2  ./captivatemtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./captivatemtd/proprietary/libril.so
@@ -578,8 +576,6 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i9100/propri
 462e89e7bcf1f4fd701933d9cb80e795acca27a7c80300e42661d7e3bc6f5ea7  ./i9100/proprietary/system/etc/wifi/bcmdhd_p2p.bin
 913ef575cdd8d5f3a88bc6a01804779a389e19ca5393a59ad2b2fb4c40288cf7  ./i9100/proprietary/system/etc/wifi/bcmdhd_mfg.bin
 3918366bef7dbc9a5eb5ef64b7b9f23a0ad2f9b8f413bd34992d9402cd4eeadd  ./i9100/proprietary/system/etc/wifi/nvram_net.txt_murata
-50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./i9100/proprietary/system/bin/rild
-c311342524124e453ed4c80e37eb8fedd25c47bf0bb08c4aecbd0377b6f03e8e  ./i9100/proprietary/system/lib/libril.so
 4e7323db3e068d7e5852136f09dec4dfa4c30c4d3765f106d65c742283f3f5e4  ./i9100/proprietary/system/lib/libakm.so
 f128547d8fb71a51aba8903e247b6823ce16ac81ce4fd8ceb56d6c7cf26fcea2  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
 487ea96d39b7184552083139d0ec73d6dd8cb807fb7b65200a21a37f32814d34  ./i9100/proprietary/system/lib/libsec-ril.so
@@ -3096,8 +3092,6 @@ e3864c8650ad1690ca29e6598331a140711418633678ba65c448e9a0e449201c  ./n7000/propri
 d7949e3078b304d838044ecb5475c6022a9ef609f29e4ebf9c091d74092a5c5d  ./n7000/proprietary/system/etc/wifi/nvram_net.txt_murata
 068937ac219a2c2d9ff850ac233e67c46626d373a72ce5b66e00e45120c82171  ./n7000/proprietary/system/bin/gps.cer
 ba439bfddfba3d4415ecc814fcd8a61a4b4269e28b4a7cc769746048be494d52  ./n7000/proprietary/system/bin/gpsd
-6a9c3e8c3f17e9b3b8a62d1c1365214959ab0b866c39324781cb94e2be2b0b35  ./n7000/proprietary/system/bin/rild
-59017a8f9da82172fbbd7724cf3a88e1d1e29cb349d42d56662b16b4fd33bc4e  ./n7000/proprietary/system/lib/libril.so
 c83751c98e2e08fbc2dc472d747aa6a3ecb21881f273fedd974dd87e1f5bcd72  ./n7000/proprietary/system/lib/libakm.so
 30de4e62b4bac3b5dff7b8cc5d4d17cc606eb694b74994b44bdbb57682607a28  ./n7000/proprietary/system/lib/hw/gps.exynos4.so
 45af4e233d82125c8a347b7c6efb56b854b71e3d84becc72f2206963a981c134  ./n7000/proprietary/system/lib/libsec-ril.so
