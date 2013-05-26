@@ -2103,7 +2103,6 @@ f0bed54d475b0f4a935df646057f3e2aa14fb2f324f80d060da917ecefe7b79a  ./crespo4g/pro
 8571299db0b9af351abd47bf4f8966bfdbcc3a1bfa152335af466c6fdaaa5417  ./crespo4g/proprietary/libsec-ril.so
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./crespo4g/proprietary/libsecril-client.so
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p51xx/p5100/sbin/cbd
-e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p51xx/p5100/system/lib/libril.so
 b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./p51xx/p5100/system/lib/libsec-ril.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p51xx/p5100/system/lib/libsecril-client.so
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p51xx/p5110/system/lib/libril.so
@@ -2618,7 +2617,6 @@ b9225ddc8b8c4fd904719b0620474553f78d225b4273e08a3449f7cff155be35  ./p4wifi/propr
 e0f1d7c2b3bdf6acf3736b008824bcd274c33998072b3a1a0c74426753e12cc1  ./p4wifi/proprietary/usr/share/alsa/pcm/center_lfe.conf
 51781716c2a3f289d925fea4a508592a65ab9182b6e6434c643e5d0a5d4e590e  ./p4wifi/proprietary/usr/share/alsa/alsa.conf
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p31xx/p3100/sbin/cbd
-e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p31xx/p3100/system/lib/libril.so
 765baf4e0152018d3422cad8173080de73822e6bf25603261ab854515b6e38f8  ./p31xx/p3100/system/lib/hw/sensors.omap4.so
 b217916db451f411049e85ebf741f797ed62f97fe221f4e94a000343fc777877  ./p31xx/p3100/system/lib/libsec-ril.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3100/system/lib/libsecril-client.so
