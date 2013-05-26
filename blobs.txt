@@ -2672,7 +2672,6 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./i9100g/propr
 c46bfa8548ef012615964d9745cb61d3af6d684b924802c0a63a1e7e012cc1ad  ./i9100g/proprietary/system/bin/bcm4330B1.hcd
 e871475f9b5d0a7bfcbd9361351599bc69fce8f4dd66241b94b90f468a9e0dac  ./i9100g/proprietary/system/bin/playlpm
 c41aec670d3201dfe6c36ec5a4bcd80c477887e10063d488995da0c8913189cc  ./i9100g/proprietary/system/bin/bintvoutservice
-50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./i9100g/proprietary/system/bin/rild
 6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./i9100g/proprietary/system/bin/fRom
 7b156112c9e7c5778e0a9e3b1254f2c964f501caa8e4a5965287e57231b7047c  ./i9100g/proprietary/system/bin/immvibed
 065c10742372591fd8af00c6b4d7ae31c226dc879f7de04205a5b92de33449db  ./i9100g/proprietary/system/bin/hostapd
@@ -2686,7 +2685,6 @@ b1ec7e284fcc6ab139bc5e46c400afa104521f2436afe1d52cafa5324eb88837  ./i9100g/propr
 87a5e12e071a6dbfdb8083ca22d350eadd55e9368d42d2f7430ccdf0ff7b7943  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.so
 86db5919497fb8ca6bee441feea526adaf4214a2ecb44ae969d5e780fdc0af4c  ./i9100g/proprietary/system/lib/libOMX_Core.so
 14f313d4ae624333775068df3cbc6c069fe4b0a0844395cc9eb81b53ef53e255  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.CAMERA.so
-736a6fcba35eae8511393d5b253e351476642e0ddfa8a828f9304bd8911cb991  ./i9100g/proprietary/system/lib/libril.so
 499dde7e5e68e1995096ff7dea0e89de4b29701292673199df5ea5664b374cfa  ./i9100g/proprietary/system/lib/libtvoutinterface.so
 7fbb6a09af0785d7a0a4c60ff86c78b33d1ea0ae0cf6de5b8a9a86e6af09e756  ./i9100g/proprietary/system/lib/libOMX.TI.DUCATI1.MISC.SAMPLE.so
 4fde19299ffeb8b828221669d90594ce525d6d27efcd8b18d53709f5de015065  ./i9100g/proprietary/system/lib/libakm.so
