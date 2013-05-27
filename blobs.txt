@@ -1469,6 +1469,8 @@ b8ccd27e004437111a9d9b96239a8041d1d114e55d217ca7474bcd9ecf0a520f  ./p1-common/pr
 ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/proprietary/libtvoutservice.so
 fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
+43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jflteatt/proprietary/lib/libril.so
+7e4e9e664bd2810d70679ae181a3f556c9d91deabd4be12149c068918170eec0  ./jflteatt/proprietary/lib/libril-qc-qmi-1.so
 daad25d2fcceadb1d9fe587527bfaec7b2ebf2ac68b22c301b66c62cc2bdf7e5  ./i9103/README
 50d8f42da2ec3909c02f4ea10405c6bfc1070d8738f3f61809b52fbf5deeb7d3  ./i9103/proprietary/sbin/cbd
 9ab40ca48dce998c8b0154db227655f85b530093f187e40eed3fa4f839a78450  ./i9103/proprietary/system/etc/wifi/bcm4330_apsta.bin
