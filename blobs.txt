@@ -960,7 +960,7 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
 a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltespr/proprietary/lib/libril.so
-44f115bfb8f09aa0551373128b91adfdb7b506a27fed8318ee921ec7eb4a606f  ./jfltespr/proprietary/lib/libril-qc-qmi-1.so
+3f4827f6f49ddf4618d038c3c87ee5273d77574923ce5237cdb9d5a953a06bd0  ./jfltespr/proprietary/lib/libril-qc-qmi-1.so
 1b76bc16788f3bac3c01531551b2fef0e357e00a2377b997a097d17d77599fe7  ./i927/proprietary/libnvrm.so
 c02f44d55341542e207888e10ce47aba66b3690ff9491c6ff2fc6943b345db60  ./i927/proprietary/libnvomxadaptor.so
 beac03e09a92a1f6e0daf136350edd8af0953dec528c7c03ad66f91051a00f0e  ./i927/proprietary/libnvmm_service.so
@@ -2090,8 +2090,6 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./skyrocket/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./skyrocket/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./skyrocket/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./skyrocket/proprietary/vendor/firmware/libpn544_fw.so
-1f517eb4702fb4d1d6aafe89e208d617b6ff781d27e0927da211494bd32feb88  ./jflteusc/.DS_Store
-03b2ddeaae665eb92bc85de677e372a4cbf733481fa8d8b0d2f63a939f1e9d31  ./jflteusc/proprietary/.DS_Store
 4c3aecc2a9f4d728843d676448057ff25c47e5033ac7564b9d2a2975e95164ec  ./jflteusc/proprietary/lib/libril.so
 d28d521991897de8ab53294f54f430424fcdf4ef3ebe7860491c267c3e2e9283  ./jflteusc/proprietary/lib/libril-qc-qmi-1.so
 e721b80fc135a9dfd2af39e9a80d5d4977580a0b3d77902c0b8a42e2aa118559  ./crespo4g/proprietary/WiMAXSettings.apk
@@ -2868,7 +2866,7 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/propri
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
 a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltevzw/proprietary/lib/libril.so
-44f115bfb8f09aa0551373128b91adfdb7b506a27fed8318ee921ec7eb4a606f  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
+3f4827f6f49ddf4618d038c3c87ee5273d77574923ce5237cdb9d5a953a06bd0  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltecan/proprietary/lib/libril.so
 b36a3c1be85b2afbc866f785282479457de6c4710fbea71e202c0ac2a04e49ab  ./jfltecan/proprietary/lib/libril-qc-qmi-1.so
 82206df753accd8f567cc570d930afc412b0e1f5cdfa21edbf68d5530c5a857d  ./manta/proprietary/07060000000000000000000000000000.tlbin
