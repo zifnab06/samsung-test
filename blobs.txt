@@ -2250,7 +2250,7 @@ e4325e0bdc9f7661576b34ebaa99d561057db7080004619efb0b784fc59ff8e1  ./i9305/propri
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./i9305/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./i9305/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./i9305/proprietary/system/lib/libqmi_csi.so
-01f59b01f96e53b3e41f32edaed17afd27edc1be15eac6beebdf002797bdaf48  ./i9305/proprietary/system/lib/libloc_api_v02.so
+4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./i9305/proprietary/system/lib/libloc_api_v02.so
 6174c085b96b73aee9f844fed0b7dfedb702bba881a99f685e82fc2301b3db6e  ./i9305/proprietary/system/lib/libdsi_netctrl.so
 c838f588016123bd1beb8083dfc6714682fb22da48352c10faf829b447e24ede  ./i9305/proprietary/system/lib/libatparser.so
 5b36338a0bab762696d312f8b9b2e6140fee7936ef0fbb83128f9221f0d74cd8  ./i9305/proprietary/system/lib/libril.so
