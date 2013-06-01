@@ -450,7 +450,7 @@ f69310cc8edeeb18612aca0bf6aa63191cf4fa2d618a90a5778f6f5c414ed207  ./jf-common/pr
 f4bcdd1e7c8a2831ec3ea08c8805b5515b5f7f8ff9b4208dd34043bcd0132740  ./jf-common/proprietary/bin/ks
 dab7a51dc15024e581e2d7537b246712f3ce8de237242170a182c7fe05a9e374  ./jf-common/proprietary/lib/libqdp.so
 e849fe15b1322323c2662db06b6441b70c875eead454603771a248ac027465a8  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
-e7630652290463b93e9a221c8345c0ac3a9f388a8c6b2046b51645d447d763e1  ./jf-common/proprietary/lib/libcsd-client.so
+bc89e25129444536a4e171226b190a17fa9b7ef20d3c718d1183b147c41b6c13  ./jf-common/proprietary/lib/libcsd-client.so
 365d394421e2482082808c9333d693b94510dc2386c6066144325c2fad975f8b  ./jf-common/proprietary/lib/libomission_avoidance.so
 b2e362f2a35970112999f5a05fc547b919ba19827076cbb820eceabe5ae31c64  ./jf-common/proprietary/lib/libmmcamera_interface2.so
 2af7f60a70cf263619f2a433a783fd08ed90c1415e4a0dd178d7f254a90feff1  ./jf-common/proprietary/lib/libdiag.so
