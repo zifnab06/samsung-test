@@ -1896,8 +1896,8 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./mesmerizemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
-36eeb1d64b788f038228238d183d413969b8e69ce084501963f56d187dde26b7  ./d2r530/proprietary/lib/libril.so
-57ef39aad67c78123934703958fe461e8a90a1290ef9d2aa1071eb28659e932f  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
+0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2r530/proprietary/lib/libril.so
+e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
 eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./p6210/props/system/bin/gpsd
 c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./p6210/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6210/props/system/lib/libril.so
@@ -1906,8 +1906,8 @@ f691b6a169df912e8ffe5d5dd6b314d1c20d991c04bb8a0936300c78503bea3a  ./p6210/props/
 35c62188b333252d73d7c0aae586096f75766b0a39b2e929a2081c2b0763c4f4  ./p6210/props/system/lib/hw/vendor-camera.exynos4.so
 0340a01dfa060b7e506fd6f174f7ba34ca50557bc04b4306ab10b9f3830fe4f7  ./p6210/props/system/lib/libsec-ril.so
 12aaf6240f97143dbda961084d33ba7fdf018f1f8f238faf6e17e4bdcf0564fc  ./p6210/props/system/lib/libsec-ril-apalone.so
-86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2tmo/proprietary/lib/libril.so
-e22049b0ef5ef5a2967041e9a7b32a74d35dc1b0fee8d60500e9190cb665befc  ./d2tmo/proprietary/lib/libril-qc-qmi-1.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2tmo/proprietary/lib/libril.so
+17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./d2tmo/proprietary/lib/libril-qc-qmi-1.so
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./t769/proprietary/etc/wifi/wl
 aee6b107ceeb854ecf8d1f836fda8e992489bb9f5d7c306180242ace61c15619  ./t769/proprietary/etc/wifi/nvram_mfg.txt_murata
 8cfc6358ee5d0fbedb2fbe11ebf33f92a10837328c7899ef68e8891e1c4d78d0  ./t769/proprietary/etc/wifi/nvram_mfg.txt
@@ -2272,8 +2272,8 @@ d033cd4fb7c9b47cf87b6ae1a769b1a56ac183ea3d0cf939321e992b60c86655  ./i9305/propri
 b06793df40c40e82215cf147e66e15125dc1f1ae69780fa20b2dca6c85b7b33b  ./i9305/proprietary/system/lib/libqmi_client_qmux.so
 b99625d594f4aee9a3cd6c65d32f6b13d8203853f51a74981143afc2f703bff9  ./i9305/proprietary/system/lib/libqmiservices.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9305/proprietary/system/usr/keylayout/sec_touchkey.kl
-86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2spr/proprietary/lib/libril.so
-df3fcfd457ff5cec457ae43eb6f9c914c65339a414020960d2f2ed8083ab6d69  ./d2spr/proprietary/lib/libril-qc-qmi-1.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2spr/proprietary/lib/libril.so
+8f63e093dd59a3a7ae6dd9ed39dcd27f12f8846443432c8c24be8c4da9a19815  ./d2spr/proprietary/lib/libril-qc-qmi-1.so
 55006efdeabdeb934aed103741336323a8bf452f0c03f2baab480b9f03a6f716  ./fascinatemtd/proprietary/geomagneticd
 f1c379fd590256a53df55e2e4b0fdfe86c0dca8c7484084f181b1168a5072dbf  ./fascinatemtd/proprietary/libsec-ril40.so
 beaae85ed20b392010448a4fc7be8f7f4689f981674144c14c8abec3c92f9cda  ./fascinatemtd/proprietary/gpsd
@@ -2855,8 +2855,8 @@ a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/pr
 f3517fdc7c2cc7136ef246399d724e6ffeafe4d286c17f6faacab698c3234da9  ./jfltexx/proprietary/lib/libril-qc-qmi-1.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
 12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
-86ddec7e58660f15d6ebd56c42d4500b941cdaa00372cbe42f89b859d954ccf2  ./d2att/proprietary/lib/libril.so
-7cf3f9491d6b61c99d6889a07204da8f56245e428b4d4868a3ed3386501f867d  ./d2att/proprietary/lib/libril-qc-qmi-1.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2att/proprietary/lib/libril.so
+17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./d2att/proprietary/lib/libril-qc-qmi-1.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
 50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
