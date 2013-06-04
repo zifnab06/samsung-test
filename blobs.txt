@@ -470,7 +470,7 @@ dad2b92708ff232a2209348d544f967e093d7e8f7e0d598a15809086428fedbe  ./jf-common/pr
 c13cd994cace50bf449d66d978b65397347d86706375bba0e87f26cd641c5994  ./jf-common/proprietary/lib/libmercury.so
 74a69b6f61afc17caf635d410a872af15f8956d1bde3e764ea170312940ceb9c  ./jf-common/proprietary/lib/libchromatix_ov5647_default_video.so
 6c0df0eac0cfe8457288d9ecaae45d723bdd484cca69e8a93804c63d45e681b6  ./jf-common/proprietary/lib/libsc-a2xx.so
-22e89fa79fab20759a4f71b4ea23916b6cfa3d616280c2b30112650a85bd51fa  ./jf-common/proprietary/lib/libloc_api_v02.so
+8a60678a9b5321635acbae1de3fd21da10b5911c8851cfefe2eac20dd49bdc38  ./jf-common/proprietary/lib/libloc_api_v02.so
 556998b880e66ac98107ab3b0824a11eac80cf691690c0344d10767ad2265b6e  ./jf-common/proprietary/lib/libmmjpeg.so
 5c400ab43106aeeb6c9923dfcb4b499ab56dd9ad8161fde783b1ca8855c74c33  ./jf-common/proprietary/lib/libWVStreamControlAPI_L1.so
 e76e93815e87c4a78066621c1c2df1b0544f66847db3d38a04fcc8f960c68b43  ./jf-common/proprietary/lib/libmmcamera_frameproc.so
