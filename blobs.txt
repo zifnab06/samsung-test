@@ -551,6 +551,7 @@ eeec4fd832633fa549fc077077bafcca629697d23b510f516e8eff952af5d6f6  ./jf-common/pr
 f243b8ad89d6c36a78a3f3b149530baebe3aec02cdd7b391585a75f2b612921a  ./jf-common/proprietary/lib/libchromatix_ov2720_zsl.so
 5c9a05130082717250f7c4e6543532355ddbad6dbfc4c36e1a650d64e8dd5144  ./jf-common/proprietary/lib/libqcci_legacy.so
 33cb700c382da8147df10a6536150d57006627fbaf0be825b785263ecc202083  ./jf-common/proprietary/lib/libmmparser.so
+5e5106886ee55c22ce1662d3ba929b1bccec84adb3b587de0e03f3da5d3f78cd  ./jf-common/proprietary/lib/libExtendedExtractor.so
 3e810e213211faa02c5b89747dc49511d602c4cb3858ce401e952e01eaa1c703  ./jf-common/proprietary/lib/libqmi.so
 85f11e7cae69b91da37a82d4c4d45821c10a30b0d2921a4239dad82401a8612f  ./jf-common/proprietary/lib/libmmcamera_interface.so
 11f710031128f85e18c837e71572a106f445a2574151a032d7680f5c55d12efc  ./jf-common/proprietary/lib/libchromatix_ov8825_default_video.so
@@ -3279,7 +3280,7 @@ ed2e620ea1fdfc62caaef9b8acd1549341cbae7c46439aaab21fccfcc0364570  ./d2-common/pr
 3c2db7b9e4b20a384104c5024bfff344ef933fa276d9564eff988f4ab34022d9  ./d2-common/proprietary/lib/libqmi_csi.so
 b38ac948e48b51c3f41c8b527f8ee29698b954e3f065be8d6a409d220f3308fb  ./d2-common/proprietary/lib/libakmd.so
 7e86012f29b2cd2d3f77ee7f0dfea2a2de4c314ef31ee030844a6c63da132d2e  ./d2-common/proprietary/lib/libmllite.so
-b6aeca7afa334b03a6c2dba8a54d6eb2e6f8cb4e39372dcad374449694f9e1cc  ./d2-common/proprietary/lib/libmmosal.so
+943e560634335ad6435f026bb192c059e9a5f46a9cfe7f200b4a4299b80a159a  ./d2-common/proprietary/lib/libmmosal.so
 6c0df0eac0cfe8457288d9ecaae45d723bdd484cca69e8a93804c63d45e681b6  ./d2-common/proprietary/lib/libsc-a2xx.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./d2-common/proprietary/lib/libloc_api_v02.so
 ea18468057fa5859df76149868f4547283084b5f97a5180ae6f2df5759a65847  ./d2-common/proprietary/lib/libmmjpeg.so
@@ -3290,7 +3291,7 @@ b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./d2-common/pr
 7ca09414755088962b48466a9e1d3a88e075ece2ab9a9ac3c5daeac159165571  ./d2-common/proprietary/lib/libdsi_netctrl.so
 1b71ac20080e6d21837edca49a2ce2167452e56da114d878f00682b32e82177f  ./d2-common/proprietary/lib/libmm-color-convertor.so
 70fc965ff59450529c3fed682948cc2ae32e95cdd52cb4e4a67f9a497ed8e243  ./d2-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
-e3912434d2ca22bfd1e68c3bbb9f133e9a9c833306d26834880fea1b02cc79c1  ./d2-common/proprietary/lib/libdivxdrm.so
+f9ec0dec4bebebfa2f408c22b95c52f883a5ee034f913f5c189e83f1b3e1cdab  ./d2-common/proprietary/lib/libdivxdrm.so
 514667cd5159d4c5c1658088832f2ba1619f87f9947b2aec8a47a9dbb686fbd5  ./d2-common/proprietary/lib/libatparser.so
 b11b661d8e8f0b122c3b37cded5ae9e5c92711176165b83282e690dd7416f855  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2-common/proprietary/lib/libchromatix_imx074_default_video.so
@@ -3332,7 +3333,8 @@ c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2-common/pr
 78276fd07b1ded2a94374f4365e8d46534e0ca95658e98bd2e292588a04f6288  ./d2-common/proprietary/lib/libmlplatform.so
 5517b752a6946c3df25fb93a8482fc32024e9345a262fbbf7793c52d3daa993f  ./d2-common/proprietary/lib/libqcci_legacy.so
 c8170a2fe84b01313266e94570b74f1d656e8d1a21495a4da9991acf5e2242a1  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
-35800d2a91f89ccd51146829382724e21958fbf1e85eafa965bde9b4f54ab884  ./d2-common/proprietary/lib/libmmparser.so
+33cb700c382da8147df10a6536150d57006627fbaf0be825b785263ecc202083  ./d2-common/proprietary/lib/libmmparser.so
+5e5106886ee55c22ce1662d3ba929b1bccec84adb3b587de0e03f3da5d3f78cd  ./d2-common/proprietary/lib/libExtendedExtractor.so
 dfab9b4ae37526af4cd002c98af7abab8469aa80baf8321401da026229a4f9b1  ./d2-common/proprietary/lib/libqmi.so
 1de4c59549abcc47ef686236e3e97bf032764e6ee783c934ca149e010f3f7e21  ./d2-common/proprietary/lib/libqmi_encdec.so
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/proprietary/lib/libchromatix_ov2720_preview.so
