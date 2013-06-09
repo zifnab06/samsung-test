@@ -2806,7 +2806,7 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./quincyatt/pr
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./quincyatt/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltexx/proprietary/lib/libril.so
-f3517fdc7c2cc7136ef246399d724e6ffeafe4d286c17f6faacab698c3234da9  ./jfltexx/proprietary/lib/libril-qc-qmi-1.so
+291bd94cee62556d0ddf4e19832b400fdeca7abb8358214b53721fda378bcee2  ./jfltexx/proprietary/lib/libril-qc-qmi-1.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
 12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
 407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2att/proprietary/lib/libril.so
