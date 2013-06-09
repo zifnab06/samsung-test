@@ -1898,7 +1898,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./mesmerizemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
 0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2r530/proprietary/lib/libril.so
-e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
+24ca44a742750509f23df27845a1e131133f2edef8c4682b90922e9bb8ea51a5  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
 eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./p6210/props/system/bin/gpsd
 c5f4216d52e6057aff19bb0398ec39938c55b9c6d86f227744bb254b6f3218c1  ./p6210/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6210/props/system/lib/libril.so
