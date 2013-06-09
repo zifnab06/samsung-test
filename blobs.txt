@@ -3248,7 +3248,7 @@ f9ec0dec4bebebfa2f408c22b95c52f883a5ee034f913f5c189e83f1b3e1cdab  ./d2-common/pr
 514667cd5159d4c5c1658088832f2ba1619f87f9947b2aec8a47a9dbb686fbd5  ./d2-common/proprietary/lib/libatparser.so
 b11b661d8e8f0b122c3b37cded5ae9e5c92711176165b83282e690dd7416f855  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2-common/proprietary/lib/libchromatix_imx074_default_video.so
-75348c87c4a84a5f05e621cb579a8d885e6c85dab846992520fbf2f7e0ce5480  ./d2-common/proprietary/lib/libC2D2.so
+dee124312b7220518486aeae8f5b24d64840e5e676770dde02a787accd7e754d  ./d2-common/proprietary/lib/libC2D2.so
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2-common/proprietary/lib/libvdis.so
 b691d6d212cb9edeb352f1918ad6cc29081b3c79f48744ffaf51a9a004c4fb93  ./d2-common/proprietary/lib/libacdbloader.so
 7951aff2a28d5bb3beb3bfc8529e579b35ee08d0624ef10f7267f58b15685c87  ./d2-common/proprietary/lib/libidl.so
@@ -3264,7 +3264,7 @@ bb840ab0377991360718f23dcb494bfc156f390e0aac318b9e478a31292d76c4  ./d2-common/pr
 72301711fd941b8b80ad83d8aa531778f6f06ced20ea082c22e5f2c6935d57c0  ./d2-common/proprietary/lib/libmplmpu.so
 57abb5f0a7cf9753eddc4530a5616a49e1222f2cf8e06185b7610209db900f78  ./d2-common/proprietary/lib/libyamaha.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./d2-common/proprietary/lib/libril-qcril-hook-oem.so
-09ea8d06df0093579ba9f49fd2ff2c9a0912fdba7ea2bd1b35a1526fe48f5dd9  ./d2-common/proprietary/lib/libc2d2_z180.so
+217b387cc7fc69f4b504a60a224792d217c6392039ba69b0e91aeb1cc0ba2027  ./d2-common/proprietary/lib/libc2d2_z180.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./d2-common/proprietary/lib/libqmi_common_so.so
 5b56b61d6849f2cd3826f471ca9dd3384ff7507b19ba4ef54de90b284f3af1e0  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
 b0f8b44ca2314280a399d59fc8915be357ad3df8922bccbcd25e17e3a4d528a4  ./d2-common/proprietary/lib/libqc-opt.so
