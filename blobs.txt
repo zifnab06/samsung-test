@@ -701,6 +701,7 @@ bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./apexqtmo/pro
 95c0f2ed1ce68e837d8a149fbf24d325675c6894fe418a6022d3c91f784bae99  ./apexqtmo/proprietary/lib/liboemcamera.so
 17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./apexqtmo/proprietary/lib/libril-qc-qmi-1.so
 50daf4ec54146b60d134f154b8d180e8c0c9f0ff6afcdcb8d64527a929f805b3  ./apexqtmo/proprietary/lib/libaudioparsers.so
+7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./apexqtmo/proprietary/vendor/firmware/libpn544_fw.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltetmo/proprietary/lib/libril.so
 58369f5fcb0cf09a14b3069791a9b7d4a82da7b7ef5f60c999543f3bf2a5d7ca  ./jfltetmo/proprietary/lib/libril-qc-qmi-1.so
 601dc00595e2c8cc544d744b2a4ef41465b33337b7d5dded454cee712e575528  ./p4tmo/proprietary/etc/audio/LVVEFS_Rx_Configuration.txt
