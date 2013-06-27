@@ -391,6 +391,7 @@ f3696f613d4530d7d1698c36f253fef340ef64abf2523240d27673fccdb5145a  ./jf-common/pr
 9eecab73314a3158d2dce477fcd8ed411c514dd22bbb42efd009a99892c182f0  ./jf-common/proprietary/etc/thermald-8064.conf
 194c928eeae4f3f5fc6356b5a33f27a79b51aa3f5591b7e13bde7de2eb7341e9  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_muratafem1
 307c733bf0fd85d5ffc23be255063038c3be73e64e88cc1b9085f23c0579640d  ./jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin
+1747d46390a87176efc70e550296184b4057e0e6a99b2fc10ee1d52c65c20d54  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_murata
 846f0530e0be4277989d7a77a3555d75c10e42f322aa600c5d14875044ee370b  ./jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin_a0
 dbf38f6408585b4922c9a6de58d6205e8515f4dcdbc5760d114a750349277f61  ./jf-common/proprietary/etc/wifi/nvram_net.txt_muratafem2
 e386e0c75ecfb3730fa6ddad88d80e7adb068423b686579ff7b098a1655b21ff  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd_a0
@@ -410,6 +411,7 @@ dac7c2e6c44f81faecbced8e49a57366b9182c654df85986d8ee01355b770c65  ./jf-common/pr
 0f9ea952cc4014da23a70d358134e034be2200ea77222cf57fa3852fff18746e  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_a0
 7b93cc448aa9ed22733ecfc620a74ee2d38c6a979b88cb88d489e652520496e8  ./jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin
 1e94957d8b6b227ae28ef5753e12e0f3bbe254ca8d85f434e3176d4ac15a73b8  ./jf-common/proprietary/etc/wifi/nvram_net.txt_muratafem1
+3dacf17ccb19dedf68ace072fcb6204f289a22480875a659a0727c620871981c  ./jf-common/proprietary/etc/wifi/nvram_net.txt_murata
 de56b28b1a4a8442cfa84466113679dea06c1ba02e264ead3da4ea928ea99325  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semcosh
 e3eb6a7b4df1741363b9fdba2d53d183f733c81658b19fd41a26eff797980c88  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd
 aa2beb639f877bb4070aba6830714aa2dfb118e7a41538592aa6c6a3026ac2eb  ./jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin_a0
