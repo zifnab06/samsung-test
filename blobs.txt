@@ -2519,6 +2519,7 @@ ad2c16540aa2c9be3932a0d06aff5f3d6d18f527f4b917b99f51576e34185f71  ./p4wifi/propr
 10a910a6a84b62ce7b4f0302a9eba9e8ca06ae09c2d8b39b1d61a614814db5d2  ./p4wifi/proprietary/etc/audio/Tx_ControlParams_BLUETOOTH_HEADSET.txt
 391c5fadea0568cb228c7b1e437cb9d3f6c0629dcd2541b3f4697660738702e1  ./p4wifi/proprietary/etc/audio/LVVEFS_Tx_Configuration.txt
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./p4wifi/proprietary/etc/wifi/wl
+cc50ae72399911a744c837d8c2c501f565aea404ed212ab5fc8d506c8caea061  ./p4wifi/proprietary/etc/wifi/nvram_mfg.txt
 cc50ae72399911a744c837d8c2c501f565aea404ed212ab5fc8d506c8caea061  ./p4wifi/proprietary/etc/wifi/nvram_net.txt
 477a68135f796d69cb444289ebb20480ec7e1f767a9df9188ee1fdfd7df5f831  ./p4wifi/proprietary/etc/firmware/nvmm_wmadec.axf
 ac98dd02b026f512ea045db7e36a5b7b2c75234187d216660c7ce24dabf07e1e  ./p4wifi/proprietary/etc/firmware/nvmm_jpegenc.axf
