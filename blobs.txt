@@ -418,6 +418,8 @@ aa2beb639f877bb4070aba6830714aa2dfb118e7a41538592aa6c6a3026ac2eb  ./jf-common/pr
 948b711eeb8220a6c2f3e5c1ae1b809b5edcbb5ba766cc38602c9c5d8b6904a5  ./jf-common/proprietary/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./jf-common/proprietary/etc/firmware/a225_pm4.fw
 096a8abaf484e74a4f084d3cdd396cc2809d7f89cee3f25645a629a845ea37cf  ./jf-common/proprietary/etc/firmware/a225p5_pm4.fw
+20556531a4e2fdc3bf2cfd56d3aa940ae4c78d1804c3f05cac32bd4b7aac3718  ./jf-common/proprietary/etc/firmware/wcd9310/wcd9310_mbhc.bin
+db889f954957b93ea386a4c58487494e4f89784884e6607a09f0d8b792389acd  ./jf-common/proprietary/etc/firmware/wcd9310/wcd9310_anc.bin
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./jf-common/proprietary/etc/firmware/a300_pfp.fw
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./jf-common/proprietary/etc/firmware/a225_pfp.fw
 d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./jf-common/proprietary/etc/firmware/leia_pm4_470.fw
