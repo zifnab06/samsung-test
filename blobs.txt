@@ -389,6 +389,7 @@ edd4fe79d188a3254b32ceaa50b2fbdc8d4fbd676a6bfa45b36bac87542244e0  ./p5att/propri
 dea7a309f8bb0eaadd4039dd8a2f382ada00fb6ad047ed5194cb9a2adecd41e2  ./p5att/proprietary/lib/libqmiservices.so
 194c928eeae4f3f5fc6356b5a33f27a79b51aa3f5591b7e13bde7de2eb7341e9  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_muratafem1
 88dcff8ea2a4a82555585e8251ed02cce1cffdc38091dcda0dca4338e1819b41  ./jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin
+d6f059229f41f26f237b9abfc3d75bee8365fec1f502413eea3c56aa395c68bc  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_murata
 9aeebafc461421c79a78315e7e639c5f42bb9a6c260491deefe899159c9ff16a  ./jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin_a0
 dbf38f6408585b4922c9a6de58d6205e8515f4dcdbc5760d114a750349277f61  ./jf-common/proprietary/etc/wifi/nvram_net.txt_muratafem2
 e386e0c75ecfb3730fa6ddad88d80e7adb068423b686579ff7b098a1655b21ff  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd_a0
@@ -408,6 +409,7 @@ b6ae673b6f70d3ff36613da0b395b890b95562783270726fde517f159ecfe29f  ./jf-common/pr
 0f9ea952cc4014da23a70d358134e034be2200ea77222cf57fa3852fff18746e  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_a0
 95cbf18efff353bcb35416e76233330ab14dc3167a3bf55ca7e58a6acce78ba8  ./jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin
 1e94957d8b6b227ae28ef5753e12e0f3bbe254ca8d85f434e3176d4ac15a73b8  ./jf-common/proprietary/etc/wifi/nvram_net.txt_muratafem1
+9fda98196b76fe30336bd147d55bbc0f0e1054e88ee0163c9c9087746a6c3bcf  ./jf-common/proprietary/etc/wifi/nvram_net.txt_murata
 de56b28b1a4a8442cfa84466113679dea06c1ba02e264ead3da4ea928ea99325  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semcosh
 e3eb6a7b4df1741363b9fdba2d53d183f733c81658b19fd41a26eff797980c88  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd
 7d496277af84e5eb6a9e544a54253318c0f56d4f39d7104dd241039c4477e430  ./jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin_a0
@@ -485,6 +487,7 @@ f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./jf-common/pr
 dee124312b7220518486aeae8f5b24d64840e5e676770dde02a787accd7e754d  ./jf-common/proprietary/lib/libC2D2.so
 c0933bacd70bb1a4d8acd9061c10caf73f437342ee3c4a933186d843efc01a78  ./jf-common/proprietary/lib/libsam.so
 2e55711288cb5b1f363f73cd82d075ef597044cfc6258764db0acc3978425ae1  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_pip.so
+5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jf-common/proprietary/lib/libril.so
 6251428c7f36bff0b0fc5cbda7bbbc4e692db97322c7952689a4d758ee7ae273  ./jf-common/proprietary/lib/libvdis.so
 681b853fc03522a317086bb5902a944a95dc52e8fe5016ca028642b686f2d3b7  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 82bd00ab441a48e3fa320e3ea3cc725b6dbd7cd9dab97a394233d757ad119773  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_preview.so
@@ -542,6 +545,7 @@ e67cbf71356eb284f2f52d42c6aafbafad833b6eba842fa5817bbd929c54e735  ./jf-common/pr
 5e5106886ee55c22ce1662d3ba929b1bccec84adb3b587de0e03f3da5d3f78cd  ./jf-common/proprietary/lib/libExtendedExtractor.so
 aa39dc07ddd54a549a00a038671bf0691249ff89d833ef092782897091d8f2e3  ./jf-common/proprietary/lib/libmmcamera_interface.so
 11f710031128f85e18c837e71572a106f445a2574151a032d7680f5c55d12efc  ./jf-common/proprietary/lib/libchromatix_ov8825_default_video.so
+2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jf-common/proprietary/lib/libril-qc-qmi-1.so
 903a03ad55d971f4d9c3009483eccd9fcbdd2ee151b9130e10c716ce7e739af0  ./jf-common/proprietary/lib/libQSEEComAPI.so
 ac9706480627c40c93a38e007eb538461b8733334d5edb569b6adb49d45d9f0f  ./jf-common/proprietary/lib/libchromatix_ov2720_preview.so
 1e42a47e7e3fdeb8d44a08122e50bb7f239ef70be87d886d1ba89b61f278131d  ./jf-common/proprietary/lib/libOpenVG.so
@@ -694,8 +698,6 @@ bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./apexqtmo/pro
 17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./apexqtmo/proprietary/lib/libril-qc-qmi-1.so
 50daf4ec54146b60d134f154b8d180e8c0c9f0ff6afcdcb8d64527a929f805b3  ./apexqtmo/proprietary/lib/libaudioparsers.so
 7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./apexqtmo/proprietary/vendor/firmware/libpn544_fw.so
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jfltetmo/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jfltetmo/proprietary/lib/libril-qc-qmi-1.so
 601dc00595e2c8cc544d744b2a4ef41465b33337b7d5dded454cee712e575528  ./p4tmo/proprietary/etc/audio/LVVEFS_Rx_Configuration.txt
 0fe6e3c1cca0fd53d402c59d7cdec7dd63121e41bf89f1db66298e63dae6cd48  ./p4tmo/proprietary/etc/audio/Tx_ControlParams_EARPIECE_WIDEBAND.txt
 36863915c98ba927c6586affcde4b8a20af423f14f389a12fe2a723be4e8c980  ./p4tmo/proprietary/etc/audio/Rx_ControlParams_EARPIECE_WIDEBAND.txt
@@ -983,8 +985,6 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 33d61953435cebd6355da5e51e97eb0b2d44286c5b42aafc91be2c0be30c063f  ./smdk4210-tab/props/system/lib/libmlplatform.so
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jfltespr/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jfltespr/proprietary/lib/libril-qc-qmi-1.so
 1b76bc16788f3bac3c01531551b2fef0e357e00a2377b997a097d17d77599fe7  ./i927/proprietary/libnvrm.so
 c02f44d55341542e207888e10ce47aba66b3690ff9491c6ff2fc6943b345db60  ./i927/proprietary/libnvomxadaptor.so
 beac03e09a92a1f6e0daf136350edd8af0953dec528c7c03ad66f91051a00f0e  ./i927/proprietary/libnvmm_service.so
@@ -1521,8 +1521,6 @@ b8ccd27e004437111a9d9b96239a8041d1d114e55d217ca7474bcd9ecf0a520f  ./p1-common/pr
 ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/proprietary/libtvoutservice.so
 fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jflteatt/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jflteatt/proprietary/lib/libril-qc-qmi-1.so
 daad25d2fcceadb1d9fe587527bfaec7b2ebf2ac68b22c301b66c62cc2bdf7e5  ./i9103/README
 50d8f42da2ec3909c02f4ea10405c6bfc1070d8738f3f61809b52fbf5deeb7d3  ./i9103/proprietary/sbin/cbd
 9ab40ca48dce998c8b0154db227655f85b530093f187e40eed3fa4f839a78450  ./i9103/proprietary/system/etc/wifi/bcm4330_apsta.bin
@@ -2759,8 +2757,6 @@ ee65a40a2926c4ebb11baff072f77080e34f2718418467feccc1048de68cc80b  ./i9100g/propr
 ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./i9100g/proprietary/system/media/chargingwarning.qmg
 0db92e35ab7779dc6938cac84846c242b24a5ff21c30cdc2c4d9f68ec7f001ff  ./i9100g/proprietary/system/media/battery_charging_20.qmg
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./i9100g/proprietary/system/media/battery_charging_15.qmg
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jflter970/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jflter970/proprietary/lib/libril-qc-qmi-1.so
 2e23ac82d312d2d1c074daead4e911ce8aa86001d0b73cf4de358bf4c38011fc  ./vibrantmtd/proprietary/libsamsung_hwlegacy.so
 c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/proprietary/gpsd
 16cfec19f0ef5b5ebe0b9ae17ce8ac46b2e0b90c41bb4f0d26223b5b5e12dd15  ./vibrantmtd/proprietary/libclientgps.so
@@ -2862,8 +2858,6 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./quincyatt/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./quincyatt/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./quincyatt/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jfltexx/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jfltexx/proprietary/lib/libril-qc-qmi-1.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
 12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
 407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2att/proprietary/lib/libril.so
@@ -2882,10 +2876,6 @@ efbd70ae3fa0dc43a9a932c51449c99349c777ceac4a710b87a91d5646c26517  ./n7100/propri
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jfltevzw/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
-5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./jfltecan/proprietary/lib/libril.so
-2440ed31eaf87aee4b12455ee2d2c6d460ee0637a24a4eb087c7704097eaf2ff  ./jfltecan/proprietary/lib/libril-qc-qmi-1.so
 82206df753accd8f567cc570d930afc412b0e1f5cdfa21edbf68d5530c5a857d  ./manta/proprietary/07060000000000000000000000000000.tlbin
 136d423e81a951546f9ca0a920883482709e0e921e9d4fe94e7cca9a6a450eed  ./manta/proprietary/fimc_is_fw.bin
 c789583bb9cbc3dd8dce47fb16a79015fc2368cd8c3fd02f78f9082411b43736  ./manta/proprietary/libbcinfoArm.so
