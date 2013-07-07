@@ -2869,8 +2869,6 @@ a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/pr
 17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./d2att/proprietary/lib/libril-qc-qmi-1.so
 aaadd1ef6690f8331204b3087c26d4bd0132362546998c5a11b825d4ea49576d  ./n7100/proprietary/system/bin/gpsd
 51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./n7100/proprietary/system/bin/sensorhubservice
-50868933307fb8bcc7bde69b260e3188d632299d8e46152258e0cde68eaae855  ./n7100/proprietary/system/bin/rild
-e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./n7100/proprietary/system/lib/libril.so
 d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./n7100/proprietary/system/lib/libakm.so
 829e57be164a3ebc76452405e24c356df694d0260b69524d5cc612f50081e72a  ./n7100/proprietary/system/lib/libsensorhubservice.so
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
