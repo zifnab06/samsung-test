@@ -1572,7 +1572,6 @@ f129d7a9ae8f6caee7acf50b8af83e71612581837428df89d7b348d23bd38f0b  ./i9103/propri
 277f681d0fbf541309457b860e3ecb93a45352be48250cd33e0d1d388efbfb36  ./i9103/proprietary/system/lib/libnvomxilclient.so
 b4c3664fbcf44607a7c68cc73b35654cf7d157ea09a65aed387529a377a89113  ./i9103/proprietary/system/lib/libnvddk_2d_v2.so
 5d9cd70d6cb7f88b496a5872f274be8ea7702603408382ff2529f5e56bc49a12  ./i9103/proprietary/system/lib/libnvodm_dtvtuner.so
-737e17ee3c12ab23bda8506c75d4627d26017033efc1c320c52325a529eadcb2  ./i9103/proprietary/system/lib/libril.so
 cc8fec402b943f70e8196f078741d883627bf93dd981fa1d5aed4b90954f5061  ./i9103/proprietary/system/lib/libcgdrv.so
 87c1ff8d7f429a374323b0274ee2ac5dd30de174082fca28868f6d265b8997c1  ./i9103/proprietary/system/lib/libnvmm_asfparser.so
 632db8a4364eb865d210fc2f1598fb62d485d7fc9a069fe6345c118d862bfde3  ./i9103/proprietary/system/lib/libnvmm_aviparser.so
