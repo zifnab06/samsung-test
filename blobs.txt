@@ -1604,6 +1604,7 @@ f2ad0519456c4f911a2043e426908a360ebe4968fd4abd1c3dd75ca5f52758ac  ./i9103/propri
 fa494e051c6a570677607907f72250ca3f6ee6cbbd53c6aec64b1c8fe6995c19  ./i9103/proprietary/system/lib/libnvapputil.so
 7b566d4eb18e5bd181f7bb5921f405f6ec3d91646dec574bdbb7da333cc4845c  ./i9103/proprietary/system/lib/libnvmm_image.so
 2136f74a6b59ab48634644642bd8fb1ce17a5ff746a14b848825f49d8425b0e4  ./i9103/proprietary/system/lib/libnvmm_msaudio.so
+230a8a3c0a9cec2225176c02ae3f2d182d9a50e197f5707a9c3634776d4842e8  ./i9103/proprietary/system/lib/libsecril-client.so
 e2ebc3a2fd26fac78f3b56c7c3c792ffba0ccafe8401003f7e3eed7c69caeed9  ./i9103/proprietary/system/lib/libmlplatform.so
 40693ac06166cf8cf3122a3d3b642b5bed7718ad528c11b01be5c572acd4a369  ./i9103/proprietary/system/lib/libnvmm_utils.so
 c53f47f6b503e4de4477d575ab996f888651af4c4d0930722c090956dda9cfe0  ./i9103/proprietary/system/lib/libnvodm_query.so
