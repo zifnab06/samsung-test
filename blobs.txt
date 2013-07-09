@@ -445,7 +445,7 @@ d643a457a4ff0b99f798381b96020b968df4c6b88f01f97646c21985ddaab34d  ./jf-common/pr
 f4bcdd1e7c8a2831ec3ea08c8805b5515b5f7f8ff9b4208dd34043bcd0132740  ./jf-common/proprietary/bin/ks
 a88ad9c4b66940fa6bd29ae4091b68163d2150f4f9cbcd1322cdcac028717a38  ./jf-common/proprietary/lib/libqdp.so
 e849fe15b1322323c2662db06b6441b70c875eead454603771a248ac027465a8  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
-d7e0cddaef13e9a8ce1916ed8db5d02e6eca9ea8220c940836821779133c3b6f  ./jf-common/proprietary/lib/libcsd-client.so
+b65ec6ebf1844b302b420a8bbc847abd4e63e61e4f764c99689480a025b26b29  ./jf-common/proprietary/lib/libcsd-client.so
 365d394421e2482082808c9333d693b94510dc2386c6066144325c2fad975f8b  ./jf-common/proprietary/lib/libomission_avoidance.so
 4f9530b2d98cb82bf4816ab3b241b624b980c3b8ea3d28f7f6722c11fd133473  ./jf-common/proprietary/lib/libmmcamera_interface2.so
 ac3f4a8ee06ff00efb7ba558f5b4191a659eb19b97c15e158e1ac00e0da1da53  ./jf-common/proprietary/lib/libdiag.so
@@ -524,7 +524,7 @@ f56998ee927a72104036363780c2250dbea22fc3a43b937851148337e5d302a2  ./jf-common/pr
 d59b8321ddc46d99634b03e00a4ba71ebe147c63d6ea8b76dceffa836e34ccda  ./jf-common/proprietary/lib/libmmmpod.so
 0769a56e7d09ca8f45e8709bed0e6b52d2fe2cafed0fb5e99eb98f441fcbf273  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_hfr_90fps.so
 56e2d2035d739f3e37b3be75249ab1427879b24f998be3548f6460d93a5f36ee  ./jf-common/proprietary/lib/libmmcamera_hdr_lib.so
-f4b3b124f51ef19783761f2a514cb52f44768a24b03a42da338fa5247a16a9c4  ./jf-common/proprietary/lib/libaudcal.so
+2a3f669472e0ccae4304a60b41645e7037decceaf9b2afa1ee9f42a0a09263b6  ./jf-common/proprietary/lib/libaudcal.so
 b8f52a0ee7f9c63f277637cef6d913c9ce085cce37e53541d3fc342242a867f4  ./jf-common/proprietary/lib/libchromatix_imx091_video_hd.so
 1a27084b9eb3e2309d037eb30634318d463de3e7ca375f5454581c408cb461bd  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_video.so
 095887e7876b3aca8d52de865cc81ee037a0ea96a99b54b5d3eb0fa0b92597b8  ./jf-common/proprietary/lib/libchromatix_mt9e013_default_video.so
