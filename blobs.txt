@@ -2760,7 +2760,7 @@ ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./i9100g/propr
 0db92e35ab7779dc6938cac84846c242b24a5ff21c30cdc2c4d9f68ec7f001ff  ./i9100g/proprietary/system/media/battery_charging_20.qmg
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./i9100g/proprietary/system/media/battery_charging_15.qmg
 4c3aecc2a9f4d728843d676448057ff25c47e5033ac7564b9d2a2975e95164ec  ./jflter970/proprietary/lib/libril.so
-d28d521991897de8ab53294f54f430424fcdf4ef3ebe7860491c267c3e2e9283  ./jflter970/proprietary/lib/libril-qc-qmi-1.so
+ae6291f70c4b3ed343ac6250d42ad96c77b27a25ef3139d309c471fa78309fb6  ./jflter970/proprietary/lib/libril-qc-qmi-1.so
 2e23ac82d312d2d1c074daead4e911ce8aa86001d0b73cf4de358bf4c38011fc  ./vibrantmtd/proprietary/libsamsung_hwlegacy.so
 c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/proprietary/gpsd
 16cfec19f0ef5b5ebe0b9ae17ce8ac46b2e0b90c41bb4f0d26223b5b5e12dd15  ./vibrantmtd/proprietary/libclientgps.so
