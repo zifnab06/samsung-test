@@ -2246,9 +2246,9 @@ f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./p51xx/common
 2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./p51xx/common/system/vendor/lib/libwvm.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltei337/proprietary/lib/libril.so
 eb115e5eca5480d6dd2192389ad6376a19a3bf317c845e86ce5bdc76288df5f9  ./jfltei337/proprietary/lib/libril-qc-qmi-1.so
-34b6435e3a33e87226d95cdee78fe45a13ce2942e11dfc311606cf130bc47130  ./t0ltecdma/proprietary/system/lib/libril.so
+052c0c721bf4a34837a8337802e980219fe1eca230786928ed15566d04940932  ./t0ltecdma/proprietary/system/lib/libril.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0ltecdma/proprietary/system/lib/libril-qcril-hook-oem.so
-a1ce59fdf52c06eb3bdc3067b306b970d89d995d7901ad96a3c6ec3a1d171bae  ./t0ltecdma/proprietary/system/lib/libril-qc-qmi-1.so
+519f00880f08adf5777230ee22e07826348b403dff76b4087cd2e80e0c09df7e  ./t0ltecdma/proprietary/system/lib/libril-qc-qmi-1.so
 87b393d31edbaf4aecb26021aa3298f35248da54154d54ef4565910193c4df99  ./adrenoblobs4.2/etc/firmware/vidc.b00
 3ca4150d254c02a5c915c1bc3c3a1ae0e4cce4a3d0002c258fc6f8f32b07bbb0  ./adrenoblobs4.2/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./adrenoblobs4.2/etc/firmware/a225_pm4.fw
