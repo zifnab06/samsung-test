@@ -459,6 +459,7 @@ b10d2a4f57bfb869d3ae308036659dcdb19cbdc65fe164a6bf03093f585dbc15  ./jf-common/pr
 328ed3e4b102b525c4e291f95f55417cfaff8e7102190d7af61b218e67b48609  ./jf-common/proprietary/lib/libchromatix_ov5647_default_video.so
 8a60678a9b5321635acbae1de3fd21da10b5911c8851cfefe2eac20dd49bdc38  ./jf-common/proprietary/lib/libloc_api_v02.so
 274dd3c4c47c3e4434bea610d99acaa765a1dcd9c536e908aad59f1e9efd90a4  ./jf-common/proprietary/lib/libmmjpeg.so
+23d7492e5fb032f4d64b15b7e24f861006b292c670fb275e9cff7bff6479400a  ./jf-common/proprietary/lib/libWVStreamControlAPI_L1.so
 b9bc6d4c0aab61d37d55f38c7a40441666eadf728ec5f1382d098d4e81d45af5  ./jf-common/proprietary/lib/libmmcamera_frameproc.so
 47f2df973354d003fa84691e4791da27bfeb21f6270ca6be27c6c2bad0d86c3e  ./jf-common/proprietary/lib/libchromatix_s5k4e1_default_video.so
 c442a0ff1397ce3c1d787fc5aaab22948bec6f8de5730fd14093906f9f3a5229  ./jf-common/proprietary/lib/libchromatix_s5k4e1_preview.so
