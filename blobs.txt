@@ -468,6 +468,7 @@ bc3e8ff67575b6a74eda9cc8be860bfd191d106f27ef352f2f8ac15b586d9eee  ./jf-common/pr
 7a76578c4c6b5b44510725180cdc4c566c7871f86b676181ed72689abae61d81  ./jf-common/proprietary/lib/libtime_genoff.so
 01b4c755fb7af32621f657d45a9ef6f88bc4c613c72c4e4ed6e6b9b541b528cb  ./jf-common/proprietary/lib/libgsl.so
 e61beedecaf0c45b1ade2b56a0ee5a0535ccb95f6c4c53fb57aea895e5e0fc3d  ./jf-common/proprietary/lib/libmmcamera_imx091.so
+9d964f37e61ff930267c51c65477033ad9dbc3af90f26926de1ede1fa0f727c6  ./jf-common/proprietary/lib/libgeofence.so
 16d39738bbb90258831eb8f00ff69400641928bba561672689edf12f1d2c9f84  ./jf-common/proprietary/lib/libdsi_netctrl.so
 b6b613123f43006adfcb8212e10b6856e72478e19f55e122243ac94e62379998  ./jf-common/proprietary/lib/libmm-color-convertor.so
 0f6e567b0ba87660306bca8ae69d81da8ca563283cfe5179d44ad5af36d59cdd  ./jf-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
