@@ -3211,6 +3211,7 @@ e268a577d90ef93587b9cb7cee0658a2167699346ad44669764aa63e843c0d31  ./i9300/propri
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
 2d9c5abfa96898598bd68143f1801d2fd967f8f4cbba5a691b2a30c2f7ad4e12  ./d2-common/proprietary/etc/wifi/nvram_mfg.txt_murata
+8cd8e9de8a92bb2ec8e512866dcdc1636816808418edeb052e190f35d3f8d180  ./d2-common/proprietary/etc/wifi/nvram_net.txt_semcosh
 3c80d28fe62f226e9a87f053291177ccec66968a387cc7a78f331b7e1151dc4c  ./d2-common/proprietary/etc/wifi/bcmdhd_sta.bin_b2
 9eb0bb9a08709b73c174ad9ed686d829ff74c8fa6243d2ae361afd1190588d29  ./d2-common/proprietary/etc/wifi/nvram_mfg.txt
 41a6a04fa1762fa0b5ee32a3d6daea2e1d0136b8045194359fe2ba0007366194  ./d2-common/proprietary/etc/wifi/bcmdhd_mfg.bin_b2
@@ -3218,6 +3219,7 @@ feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/propri
 8cd8e9de8a92bb2ec8e512866dcdc1636816808418edeb052e190f35d3f8d180  ./d2-common/proprietary/etc/wifi/nvram_net.txt
 e76b31da1b58a08f8742f43cd715cf71a0295d12917897c7104eb58061ebf988  ./d2-common/proprietary/etc/wifi/bcmdhd_p2p.bin_b2
 3f1d166573d3f159602feb70fa9269af045bd24069cf29337cdce2d386a93a13  ./d2-common/proprietary/etc/wifi/nvram_net.txt_murata
+9eb0bb9a08709b73c174ad9ed686d829ff74c8fa6243d2ae361afd1190588d29  ./d2-common/proprietary/etc/wifi/nvram_mfg.txt_semcosh
 7a26b6751ca3e88426dbaa0d216ef7833f776a9e5f84a404552746a2a97cf7b6  ./d2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b2
 07b0455c445f250fed53170567629a7fca5e1ebf13787000785c0d84fa272607  ./d2-common/proprietary/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./d2-common/proprietary/etc/firmware/a225_pm4.fw
