@@ -3265,6 +3265,7 @@ ea18468057fa5859df76149868f4547283084b5f97a5180ae6f2df5759a65847  ./d2-common/pr
 f346d801d8e7b20d9c394604dea518bf21607edf719998f26b8f833d9e44ffe9  ./d2-common/proprietary/lib/libgemini.so
 124c391731cd40813b2c3eab0820703679639f666ebff02f228a46724deb69d4  ./d2-common/proprietary/lib/libmmstereo.so
 b93d692d657bae17edf04933e879c705b66a8e58d60b1fe3271c9538204af4b4  ./d2-common/proprietary/lib/libgsl.so
+9d964f37e61ff930267c51c65477033ad9dbc3af90f26926de1ede1fa0f727c6  ./d2-common/proprietary/lib/libgeofence.so
 7ca09414755088962b48466a9e1d3a88e075ece2ab9a9ac3c5daeac159165571  ./d2-common/proprietary/lib/libdsi_netctrl.so
 1b71ac20080e6d21837edca49a2ce2167452e56da114d878f00682b32e82177f  ./d2-common/proprietary/lib/libmm-color-convertor.so
 70fc965ff59450529c3fed682948cc2ae32e95cdd52cb4e4a67f9a497ed8e243  ./d2-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
