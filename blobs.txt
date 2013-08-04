@@ -2202,9 +2202,7 @@ eb115e5eca5480d6dd2192389ad6376a19a3bf317c845e86ce5bdc76288df5f9  ./jfltei337/pr
 34b6435e3a33e87226d95cdee78fe45a13ce2942e11dfc311606cf130bc47130  ./t0ltecdma/proprietary/system/lib/libril.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0ltecdma/proprietary/system/lib/libril-qcril-hook-oem.so
 a1ce59fdf52c06eb3bdc3067b306b970d89d995d7901ad96a3c6ec3a1d171bae  ./t0ltecdma/proprietary/system/lib/libril-qc-qmi-1.so
-f4f32f8eb6baff2077b478df4f237a3c32762dc3010ebdace4336bd911b46787  ./adrenoblobs4.2/etc/.DS_Store
 87b393d31edbaf4aecb26021aa3298f35248da54154d54ef4565910193c4df99  ./adrenoblobs4.2/etc/firmware/vidc.b00
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./adrenoblobs4.2/etc/firmware/.DS_Store
 3ca4150d254c02a5c915c1bc3c3a1ae0e4cce4a3d0002c258fc6f8f32b07bbb0  ./adrenoblobs4.2/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./adrenoblobs4.2/etc/firmware/a225_pm4.fw
 096a8abaf484e74a4f084d3cdd396cc2809d7f89cee3f25645a629a845ea37cf  ./adrenoblobs4.2/etc/firmware/a225p5_pm4.fw
@@ -2218,12 +2216,10 @@ cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./adrenoblobs4
 f7cbc75c0698cefa84431a9d3846497b5007ee247d9b4af4569210744a7cae55  ./adrenoblobs4.2/etc/firmware/a300_pm4.fw
 233502790f8b28b465e919e8c984d1dbc5ea3d22f4b88efb62c16e85db109fa9  ./adrenoblobs4.2/etc/firmware/vidc.b03
 94464347498119124b8c05fe53d07a33b8eaaa2a549c513359b6a542bd70b6da  ./adrenoblobs4.2/lib/libsc-a3xx.so
-2aa873bba9c5bcf6d44f225d7097815d0fab938bb650a13df4aa736ea4215511  ./adrenoblobs4.2/lib/.DS_Store
 dbc0d1b497aeab2f93bce90854e26fe6f861e127ca1100be6e6b9e3b843928f9  ./adrenoblobs4.2/lib/libsc-a2xx.so
 01b4c755fb7af32621f657d45a9ef6f88bc4c613c72c4e4ed6e6b9b541b528cb  ./adrenoblobs4.2/lib/libgsl.so
 ba1ca7ec99120ed21edf2398905b8383c4002bb752c04dd9fe3800515fb7f764  ./adrenoblobs4.2/lib/libC2D2.so
 b40dc7e629aba2760c30bf1c90a1c15cf87cbcde2bf42933bec0445765c75a9d  ./adrenoblobs4.2/lib/libc2d2_a3xx.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./adrenoblobs4.2/lib/egl/.DS_Store
 c9c7a777d134300349ae71d39f2339390e5180e23681a833638bcf4e4ec9006f  ./adrenoblobs4.2/lib/egl/libq3dtools_adreno200.so
 fda200c98a97b5453aaf769836edf592f4a076c3c7eb2f28c2824ceab7b7c29e  ./adrenoblobs4.2/lib/egl/eglsubAndroid.so
 cc23cf68b43b4fc49eae537d967bb567414e4c9c67a6d050924a1a47c7ba8dbd  ./adrenoblobs4.2/lib/egl/libGLESv1_CM_adreno200.so
