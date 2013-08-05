@@ -508,6 +508,7 @@ b27092ccdebadbfb3c7eba86174ead6df5bbfddb77d23b50cee5467adf48d941  ./jf-common/pr
 717891d8a42b2fffacd4a3a916e8c3f0a7c41feb117fad1c492cd7d34d78d508  ./jf-common/proprietary/lib/libllvm-a3xx.so
 ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./jf-common/proprietary/lib/libqmi_common_so.so
 f94733943f1592234f29f060c7a0ad303fd7827815345960a219a68df45fcdcd  ./jf-common/proprietary/lib/libqc-opt.so
+fe3aeb3ad5c5e39ea3700445f7e44cf12a1ecd5f711b061d1446609412e6173c  ./jf-common/proprietary/lib/libOpenCL.so
 a90484373e5b0e641b903b157d0d4ae446967bf6c1fa134951a0d5aa6702f0f8  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_smartstay.so
 35bfe2678a15711df79714fada011e05ab4d93285ef94efb0c2a48c89f704a93  ./jf-common/proprietary/lib/libchromatix_imx074_preview.so
 f56998ee927a72104036363780c2250dbea22fc3a43b937851148337e5d302a2  ./jf-common/proprietary/lib/libnetmgr.so
@@ -542,6 +543,7 @@ d5c72f2ea8809f61647b78aaf20a332c86133b2afdcd6c11c30d6d022e422a2e  ./jf-common/pr
 d14b6150edbd81cf60a913435663d4f0e09589a080f3722f76b40b1b46b54597  ./jf-common/proprietary/lib/libqmi_encdec.so
 80a792b85ec2f5aafa49c769a3c0b248b407f3a69c9d18ad54a11fa8423d6178  ./jf-common/proprietary/lib/libQSEEComAPI.so
 a2c12114292a124fa15624735ff8f01c5e6a59e2b9bf34e5ad13dfdb1cc9f6bf  ./jf-common/proprietary/lib/libchromatix_ov2720_preview.so
+1111a7bb7730892947faae22757cafe8970f7f057c0870c46c72c80ce99b66a1  ./jf-common/proprietary/lib/libOpenVG.so
 44eea0dbc6ba30fa2542952aa372a602702d1e7010a34dab43ca911d9a97fa16  ./jf-common/proprietary/lib/libqmi_client_qmux.so
 2a7829c8a4681b671c52748d0984436702aad54b49c9ff324b0e89ef5448af50  ./jf-common/proprietary/lib/libmmstillomx.so
 f9a6c3a0acd496670e02c87f89078f10af97f57d893a5a35e301f2c0338b2c7d  ./jf-common/proprietary/lib/libmmjpeg_interface.so
