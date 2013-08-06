@@ -3236,7 +3236,7 @@ d8dd379c5de7fa86d54397c1fe03aeebb5d4085f0df2c285388eae7403fa386a  ./d2-common/pr
 e76b31da1b58a08f8742f43cd715cf71a0295d12917897c7104eb58061ebf988  ./d2-common/proprietary/etc/wifi/bcmdhd_p2p.bin_b2
 49abf02bf7f46204fe715ab281805d7ee7ba81fe55e40823e2d7f53c6575f61f  ./d2-common/proprietary/etc/wifi/nvram_net.txt_murata
 0bfc0493f1c523a062583889f59789ad17a5924260379abbd43e89b21c4e5099  ./d2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b2
-07b0455c445f250fed53170567629a7fca5e1ebf13787000785c0d84fa272607  ./d2-common/proprietary/etc/firmware/vidc_1080p.fw
+3ca4150d254c02a5c915c1bc3c3a1ae0e4cce4a3d0002c258fc6f8f32b07bbb0  ./d2-common/proprietary/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./d2-common/proprietary/etc/firmware/a225_pm4.fw
 096a8abaf484e74a4f084d3cdd396cc2809d7f89cee3f25645a629a845ea37cf  ./d2-common/proprietary/etc/firmware/a225p5_pm4.fw
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./d2-common/proprietary/etc/firmware/a225_pfp.fw
