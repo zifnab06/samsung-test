@@ -3308,7 +3308,7 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./d2-common/pr
 217b387cc7fc69f4b504a60a224792d217c6392039ba69b0e91aeb1cc0ba2027  ./d2-common/proprietary/lib/libc2d2_z180.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./d2-common/proprietary/lib/libqmi_common_so.so
 5b56b61d6849f2cd3826f471ca9dd3384ff7507b19ba4ef54de90b284f3af1e0  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-b0f8b44ca2314280a399d59fc8915be357ad3df8922bccbcd25e17e3a4d528a4  ./d2-common/proprietary/lib/libqc-opt.so
+f94733943f1592234f29f060c7a0ad303fd7827815345960a219a68df45fcdcd  ./d2-common/proprietary/lib/libqc-opt.so
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./d2-common/proprietary/lib/libOpenCL.so
 657a5d21c345cb82ff7fd68d0a13ef542e00637807183706f2aa617b5972cb93  ./d2-common/proprietary/lib/libchromatix_imx074_preview.so
 6c7cabcf915755617cc4aa4aef4f3bfb6fc3204b0f08f1842ab0ea32882e9a40  ./d2-common/proprietary/lib/libnetmgr.so
