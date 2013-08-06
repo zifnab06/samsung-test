@@ -3328,6 +3328,7 @@ c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2-common/pr
 5517b752a6946c3df25fb93a8482fc32024e9345a262fbbf7793c52d3daa993f  ./d2-common/proprietary/lib/libqcci_legacy.so
 c8170a2fe84b01313266e94570b74f1d656e8d1a21495a4da9991acf5e2242a1  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 35800d2a91f89ccd51146829382724e21958fbf1e85eafa965bde9b4f54ab884  ./d2-common/proprietary/lib/libmmparser.so
+dc68c0afc5eed0ce6c83bc506214a0ae0dd8ee86dadfe64884112d8190396287  ./d2-common/proprietary/lib/libExtendedExtractor.so
 dfab9b4ae37526af4cd002c98af7abab8469aa80baf8321401da026229a4f9b1  ./d2-common/proprietary/lib/libqmi.so
 1de4c59549abcc47ef686236e3e97bf032764e6ee783c934ca149e010f3f7e21  ./d2-common/proprietary/lib/libqmi_encdec.so
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/proprietary/lib/libchromatix_ov2720_preview.so
