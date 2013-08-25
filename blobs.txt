@@ -3082,7 +3082,6 @@ f7484905b81dcb77a2ca96e496c9bd994a76606e8f16cfc3284b46ec0a546b0b  ./p31xx/common
 5c400ab43106aeeb6c9923dfcb4b499ab56dd9ad8161fde783b1ca8855c74c33  ./p31xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
 8df9c269758f46d0c6bb38f03a71ee573841d93de397c19857af762c924d2a1c  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
 969355dd58afe5e0c10ee7f74d77bc7ecffb2571a7d6e5078af1b19ed3e5cb36  ./p31xx/common/system/vendor/lib/libwvm.so
-f1da49201f70c116c06faf86a02948a24a6c60e897b56ebf93175dff68b927ee  ./p31xx/common/system/vendor/lib/libWVphoneAPI.so
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p31xx/p3110/system/lib/libril.so
 b55621ab59e72afcaf37a6d01d35038ec450845e802c63eb1d74f81496b0e490  ./p31xx/p3110/system/lib/hw/sensors.omap4.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3110/system/lib/libsecril-client.so
