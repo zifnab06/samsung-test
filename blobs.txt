@@ -2517,7 +2517,6 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./i9305/propri
 d033cd4fb7c9b47cf87b6ae1a769b1a56ac183ea3d0cf939321e992b60c86655  ./i9305/proprietary/system/lib/libnetmgr.so
 41368c4101b9ea85e1cc48110ac4605bf6eafd79d6bde8befca298dca443d980  ./i9305/proprietary/system/lib/libqmi_cci.so
 3477963611b87edf7c5c52490d4ff709cb325121a2ca61e54101d0b13dcd3850  ./i9305/proprietary/system/lib/hw/sensors.smdk4x12.so
-5942e4ae60eda07121ff2d394e2293911ba0527a38ccbb89e7881bf24fd1822b  ./i9305/proprietary/system/lib/hw/vendor-camera.exynos4.so
 5ab80b0eaa2c17c7a029c1e26541fe30b89498bcda5d5c58b5e998064a8d05d1  ./i9305/proprietary/system/lib/libqdi.so
 4c7ba747071a3a0c2a6a7042bc11231c583cb0bc7f86f1ca40aa791e3cdf6bac  ./i9305/proprietary/system/lib/libfactoryutil.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./i9305/proprietary/system/lib/libsecril-client.so
