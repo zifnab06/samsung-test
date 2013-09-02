@@ -3285,7 +3285,6 @@ d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./n7100/propri
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
 d1c5376e32691494913919979d96a21870ebd25e8653a50a815fffc6b11b179d  ./n7100/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
 5ae8489f54dc28df42836ccd7ef5377dee4d3a9b9be1df4c9c7dd240800a44c0  ./n7100/proprietary/system/lib/hw/gps.exynos4.so
-efbd70ae3fa0dc43a9a932c51449c99349c777ceac4a710b87a91d5646c26517  ./n7100/proprietary/system/lib/hw/camera.smdk4x12.so
 3177cdd45b08641fd87b96320ff331ddb665bd172ca5c10dc30fe7aabef4171c  ./n7100/proprietary/system/lib/libsec-ril.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
