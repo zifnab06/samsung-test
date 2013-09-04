@@ -2213,8 +2213,8 @@ f691b6a169df912e8ffe5d5dd6b314d1c20d991c04bb8a0936300c78503bea3a  ./p6210/props/
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./t769/proprietary/etc/wifi/nvram_mfg.txt_murata
 c28758b44893148780739b47fe6e668d854cdb33fce6ca17ec483d517d168f8b  ./t769/proprietary/etc/wifi/nvram_mfg.txt
 596f0d85274584154737be3eb14ab96c302ed60bb5acc0c2210e10d8d11eae6c  ./t769/proprietary/etc/wifi/wpa_supplicant.conf
-69ee0e9b9a4233b320cdfdd935853cdf2fbd84ff6ec42f8ec572f2f0a19975a7  ./t769/proprietary/etc/wifi/bcmdhd_sta.bin
-3f4873310cb4ef6e509d078b5ca7e6cc510a12b4d1dae3e9ef2552afb0ffbbb7  ./t769/proprietary/etc/wifi/nvram_net.txt
+d3badb849723d7ae9174f833a359bdd1c9da619d0056d47154add5deec7fc045  ./t769/proprietary/etc/wifi/bcmdhd_sta.bin
+e6843d59791c5a17398aa66bf8ba8e9d8db726d3d781ffa2a48525778fe5a671  ./t769/proprietary/etc/wifi/nvram_net.txt
 69ee0e9b9a4233b320cdfdd935853cdf2fbd84ff6ec42f8ec572f2f0a19975a7  ./t769/proprietary/etc/wifi/bcmdhd_p2p.bin
 7b402861820139fa10947db8afdad3011b00c8f2efacca0d3049d6dbe8edc5a2  ./t769/proprietary/etc/wifi/bcmdhd_mfg.bin
 d2d910c0c2accc0dfa963e6f1660153260a3425b3845ae6f172757ba75cdff6d  ./t769/proprietary/etc/wifi/nvram_net.txt_murata
