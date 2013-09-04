@@ -3608,7 +3608,6 @@ c24eb996c0073960ed9fe5d4b84de8730f71c18720200eb2f4ffef20073ea018  ./d710/proprie
 da054ec4827befc0c658a268047eca35c4bd29f16a84577c3e836575dc13b340  ./d710/proprietary/system/lib/libWiMAXNative.so
 fdef9be2c8f2f9529f19330bd279adafc75103d043fe6dc2c3baf43afbac1717  ./d710/proprietary/system/lib/libakm.so
 a771314043f300dbe8bcdd697688e0db40c654595ac479cadd78ea1d19bfde4e  ./d710/proprietary/system/lib/libSECmWiMAXcAPI.so
-e3ea31311605b58d8db91acc85a2c617a021ded63a4d053a557c42660b26b1c9  ./d710/proprietary/system/lib/hw/sensors.smdk4210.so
 d2f59e3854c5b414e3fdf7753ae7250ed41e30481c7134977cf5d62b6a61e0cc  ./d710/proprietary/system/lib/hw/gps.exynos4.so
 c240ea42fd718a7c3760d10fe100a8c00e2606c3b7cddb6ec1aa1037f52b22b6  ./d710/proprietary/system/lib/libsecril-client.so
 3e33295b1c0acc8fc423ea16a8b16740f19f6096ea81e3a3ed7bc1dfeff9084b  ./d710/proprietary/system/vendor/firmware/wimaxfw.bin
