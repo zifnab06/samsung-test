@@ -3736,3 +3736,5 @@ afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/pr
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2-common/proprietary/lib/libmmstillomx.so
 9eeb99c3918a6a6e9603c5db56fb3c835b751ab978a33b9cb4924f102917941a  ./d2-common/proprietary/lib/libreference-ril.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2-common/proprietary/lib/libqmiservices.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2spi/proprietary/lib/libril.so
+8f63e093dd59a3a7ae6dd9ed39dcd27f12f8846443432c8c24be8c4da9a19815  ./d2spi/proprietary/lib/libril-qc-qmi-1.so
