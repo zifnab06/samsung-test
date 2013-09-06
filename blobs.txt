@@ -862,9 +862,6 @@ e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/propri
 c3783df6c9e866633595d3dbde53caacdbddc2faa2f80c44274ad9d205ed08ca  ./t0ltetmo/proprietary/system/lib/libril-qc-qmi-1.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./apexqtmo/proprietary/etc/thermald.conf
 f178c3eb5dd71844f0f02226001e9c727f648a648c68eb268f405cdde0641a5b  ./apexqtmo/proprietary/etc/wifi/wpa_supplicant.conf
-8eec107b36adc10936d7d2a65531964a56e10db46a27d18f7592fe9075a0d5bd  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin_
-599f1a3dc3119540f7b2a8cac641cbc52ee4a2c9cada68035bcd5e7da57ccd2a  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini
-c5201946473c56b58286aae227c4d29d9cf0b7dbc60d2b177264c9a715d4ec2d  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat
 499b6867706fee4cfe0c7b2427c43847f6ff9cf2e3d78de924e823f477cc6e95  ./apexqtmo/proprietary/etc/firmware/wcnss.b02
 1b1b3ad722928d6f42ec7ec47db9d7ee3a9212b096f8500d585813162a126249  ./apexqtmo/proprietary/etc/firmware/wcnss.b01
 9278ae0ab19f36831973a3a612ed47764e62002b446aa3dcdd44ba295688d7dd  ./apexqtmo/proprietary/etc/firmware/wcnss.b04
@@ -3336,9 +3333,6 @@ fd221078ffef53384ec704bbfa68ca32d09c5132f293f1cb71a5a2ec0d7fe01b  ./omap4-common
 5ea575968e66110e73cbe8db0b0beb3ca4973fa7d207125153235361fd038227  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX540_120.so
 0bb3e9766c992a9ed619418b148d0df7c76337985a72923f08abefac83564fbf  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX544_112.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./expressatt/proprietary/etc/thermald.conf
-8eec107b36adc10936d7d2a65531964a56e10db46a27d18f7592fe9075a0d5bd  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin_
-599f1a3dc3119540f7b2a8cac641cbc52ee4a2c9cada68035bcd5e7da57ccd2a  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini
-c5201946473c56b58286aae227c4d29d9cf0b7dbc60d2b177264c9a715d4ec2d  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat
 644a116ffc720ef901f41c4709663f771cdfc70d10925c37439af94f751081e6  ./expressatt/proprietary/etc/firmware/wcnss.b02
 867b02e0fc80e02cc4aff5ee1d99d8ff2ce312cb4ea4492e6743023c59716fe0  ./expressatt/proprietary/etc/firmware/wcnss.b01
 9278ae0ab19f36831973a3a612ed47764e62002b446aa3dcdd44ba295688d7dd  ./expressatt/proprietary/etc/firmware/wcnss.b04
