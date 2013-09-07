@@ -407,13 +407,13 @@ ff026797e5a7d0441c5363ffeae6e131a09c77256adbc52d68854d5493fcf508  ./p1c/propriet
 9c77a800f87266217ca2d05fffed560065d332b7aec5d9e0b70d15e3d7360b93  ./p1c/proprietary/gps.s5pc110.so
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./p1c/proprietary/libsecril-client.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./exhilarate/proprietary/etc/thermald.conf
-16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./exhilarate/proprietary/etc/wifi/bcmdhd_apsta.bin
+19f12f4810f1a671567e1d4cf3535734f771ca72eb1590bff732117834b22761  ./exhilarate/proprietary/etc/wifi/bcmdhd_apsta.bin
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./exhilarate/proprietary/etc/wifi/nvram_mfg.txt_murata
 c28758b44893148780739b47fe6e668d854cdb33fce6ca17ec483d517d168f8b  ./exhilarate/proprietary/etc/wifi/nvram_mfg.txt
 596f0d85274584154737be3eb14ab96c302ed60bb5acc0c2210e10d8d11eae6c  ./exhilarate/proprietary/etc/wifi/wpa_supplicant.conf
-a84b1396e6aa456e8c04138839aec44006a57851ca37bdb6caada239aa2740cc  ./exhilarate/proprietary/etc/wifi/bcmdhd_sta.bin
+69ee0e9b9a4233b320cdfdd935853cdf2fbd84ff6ec42f8ec572f2f0a19975a7  ./exhilarate/proprietary/etc/wifi/bcmdhd_sta.bin
 3f4873310cb4ef6e509d078b5ca7e6cc510a12b4d1dae3e9ef2552afb0ffbbb7  ./exhilarate/proprietary/etc/wifi/nvram_net.txt
-a84b1396e6aa456e8c04138839aec44006a57851ca37bdb6caada239aa2740cc  ./exhilarate/proprietary/etc/wifi/bcmdhd_p2p.bin
+69ee0e9b9a4233b320cdfdd935853cdf2fbd84ff6ec42f8ec572f2f0a19975a7  ./exhilarate/proprietary/etc/wifi/bcmdhd_p2p.bin
 7b402861820139fa10947db8afdad3011b00c8f2efacca0d3049d6dbe8edc5a2  ./exhilarate/proprietary/etc/wifi/bcmdhd_mfg.bin
 d2d910c0c2accc0dfa963e6f1660153260a3425b3845ae6f172757ba75cdff6d  ./exhilarate/proprietary/etc/wifi/nvram_net.txt_murata
 07b0455c445f250fed53170567629a7fca5e1ebf13787000785c0d84fa272607  ./exhilarate/proprietary/etc/firmware/vidc_1080p.fw
@@ -862,9 +862,6 @@ e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/propri
 c3783df6c9e866633595d3dbde53caacdbddc2faa2f80c44274ad9d205ed08ca  ./t0ltetmo/proprietary/system/lib/libril-qc-qmi-1.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./apexqtmo/proprietary/etc/thermald.conf
 f178c3eb5dd71844f0f02226001e9c727f648a648c68eb268f405cdde0641a5b  ./apexqtmo/proprietary/etc/wifi/wpa_supplicant.conf
-8eec107b36adc10936d7d2a65531964a56e10db46a27d18f7592fe9075a0d5bd  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin_
-599f1a3dc3119540f7b2a8cac641cbc52ee4a2c9cada68035bcd5e7da57ccd2a  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini
-c5201946473c56b58286aae227c4d29d9cf0b7dbc60d2b177264c9a715d4ec2d  ./apexqtmo/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat
 499b6867706fee4cfe0c7b2427c43847f6ff9cf2e3d78de924e823f477cc6e95  ./apexqtmo/proprietary/etc/firmware/wcnss.b02
 1b1b3ad722928d6f42ec7ec47db9d7ee3a9212b096f8500d585813162a126249  ./apexqtmo/proprietary/etc/firmware/wcnss.b01
 9278ae0ab19f36831973a3a612ed47764e62002b446aa3dcdd44ba295688d7dd  ./apexqtmo/proprietary/etc/firmware/wcnss.b04
@@ -2518,7 +2515,6 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./i9305/propri
 d033cd4fb7c9b47cf87b6ae1a769b1a56ac183ea3d0cf939321e992b60c86655  ./i9305/proprietary/system/lib/libnetmgr.so
 41368c4101b9ea85e1cc48110ac4605bf6eafd79d6bde8befca298dca443d980  ./i9305/proprietary/system/lib/libqmi_cci.so
 3477963611b87edf7c5c52490d4ff709cb325121a2ca61e54101d0b13dcd3850  ./i9305/proprietary/system/lib/hw/sensors.smdk4x12.so
-5942e4ae60eda07121ff2d394e2293911ba0527a38ccbb89e7881bf24fd1822b  ./i9305/proprietary/system/lib/hw/vendor-camera.exynos4.so
 5ab80b0eaa2c17c7a029c1e26541fe30b89498bcda5d5c58b5e998064a8d05d1  ./i9305/proprietary/system/lib/libqdi.so
 4c7ba747071a3a0c2a6a7042bc11231c583cb0bc7f86f1ca40aa791e3cdf6bac  ./i9305/proprietary/system/lib/libfactoryutil.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./i9305/proprietary/system/lib/libsecril-client.so
@@ -3288,7 +3284,6 @@ d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./n7100/propri
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
 d1c5376e32691494913919979d96a21870ebd25e8653a50a815fffc6b11b179d  ./n7100/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
 5ae8489f54dc28df42836ccd7ef5377dee4d3a9b9be1df4c9c7dd240800a44c0  ./n7100/proprietary/system/lib/hw/gps.exynos4.so
-efbd70ae3fa0dc43a9a932c51449c99349c777ceac4a710b87a91d5646c26517  ./n7100/proprietary/system/lib/hw/camera.smdk4x12.so
 3177cdd45b08641fd87b96320ff331ddb665bd172ca5c10dc30fe7aabef4171c  ./n7100/proprietary/system/lib/libsec-ril.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
@@ -3340,9 +3335,6 @@ fd221078ffef53384ec704bbfa68ca32d09c5132f293f1cb71a5a2ec0d7fe01b  ./omap4-common
 5ea575968e66110e73cbe8db0b0beb3ca4973fa7d207125153235361fd038227  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX540_120.so
 0bb3e9766c992a9ed619418b148d0df7c76337985a72923f08abefac83564fbf  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX544_112.so
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./expressatt/proprietary/etc/thermald.conf
-8eec107b36adc10936d7d2a65531964a56e10db46a27d18f7592fe9075a0d5bd  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin_
-599f1a3dc3119540f7b2a8cac641cbc52ee4a2c9cada68035bcd5e7da57ccd2a  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini
-c5201946473c56b58286aae227c4d29d9cf0b7dbc60d2b177264c9a715d4ec2d  ./expressatt/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat
 644a116ffc720ef901f41c4709663f771cdfc70d10925c37439af94f751081e6  ./expressatt/proprietary/etc/firmware/wcnss.b02
 867b02e0fc80e02cc4aff5ee1d99d8ff2ce312cb4ea4492e6743023c59716fe0  ./expressatt/proprietary/etc/firmware/wcnss.b01
 9278ae0ab19f36831973a3a612ed47764e62002b446aa3dcdd44ba295688d7dd  ./expressatt/proprietary/etc/firmware/wcnss.b04
@@ -3431,7 +3423,6 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0lte/propri
 815dd0e8ab9702ddc18ef7b95b769be0c0030fb847b7954ed1d4227766880bf1  ./t0lte/proprietary/system/lib/libqmi_cci.so
 b1ba87a496f4052cffeb7bd663b31f00fcea29d22a8b65362f6b03f7ec825f21  ./t0lte/proprietary/system/lib/hw/sensors.smdk4x12.so
 a74fdf11513474d53dd46f63c619cb96bee7626166824b6ab76cefe1aa41d02c  ./t0lte/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
-cdd618387d8c568e847e9343ebf6e43219a0d409f221da2b7240e95684b12f10  ./t0lte/proprietary/system/lib/hw/vendor-camera.exynos4.so
 4404e75963ca4098107564939bf04121f487d50176217e1788c83ca5c4c1915c  ./t0lte/proprietary/system/lib/libqdi.so
 b31ea9d214c182da332170e3895aeb364007d680eae20ac8b9f74f9b232a99ab  ./t0lte/proprietary/system/lib/libfactoryutil.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./t0lte/proprietary/system/lib/libsecril-client.so
@@ -3626,7 +3617,6 @@ e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./i9300/propri
 4c01ace2c499aba7fa161c336217a515f84e517233e614950b9bb1c33a6ac5dc  ./i9300/proprietary/system/lib/libakm.so
 aa11d026ceff0ed4b80c38f6acb3660133cdfd6f85d88b1d01ab1651a3d75f4c  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
 cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
-e268a577d90ef93587b9cb7cee0658a2167699346ad44669764aa63e843c0d31  ./i9300/proprietary/system/lib/hw/camera.smdk4x12.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2-common/proprietary/etc/wifi/nvram_mfg.txt_murata
@@ -3648,6 +3638,7 @@ d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./d2-common/pr
 cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./d2-common/proprietary/etc/firmware/leia_pfp_470.fw
 25bc912d3fc318ae64831e58e9045ac51205dfe20a80f4d00ac01faf76ed5f83  ./d2-common/proprietary/cameradata/SlimISP_ZC.bin
 353c19b74bd613389d715840eac71a51e43e25263a05114c089cfeebb15dddd5  ./d2-common/proprietary/cameradata/SlimISP_ZD.bin
+fd524b4178db49e1cbaaf59660ef1974e3e5b993120aeed5bda7f4d4fcf36d3c  ./d2-common/proprietary/cameradata/SlimISP_WH.bin
 8346a935081839c71701c65e011a1ace75b40ca6d4bbb721502d09b6d0540e2c  ./d2-common/proprietary/cameradata/SlimISP_GH.bin
 32c6e427290add91a40d6fab21ac6c30ed2b09ea2bf85bb1950dd1c532773405  ./d2-common/proprietary/cameradata/SlimISP_ZE.bin
 c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./d2-common/proprietary/cameradata/SlimISP_GC.bin
