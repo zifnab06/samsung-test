@@ -473,6 +473,7 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./exhilarate/p
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./exhilarate/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./exhilarate/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./exhilarate/proprietary/lib/libaudcal.so
+9776e35b24ab93329920461c91b008e1429c585b6dc9e5fbd97634fd22faa895  ./exhilarate/proprietary/lib/hw/sensors.default.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./exhilarate/proprietary/lib/hw/nfc.qcom.so
 c09482615a8c366f0a70586171a1ff6a69dfb9d161d2285c4debd5afe278acc0  ./exhilarate/proprietary/lib/hw/sensors.MSM8660_SURF.so
 965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./exhilarate/proprietary/lib/hw/camera.msm8660.so
