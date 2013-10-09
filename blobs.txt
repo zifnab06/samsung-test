@@ -2628,7 +2628,7 @@ b87be8476d5d55a7bf7e67f6f630fb4137197b2cb0a7824f1bd5fe363021852c  ./serrano-comm
 f5099d4b279da337788f1c2283e46c6cf60d51053f4e7d3d55ee4f3e996c381b  ./serrano-common/proprietary/lib/libfactoryutil.so
 b4e0f704c1bd5a82ec8b00f39d41ac08b3fd6386ad1c3c8c9e71cc43b2c47365  ./serrano-common/proprietary/lib/libhdcp2.so
 1e6fde509d79c195d1bd94041f00e6bc1fcd254eecc18d7ca0e52dfd51bda52d  ./serrano-common/proprietary/lib/libsecril-client.so
-8575db858baa7008a9c2b83312f9d03827c4afd1a69517bf2ee4405dd76eb70b  ./serrano-common/proprietary/lib/liboemcamera.so
+fedb259d2fc8c468e4dac570e032e0c4f74ad822b8d7065f0aa6e95d23b1ed70  ./serrano-common/proprietary/lib/liboemcamera.so
 fd02119be37d9db54d0b8d7ba5e215545a3df5228d488cf0471dc04a38f79876  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_antishake.so
 d867aed4d0858eb41b09468874fa5eb6d614456d03af6414fbf277f9dc2651a6  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 907b27794c34e28769c9ef708f3af2d0d98cbdaa2d5906e510813b1566c6c120  ./serrano-common/proprietary/lib/libmmparser.so
