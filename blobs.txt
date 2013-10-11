@@ -2686,8 +2686,6 @@ e7120c64756b524d840322b8bc258b2f0bdb1d454398561d724381d68b578c1f  ./n5110/propri
 2468723c2c9d898b178227918428c2571cc1a6511f91aa6baf4f679d8cab789f  ./n5110/proprietary/system/lib/libatparser.so
 02f0073dbdbee075c5f9deb3f4d48626c2522800ed1b6529bb05ab8302ad8e5d  ./n5110/proprietary/system/lib/libakm.so
 ced5e0bc3af53f13341cb739dc9973e451e38b16e8048b4e772562a804dda0f2  ./n5110/proprietary/system/lib/hw/gps.default.so
-949eff1732806b55952e8855c942f67ea7b727de3639b8800ac38ead5971d6b4  ./n5110/proprietary/system/lib/hw/sensors.smdk4x12.so
-1809008d78964f39698332383b1999d10e236d849b305080434cfc1aea52b7b7  ./n5110/proprietary/system/lib/hw/vendor-camera.exynos4.so
 ec9cb75ef27d362e6cf5528bfb5fd84f2acad0f1af75bdbe83d5c94758b43189  ./n5110/proprietary/system/lib/libfactoryutil.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n5110/proprietary/system/usr/idc/sec_e-pen.idc
 512b3beb206561f74d983d2abf85b66553b1f292a4a130dc1fbe953a7226a379  ./n5110/proprietary/system/usr/keylayout/sec_e-pen.kl
