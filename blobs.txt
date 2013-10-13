@@ -867,6 +867,9 @@ f178c3eb5dd71844f0f02226001e9c727f648a648c68eb268f405cdde0641a5b  ./apexqtmo/pro
 a958bd8109462f5bd8521b1dd7a98741b1a1e02a0c1abb3693b42d6a76e307f4  ./apexqtmo/proprietary/etc/firmware/wcnss.b00
 11f687e09aa9bac185f43ebcb3c0df3b8df0ee1a37447323f1b30e0290004073  ./apexqtmo/proprietary/etc/firmware/wcnss.b05
 8b702e0c8d10d80ad7c926151d598c3575e19405ca959849b43ed894c39f620d  ./apexqtmo/proprietary/etc/firmware/wcnss.mdt
+0b26120447d75d91e82442f111dda1d5c3943f6cee6dae8a1aa438f4bd99f769  ./apexqtmo/proprietary/etc/hostapd/hostapd.deny
+63d49422267c52cf7cb18fb00840d7f8509888f4e4ab567163720ab3a61a97ae  ./apexqtmo/proprietary/etc/hostapd/hostapd.accept
+214fe80a6b884989bef3ecaa869ccae145a36b9ce301cebe8bffccfce8433297  ./apexqtmo/proprietary/etc/hostapd/hostapd_default.conf
 059becfe28f246297a23934551dcea548cecb6042aa702891a2107f9a73928fd  ./apexqtmo/proprietary/bin/sec-ril
 5e742330f4c39da83c8136f051d015091d1896ce4a269c23799342e5a812d629  ./apexqtmo/proprietary/bin/hci_qcomm_init
 1f74e83dc99def690658331c8e7560094c129b15496d1e217f9dccf41ee2da93  ./apexqtmo/proprietary/bin/btnvtool
