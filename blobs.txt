@@ -3494,6 +3494,7 @@ fb3c3d0951bd2003c296d93f356677f63f8d015b62f19cca3249734403475120  ./smdk4412-com
 4620769ace05cb3f8283f6860adead66e03b92b83eccb099abb414bbb84d894e  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZM.bin
 57021d1f2255c175d3b425dc3d46e3032d16abe98ca729b1febcedb75f7e927f  ./smdk4412-common/proprietary/system/vendor/firmware/mfc_fw.bin
 a81d44c1132e42045c25469bcc8f77186498d50490a3ac2671e0e7c56e0af74e  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_BH.bin
+2218a6c55979050a0b4f44889b5508878b7b18fa46c54f3a4bdee3a9d61618e5  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_JH.bin
 fd524b4178db49e1cbaaf59660ef1974e3e5b993120aeed5bda7f4d4fcf36d3c  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_WH.bin
 8346a935081839c71701c65e011a1ace75b40ca6d4bbb721502d09b6d0540e2c  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GH.bin
 987a35e0c5bb6d5ed13051ab225f295024c1e363d83c80794942516419d8b68a  ./smdk4412-common/proprietary/system/vendor/firmware/setfile.bin
