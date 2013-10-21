@@ -2419,7 +2419,7 @@ fcad66df9f1ed849d3a63cfb33046b4df9266f2f586adc75882bba202ac6c311  ./p51xx/common
 b937086b6c89f854b8348a40f1227473775eca0a6aa04598b98bff5a38756c91  ./p51xx/common/system/etc/wifi/nvram_net.txt
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p51xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p51xx/common/system/etc/wifi/bcmdhd_mfg.bin
-7734d4d7b63f4b72d96f439f0bf7f3e2b536575b01bc7a1d80a1bef6ac906efd  ./p51xx/common/system/bin/smc_pa.ift
+be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p51xx/common/system/bin/smc_pa.ift
 abd6fed20f3961d544366b405882724b2e231839ea5650b333eef02a0ad408d7  ./p51xx/common/system/bin/geomagneticd
 cf19a31da5ae84c9e991fe523dad9c3ba8225e79964d36e5c0daf07f3c9f43e0  ./p51xx/common/system/bin/dock_kbd_attach
 2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p51xx/common/system/bin/gpsd
@@ -2451,10 +2451,10 @@ a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p51xx/common
 dd7188a8f886d6c6d7da6de5de0bc5338f5d193b33321e0535822d9ca5a5b9a0  ./p51xx/common/system/lib/libtvoutservice.so
 fadbc124dcde4f7103319ef10c3cdca595d69f2660c64259dada786333fbc84c  ./p51xx/common/system/vendor/firmware/ducati-m3.bin
 94035aeab3d6ffd46eebc96648994908c6c6bce8fa71f2eb69faee52f0ae1f8a  ./p51xx/common/system/vendor/firmware/BCM4330.hcd
-f7484905b81dcb77a2ca96e496c9bd994a76606e8f16cfc3284b46ec0a546b0b  ./p51xx/common/system/vendor/lib/libwvdrm_L1.so
-5c400ab43106aeeb6c9923dfcb4b499ab56dd9ad8161fde783b1ca8855c74c33  ./p51xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
-8df9c269758f46d0c6bb38f03a71ee573841d93de397c19857af762c924d2a1c  ./p51xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
-969355dd58afe5e0c10ee7f74d77bc7ecffb2571a7d6e5078af1b19ed3e5cb36  ./p51xx/common/system/vendor/lib/libwvm.so
+51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./p51xx/common/system/vendor/lib/libwvdrm_L1.so
+01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./p51xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
+f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./p51xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
+2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./p51xx/common/system/vendor/lib/libwvm.so
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jfltei337/proprietary/lib/libril.so
 eb115e5eca5480d6dd2192389ad6376a19a3bf317c845e86ce5bdc76288df5f9  ./jfltei337/proprietary/lib/libril-qc-qmi-1.so
 052c0c721bf4a34837a8337802e980219fe1eca230786928ed15566d04940932  ./t0ltecdma/proprietary/system/lib/libril.so
@@ -3053,7 +3053,7 @@ a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./p31xx/common
 1317253e936ccb249521f5f18a4a40a6fa2b74aaf8ff904a80bd81409640971e  ./p31xx/common/system/etc/wifi/nvram_net.txt
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p31xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p31xx/common/system/etc/wifi/bcmdhd_mfg.bin
-7734d4d7b63f4b72d96f439f0bf7f3e2b536575b01bc7a1d80a1bef6ac906efd  ./p31xx/common/system/bin/smc_pa.ift
+be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p31xx/common/system/bin/smc_pa.ift
 abd6fed20f3961d544366b405882724b2e231839ea5650b333eef02a0ad408d7  ./p31xx/common/system/bin/geomagneticd
 cf19a31da5ae84c9e991fe523dad9c3ba8225e79964d36e5c0daf07f3c9f43e0  ./p31xx/common/system/bin/dock_kbd_attach
 2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p31xx/common/system/bin/gpsd
@@ -3079,10 +3079,10 @@ a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p31xx/common
 50031824b9ca8d7f81d3c595a204d7e08907862e6ba0bf0b88a1af06e31d5682  ./p31xx/common/system/lib/libI420colorconvert.so
 d0e4a02872c45e35c525e2923366d1b05c1fd46ea68548f50a141a1bfea38b43  ./p31xx/common/system/vendor/firmware/ducati-m3.bin
 94035aeab3d6ffd46eebc96648994908c6c6bce8fa71f2eb69faee52f0ae1f8a  ./p31xx/common/system/vendor/firmware/BCM4330.hcd
-f7484905b81dcb77a2ca96e496c9bd994a76606e8f16cfc3284b46ec0a546b0b  ./p31xx/common/system/vendor/lib/libwvdrm_L1.so
-5c400ab43106aeeb6c9923dfcb4b499ab56dd9ad8161fde783b1ca8855c74c33  ./p31xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
-8df9c269758f46d0c6bb38f03a71ee573841d93de397c19857af762c924d2a1c  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
-969355dd58afe5e0c10ee7f74d77bc7ecffb2571a7d6e5078af1b19ed3e5cb36  ./p31xx/common/system/vendor/lib/libwvm.so
+51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./p31xx/common/system/vendor/lib/libwvdrm_L1.so
+01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./p31xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
+f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
+2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./p31xx/common/system/vendor/lib/libwvm.so
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p31xx/p3110/system/lib/libril.so
 b55621ab59e72afcaf37a6d01d35038ec450845e802c63eb1d74f81496b0e490  ./p31xx/p3110/system/lib/hw/sensors.omap4.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3110/system/lib/libsecril-client.so
