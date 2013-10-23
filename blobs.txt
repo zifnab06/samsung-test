@@ -753,10 +753,10 @@ d7b10b3890f78b92a5d25e0ebc8ca59e17a9cd1f4abd87a45cc8c44112bb5579  ./jf-common/pr
 4ac5ef119907663981d47517b30b82198807b5c5b402b7d1ccdaa33ba9d67080  ./jf-common/proprietary/lib/libqmiservices.so
 4c229d08bfea94dcdc4cc4395b231875573c6c1563adf110fa2f405927a90b1c  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 4173a98f3802ff4ca9711db4481fe6c4d8a9eaa992b97fcffe1b2ea91e743569  ./jf-common/proprietary/vendor/firmware/bcm4335_A0.hcd
-8263429415ac240510850f53060fb71a6c74c0c8c7c1a5a69d84cc69dc62df99  ./jf-common/proprietary/vendor/firmware/bcm4335_murata.hcd
-8263429415ac240510850f53060fb71a6c74c0c8c7c1a5a69d84cc69dc62df99  ./jf-common/proprietary/vendor/firmware/bcm4335_semco.hcd
+e0a5d166b230220c1722836771712c3c6c08dc72e9c8f98b66066f56b6731b58  ./jf-common/proprietary/vendor/firmware/bcm4335_murata.hcd
+e0a5d166b230220c1722836771712c3c6c08dc72e9c8f98b66066f56b6731b58  ./jf-common/proprietary/vendor/firmware/bcm4335_semco.hcd
 840c87e05391b67f8f491adb5e47a36efcf76cab37d9a5834dd000f046bfb403  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
-8263429415ac240510850f53060fb71a6c74c0c8c7c1a5a69d84cc69dc62df99  ./jf-common/proprietary/vendor/firmware/bcm4335.hcd
+e0a5d166b230220c1722836771712c3c6c08dc72e9c8f98b66066f56b6731b58  ./jf-common/proprietary/vendor/firmware/bcm4335.hcd
 cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i9100/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 1f98219ccd0343e112e5ef04b10140b0863f6e1a5763e31c3845cfb61b035b72  ./i9100/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 61234bb2595bb4ca6a0a4488b5407dce4b2a6a1c0f8297f109c16ba707c75eba  ./i9100/proprietary/system/etc/wifi/nvram_mfg.txt
