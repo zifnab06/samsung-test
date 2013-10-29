@@ -3254,6 +3254,13 @@ d1c5376e32691494913919979d96a21870ebd25e8653a50a815fffc6b11b179d  ./n7100/propri
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
+7f170b5e4b3d838958bdccbc8e353f9e2a065c3951400f9adbfc66c42256c40c  ./jfltevzw/proprietary/etc/firmware/q6.b00
+1062177dd0abdcdf22fc9aef0a7a85c07a2d862c4425ad524b90e8cec5ef5ccd  ./jfltevzw/proprietary/etc/firmware/q6.b01
+38a8a09fc569758941f666912998e9010b4202c389426c8595237b4d272eaeca  ./jfltevzw/proprietary/etc/firmware/q6.b03
+72c6a4dbf06dccaa4b8947f92509b7ac874db1ba00f1ce2712a8fa313e8fc085  ./jfltevzw/proprietary/etc/firmware/q6.b06
+45e32ce88d19ce8b53807f89fa3744628ee0fbe96deb1d90d753cba6daf91e0d  ./jfltevzw/proprietary/etc/firmware/q6.mdt
+7092e3927e5b979eae733d343c44d6b7749f2b5dbf5f94219c4d1503c74d1b68  ./jfltevzw/proprietary/etc/firmware/q6.b04
+1fee08361bd3f1e8f921b1b4051e2945a3a0fdb9da0915c501cca5c1a5773369  ./jfltevzw/proprietary/etc/firmware/q6.b05
 a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jfltevzw/proprietary/lib/libril.so
 a56405c931f7c535ddcbc19bc84db13c5480ff37d9dfc824dca7b887ac8265ec  ./jfltevzw/proprietary/lib/libril-qc-qmi-1.so
 82206df753accd8f567cc570d930afc412b0e1f5cdfa21edbf68d5530c5a857d  ./manta/proprietary/07060000000000000000000000000000.tlbin
