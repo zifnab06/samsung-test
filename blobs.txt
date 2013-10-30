@@ -879,10 +879,12 @@ a958bd8109462f5bd8521b1dd7a98741b1a1e02a0c1abb3693b42d6a76e307f4  ./apexqtmo/pro
 13cf3b7e3d5f2806fbe34d35a498b45d12c2f8dea7a10e14aee407b4a2c5b87b  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_default_video.so
 834f78264ff0714b02cc8a4171225f554bb39ca2bdd31b7d4bd618dd93bc5f58  ./apexqtmo/proprietary/lib/libimage-jpeg-dec-omx-comp.so
 309018c219c965ac6c69fe730fdf6939ff6a71a6c2f7e79f60d0fa0ed6074dc0  ./apexqtmo/proprietary/lib/libimage-jpeg-enc-omx-comp.so
+dee124312b7220518486aeae8f5b24d64840e5e676770dde02a787accd7e754d  ./apexqtmo/proprietary/lib/libC2D2.so
 407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./apexqtmo/proprietary/lib/libril.so
 583c2a39f9e1372a3847617f48d3f9ab9834f597ba4acc8785d5630f84d0ef13  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 c06dfa96b43f0b6cdbd13ba9e6aa1dd6f1ef5fa4731fe05367d2bcf678b82234  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_preview.so
 bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./apexqtmo/proprietary/lib/libimage-omx-common.so
+217b387cc7fc69f4b504a60a224792d217c6392039ba69b0e91aeb1cc0ba2027  ./apexqtmo/proprietary/lib/libc2d2_z180.so
 8327ffe82a114394abbb5e87779257e9811847b8cbfe9f1c721f2368527f924f  ./apexqtmo/proprietary/lib/hw/vendor-camera.msm8960.so
 1329c3c8a1249827a6bb600d608ddc2e1700d2734623f8fd2f4b5df118c403a3  ./apexqtmo/proprietary/lib/hw/sensors.msm8960.so
 2104f73eebee8f1172a316df4c364130bec1ebf1bc6a288b3ce5decfaaa7ffee  ./apexqtmo/proprietary/lib/libaudioalsa.so
