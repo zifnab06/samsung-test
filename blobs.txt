@@ -2635,7 +2635,7 @@ b27092ccdebadbfb3c7eba86174ead6df5bbfddb77d23b50cee5467adf48d941  ./serrano-comm
 717891d8a42b2fffacd4a3a916e8c3f0a7c41feb117fad1c492cd7d34d78d508  ./serrano-common/proprietary/lib/libllvm-a3xx.so
 2e456a0bc256b2c8b82bb0ac8d1c074083331f35bbf7b10855923ec422487854  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_default_video.so
 ed390d2a7c9694c28b9343450c930acda0eac137fc747f6c40d921a2ac7ac2d6  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-6802308d976cbb903126e03844621a4c6b4c7f74e5130aeca36be949824dc267  ./serrano-common/proprietary/lib/libqc-opt.so
+066e8f21d383dc33e55224a24238bfaa67673ea9f1ec402f3c188aac18488f31  ./serrano-common/proprietary/lib/libqc-opt.so
 fe3aeb3ad5c5e39ea3700445f7e44cf12a1ecd5f711b061d1446609412e6173c  ./serrano-common/proprietary/lib/libOpenCL.so
 f56998ee927a72104036363780c2250dbea22fc3a43b937851148337e5d302a2  ./serrano-common/proprietary/lib/libnetmgr.so
 e774a1262537578addfb5892b735ccf70e7351fedd08e7433a842a775e2d3ab2  ./serrano-common/proprietary/lib/libmmmpod.so
