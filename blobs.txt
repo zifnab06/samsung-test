@@ -2642,6 +2642,7 @@ b538a08250660ec0d73af3f22e61f2421593ac1366ac4592aa841b5f5821f77a  ./serrano-comm
 c0ad947284bff31a380dceae914d590f0797c88d3dabc39f8c62c685824746e6  ./serrano-common/proprietary/lib/libchromatix_imx175_lls.so
 ac559fb92579983a284f9582540317e37b81953647898874288b2e77af212ae9  ./serrano-common/proprietary/lib/libreference-ril.so
 4acdd6bc9ca9ea1858f97d8a459ce30b5d247a9c9d7285bbd16e79dd9f4a7b36  ./serrano-common/proprietary/lib/libadsprpc.so
+12d6e28c170a212df9eda2732bc04e46da1757551f7e6bbfa907505a4d01fc61  ./serrano-common/proprietary/lib/libI420colorconvert.so
 d34aa1dfdbbba5cf1d6284cfbbb1d01bfc168eeb5d7f4f91e1ba1bebad49c7a3  ./serrano-common/proprietary/vendor/lib/libqmi_csi.so
 16b13fa2928df80ad6ee9c9cd24d715695e6b3ad989404f425f570ef3cf7b2a3  ./serrano-common/proprietary/vendor/lib/libidl.so
 ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./serrano-common/proprietary/vendor/lib/libqmi_common_so.so
