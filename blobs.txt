@@ -2576,7 +2576,7 @@ b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-comm
 f7cbc75c0698cefa84431a9d3846497b5007ee247d9b4af4569210744a7cae55  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./serrano-common/proprietary/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./serrano-common/proprietary/cameradata/datapattern_front_420sp.yuv
-292ad177b3ee9828e3a6156b16bb0958b4f688988e08a231c5e63402c7d4a19d  ./serrano-common/proprietary/bin/mpdecision
+f053f646c690de4fb436b720369ce455423d17e35f5a2a7a396828711892e5ac  ./serrano-common/proprietary/bin/mpdecision
 6f310ef039158c47f11d24baa9ac8e3adb837a1a379059632b5316a9fad6e54d  ./serrano-common/proprietary/bin/qmiproxy
 c99f37f1965836e94c8e6ddd7aa55bf37fca45fd87797293780d64be4c7b5f3a  ./serrano-common/proprietary/bin/mm-qcamera-daemon
 ea46f999075b3504496ab2d9015d7b8af6c0eec3582ef81ecd75e4c8c0c2828d  ./serrano-common/proprietary/bin/geomagneticd
@@ -2586,7 +2586,7 @@ c1cdf7106d5a5b59b69db9f543090c9fdd578d543135c0a395ba02ce591d7e9c  ./serrano-comm
 b4d9186bc61406fd191309c309beb01feca7d4bc086ebbe80df8a6f815313b55  ./serrano-common/proprietary/bin/ds_fmc_appd
 44666e8a012eed4c9daedd8c6b08f77bd9d31029ef622a436778f22b0f0bee38  ./serrano-common/proprietary/bin/sec-ril
 5084c380fdbcb9f231a90ddcb612d1a977cbce16e5d6673f91d1f89726fa8e77  ./serrano-common/proprietary/bin/hci_qcomm_init
-f005eb59150cdc465be89c6626f6d771d4fc5802d9b874ab384647d076ee46ce  ./serrano-common/proprietary/bin/thermald
+be85fb449669e54cc6861a5844e03f6ed6fbfd31ccf7c313d817f0029cb4f67d  ./serrano-common/proprietary/bin/thermald
 2cbeb0b1ce4e6bfb60fd1de581edd08bdbad8c3a0171f1279769adee34ce6e0d  ./serrano-common/proprietary/bin/rild
 3e507d2bff6150b678f3f5a00b9f0b017c1e8e7f066d29efdfba4f8ea52c02f5  ./serrano-common/proprietary/bin/btnvtool
 0b0c469497ea3072d9be8d86191dff66f9374935273f75f533dec84e3edaefb4  ./serrano-common/proprietary/bin/qmuxd
@@ -2619,7 +2619,7 @@ d739bd25b38e13a444e95cdd7209173025cd314c2c8d1ff1fbf06989830f626d  ./serrano-comm
 b6326b95c5ad31830d6a3b4a2cfd1355ab6f283f0ceb15a062b842d8bdb9a224  ./serrano-common/proprietary/lib/libimage-jpeg-dec-omx-comp.so
 9d964f37e61ff930267c51c65477033ad9dbc3af90f26926de1ede1fa0f727c6  ./serrano-common/proprietary/lib/libgeofence.so
 ec1974ba6986c075588ca44142091d0affcda015e96aa9cd250fb3530e902b01  ./serrano-common/proprietary/lib/libdsi_netctrl.so
-29102881403beeef38a2edb14dcbfffca5869eaaf0ac65c6cdf302e99dda23f6  ./serrano-common/proprietary/lib/libmm-color-convertor.so
+c518f138e19db52c52614ae9d0b50c5b3f56d47eab72e0d6930d651bbb814229  ./serrano-common/proprietary/lib/libmm-color-convertor.so
 f9731db4a953fc0df093de6907e141c72e2bb1bc3029e31a6cb452d8cceb4a1a  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
 a000c33431cf5918b329378f806ff4be7623169e9fa8f455f2a986deb90d494b  ./serrano-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./serrano-common/proprietary/lib/libatparser.so
@@ -2628,7 +2628,6 @@ ba1ca7ec99120ed21edf2398905b8383c4002bb752c04dd9fe3800515fb7f764  ./serrano-comm
 dc6951604cfe995d8319c04ccc5140f382741b457ae73338ef611a3c9818ffef  ./serrano-common/proprietary/lib/libcordon.so
 b578bd4c26c6d32db2ae47ad81b5a6691d05104e2769eed6485357a54fa77a22  ./serrano-common/proprietary/lib/libacdbloader.so
 b40dc7e629aba2760c30bf1c90a1c15cf87cbcde2bf42933bec0445765c75a9d  ./serrano-common/proprietary/lib/libc2d2_a3xx.so
-0ab6712679db340cf31d7dc245ac0d190ae662cd9e18c491da5ce8a9fca81f95  ./serrano-common/proprietary/lib/libtzplayready.so
 33ba8f80940f418396db308ec5fa50a367ee97545834485c53c29174471b49d3  ./serrano-common/proprietary/lib/libimage-omx-common.so
 300ef12db69a050af6f0ccb52825ade7012d8d467f9f9f9986b4ad01346e11bb  ./serrano-common/proprietary/lib/libmmcamera_statsproc31.so
 5fd84cbdafef464493f9695119dd7d853b0bf50f4c6f4385336f50d288abaefb  ./serrano-common/proprietary/lib/libmmcamera_image_stab.so
@@ -2680,7 +2679,7 @@ b538a08250660ec0d73af3f22e61f2421593ac1366ac4592aa841b5f5821f77a  ./serrano-comm
 c0ad947284bff31a380dceae914d590f0797c88d3dabc39f8c62c685824746e6  ./serrano-common/proprietary/lib/libchromatix_imx175_lls.so
 ac559fb92579983a284f9582540317e37b81953647898874288b2e77af212ae9  ./serrano-common/proprietary/lib/libreference-ril.so
 4acdd6bc9ca9ea1858f97d8a459ce30b5d247a9c9d7285bbd16e79dd9f4a7b36  ./serrano-common/proprietary/lib/libadsprpc.so
-12d6e28c170a212df9eda2732bc04e46da1757551f7e6bbfa907505a4d01fc61  ./serrano-common/proprietary/lib/libI420colorconvert.so
+3ed15157506cee63047947e438e00a49c5ca93c5ff37f81f87fe19141741d0f3  ./serrano-common/proprietary/lib/libI420colorconvert.so
 d34aa1dfdbbba5cf1d6284cfbbb1d01bfc168eeb5d7f4f91e1ba1bebad49c7a3  ./serrano-common/proprietary/vendor/lib/libqmi_csi.so
 16b13fa2928df80ad6ee9c9cd24d715695e6b3ad989404f425f570ef3cf7b2a3  ./serrano-common/proprietary/vendor/lib/libidl.so
 ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./serrano-common/proprietary/vendor/lib/libqmi_common_so.so
