@@ -2628,7 +2628,6 @@ ba1ca7ec99120ed21edf2398905b8383c4002bb752c04dd9fe3800515fb7f764  ./serrano-comm
 dc6951604cfe995d8319c04ccc5140f382741b457ae73338ef611a3c9818ffef  ./serrano-common/proprietary/lib/libcordon.so
 b578bd4c26c6d32db2ae47ad81b5a6691d05104e2769eed6485357a54fa77a22  ./serrano-common/proprietary/lib/libacdbloader.so
 b40dc7e629aba2760c30bf1c90a1c15cf87cbcde2bf42933bec0445765c75a9d  ./serrano-common/proprietary/lib/libc2d2_a3xx.so
-0ab6712679db340cf31d7dc245ac0d190ae662cd9e18c491da5ce8a9fca81f95  ./serrano-common/proprietary/lib/libtzplayready.so
 33ba8f80940f418396db308ec5fa50a367ee97545834485c53c29174471b49d3  ./serrano-common/proprietary/lib/libimage-omx-common.so
 300ef12db69a050af6f0ccb52825ade7012d8d467f9f9f9986b4ad01346e11bb  ./serrano-common/proprietary/lib/libmmcamera_statsproc31.so
 5fd84cbdafef464493f9695119dd7d853b0bf50f4c6f4385336f50d288abaefb  ./serrano-common/proprietary/lib/libmmcamera_image_stab.so
