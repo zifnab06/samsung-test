@@ -2671,7 +2671,7 @@ ac559fb92579983a284f9582540317e37b81953647898874288b2e77af212ae9  ./serrano-comm
 815eb2d8116ae02a74169dc8e16f653ba6b215d4a00838d41a3f598bf246768b  ./serrano-common/proprietary/vendor/lib/libsc-a3xx.so
 d34aa1dfdbbba5cf1d6284cfbbb1d01bfc168eeb5d7f4f91e1ba1bebad49c7a3  ./serrano-common/proprietary/vendor/lib/libqmi_csi.so
 76fe4dbd8a2c1823aba797da574217fbcea9f4fcea32bed6cdbdeaf5a579c6c6  ./serrano-common/proprietary/vendor/lib/libgsl.so
-d469b623168244eb754ee5dde7dab394a8828f4b1c148f64d4d93ed6ef87a6b2  ./serrano-common/proprietary/vendor/lib/libC2D2.so
+147a11f2a4b365c1d2d06f7c66c1c2712a640b47028d1229bf1ed2a2d4c78ebd  ./serrano-common/proprietary/vendor/lib/libC2D2.so
 2d1f7cf62806a6f0d6b094b4c15c83879c7672c37b306496733547ffb1a820e0  ./serrano-common/proprietary/vendor/lib/libCB.so
 16b13fa2928df80ad6ee9c9cd24d715695e6b3ad989404f425f570ef3cf7b2a3  ./serrano-common/proprietary/vendor/lib/libidl.so
 8c2a66d4623912e801f55f78a398f318c8d7a6d7c10342e50c8f2a70872414cc  ./serrano-common/proprietary/vendor/lib/libc2d2_a3xx.so
