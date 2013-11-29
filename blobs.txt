@@ -2674,7 +2674,7 @@ d34aa1dfdbbba5cf1d6284cfbbb1d01bfc168eeb5d7f4f91e1ba1bebad49c7a3  ./serrano-comm
 d469b623168244eb754ee5dde7dab394a8828f4b1c148f64d4d93ed6ef87a6b2  ./serrano-common/proprietary/vendor/lib/libC2D2.so
 2d1f7cf62806a6f0d6b094b4c15c83879c7672c37b306496733547ffb1a820e0  ./serrano-common/proprietary/vendor/lib/libCB.so
 16b13fa2928df80ad6ee9c9cd24d715695e6b3ad989404f425f570ef3cf7b2a3  ./serrano-common/proprietary/vendor/lib/libidl.so
-8c2a66d4623912e801f55f78a398f318c8d7a6d7c10342e50c8f2a70872414cc  ./serrano-common/proprietary/vendor/lib/libc2d2_a3xx.so
+b7934bf44694e460ecd621a9a7a608cd00b1cc8ba250e9bc5f9dbb0f60781e1e  ./serrano-common/proprietary/vendor/lib/libc2d30.so
 324b5153d6fbd1c08cedb8f921d03a19a1a324eb1849cd047652dbcc9b0d4fe4  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so
 add86f24625a65a8425524e4a9e4009b0b926be5228525fd0e489783a7d3529d  ./serrano-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so
 de24077f7ed3bda56152c19e2b3033bb3dda290327c727a104deae0aa6e378fc  ./serrano-common/proprietary/vendor/lib/egl/eglsubAndroid.so
@@ -2688,6 +2688,7 @@ ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./serrano-comm
 4f540193757d90015a2467b88c8fc27171020a4b34da6f624dd76c8687f02ad4  ./serrano-common/proprietary/vendor/lib/libadreno_utils.so
 5c9a05130082717250f7c4e6543532355ddbad6dbfc4c36e1a650d64e8dd5144  ./serrano-common/proprietary/vendor/lib/libqcci_legacy.so
 25a3a91f9d11b2a2732d0d10b045aa9476b1e48b3f2f9dbd493f25c375c1de15  ./serrano-common/proprietary/vendor/lib/libqmi.so
+da19098bc18de280162b64ea879237f81ecfe190a2d9dfedd7d8c5898061b7bb  ./serrano-common/proprietary/vendor/lib/libc2d30-a3xx.so
 d14b6150edbd81cf60a913435663d4f0e09589a080f3722f76b40b1b46b54597  ./serrano-common/proprietary/vendor/lib/libqmi_encdec.so
 5c63d717f0967434318963dacdafac16973ccfb19827d1fa7e1c89b0d4ae5df2  ./serrano-common/proprietary/vendor/lib/libOpenVG.so
 00c4bbd2ad6f402adcda6bc4b754580432b94ab3df897a447bbba90a8531824f  ./serrano-common/proprietary/vendor/lib/libqmi_client_qmux.so
