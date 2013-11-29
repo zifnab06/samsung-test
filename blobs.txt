@@ -1802,8 +1802,8 @@ fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/propr
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
 5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./serranoltexx/proprietary/lib/libril.so
 c3c61024b6b6330e55bf789e839d3299cab71eea0640b9a75baf7a62042da371  ./serranoltexx/proprietary/lib/libril-qc-qmi-1.so
-360c6097d32c392a5ae68e5e688841a694ae802fc4bd9e2f568b46ca57f76ff1  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
-918443db16fdca0bf391ccc013b98c16308225c1a4dfb18cf0f36f7609a066aa  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
+08d592000ae020e8fb6b54a9ce0232b68129226c757c8d36c2f4128101735782  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
+a9189b82608e19d769d8da12c5b8e415223ad90b88446d4b55867100ac021608  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 daad25d2fcceadb1d9fe587527bfaec7b2ebf2ac68b22c301b66c62cc2bdf7e5  ./i9103/README
 50d8f42da2ec3909c02f4ea10405c6bfc1070d8738f3f61809b52fbf5deeb7d3  ./i9103/proprietary/sbin/cbd
 9ab40ca48dce998c8b0154db227655f85b530093f187e40eed3fa4f839a78450  ./i9103/proprietary/system/etc/wifi/bcm4330_apsta.bin
@@ -2593,7 +2593,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./fascinatemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./fascinatemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./fascinatemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./fascinatemtd/proprietary/libsecril-client.so
-3ca4150d254c02a5c915c1bc3c3a1ae0e4cce4a3d0002c258fc6f8f32b07bbb0  ./serrano-common/proprietary/etc/firmware/vidc_1080p.fw
+c9abb9c6c1c69fd86c37d34244c7ca757ac68eacf233655baedf73896368f89a  ./serrano-common/proprietary/etc/firmware/vidc_1080p.fw
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/etc/firmware/a300_pfp.fw
 c04a40f3a7ac42ac686d42c378569355a3674bc2b8adf4ccaac94859852aac63  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./serrano-common/proprietary/cameradata/datapattern_420sp.yuv
@@ -2693,10 +2693,10 @@ ac559fb92579983a284f9582540317e37b81953647898874288b2e77af212ae9  ./serrano-comm
 815eb2d8116ae02a74169dc8e16f653ba6b215d4a00838d41a3f598bf246768b  ./serrano-common/proprietary/vendor/lib/libsc-a3xx.so
 d34aa1dfdbbba5cf1d6284cfbbb1d01bfc168eeb5d7f4f91e1ba1bebad49c7a3  ./serrano-common/proprietary/vendor/lib/libqmi_csi.so
 76fe4dbd8a2c1823aba797da574217fbcea9f4fcea32bed6cdbdeaf5a579c6c6  ./serrano-common/proprietary/vendor/lib/libgsl.so
-147a11f2a4b365c1d2d06f7c66c1c2712a640b47028d1229bf1ed2a2d4c78ebd  ./serrano-common/proprietary/vendor/lib/libC2D2.so
+d469b623168244eb754ee5dde7dab394a8828f4b1c148f64d4d93ed6ef87a6b2  ./serrano-common/proprietary/vendor/lib/libC2D2.so
 2d1f7cf62806a6f0d6b094b4c15c83879c7672c37b306496733547ffb1a820e0  ./serrano-common/proprietary/vendor/lib/libCB.so
 16b13fa2928df80ad6ee9c9cd24d715695e6b3ad989404f425f570ef3cf7b2a3  ./serrano-common/proprietary/vendor/lib/libidl.so
-8c2a66d4623912e801f55f78a398f318c8d7a6d7c10342e50c8f2a70872414cc  ./serrano-common/proprietary/vendor/lib/libc2d2_a3xx.so
+b7934bf44694e460ecd621a9a7a608cd00b1cc8ba250e9bc5f9dbb0f60781e1e  ./serrano-common/proprietary/vendor/lib/libc2d30.so
 324b5153d6fbd1c08cedb8f921d03a19a1a324eb1849cd047652dbcc9b0d4fe4  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so
 add86f24625a65a8425524e4a9e4009b0b926be5228525fd0e489783a7d3529d  ./serrano-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so
 de24077f7ed3bda56152c19e2b3033bb3dda290327c727a104deae0aa6e378fc  ./serrano-common/proprietary/vendor/lib/egl/eglsubAndroid.so
@@ -2710,6 +2710,7 @@ ac29d85ae51df09befc517ba0dc05267ef32dbc110665b088521c14dad593068  ./serrano-comm
 4f540193757d90015a2467b88c8fc27171020a4b34da6f624dd76c8687f02ad4  ./serrano-common/proprietary/vendor/lib/libadreno_utils.so
 5c9a05130082717250f7c4e6543532355ddbad6dbfc4c36e1a650d64e8dd5144  ./serrano-common/proprietary/vendor/lib/libqcci_legacy.so
 25a3a91f9d11b2a2732d0d10b045aa9476b1e48b3f2f9dbd493f25c375c1de15  ./serrano-common/proprietary/vendor/lib/libqmi.so
+da19098bc18de280162b64ea879237f81ecfe190a2d9dfedd7d8c5898061b7bb  ./serrano-common/proprietary/vendor/lib/libc2d30-a3xx.so
 d14b6150edbd81cf60a913435663d4f0e09589a080f3722f76b40b1b46b54597  ./serrano-common/proprietary/vendor/lib/libqmi_encdec.so
 5c63d717f0967434318963dacdafac16973ccfb19827d1fa7e1c89b0d4ae5df2  ./serrano-common/proprietary/vendor/lib/libOpenVG.so
 00c4bbd2ad6f402adcda6bc4b754580432b94ab3df897a447bbba90a8531824f  ./serrano-common/proprietary/vendor/lib/libqmi_client_qmux.so
