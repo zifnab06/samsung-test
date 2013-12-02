@@ -763,8 +763,10 @@ b3c7148eb41075ac1136d367a50854d88af6ce2cc8eb66e43bec653605154b41  ./jf-common/pr
 4ae33fc9d41bbd5231df3b8b972d1e95fb3dc21ab2581c0da2df354b28566e01  ./jf-common/proprietary/vendor/lib/libllvm-a3xx.so
 92d2f11b605d1b36866707fd0c70ea80d815965ccf110e885c9ac93c4c55233e  ./jf-common/proprietary/vendor/lib/librs_adreno.so
 76938133a229791ae3298b026d6610de338fee2f0afe0fe97507424f4297b76d  ./jf-common/proprietary/vendor/lib/libqc-opt.so
+98f2861d991e92e3085455d8facd12b02df43a0444399a4fb2d4e543d7c616ae  ./jf-common/proprietary/vendor/lib/libOpenCL.so
 c95ba6bc949694f0a870e6076d7301253acc73b7fe8ec2c46cd940f57bb8b1dc  ./jf-common/proprietary/vendor/lib/libadreno_utils.so
 c8051e0fb947f1730fd2589043211c9fb2c4c3e1beecce16e2445e5cd9272d68  ./jf-common/proprietary/vendor/lib/libc2d30-a3xx.so
+f73943abce13e95c014fdaede8ad85b238d47edd7a5b09cfdedd7823e9bf99f0  ./jf-common/proprietary/vendor/lib/libOpenVG.so
 cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i9100/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 1f98219ccd0343e112e5ef04b10140b0863f6e1a5763e31c3845cfb61b035b72  ./i9100/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 61234bb2595bb4ca6a0a4488b5407dce4b2a6a1c0f8297f109c16ba707c75eba  ./i9100/proprietary/system/etc/wifi/nvram_mfg.txt
