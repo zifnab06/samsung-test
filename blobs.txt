@@ -1466,7 +1466,6 @@ c76d28af06eb95a2545c7366f6320adbb35266573b4a5a2594352c2de6e59efd  ./p4notelte/pr
 44398f55d6d5526a5f6fc41273a815052152ff5706f199357c2f7bf2327d3a56  ./p4notelte/proprietary/system/lib/libnetmgr.so
 a64b1a9934fc4b4704b17599f5866c59a6a7700732d9b8e207c374abcd9cfe65  ./p4notelte/proprietary/system/lib/libqmi_cci.so
 017e5045a0f42b5ce0f8764ad90cf45e7a1d9e000564e7a4d1d498557d0ab654  ./p4notelte/proprietary/system/lib/hw/sensors.smdk4x12.so
-04c1937edfda1999803d3891e2c15f46b7cf9d4f987bcb7e4b28e34b4579a5d0  ./p4notelte/proprietary/system/lib/hw/vendor-camera.exynos4.so
 59d9053caad76ca0043d320d2ca7d727be403395d6b5f12a314ca2f7bdf66688  ./p4notelte/proprietary/system/lib/libqdi.so
 8e54eb1a99e96bc3884d18a9386f07c0054ca1b589b14f08d3f8e89ce126159b  ./p4notelte/proprietary/system/lib/libfactoryutil.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./p4notelte/proprietary/system/lib/libsecril-client.so
