@@ -3566,7 +3566,6 @@ c5577e7f64f1d668d19e6c123851107d25b71e85d2ece747a826f16eb00bb69f  ./t0lte/propri
 4c4429dd9a6bc3d810126abfdc0669ab45db3736d9feeb3b7dc46b2e74aa07cf  ./t0lte/proprietary/system/bin/efsks
 81401dc803b48afda6e22d6d5df0fd14e5e5d6399b692fab34a21556143b626a  ./t0lte/proprietary/system/bin/at_distributor
 863cc58532f96da9c93ec06f90f9ef1eaaeaea281267fd226afc971dcdbb4bd3  ./t0lte/proprietary/system/bin/sec-ril
-51fb18270454d3b9ad0616ff76f2cc965a6f7d9c12699befe08ccb4c90e892ab  ./t0lte/proprietary/system/bin/sensorhubservice
 80b365de30952b99979e405ccdd3815ecd84d58ab8804046f042ace04f604a39  ./t0lte/proprietary/system/bin/gsiff_daemon
 5c17c8eb50659c6de7d72f17fb1b70f8c6a98f41df3013246350fe6b15b23068  ./t0lte/proprietary/system/bin/rild
 ba9fa2adcee8d62c20cf7cdd906334ae5c6ec372c1f4a7971fca1cbcffe7c56d  ./t0lte/proprietary/system/bin/smdexe
@@ -3589,11 +3588,8 @@ f08cc62c3ccc12f145a026e67da7980c0a2b92eb5fa7b3d01cacb6637d6f0685  ./t0lte/propri
 d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./t0lte/proprietary/system/lib/libakm.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0lte/proprietary/system/lib/libril-qcril-hook-oem.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./t0lte/proprietary/system/lib/libqmi_common_so.so
-20a14325935c23ca41af2772ad15a19e6b69b5b632d7a556099288fc206c9607  ./t0lte/proprietary/system/lib/libsensorhubservice.so
 6dc1a1d6b0cf3bb63a94e3a6fdcbe237bb41895b0fb39be88f1019a55ff6ad17  ./t0lte/proprietary/system/lib/libnetmgr.so
 815dd0e8ab9702ddc18ef7b95b769be0c0030fb847b7954ed1d4227766880bf1  ./t0lte/proprietary/system/lib/libqmi_cci.so
-b1ba87a496f4052cffeb7bd663b31f00fcea29d22a8b65362f6b03f7ec825f21  ./t0lte/proprietary/system/lib/hw/sensors.smdk4x12.so
-a74fdf11513474d53dd46f63c619cb96bee7626166824b6ab76cefe1aa41d02c  ./t0lte/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
 4404e75963ca4098107564939bf04121f487d50176217e1788c83ca5c4c1915c  ./t0lte/proprietary/system/lib/libqdi.so
 b31ea9d214c182da332170e3895aeb364007d680eae20ac8b9f74f9b232a99ab  ./t0lte/proprietary/system/lib/libfactoryutil.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./t0lte/proprietary/system/lib/libsecril-client.so
