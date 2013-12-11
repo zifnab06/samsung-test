@@ -2663,7 +2663,6 @@ ec1974ba6986c075588ca44142091d0affcda015e96aa9cd250fb3530e902b01  ./serrano-comm
 c518f138e19db52c52614ae9d0b50c5b3f56d47eab72e0d6930d651bbb814229  ./serrano-common/proprietary/lib/libmm-color-convertor.so
 f9731db4a953fc0df093de6907e141c72e2bb1bc3029e31a6cb452d8cceb4a1a  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
 a000c33431cf5918b329378f806ff4be7623169e9fa8f455f2a986deb90d494b  ./serrano-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
-f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./serrano-common/proprietary/lib/libatparser.so
 abb94485392115a3fde30ef0c11afae267da9378f9a1996d2e08905ca6678a14  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 dc6951604cfe995d8319c04ccc5140f382741b457ae73338ef611a3c9818ffef  ./serrano-common/proprietary/lib/libcordon.so
 b578bd4c26c6d32db2ae47ad81b5a6691d05104e2769eed6485357a54fa77a22  ./serrano-common/proprietary/lib/libacdbloader.so
