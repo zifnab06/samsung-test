@@ -1806,7 +1806,7 @@ ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/pr
 fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
 5e23b34fc5831cba1e081f15e7b99955cf1353d309c7e948acd6066ad12ed8b8  ./serranoltexx/proprietary/lib/libril.so
-c3c61024b6b6330e55bf789e839d3299cab71eea0640b9a75baf7a62042da371  ./serranoltexx/proprietary/lib/libril-qc-qmi-1.so
+696ebcf5e50497ad858c4c82d8f27ecee95e8a811d9d1a5630e7c1432e3b5b63  ./serranoltexx/proprietary/lib/libril-qc-qmi-1.so
 08d592000ae020e8fb6b54a9ce0232b68129226c757c8d36c2f4128101735782  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 a9189b82608e19d769d8da12c5b8e415223ad90b88446d4b55867100ac021608  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 daad25d2fcceadb1d9fe587527bfaec7b2ebf2ac68b22c301b66c62cc2bdf7e5  ./i9103/README
@@ -2663,7 +2663,6 @@ ec1974ba6986c075588ca44142091d0affcda015e96aa9cd250fb3530e902b01  ./serrano-comm
 c518f138e19db52c52614ae9d0b50c5b3f56d47eab72e0d6930d651bbb814229  ./serrano-common/proprietary/lib/libmm-color-convertor.so
 f9731db4a953fc0df093de6907e141c72e2bb1bc3029e31a6cb452d8cceb4a1a  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
 a000c33431cf5918b329378f806ff4be7623169e9fa8f455f2a986deb90d494b  ./serrano-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
-f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./serrano-common/proprietary/lib/libatparser.so
 abb94485392115a3fde30ef0c11afae267da9378f9a1996d2e08905ca6678a14  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 dc6951604cfe995d8319c04ccc5140f382741b457ae73338ef611a3c9818ffef  ./serrano-common/proprietary/lib/libcordon.so
 b578bd4c26c6d32db2ae47ad81b5a6691d05104e2769eed6485357a54fa77a22  ./serrano-common/proprietary/lib/libacdbloader.so
@@ -2684,7 +2683,7 @@ e774a1262537578addfb5892b735ccf70e7351fedd08e7433a842a775e2d3ab2  ./serrano-comm
 94bc95cf80ad431ba0ed230be707538d5040496642c88a74ad1fd94f75e54c94  ./serrano-common/proprietary/lib/libTsAccm.so
 5fb46bf8b1681c6901a728de72ea76ed36ba0ecd24fd811355d374601dd816b8  ./serrano-common/proprietary/lib/libmmcamera_hdr_lib.so
 fa1bf7efbcdbd8d25b9583100ecb7001b785c82a29362f47f369289de88a4c51  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
-8dc24ef1b53ede708a8035544da7887987eadfe93ca9a54e35280b05cc99dbe5  ./serrano-common/proprietary/lib/libaudcal.so
+9a46546596d4779cf458e23879197ee5320dcca19e84364f57b5b8b9b8e821e4  ./serrano-common/proprietary/lib/libaudcal.so
 b87be8476d5d55a7bf7e67f6f630fb4137197b2cb0a7824f1bd5fe363021852c  ./serrano-common/proprietary/lib/libchromatix_imx175_zsl.so
 b869ee700760d8d9437598d0811c2125dafa962e280b9b61972ba2b333d3930e  ./serrano-common/proprietary/lib/hw/camera.msm8960.so
 6d8da9ffccf58d0b1ad0fc8abb2c7a2b86c00187cbf069d5cb729e6dc4c0cd56  ./serrano-common/proprietary/lib/hw/sensors.msm8960.so
@@ -2693,7 +2692,7 @@ b869ee700760d8d9437598d0811c2125dafa962e280b9b61972ba2b333d3930e  ./serrano-comm
 f5099d4b279da337788f1c2283e46c6cf60d51053f4e7d3d55ee4f3e996c381b  ./serrano-common/proprietary/lib/libfactoryutil.so
 b4e0f704c1bd5a82ec8b00f39d41ac08b3fd6386ad1c3c8c9e71cc43b2c47365  ./serrano-common/proprietary/lib/libhdcp2.so
 1e6fde509d79c195d1bd94041f00e6bc1fcd254eecc18d7ca0e52dfd51bda52d  ./serrano-common/proprietary/lib/libsecril-client.so
-07a3e0bb32c4d42031c2ed52fc7d52e5578887f05f9a99d0e577ac04d37f6572  ./serrano-common/proprietary/lib/liboemcamera.so
+497c0a0c61e508fc4b017318342ad172dddcf42219bed72d3c0d2204eed5f956  ./serrano-common/proprietary/lib/liboemcamera.so
 fd02119be37d9db54d0b8d7ba5e215545a3df5228d488cf0471dc04a38f79876  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_antishake.so
 d867aed4d0858eb41b09468874fa5eb6d614456d03af6414fbf277f9dc2651a6  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 3a1c751c9b5de62132288b76c1ed2cc28e7375fedf78f58591d0c47a00ff0a46  ./serrano-common/proprietary/lib/libmmparser.so
