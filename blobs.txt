@@ -706,6 +706,7 @@ f56998ee927a72104036363780c2250dbea22fc3a43b937851148337e5d302a2  ./jf-common/pr
 1c7d3c89a06ab9524b47520f2f25df1b07c57bd1d2c95b48f44962613b2452fe  ./jf-common/proprietary/lib/libqmi_cci.so
 06e6a91cfd742847a136d7bc407a7748a488c04588ee154c4f7fd0e0b070836a  ./jf-common/proprietary/lib/libmmmpod.so
 4358ff2b20b54e1be23ac9d4b97388694e8ca15cc63e072af0e068477d949655  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_hfr_90fps.so
+c95ba6bc949694f0a870e6076d7301253acc73b7fe8ec2c46cd940f57bb8b1dc  ./jf-common/proprietary/lib/libadreno_utils.so
 a9f46fcc2d49195e92956a69e590beb557545a9c2b0aa5974763e6a972adba62  ./jf-common/proprietary/lib/libmmcamera_hdr_lib.so
 3feb3b41fa12b263d124d37b931381ac1516eea29b4af79e1e7053d223875ed8  ./jf-common/proprietary/lib/libaudcal.so
 6e7e9d67ea1527c65ff9532cf2ee0bf20aff06155fc7b0606877ab968948d4ca  ./jf-common/proprietary/lib/libchromatix_imx091_video_hd.so
