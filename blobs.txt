@@ -712,9 +712,9 @@ c95ba6bc949694f0a870e6076d7301253acc73b7fe8ec2c46cd940f57bb8b1dc  ./jf-common/pr
 6e7e9d67ea1527c65ff9532cf2ee0bf20aff06155fc7b0606877ab968948d4ca  ./jf-common/proprietary/lib/libchromatix_imx091_video_hd.so
 be778a31a04908b252ae5680219b78f18823598a6c304a2a71881424cfd5beae  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_video.so
 4554a11a3734d2284bd18576e174f7076688146164ebaab23253e624c046ecab  ./jf-common/proprietary/lib/libchromatix_mt9e013_default_video.so
-7506ffd32e91c087674afc65fad692b0ffe063d8e0aaed3d9ddc137a2159f5e6  ./jf-common/proprietary/lib/hw/sensorhubs.msm8960.so
+2e14e420fb165be79444cc533918aab833c863faba20e35db542b3805e31d3b5  ./jf-common/proprietary/lib/hw/sensorhubs.msm8960.so
 007226bea996b1d0a685097b9b875f639fc59df362d03b76434270242f2b2b51  ./jf-common/proprietary/lib/hw/camera.msm8960.so
-d4183bde92c5de6a0ec3bfa2bc655b7bfc1c384c8713028d46085adc533c35b5  ./jf-common/proprietary/lib/hw/sensors.msm8960.so
+ec8110c9a572e8346b1a03cca442cd15e15cb4acb166fbce0086b11d10d85cd9  ./jf-common/proprietary/lib/hw/sensors.msm8960.so
 bc62d810f54f8bebb96b1ffcb6a8dc0100bc4700116e9e8b372f7025ada935ba  ./jf-common/proprietary/lib/libqdi.so
 44e8414fd675f44fc9741af419406367a820e1a60858187e4a7f82779b8636c1  ./jf-common/proprietary/lib/libchromatix_ov2720_default_video.so
 f5099d4b279da337788f1c2283e46c6cf60d51053f4e7d3d55ee4f3e996c381b  ./jf-common/proprietary/lib/libfactoryutil.so
@@ -739,6 +739,7 @@ a2c12114292a124fa15624735ff8f01c5e6a59e2b9bf34e5ad13dfdb1cc9f6bf  ./jf-common/pr
 2a7829c8a4681b671c52748d0984436702aad54b49c9ff324b0e89ef5448af50  ./jf-common/proprietary/lib/libmmstillomx.so
 f0470d5910c48c36aadde3c11ab7aaba9b8a07e75d4bcaff9b471ff7f076b131  ./jf-common/proprietary/lib/libmmjpeg_interface.so
 d7b10b3890f78b92a5d25e0ebc8ca59e17a9cd1f4abd87a45cc8c44112bb5579  ./jf-common/proprietary/lib/libreference-ril.so
+fc55cef25faf93d0c0a702099cc098b4829c7ba43bc55426a78cf19ae8e697aa  ./jf-common/proprietary/lib/libadsprpc.so
 07c6aae162e59d8596abbfb23b22e48ac1635d30a51a7d661d395d5c86756ba6  ./jf-common/proprietary/lib/libchromatix_imx091_default_video.so
 4ac5ef119907663981d47517b30b82198807b5c5b402b7d1ccdaa33ba9d67080  ./jf-common/proprietary/lib/libqmiservices.so
 4c229d08bfea94dcdc4cc4395b231875573c6c1563adf110fa2f405927a90b1c  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
