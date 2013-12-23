@@ -713,7 +713,7 @@ c95ba6bc949694f0a870e6076d7301253acc73b7fe8ec2c46cd940f57bb8b1dc  ./jf-common/pr
 be778a31a04908b252ae5680219b78f18823598a6c304a2a71881424cfd5beae  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_video.so
 4554a11a3734d2284bd18576e174f7076688146164ebaab23253e624c046ecab  ./jf-common/proprietary/lib/libchromatix_mt9e013_default_video.so
 2e14e420fb165be79444cc533918aab833c863faba20e35db542b3805e31d3b5  ./jf-common/proprietary/lib/hw/sensorhubs.msm8960.so
-007226bea996b1d0a685097b9b875f639fc59df362d03b76434270242f2b2b51  ./jf-common/proprietary/lib/hw/camera.msm8960.so
+007226bea996b1d0a685097b9b875f639fc59df362d03b76434270242f2b2b51  ./jf-common/proprietary/lib/hw/camera.vendor.msm8960.so
 ec8110c9a572e8346b1a03cca442cd15e15cb4acb166fbce0086b11d10d85cd9  ./jf-common/proprietary/lib/hw/sensors.msm8960.so
 bc62d810f54f8bebb96b1ffcb6a8dc0100bc4700116e9e8b372f7025ada935ba  ./jf-common/proprietary/lib/libqdi.so
 44e8414fd675f44fc9741af419406367a820e1a60858187e4a7f82779b8636c1  ./jf-common/proprietary/lib/libchromatix_ov2720_default_video.so
