@@ -2506,7 +2506,7 @@ ed949f107854a8c2624e896199c3819cdd88c4eaeb05cf783ec184984feb8c4c  ./hlte-common/
 92ff0e47ab8d1305243648b7d36d653ee05b0e6bf0d8fe63ea981c0b59e54bfb  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_vt_hd.so
 b0ebdf8a8b772fd46454eae8c879939698ab2f60650822700fc7affd69f36b3b  ./hlte-common/proprietary/vendor/lib/libqmi_common_so.so
 22c008d92860336aa7d52f9c8831a56e220261f2f88c2bc38954ee13363efbcd  ./hlte-common/proprietary/vendor/lib/librs_adreno.so
-ade76c163cddf3c02250cd55729470e977641499feb916b16e69ef1cf2271a02  ./hlte-common/proprietary/vendor/lib/libqc-opt.so
+d487cdf6c2fc3cb358d4356fcc77c12d9c7d2ab457d60c1a0aeee4608c6404e6  ./hlte-common/proprietary/vendor/lib/libqc-opt.so
 1ee4153337a5087aa671136d0bade6a4d8799d803b7b81588538f135f9213484  ./hlte-common/proprietary/vendor/lib/D13QL_libchromatix_s5k3l2xx_vt_hd.so
 714bc44e10765fd53398e61dd8e6ec6644aea1d5265c8be7b41b5632917b12b2  ./hlte-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so
 3f4eadb825024d944ec3a3d908389393fc4f0bd4a19b0bce0a00d1a38e22b897  ./hlte-common/proprietary/vendor/lib/libqmi_cci.so
