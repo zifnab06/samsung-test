@@ -2452,6 +2452,7 @@ be06367576089d5c8b91529a8cea39667a1822688c38ccbcb7bee77c9d448490  ./hlte-common/
 b0463404f94e2d754928e958ef79ecd4dd210c80250fc81ae7a3ce64f22525b1  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
 b625bcd77ae4c314d917539888281af98292776cfa545fbb411c3f51288ba5db  ./hlte-common/proprietary/vendor/firmware/bcm4339_A0.hcd
 b625bcd77ae4c314d917539888281af98292776cfa545fbb411c3f51288ba5db  ./hlte-common/proprietary/vendor/firmware/bcm4339_semco.hcd
+b625bcd77ae4c314d917539888281af98292776cfa545fbb411c3f51288ba5db  ./hlte-common/proprietary/vendor/firmware/bcm4335.hcd
 b625bcd77ae4c314d917539888281af98292776cfa545fbb411c3f51288ba5db  ./hlte-common/proprietary/vendor/firmware/bcm4339.hcd
 c7605960879ff583f6d5bc2a6752d90f0147ce77ffc566bc9e25320d0ede082c  ./hlte-common/proprietary/vendor/firmware/bcm4339_wisol.hcd
 637a14796cb45f4fe4ce14f33790f1a88a97cb840a73ca6f195109e2a223b1de  ./hlte-common/proprietary/vendor/lib/librs_adreno_sha1.so
