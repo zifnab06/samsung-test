@@ -4132,6 +4132,11 @@ c83751c98e2e08fbc2dc472d747aa6a3ecb21881f273fedd974dd87e1f5bcd72  ./n7000/propri
 30de4e62b4bac3b5dff7b8cc5d4d17cc606eb694b74994b44bdbb57682607a28  ./n7000/proprietary/system/lib/hw/gps.exynos4.so
 45af4e233d82125c8a347b7c6efb56b854b71e3d84becc72f2206963a981c134  ./n7000/proprietary/system/lib/libsec-ril.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./n7000/proprietary/system/lib/libsecril-client.so
+aa785d9bf01d5aaa1ef46bc62d89c7781e5ffc91a897c9aa6c1ab3262847c5d0  ./hltespr/proprietary/lib/libril.so
+1ba731dbac3be6a3bfdaa3e3329e496cd29e145788b15b0037ecf393da2ec354  ./hltespr/proprietary/lib/libsensirion_h_6.so
+058b3596fddaed0988356c5c1f39a2b388bc8a64f78c0be2508f45e933cd6fa9  ./hltespr/proprietary/lib/libsec-ril.so
+360c6097d32c392a5ae68e5e688841a694ae802fc4bd9e2f568b46ca57f76ff1  ./hltespr/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
+918443db16fdca0bf391ccc013b98c16308225c1a4dfb18cf0f36f7609a066aa  ./hltespr/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 374a9ae17ca9b1d5b4499cfff742c44e7b1e999afbe493f22c0a6402ccf5ecab  ./galaxysmtd/proprietary/gps.xml
 b2090c79bd30ba91887e2eaee2055a2c24ac4a996dd2532fa07f698f00da6020  ./galaxysmtd/proprietary/gpsd
 d76ad6f99a27c90217717530495ae6d2aa8ecb6c42578e7a2b7cc982577f8e07  ./galaxysmtd/proprietary/libril.so
