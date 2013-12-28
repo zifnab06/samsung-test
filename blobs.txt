@@ -4115,7 +4115,7 @@ c83751c98e2e08fbc2dc472d747aa6a3ecb21881f273fedd974dd87e1f5bcd72  ./n7000/propri
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./n7000/proprietary/system/lib/libsecril-client.so
 aa785d9bf01d5aaa1ef46bc62d89c7781e5ffc91a897c9aa6c1ab3262847c5d0  ./hltespr/proprietary/lib/libril.so
 1ba731dbac3be6a3bfdaa3e3329e496cd29e145788b15b0037ecf393da2ec354  ./hltespr/proprietary/lib/libsensirion_h_6.so
-4ed242ea31b160f0e8b467c239b0d7f4be937b00168b51e4845390c582707b3e  ./hltespr/proprietary/lib/hw/sensors.msm8974.so
+f8d953b9dbbe1f39ea10a03588c4b6b74d6c52ac6f7dec66113dc3f2644559f4  ./hltespr/proprietary/lib/hw/sensors.msm8974.so
 058b3596fddaed0988356c5c1f39a2b388bc8a64f78c0be2508f45e933cd6fa9  ./hltespr/proprietary/lib/libsec-ril.so
 360c6097d32c392a5ae68e5e688841a694ae802fc4bd9e2f568b46ca57f76ff1  ./hltespr/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 918443db16fdca0bf391ccc013b98c16308225c1a4dfb18cf0f36f7609a066aa  ./hltespr/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
