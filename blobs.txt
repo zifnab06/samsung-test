@@ -2453,7 +2453,6 @@ c8378dc80cf5ac4cc22b6a8988db46425d350c7b27e8c35ef943e52ca12115b9  ./hlte-common/
 e1615a71eddfb440118f9bd5bf340e71aa9577c7fa9b6684db43c89e9b17ffdf  ./hlte-common/proprietary/lib/libchromatix_imx134_hfr_120.so
 2f66f029bddcd5dcc40798213de00386c26a73ff17f005d93497f80f3120b0a3  ./hlte-common/proprietary/lib/libchromatix_imx134_hfr_60.so
 2c13b62ab892f844e6fcc4eeb3db15fee09a42938d8e76818acf83648b19dc00  ./hlte-common/proprietary/lib/libreference-ril.so
-4a560c7fbf7e372d9164b24bb44116daf5d58d9a6ef87f53585117acaeba6524  ./hlte-common/proprietary/lib/libxml2.so
 be06367576089d5c8b91529a8cea39667a1822688c38ccbcb7bee77c9d448490  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so
 b0463404f94e2d754928e958ef79ecd4dd210c80250fc81ae7a3ce64f22525b1  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
 b625bcd77ae4c314d917539888281af98292776cfa545fbb411c3f51288ba5db  ./hlte-common/proprietary/vendor/firmware/bcm4339_A0.hcd
