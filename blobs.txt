@@ -2292,7 +2292,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
 0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2r530/proprietary/lib/libril.so
 24ca44a742750509f23df27845a1e131133f2edef8c4682b90922e9bb8ea51a5  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hlte-common/.DS_Store
+b65d13b4855420e16f0a0ef463218f01fc482d7f6dd9b50191fb81fa32a8d9bf  ./hlte-common/.DS_Store
 26a99f702c0f0fabeb41f500c52ecf1d4c53a36922cb15252e4c7ac6e200b6e9  ./hlte-common/proprietary/etc/Headset_cal.acdb
 00d92103a11250d7f1db7842861a786acf2e5d391076d3b35e435079c12fc744  ./hlte-common/proprietary/etc/D13QL_s5k3l2xx_module_info.xml
 a1283c0db21dc4301d7db6a717f816b9aabcb55200bf9873f446bb14f1a019d8  ./hlte-common/proprietary/etc/Hdmi_cal.acdb
@@ -2356,7 +2356,7 @@ f83f181d0651fd70c62d79075f1b7c42c66fd46cdc31562f006ade7a00a5461b  ./hlte-common/
 e44c7c5ec5fc4ac3453bb6561c9e30fc51ba156895c3fabf46ee5b166eec6498  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_golfshot.so
 eb855ef00c08f10fee70c4a687df92f6be2028bd7758bc29e2d31d8000e35531  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_hfr_120.so
 cd3702f94860863f9cea47cd2e478082903720a14091226bace1fd04d4119390  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_default_video.so
-668c0e026ad56424b5b931b96bcc817519bf2729d7d58bd909bab63e6f05f7d6  ./hlte-common/proprietary/lib/libloc_api_v02.so
+7077ce927c169025378789807ea816f2db9d7b0104f72e8901bc9bd9afae1767  ./hlte-common/proprietary/lib/libloc_api_v02.so
 083139bcd2c42fbb49bf6fb4de5f57724d7c616c2fd133b58703547f8d0583e7  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_liveshot.so
 d21bc0e05ca08de0ec5f3cbeea34264864d3cff6c12224a0d783b5df4b33f25e  ./hlte-common/proprietary/lib/libmmjpeg.so
 23d7492e5fb032f4d64b15b7e24f861006b292c670fb275e9cff7bff6479400a  ./hlte-common/proprietary/lib/libWVStreamControlAPI_L1.so
@@ -2851,9 +2851,9 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./skyrocket/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./skyrocket/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./skyrocket/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./skyrocket/proprietary/vendor/firmware/libpn544_fw.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hltexx/.DS_Store
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hltexx/proprietary/.DS_Store
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hltexx/proprietary/lib/.DS_Store
+38e6e2761efbddf8cc688bcde76d17656f548170d49ffb4d6940207a4a4b460d  ./hltexx/.DS_Store
+5a29822aa0ab5d7c0108cdf61ad234d6ea0093f66390c069412d0c9aa151d3e0  ./hltexx/proprietary/.DS_Store
+0f0e20c0edde95a84f45d84a183d430ba76e6f98efec8ef95762bef57cad4d46  ./hltexx/proprietary/lib/.DS_Store
 9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltexx/proprietary/lib/libril.so
 1ba731dbac3be6a3bfdaa3e3329e496cd29e145788b15b0037ecf393da2ec354  ./hltexx/proprietary/lib/libsensirion_h_6.so
 4ed242ea31b160f0e8b467c239b0d7f4be937b00168b51e4845390c582707b3e  ./hltexx/proprietary/lib/hw/sensors.msm8974.so
