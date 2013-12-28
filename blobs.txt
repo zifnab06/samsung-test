@@ -1807,9 +1807,7 @@ b8ccd27e004437111a9d9b96239a8041d1d114e55d217ca7474bcd9ecf0a520f  ./p1-common/pr
 ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/proprietary/libtvoutservice.so
 fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
-b0ab2247f148d98909d51e096eafc9ea5b547a43284ca1eb1146f4a5b34bfc1c  ./hltetmo/proprietary/.DS_Store
 6d567628383e27eb5e9175206dea67f9fd075fccc1603978aa75fa0a034741a9  ./hltetmo/proprietary/lib/libsensirion_h_4.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hltetmo/proprietary/lib/.DS_Store
 faeaa267db5f8873acb99e179d424b9990a7d16bd3305ba0055b664f4d22e4f3  ./hltetmo/proprietary/lib/libril.so
 61b665300282684a7281e6b2288753e39cf87446a20dc9f3b99553cacc941259  ./hltetmo/proprietary/lib/hw/sensors.msm8974.so
 5a58f5b081cb643b0a1fb4a4ac720dd5f2713dff2c06b04ba7652b20f485a381  ./hltetmo/proprietary/lib/libsec-ril.so
@@ -2292,7 +2290,6 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./mesmerizemtd
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./mesmerizemtd/proprietary/libsecril-client.so
 0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2r530/proprietary/lib/libril.so
 24ca44a742750509f23df27845a1e131133f2edef8c4682b90922e9bb8ea51a5  ./d2r530/proprietary/lib/libril-qc-qmi-1.so
-b65d13b4855420e16f0a0ef463218f01fc482d7f6dd9b50191fb81fa32a8d9bf  ./hlte-common/.DS_Store
 26a99f702c0f0fabeb41f500c52ecf1d4c53a36922cb15252e4c7ac6e200b6e9  ./hlte-common/proprietary/etc/Headset_cal.acdb
 00d92103a11250d7f1db7842861a786acf2e5d391076d3b35e435079c12fc744  ./hlte-common/proprietary/etc/D13QL_s5k3l2xx_module_info.xml
 a1283c0db21dc4301d7db6a717f816b9aabcb55200bf9873f446bb14f1a019d8  ./hlte-common/proprietary/etc/Hdmi_cal.acdb
@@ -2851,9 +2848,6 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./skyrocket/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./skyrocket/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./skyrocket/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./skyrocket/proprietary/vendor/firmware/libpn544_fw.so
-38e6e2761efbddf8cc688bcde76d17656f548170d49ffb4d6940207a4a4b460d  ./hltexx/.DS_Store
-5a29822aa0ab5d7c0108cdf61ad234d6ea0093f66390c069412d0c9aa151d3e0  ./hltexx/proprietary/.DS_Store
-0f0e20c0edde95a84f45d84a183d430ba76e6f98efec8ef95762bef57cad4d46  ./hltexx/proprietary/lib/.DS_Store
 9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltexx/proprietary/lib/libril.so
 1ba731dbac3be6a3bfdaa3e3329e496cd29e145788b15b0037ecf393da2ec354  ./hltexx/proprietary/lib/libsensirion_h_6.so
 4ed242ea31b160f0e8b467c239b0d7f4be937b00168b51e4845390c582707b3e  ./hltexx/proprietary/lib/hw/sensors.msm8974.so
