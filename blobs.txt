@@ -3044,7 +3044,7 @@ e774a1262537578addfb5892b735ccf70e7351fedd08e7433a842a775e2d3ab2  ./serrano-comm
 fa1bf7efbcdbd8d25b9583100ecb7001b785c82a29362f47f369289de88a4c51  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 9a46546596d4779cf458e23879197ee5320dcca19e84364f57b5b8b9b8e821e4  ./serrano-common/proprietary/lib/libaudcal.so
 b87be8476d5d55a7bf7e67f6f630fb4137197b2cb0a7824f1bd5fe363021852c  ./serrano-common/proprietary/lib/libchromatix_imx175_zsl.so
-b869ee700760d8d9437598d0811c2125dafa962e280b9b61972ba2b333d3930e  ./serrano-common/proprietary/lib/hw/camera.msm8960.so
+b869ee700760d8d9437598d0811c2125dafa962e280b9b61972ba2b333d3930e  ./serrano-common/proprietary/lib/hw/camera.vendor.msm8960.so
 6d8da9ffccf58d0b1ad0fc8abb2c7a2b86c00187cbf069d5cb729e6dc4c0cd56  ./serrano-common/proprietary/lib/hw/sensors.msm8960.so
 882e0091a00a224f97557131a6e18da34e6a42a86bec9240b92d14bdb6f6683c  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_zsl.so
 34dbc5cba1a347d139a32b1042c787b8757d6159a09a08fc6d9ebdde74b668a5  ./serrano-common/proprietary/lib/libqdi.so
