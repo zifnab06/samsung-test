@@ -2285,6 +2285,8 @@ ca3b39a0edf261b3f473a322d5d6a41a3a81bd955bd68472a2a3c9247dbfd252  ./hlte-common/
 3ac17d9a244d041be92007b5e51bd1148c10573789e8cdb9711be6a48129e593  ./hlte-common/proprietary/etc/General_cal.acdb
 77dc4d2f61b806b2d563d3b47ddea8da5999c73e21b47adec1a52f7231de90f4  ./hlte-common/proprietary/etc/firmware/a330_pfp.fw
 040d2ff3c766e7d86d5f100686508b2a1550dc1db6146f4562ba29474a9150a9  ./hlte-common/proprietary/etc/firmware/a330_pm4.fw
+09fd81eb95b3187b731c201f99c5b6176df01e6d459c78fbe7bf4f0ef480e578  ./hlte-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw
+2533f6819be2ee4ba61ed4e1e8cbf76be93ae9f06d98a5a259fcc6165da47782  ./hlte-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw
 f86747aa7ff88810f106cc954eb47a4ebdb3ef5e7926bcdd508bd4fd39790231  ./hlte-common/proprietary/etc/Global_cal.acdb
 05099f46142f3b808ebaf9f598753cd8c8d9a867716752cec6003829111bff8a  ./hlte-common/proprietary/etc/sec_config
 cf5eacc9ab3cb6c31bf7ac483c576eccc67174ca780b57218eba31f1a7e98e19  ./hlte-common/proprietary/etc/Handset_cal.acdb
