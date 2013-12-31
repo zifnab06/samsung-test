@@ -1812,10 +1812,10 @@ d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./hltetmo/prop
 cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./hltetmo/proprietary/etc/firmware/leia_pfp_470.fw
 6d567628383e27eb5e9175206dea67f9fd075fccc1603978aa75fa0a034741a9  ./hltetmo/proprietary/lib/libsensirion_h_4.so
 d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./hltetmo/proprietary/lib/.DS_Store
-faeaa267db5f8873acb99e179d424b9990a7d16bd3305ba0055b664f4d22e4f3  ./hltetmo/proprietary/lib/libril.so
+9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltetmo/proprietary/lib/libril.so
 61b665300282684a7281e6b2288753e39cf87446a20dc9f3b99553cacc941259  ./hltetmo/proprietary/lib/hw/sensors.msm8974.so
 0aa5c5f4e1fe0c0de37c39c31946452aa65845452cdc697644d18239530f7c51  ./hltetmo/proprietary/lib/hw/nfc.MSM8974.so
-5a58f5b081cb643b0a1fb4a4ac720dd5f2713dff2c06b04ba7652b20f485a381  ./hltetmo/proprietary/lib/libsec-ril.so
+a47589847e7a5195ce19dabc7406b3714b019ebb290add7c0a18a5feb3d53398  ./hltetmo/proprietary/lib/libsec-ril.so
 4adca7de508547ce3810c720c5c90e5ff26002d6aa0bdbbc2298419e24f757fd  ./hltetmo/proprietary/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0031.0130_ORC_H-TMO.hcd
 ef54c3ea75ec1699d3d2a8834f942c35fcefc94748251fe355d5003cc1fd83be  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so
 49aaa5588d832a23d7b27caf352622307267fbddc008b1804e87768a4d2e9738  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_pku.so
