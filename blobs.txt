@@ -4283,8 +4283,8 @@ c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2-common/pr
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2-common/proprietary/lib/libqmiservices.so
 407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2spi/proprietary/lib/libril.so
 8f63e093dd59a3a7ae6dd9ed39dcd27f12f8846443432c8c24be8c4da9a19815  ./d2spi/proprietary/lib/libril-qc-qmi-1.so
-14aad854694cb0a4e7001bcbcd0101db604b813621431e8c89b44763e17f5d71  ./hltevzw/proprietary/lib/libsensirion_h_5.so
 c734fde90ba2fa6cc7326bf09a4f8b37fca53b388316ce5844a941a8d16262fb  ./hltevzw/proprietary/lib/libril.so
+1ba731dbac3be6a3bfdaa3e3329e496cd29e145788b15b0037ecf393da2ec354  ./hltevzw/proprietary/lib/libsensirion_h_6.so
 aea6a40527e1b7ee9f61b0581b265238fd08ba5234cdf1958cfa951251402684  ./hltevzw/proprietary/lib/hw/sensors.msm8974.so
 4b9e0a3d47dbcaed15223c51e7b4568118499de1e4443dad67ef13463c26eb46  ./hltevzw/proprietary/lib/libsec-ril.so
 ef54c3ea75ec1699d3d2a8834f942c35fcefc94748251fe355d5003cc1fd83be  ./hltevzw/proprietary/vendor/firmware/libpn547_fw_platform.so
