@@ -1782,9 +1782,9 @@ ce254e665758b9d8988a6ffdcb706da39edc3154e793c923fc68123c5bd83d1c  ./p1-common/pr
 fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/proprietary/libsec-ril.so
 0c370339b65566ed8dc0d36c7c7393b25870b67322c5388613f2c2e0dfc9f5d9  ./crespo/proprietary/libsecril-client.so
 6d567628383e27eb5e9175206dea67f9fd075fccc1603978aa75fa0a034741a9  ./hltetmo/proprietary/lib/libsensirion_h_4.so
-faeaa267db5f8873acb99e179d424b9990a7d16bd3305ba0055b664f4d22e4f3  ./hltetmo/proprietary/lib/libril.so
+9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltetmo/proprietary/lib/libril.so
 61b665300282684a7281e6b2288753e39cf87446a20dc9f3b99553cacc941259  ./hltetmo/proprietary/lib/hw/sensors.msm8974.so
-5a58f5b081cb643b0a1fb4a4ac720dd5f2713dff2c06b04ba7652b20f485a381  ./hltetmo/proprietary/lib/libsec-ril.so
+a47589847e7a5195ce19dabc7406b3714b019ebb290add7c0a18a5feb3d53398  ./hltetmo/proprietary/lib/libsec-ril.so
 ef54c3ea75ec1699d3d2a8834f942c35fcefc94748251fe355d5003cc1fd83be  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so
 49aaa5588d832a23d7b27caf352622307267fbddc008b1804e87768a4d2e9738  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_pku.so
 910fb92f35b96bf9bd6cce8f450c33dfbd0109a36288e13d500f7e8c5a94fcb5  ./hltetmo/proprietary/vendor/firmware/libpn547_fw.so
