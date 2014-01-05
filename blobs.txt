@@ -1784,6 +1784,7 @@ fa8649aa84f5269ddd2da39c21d5678234f1a4bbb270897a7846336cee2112d3  ./crespo/propr
 6d567628383e27eb5e9175206dea67f9fd075fccc1603978aa75fa0a034741a9  ./hltetmo/proprietary/lib/libsensirion_h_4.so
 9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltetmo/proprietary/lib/libril.so
 61b665300282684a7281e6b2288753e39cf87446a20dc9f3b99553cacc941259  ./hltetmo/proprietary/lib/hw/sensors.msm8974.so
+0aa5c5f4e1fe0c0de37c39c31946452aa65845452cdc697644d18239530f7c51  ./hltetmo/proprietary/lib/hw/nfc.MSM8974.so
 a47589847e7a5195ce19dabc7406b3714b019ebb290add7c0a18a5feb3d53398  ./hltetmo/proprietary/lib/libsec-ril.so
 ef54c3ea75ec1699d3d2a8834f942c35fcefc94748251fe355d5003cc1fd83be  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so
 49aaa5588d832a23d7b27caf352622307267fbddc008b1804e87768a4d2e9738  ./hltetmo/proprietary/vendor/firmware/libpn547_fw_pku.so
