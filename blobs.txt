@@ -8,6 +8,14 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n80xx/propri
 93f46cf6462b4fa445c3c1bdc93ffeaf4efcbe4155671cb8da2c6f0d59598973  ./n80xx/proprietary/system/usr/keylayout/samsung-keypad.kl
 21f26b19a7d7bb4521dfab40014069f810adbb092d5c512e66c70b6164eecb79  ./n80xx/proprietary/system/usr/keylayout/sec_keyboard.kl
 6ba85c95faa22954572a6d0b9f3861baa12faa0fdad4d3fe879ab73ee503cc1f  ./n80xx/proprietary/system/usr/keylayout/max77693-muic.kl
+6d567628383e27eb5e9175206dea67f9fd075fccc1603978aa75fa0a034741a9  ./hltecan/proprietary/lib/libsensirion_h_4.so
+9a1e2fcc0e65955623ce94f7ec16519ff50fd3365f5a67769cdb1a2902ef17d9  ./hltecan/proprietary/lib/libril.so
+61b665300282684a7281e6b2288753e39cf87446a20dc9f3b99553cacc941259  ./hltecan/proprietary/lib/hw/sensors.msm8974.so
+0aa5c5f4e1fe0c0de37c39c31946452aa65845452cdc697644d18239530f7c51  ./hltecan/proprietary/lib/hw/nfc.MSM8974.so
+a47589847e7a5195ce19dabc7406b3714b019ebb290add7c0a18a5feb3d53398  ./hltecan/proprietary/lib/libsec-ril.so
+ef54c3ea75ec1699d3d2a8834f942c35fcefc94748251fe355d5003cc1fd83be  ./hltecan/proprietary/vendor/firmware/libpn547_fw_platform.so
+49aaa5588d832a23d7b27caf352622307267fbddc008b1804e87768a4d2e9738  ./hltecan/proprietary/vendor/firmware/libpn547_fw_pku.so
+910fb92f35b96bf9bd6cce8f450c33dfbd0109a36288e13d500f7e8c5a94fcb5  ./hltecan/proprietary/vendor/firmware/libpn547_fw.so
 cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i777/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 1f98219ccd0343e112e5ef04b10140b0863f6e1a5763e31c3845cfb61b035b72  ./i777/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 61234bb2595bb4ca6a0a4488b5407dce4b2a6a1c0f8297f109c16ba707c75eba  ./i777/proprietary/system/etc/wifi/nvram_mfg.txt
@@ -98,7 +106,7 @@ a2751dc0d103e4c2c4036bd32f196a0f725db3a3e6522523a875af73ecb960a8  ./showcasemtd/
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./showcasemtd/proprietary/rild
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./showcasemtd/proprietary/libsecril-client.so
 65d9a87355473a66bd056def5f7ef5b3764d5cd8d66478e3e9edea5729250a26  ./showcasemtd/proprietary/PhoneConfig.apk
-8811e530f6e3aad04af2d67b5a83407a43ad27dcc09adf1dfa2b16a7196ef432  ./blobs.txt
+3d130fd8d9830c5609d598627ba4084d7a3bb59904cb6bd6ffd76d84ba3d81eb  ./blobs.txt
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./i577/proprietary/etc/thermald.conf
 16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./i577/proprietary/etc/wifi/bcmdhd_apsta.bin
 bf013e11ec8aac461cd29fe75037f72214f7a9b891ed89f2a79041ccc7462824  ./i577/proprietary/etc/wifi/wl
