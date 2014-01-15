@@ -653,6 +653,7 @@ fbb2b44af8402d40f693c0cd51e5b928a10b5f2ead9ff539936928f004303e39  ./jf-common/pr
 5cd117174e01bc0b3d2d9f219dd27af8b1af663064d778a7fd6c1b70a37201b1  ./jf-common/proprietary/lib/libsam.so
 b308aff2334a33bb475f569d79ff83d214c350ccfcf85d7cb33198e5de3e8b22  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_pip.so
 6251428c7f36bff0b0fc5cbda7bbbc4e692db97322c7952689a4d758ee7ae273  ./jf-common/proprietary/lib/libvdis.so
+ca06c341283d125b43ff021bb0640160c7e78232090f70dbcca271416992ba89  ./jf-common/proprietary/lib/libCB.so
 3a14bb4c92e8b7250117337b98a3ed781cbc17e74090b05bf44c9bb935ec7925  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 e359776d99f8a32e77da5f19677d13ae4b244fe8b38650de14eccd45da4fc9fb  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_preview.so
 1d264d21d023a82f78dab3f3b49adac9db8a0655d35eba9f37d3dad8787b2e2f  ./jf-common/proprietary/lib/libcordon.so
