@@ -3066,7 +3066,7 @@ f95d1f3549097fdec2960764b28e7b12b4f7d0d3fc53e6515443b65af4a64753  ./serrano-comm
 85db30a11cee828489a01549aa298fc447b6f8d94d1ff11fca9a11c3d6d795f6  ./serrano-common/proprietary/lib/libmmosal.so
 29a50f28823471950b6a8a8eb58fb7457eab2417b0c9411000b63c6452b119f8  ./serrano-common/proprietary/lib/libmercury.so
 016d36deea038bb0bf2f158b88a4cc4bb30cc8458a0500087d45e6f8b83ec39a  ./serrano-common/proprietary/lib/libchromatix_imx175_default_video.so
-94fec14b9e470f607890a6d3ec01de62af834380e915904e6442dcb76962a5bb  ./serrano-common/proprietary/lib/libloc_api_v02.so
+8a60678a9b5321635acbae1de3fd21da10b5911c8851cfefe2eac20dd49bdc38  ./serrano-common/proprietary/lib/libloc_api_v02.so
 5e74b7bae8b7b49c680909d3f6c489eccec8635a21c7758892c3f4e48d2b4c8d  ./serrano-common/proprietary/lib/libmmjpeg.so
 2d94039c89a86de54623ec756960f7865103e42c4574cabaad5cd7ea728be977  ./serrano-common/proprietary/lib/libmmcamera_frameproc.so
 d739bd25b38e13a444e95cdd7209173025cd314c2c8d1ff1fbf06989830f626d  ./serrano-common/proprietary/lib/libgemini.so
