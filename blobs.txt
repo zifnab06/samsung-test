@@ -865,6 +865,7 @@ e6ee41c208a95317f12e4aa84b42e9f3590b63b27e481982541eeb442d7e87ee  ./apexqtmo/pro
 0b26120447d75d91e82442f111dda1d5c3943f6cee6dae8a1aa438f4bd99f769  ./apexqtmo/proprietary/etc/hostapd/hostapd.deny
 63d49422267c52cf7cb18fb00840d7f8509888f4e4ab567163720ab3a61a97ae  ./apexqtmo/proprietary/etc/hostapd/hostapd.accept
 214fe80a6b884989bef3ecaa869ccae145a36b9ce301cebe8bffccfce8433297  ./apexqtmo/proprietary/etc/hostapd/hostapd_default.conf
+4ee1915c7e360c3dc48d5ee25058b9ec67896a91c208693dd01f6da0b9ae0874  ./apexqtmo/proprietary/bin/geomagneticd
 059becfe28f246297a23934551dcea548cecb6042aa702891a2107f9a73928fd  ./apexqtmo/proprietary/bin/sec-ril
 5e742330f4c39da83c8136f051d015091d1896ce4a269c23799342e5a812d629  ./apexqtmo/proprietary/bin/hci_qcomm_init
 1f74e83dc99def690658331c8e7560094c129b15496d1e217f9dccf41ee2da93  ./apexqtmo/proprietary/bin/btnvtool
