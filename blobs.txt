@@ -762,7 +762,7 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i9100/propri
 3918366bef7dbc9a5eb5ef64b7b9f23a0ad2f9b8f413bd34992d9402cd4eeadd  ./i9100/proprietary/system/etc/wifi/nvram_net.txt_murata
 4e7323db3e068d7e5852136f09dec4dfa4c30c4d3765f106d65c742283f3f5e4  ./i9100/proprietary/system/lib/libakm.so
 f128547d8fb71a51aba8903e247b6823ce16ac81ce4fd8ceb56d6c7cf26fcea2  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
-487ea96d39b7184552083139d0ec73d6dd8cb807fb7b65200a21a37f32814d34  ./i9100/proprietary/system/lib/libsec-ril.so
+af8c0be41d081e4f9e3e6b48ff749384d94607bfa05c78106fcc291e60e947fe  ./i9100/proprietary/system/lib/libsec-ril.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./i9100/proprietary/system/lib/libsecril-client.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
 27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
