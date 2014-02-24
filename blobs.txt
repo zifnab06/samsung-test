@@ -3039,6 +3039,7 @@ ac46c2332eaa26510d411b141cef00100b347761fecbab0b84e58c6f8bf11c22  ./serrano-comm
 44666e8a012eed4c9daedd8c6b08f77bd9d31029ef622a436778f22b0f0bee38  ./serrano-common/proprietary/bin/sec-ril
 9020c4e6b75bc60b7c627d7894a1755c1bbbdcfa1415753e8b00599f2a158f28  ./serrano-common/proprietary/bin/hci_qcomm_init
 5a4bdca8cc113e5d1878520988eb2231b30740a34cb586a769fe564a3b7b29e4  ./serrano-common/proprietary/bin/thermald
+dd7a6fc2ced3a4597c61a23d59eb20b4321a5501f43d984d4e795ee6ee6bf8b0  ./serrano-common/proprietary/bin/time_daemon
 2cbeb0b1ce4e6bfb60fd1de581edd08bdbad8c3a0171f1279769adee34ce6e0d  ./serrano-common/proprietary/bin/rild
 defef890e316a75f3d68967397d5970a255a2cddf2e685764aae03fbfc07a43a  ./serrano-common/proprietary/bin/btnvtool
 0b0c469497ea3072d9be8d86191dff66f9374935273f75f533dec84e3edaefb4  ./serrano-common/proprietary/bin/qmuxd
