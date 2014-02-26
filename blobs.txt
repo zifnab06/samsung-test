@@ -478,7 +478,7 @@ a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./exhilarate/p
 7092e3927e5b979eae733d343c44d6b7749f2b5dbf5f94219c4d1503c74d1b68  ./jflte/proprietary/blobs/vzw/etc/firmware/q6.b04
 1fee08361bd3f1e8f921b1b4051e2945a3a0fdb9da0915c501cca5c1a5773369  ./jflte/proprietary/blobs/vzw/etc/firmware/q6.b05
 43c5bfb6ea866887f9c26105c9cb248e4117f90b075796e6a5549ac8d5301e54  ./jflte/proprietary/blobs/gsm/lib/libril.so
-c8c9b1b3f4497f9b451f4c1a25f273be75cbc1480594cb0d189c6ce354739d93  ./jflte/proprietary/blobs/gsm/lib/libril-qc-qmi-1.so
+ae969b0807b2a3a3de2098df3cce434510b042fe64a2f47c99346371b553c797  ./jflte/proprietary/blobs/gsm/lib/libril-qc-qmi-1.so
 a0d6b73fef93606beb489b78b933a9c3da6edf8aee4a901f8759ed0b5a8f9c3a  ./jflte/proprietary/blobs/cdma/lib/libril.so
 a56405c931f7c535ddcbc19bc84db13c5480ff37d9dfc824dca7b887ac8265ec  ./jflte/proprietary/blobs/cdma/lib/libril-qc-qmi-1.so
 e2a8391b6e03d9999cd23378d2393f72304fdd408ba46785433f4c6efdc8ab7d  ./jflte/proprietary/etc/wifi/nvram_mfg.txt_muratafem1
