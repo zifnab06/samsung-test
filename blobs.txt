@@ -4299,6 +4299,10 @@ aa11d026ceff0ed4b80c38f6acb3660133cdfd6f85d88b1d01ab1651a3d75f4c  ./i9300/propri
 cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2lte/proprietary/blobs/gsm/lib/libril.so
+17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./d2lte/proprietary/blobs/gsm/lib/libril-qc-qmi-1.so
+0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2lte/proprietary/blobs/cdma/lib/libril.so
+24ca44a742750509f23df27845a1e131133f2edef8c4682b90922e9bb8ea51a5  ./d2lte/proprietary/blobs/cdma/lib/libril-qc-qmi-1.so
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt_murata
 49abf02bf7f46204fe715ab281805d7ee7ba81fe55e40823e2d7f53c6575f61f  ./d2lte/proprietary/etc/wifi/nvram_net.txt_murata_b2
 5df3ad42d1cffe72f8e06d6ebb5ed00a6dc22488e366a16bd24d855d8a55df8c  ./d2lte/proprietary/etc/wifi/nvram_net.txt_semcosh
@@ -4369,7 +4373,6 @@ e3912434d2ca22bfd1e68c3bbb9f133e9a9c833306d26834880fea1b02cc79c1  ./d2lte/propri
 b11b661d8e8f0b122c3b37cded5ae9e5c92711176165b83282e690dd7416f855  ./d2lte/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2lte/proprietary/lib/libchromatix_imx074_default_video.so
 28ce368ec623c30b33129d8cd3a075fde4f27fd405ae12bcd801f21e04a9cd2d  ./d2lte/proprietary/lib/libC2D2.so
-0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2lte/proprietary/lib/libril.so
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2lte/proprietary/lib/libvdis.so
 2182c9ead59532c674918d9587ce31f21d2101cbc1bad479ccdbd41055b06ade  ./d2lte/proprietary/lib/libCB.so
 b691d6d212cb9edeb352f1918ad6cc29081b3c79f48744ffaf51a9a004c4fb93  ./d2lte/proprietary/lib/libacdbloader.so
@@ -4411,7 +4414,6 @@ c8170a2fe84b01313266e94570b74f1d656e8d1a21495a4da9991acf5e2242a1  ./d2lte/propri
 35800d2a91f89ccd51146829382724e21958fbf1e85eafa965bde9b4f54ab884  ./d2lte/proprietary/lib/libmmparser.so
 59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./d2lte/proprietary/lib/libExtendedExtractor.so
 dfab9b4ae37526af4cd002c98af7abab8469aa80baf8321401da026229a4f9b1  ./d2lte/proprietary/lib/libqmi.so
-e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2lte/proprietary/lib/libril-qc-qmi-1.so
 1de4c59549abcc47ef686236e3e97bf032764e6ee783c934ca149e010f3f7e21  ./d2lte/proprietary/lib/libqmi_encdec.so
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2lte/proprietary/lib/libchromatix_ov2720_preview.so
 5e037a9b10139dd2726bb28177f5ed13c68417e5db52d8efa9cf03da9994c305  ./d2lte/proprietary/lib/libOpenVG.so
