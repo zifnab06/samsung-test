@@ -4050,6 +4050,7 @@ ce9bf8ccefe1c532214949542b044134f402b5371b6f4f8d510efc39d410625a  ./expressatt/p
 834f78264ff0714b02cc8a4171225f554bb39ca2bdd31b7d4bd618dd93bc5f58  ./expressatt/proprietary/lib/libimage-jpeg-dec-omx-comp.so
 8bfec70dc9f1933f2153b322eda8d2f5cc3f666fde8f29696e59d96c69d7e8f1  ./expressatt/proprietary/lib/libdsi_netctrl.so
 309018c219c965ac6c69fe730fdf6939ff6a71a6c2f7e79f60d0fa0ed6074dc0  ./expressatt/proprietary/lib/libimage-jpeg-enc-omx-comp.so
+5710a09b3dee9fa0e97e193858f59d01f7d0d38954394aafeb84e5713aebf11f  ./expressatt/proprietary/lib/libril.so
 583c2a39f9e1372a3847617f48d3f9ab9834f597ba4acc8785d5630f84d0ef13  ./expressatt/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 c06dfa96b43f0b6cdbd13ba9e6aa1dd6f1ef5fa4731fe05367d2bcf678b82234  ./expressatt/proprietary/lib/libchromatix_s5k3l1yx_preview.so
 bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./expressatt/proprietary/lib/libimage-omx-common.so
@@ -4066,6 +4067,7 @@ e91d94741487e0dd1624bbca6f0c3ffdb0f7fe9bd34da0314e68a59a84b2c374  ./expressatt/p
 662e91873b52bdf73f5e4ced1b59817f450ff7e43e90221d1db6dda90f99b7e3  ./expressatt/proprietary/lib/liboemcamera.so
 1a08ac525df3a3053dc191023dfc646bd4089608ed3edbfcd247b6be8df56043  ./expressatt/proprietary/lib/libqcci_legacy.so
 0d825e3af935d2154ed09fad9d2b5f0c5c56c8b4afdbe81233b1902318989002  ./expressatt/proprietary/lib/libqmi.so
+2bf875abf49babf2e15482023eeb102863e36560e7dd5145a4040e7b8206e797  ./expressatt/proprietary/lib/libril-qc-qmi-1.so
 98e6b9f7aa0f2a365ccefdc7dd0466738ef5bdadbb53160c4d4193b077f33718  ./expressatt/proprietary/lib/libqmi_client_qmux.so
 5d25e419499b6ca3a46e5c3a8ca5df178f7830b790fe0e806afc37a12fa92a19  ./expressatt/proprietary/lib/libmmstillomx.so
 e9014c238cab206730f430981adb692511e4e6e1a7aa4970093511af24675383  ./expressatt/proprietary/lib/libreference-ril.so
