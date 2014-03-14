@@ -3782,6 +3782,7 @@ d35ad9b277493cd17b4f8c29374f08d64e5733732457010f03ab0a2627cd0e67  ./i9500/propri
 554cba6caca0c124fe991e3935ef9d81647cb465996225ebd67719d3e0bdf696  ./i9500/proprietary/bin/playlpm
 75c3d6d52336cbed3c8e7afd0dc014140e696378ac7182eadcfba7de5f82ceee  ./i9500/proprietary/bin/gpsd
 26efd5a8b397c2ba75384d215e6f3b953b90710d1f5db1163ec587da421b7791  ./i9500/proprietary/bin/cbd
+6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./i9500/proprietary/lib/libQmageDecoder.so
 bb80306c027426adb7ccd38d3bb1a79232c9d43294c2eb91a131d3595d1bae08  ./i9500/proprietary/lib/libsecnativefeature.so
 ae33f5e77817792586ce491a94f248705a8be7898374fcfc16afa0606b0eba40  ./i9500/proprietary/lib/libexynoscamera.so
 23d7492e5fb032f4d64b15b7e24f861006b292c670fb275e9cff7bff6479400a  ./i9500/proprietary/lib/libWVStreamControlAPI_L1.so
