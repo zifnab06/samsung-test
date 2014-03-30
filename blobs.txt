@@ -4178,6 +4178,7 @@ d37cd1d3334c238d3232de874e57ab229a77b8c4d053fd94ef7546e437c321f9  ./smdk4412-com
 d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./smdk4412-common/proprietary/system/usr/idc/sec_touchscreen.idc
 5ccc92158ea9cccf8b176ced1e3aa1f97c66283527895bbbbbc64bd5a5e01743  ./smdk4412-common/proprietary/system/usr/keylayout/sii9234_rcp.kl
 d5340b8a77b92ff91f0b1462a7edadf6548751770f2b0524e468ce7bfdb44f61  ./smdk4412-common/proprietary/system/usr/keylayout/gpio-keys.kl
+8ae9af555bdb6b1fbec122425ff810a17f672cd2d98f291af2bb521f0c300b6b  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_PH.bin
 fb3c3d0951bd2003c296d93f356677f63f8d015b62f19cca3249734403475120  ./smdk4412-common/proprietary/system/vendor/firmware/fimc_is_fw.bin
 353c19b74bd613389d715840eac71a51e43e25263a05114c089cfeebb15dddd5  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 05ce013ca3b0bede533ad18cff3d732f30e26c9c69b2e617ccf97ce7f6c88018  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GK.bin
