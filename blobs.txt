@@ -4300,10 +4300,12 @@ feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/propri
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
 0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2lte/proprietary/blobs/r530/lib/libril.so
 24ca44a742750509f23df27845a1e131133f2edef8c4682b90922e9bb8ea51a5  ./d2lte/proprietary/blobs/r530/lib/libril-qc-qmi-1.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2lte/proprietary/blobs/spr/lib/libril.so
+8f63e093dd59a3a7ae6dd9ed39dcd27f12f8846443432c8c24be8c4da9a19815  ./d2lte/proprietary/blobs/spr/lib/libril-qc-qmi-1.so
+0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2lte/proprietary/blobs/vzw/lib/libril.so
+e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2lte/proprietary/blobs/vzw/lib/libril-qc-qmi-1.so
 407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./d2lte/proprietary/blobs/gsm/lib/libril.so
 17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./d2lte/proprietary/blobs/gsm/lib/libril-qc-qmi-1.so
-0dec8671ae6b28372a354dc1af2a01c3a880b43262db5b52e9edb3e48c55f3e7  ./d2lte/proprietary/blobs/cdma/lib/libril.so
-e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2lte/proprietary/blobs/cdma/lib/libril-qc-qmi-1.so
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt_murata
 49abf02bf7f46204fe715ab281805d7ee7ba81fe55e40823e2d7f53c6575f61f  ./d2lte/proprietary/etc/wifi/nvram_net.txt_murata_b2
 5df3ad42d1cffe72f8e06d6ebb5ed00a6dc22488e366a16bd24d855d8a55df8c  ./d2lte/proprietary/etc/wifi/nvram_net.txt_semcosh
