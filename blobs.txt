@@ -3020,7 +3020,7 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./fascinatemtd
 948b711eeb8220a6c2f3e5c1ae1b809b5edcbb5ba766cc38602c9c5d8b6904a5  ./serrano-common/proprietary/etc/firmware/vidc_1080p.fw
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/etc/firmware/a300_pfp.fw
 f7cbc75c0698cefa84431a9d3846497b5007ee247d9b4af4569210744a7cae55  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
-1cfb3d17dc4f0d76b578783dba9dce461e135a3e47edd576e5047465da2f82dc  ./serrano-common/proprietary/bin/mpdecision
+cee3bd197e128cb24a683da63fdd2b85993e612b4be0bfa37cd604833a055bc2  ./serrano-common/proprietary/bin/mpdecision
 c99f37f1965836e94c8e6ddd7aa55bf37fca45fd87797293780d64be4c7b5f3a  ./serrano-common/proprietary/bin/mm-qcamera-daemon
 ea46f999075b3504496ab2d9015d7b8af6c0eec3582ef81ecd75e4c8c0c2828d  ./serrano-common/proprietary/bin/geomagneticd
 ecbd2240a364a30ffa059166183c9314dc7abfa242fd596f539fcdbea4d1a82c  ./serrano-common/proprietary/bin/qseecomd
@@ -3029,7 +3029,7 @@ c1cdf7106d5a5b59b69db9f543090c9fdd578d543135c0a395ba02ce591d7e9c  ./serrano-comm
 b4d9186bc61406fd191309c309beb01feca7d4bc086ebbe80df8a6f815313b55  ./serrano-common/proprietary/bin/ds_fmc_appd
 44666e8a012eed4c9daedd8c6b08f77bd9d31029ef622a436778f22b0f0bee38  ./serrano-common/proprietary/bin/sec-ril
 5084c380fdbcb9f231a90ddcb612d1a977cbce16e5d6673f91d1f89726fa8e77  ./serrano-common/proprietary/bin/hci_qcomm_init
-5a4bdca8cc113e5d1878520988eb2231b30740a34cb586a769fe564a3b7b29e4  ./serrano-common/proprietary/bin/thermald
+8f6f640f4ee2baeae85cc45197ba5cce2c188aa78d8ebd48d89f2e263a0d0d60  ./serrano-common/proprietary/bin/thermald
 dd7a6fc2ced3a4597c61a23d59eb20b4321a5501f43d984d4e795ee6ee6bf8b0  ./serrano-common/proprietary/bin/time_daemon
 2cbeb0b1ce4e6bfb60fd1de581edd08bdbad8c3a0171f1279769adee34ce6e0d  ./serrano-common/proprietary/bin/rild
 3e507d2bff6150b678f3f5a00b9f0b017c1e8e7f066d29efdfba4f8ea52c02f5  ./serrano-common/proprietary/bin/btnvtool
@@ -3077,7 +3077,7 @@ d1c477984a3f161b631b70878095f83f1ca4b47812488532ccbb2d3a092b2204  ./serrano-comm
 b27092ccdebadbfb3c7eba86174ead6df5bbfddb77d23b50cee5467adf48d941  ./serrano-common/proprietary/lib/libril-qcril-hook-oem.so
 2e456a0bc256b2c8b82bb0ac8d1c074083331f35bbf7b10855923ec422487854  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_default_video.so
 ed390d2a7c9694c28b9343450c930acda0eac137fc747f6c40d921a2ac7ac2d6  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-066e8f21d383dc33e55224a24238bfaa67673ea9f1ec402f3c188aac18488f31  ./serrano-common/proprietary/lib/libqc-opt.so
+c9c7f9da09d8f1a0811b8c4125c182bf30900896eee70e34bf98d8471b623009  ./serrano-common/proprietary/lib/libqc-opt.so
 f56998ee927a72104036363780c2250dbea22fc3a43b937851148337e5d302a2  ./serrano-common/proprietary/lib/libnetmgr.so
 e774a1262537578addfb5892b735ccf70e7351fedd08e7433a842a775e2d3ab2  ./serrano-common/proprietary/lib/libmmmpod.so
 6e90a59443bbcc8f746e6d52ddf3dd30dd1457aaa2f5ece05284cc7dcc2a183a  ./serrano-common/proprietary/lib/libchromatix_imx175_preview.so
