@@ -1816,7 +1816,7 @@ fc99fa8dca3bb098b8d1624fb5ad6506fb2e9ffb3ae3d3bce1661b255fbe89ae  ./hlte/proprie
 42d54aa055f405e972d0670169dd12a7fee9af737f55fd430f39ea6bdc38a2e7  ./hlte/proprietary/bin/gsiff_daemon
 80d36fb0e56b7fcce0afb14853448bd98507acf4c562472ce72ebe8a3147be4e  ./hlte/proprietary/bin/thermald
 52bcd325f826d9cfecb4407c9c75f2e19e095b9a0f2e24f3135075c6861a49d0  ./hlte/proprietary/bin/radish
-e133f607d161c6349b4ecfa1dfac8eebbd3912ce23d9d2cc0910536da35877a6  ./hlte/proprietary/bin/time_daemon
+9eaf9fc247d479a1fbedf0f899f798f045e35bab15155cec067cc0d5cbdf0bb1  ./hlte/proprietary/bin/time_daemon
 8c66c26a17bec61645a072a4bd3b1f3e82bf0cadfff1b3df20958f8a247e03c0  ./hlte/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./hlte/proprietary/bin/rfs_access
 51eba09b5535045ecfeb2e8f198731cbf12d5ea2cab02a04a03cfc20ef7d6520  ./hlte/proprietary/bin/qmuxd
