@@ -3990,12 +3990,12 @@ d35ad9b277493cd17b4f8c29374f08d64e5733732457010f03ab0a2627cd0e67  ./i9500/propri
 f9a494e94d13c5db34ce37829f38243d3f6f57a1245f4190c96f73c1fee0c735  ./i9500/proprietary/bin/cbd
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./i9500/proprietary/lib/libQmageDecoder.so
 bb80306c027426adb7ccd38d3bb1a79232c9d43294c2eb91a131d3595d1bae08  ./i9500/proprietary/lib/libsecnativefeature.so
-25a8afbc262c0d62d8a36410f95e4dbe86e7e38621632a8d0e20adfcd2d71e96  ./i9500/proprietary/lib/libexynoscamera.so
+ae33f5e77817792586ce491a94f248705a8be7898374fcfc16afa0606b0eba40  ./i9500/proprietary/lib/libexynoscamera.so
 81dfcb7f715c47f360a31b43b880f007fb817be92bb523fa15c943b083338edf  ./i9500/proprietary/lib/libvdis.so
 b27570078c233d87d4f862f017d1cfab7c3e09bbd39556c73cc1f003a079d6d9  ./i9500/proprietary/lib/libsensirion_j1.so
 1d12d84279cb408a558d967eb86e2aa6e04e25eed78986cc5d0f9d9e383ab156  ./i9500/proprietary/lib/libakm.so
 e50377fb613ba5894b87ad3be220a36a478d54c3bff6fc055a1eaf3b5aa92cb4  ./i9500/proprietary/lib/hw/gps.default.so
-ce25adb929082fd25215e73eee118de6644e73c5c751e73caf7123ed49fdaeba  ./i9500/proprietary/lib/hw/camera.vendor.universal5410.so
+4f975c17b7f1f9a2f3f0e98441d84c59c8105ed6082fa5264ce9a74ecac61626  ./i9500/proprietary/lib/hw/camera.vendor.universal5410.so
 0a76476d76d0b1816ca735ed66f44e2a880aada670ed17c6a26ab151872e6699  ./i9500/proprietary/lib/hw/sensors.universal5410.so
 6e7cb8e5fb20a54ea455a0e8aaa750ca2cf7e433b9619f861e0b735bac56fb3b  ./i9500/proprietary/lib/libsec-ril.so
 c2d2fcd08e56c0ebf5ebfdf6c905027f463f2e64e1022de96708c08ba4682ac9  ./i9500/proprietary/lib/libwrappergps.so
