@@ -2996,6 +2996,7 @@ b0ebdf8a8b772fd46454eae8c879939698ab2f60650822700fc7affd69f36b3b  ./i9305/propri
 d033cd4fb7c9b47cf87b6ae1a769b1a56ac183ea3d0cf939321e992b60c86655  ./i9305/proprietary/system/lib/libnetmgr.so
 14855d9ce34ba77e7671902c899a381db96a723133fdf8bd67cb114d4bf4b1a8  ./i9305/proprietary/system/lib/libqmi_cci.so
 547fa692bbf549288225e692e1228f40921441d4057f7d54807387a50843221f  ./i9305/proprietary/system/lib/libdss.so
+3477963611b87edf7c5c52490d4ff709cb325121a2ca61e54101d0b13dcd3850  ./i9305/proprietary/system/lib/hw/sensors.smdk4x12.so
 a369601d6a2edf930be6813a42c8eb2a85529c001cf85f98e3b2362b93f89e0d  ./i9305/proprietary/system/lib/libsec-ril.so
 5ab80b0eaa2c17c7a029c1e26541fe30b89498bcda5d5c58b5e998064a8d05d1  ./i9305/proprietary/system/lib/libqdi.so
 4c7ba747071a3a0c2a6a7042bc11231c583cb0bc7f86f1ca40aa791e3cdf6bac  ./i9305/proprietary/system/lib/libfactoryutil.so
