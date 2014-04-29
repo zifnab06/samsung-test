@@ -3997,7 +3997,7 @@ b27570078c233d87d4f862f017d1cfab7c3e09bbd39556c73cc1f003a079d6d9  ./i9500/propri
 e50377fb613ba5894b87ad3be220a36a478d54c3bff6fc055a1eaf3b5aa92cb4  ./i9500/proprietary/lib/hw/gps.default.so
 4f975c17b7f1f9a2f3f0e98441d84c59c8105ed6082fa5264ce9a74ecac61626  ./i9500/proprietary/lib/hw/camera.vendor.universal5410.so
 0a76476d76d0b1816ca735ed66f44e2a880aada670ed17c6a26ab151872e6699  ./i9500/proprietary/lib/hw/sensors.universal5410.so
-6e7cb8e5fb20a54ea455a0e8aaa750ca2cf7e433b9619f861e0b735bac56fb3b  ./i9500/proprietary/lib/libsec-ril.so
+ee9c526501378f1e88c6011e59a63276fa312be38895bb1009f2a5a56b782cd2  ./i9500/proprietary/lib/libsec-ril.so
 c2d2fcd08e56c0ebf5ebfdf6c905027f463f2e64e1022de96708c08ba4682ac9  ./i9500/proprietary/lib/libwrappergps.so
 4ed110104ced1849579544e2327cb4da9e09ec2293fe0037c3914bb55ecb5b4d  ./i9500/proprietary/vendor/bin/pvrsrvctl
 001748bc7c41a71ecddae0dc5ec267912feec76af1967091289b5767c95db933  ./i9500/proprietary/vendor/firmware/setfile_6b2.bin
