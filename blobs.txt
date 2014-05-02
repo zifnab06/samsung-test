@@ -184,8 +184,8 @@ aa73d73565cca333326c123b4ce26b8e6e7b9e9adfa37ea184beef1c1f417e66  ./i577/proprie
 fbb8471ad1859fa84dfe62b1bcabe9a1f5d03a7ada8c4a1eced416526787d244  ./i577/proprietary/lib/libaudcal.so
 8e245af09c5032d1bea6827b8311fff1255a3e9768a96c9b99700c7652bf9cba  ./i577/proprietary/lib/libpn544_fw.so
 4a642ad263fcbe3c4650cc7ef639fe9dda5dba991ca8a664c2643f03793a6b22  ./i577/proprietary/lib/hw/sensors.default.so
+7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./i577/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./i577/proprietary/lib/hw/nfc.qcom.so
-7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./i577/proprietary/lib/hw/camera.msm8660.so
 a503e221db90acd6c6727287fbcbbc828f2705843d61af60e7d4add61758d61b  ./i577/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./i577/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./i577/proprietary/lib/libfactoryutil.so
@@ -447,9 +447,9 @@ e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./exhilarate/p
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./exhilarate/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./exhilarate/proprietary/lib/libaudcal.so
 4a642ad263fcbe3c4650cc7ef639fe9dda5dba991ca8a664c2643f03793a6b22  ./exhilarate/proprietary/lib/hw/sensors.default.so
+7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./exhilarate/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./exhilarate/proprietary/lib/hw/nfc.qcom.so
 c09482615a8c366f0a70586171a1ff6a69dfb9d161d2285c4debd5afe278acc0  ./exhilarate/proprietary/lib/hw/sensors.MSM8660_SURF.so
-7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./exhilarate/proprietary/lib/hw/camera.msm8660.so
 98ec0e41fbaa343e0a6953c96dcdbd5f14f66d5077a5fcccf7f021495294c598  ./exhilarate/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./exhilarate/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./exhilarate/proprietary/lib/libfactoryutil.so
@@ -737,7 +737,7 @@ e371ead59f35c4edfd5dc1ea17db0849dea4530323779b69f3c7b17d3af3f891  ./p5att/propri
 5bdcd4b4f222a8c09203ec15e3edc081c9223b28081f56c08dcad2527e7ec8ee  ./p5att/proprietary/lib/libnetmgr.so
 32c3df01f007962a81e2366111f87ac81df3b15a251c20853cd67b60ca8eb77a  ./p5att/proprietary/lib/libaudcal.so
 dfede90eeca81f06e272bc44b4a9e02ab2eaf62df6c45d39fe6bc244116dde5f  ./p5att/proprietary/lib/hw/sensors.default.so
-d60a090cd28c2178a92192512ea67fac27fd12f00e489dbad33761c997c2aa78  ./p5att/proprietary/lib/hw/camera.msm8660.so
+d60a090cd28c2178a92192512ea67fac27fd12f00e489dbad33761c997c2aa78  ./p5att/proprietary/lib/hw/camera.vendor.msm8660.so
 357db01891e8787e385c777af3fb36c1fc63a91e0c48f9fab8b8973976886301  ./p5att/proprietary/lib/libqdi.so
 142e9ab29464186956b4c687aafbe561f3bd7c376a83fa75a16804157caa38c1  ./p5att/proprietary/lib/libaudioalsa.so
 d49c1cf7e5d5a30457ed2f0b32e3de5fc3663a95a57a54d86a638ed971834f5a  ./p5att/proprietary/lib/libacdbmapper.so
@@ -1700,9 +1700,9 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./quincytmo/pr
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./quincytmo/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./quincytmo/proprietary/lib/libnetmgr.so
 fbb8471ad1859fa84dfe62b1bcabe9a1f5d03a7ada8c4a1eced416526787d244  ./quincytmo/proprietary/lib/libaudcal.so
+965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./quincytmo/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./quincytmo/proprietary/lib/hw/nfc.qcom.so
 8bde4901c5e22ddfcf446e0ba539629c17a6eef27544877cbf4b4f69c9ab21d3  ./quincytmo/proprietary/lib/hw/sensors.MSM8660_SURF.so
-965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./quincytmo/proprietary/lib/hw/camera.msm8660.so
 a503e221db90acd6c6727287fbcbbc828f2705843d61af60e7d4add61758d61b  ./quincytmo/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./quincytmo/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./quincytmo/proprietary/lib/libfactoryutil.so
@@ -2971,8 +2971,8 @@ e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./t769/proprie
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./t769/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./t769/proprietary/lib/libaudcal.so
 c09482615a8c366f0a70586171a1ff6a69dfb9d161d2285c4debd5afe278acc0  ./t769/proprietary/lib/hw/sensors.default.so
+7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./t769/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./t769/proprietary/lib/hw/nfc.qcom.so
-7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./t769/proprietary/lib/hw/camera.msm8660.so
 98ec0e41fbaa343e0a6953c96dcdbd5f14f66d5077a5fcccf7f021495294c598  ./t769/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./t769/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./t769/proprietary/lib/libfactoryutil.so
@@ -3060,9 +3060,9 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./skyrocket/pr
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./skyrocket/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./skyrocket/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./skyrocket/proprietary/lib/libaudcal.so
+965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./skyrocket/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./skyrocket/proprietary/lib/hw/nfc.qcom.so
 c09482615a8c366f0a70586171a1ff6a69dfb9d161d2285c4debd5afe278acc0  ./skyrocket/proprietary/lib/hw/sensors.MSM8660_SURF.so
-965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./skyrocket/proprietary/lib/hw/camera.msm8660.so
 a503e221db90acd6c6727287fbcbbc828f2705843d61af60e7d4add61758d61b  ./skyrocket/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./skyrocket/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./skyrocket/proprietary/lib/libfactoryutil.so
@@ -3574,9 +3574,9 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./hercules/pro
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./hercules/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./hercules/proprietary/lib/libnetmgr.so
 fbb8471ad1859fa84dfe62b1bcabe9a1f5d03a7ada8c4a1eced416526787d244  ./hercules/proprietary/lib/libaudcal.so
+965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./hercules/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./hercules/proprietary/lib/hw/nfc.qcom.so
 4a642ad263fcbe3c4650cc7ef639fe9dda5dba991ca8a664c2643f03793a6b22  ./hercules/proprietary/lib/hw/sensors.MSM8660_SURF.so
-965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./hercules/proprietary/lib/hw/camera.msm8660.so
 a503e221db90acd6c6727287fbcbbc828f2705843d61af60e7d4add61758d61b  ./hercules/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./hercules/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./hercules/proprietary/lib/libfactoryutil.so
@@ -4143,9 +4143,9 @@ d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./quincyatt/pr
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./quincyatt/proprietary/lib/libOpenCL.so
 0008185fb0c3d472d13592ea5d3041f66b0096c69ac3cabe02ab579ca1188c2f  ./quincyatt/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./quincyatt/proprietary/lib/libaudcal.so
+965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./quincyatt/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./quincyatt/proprietary/lib/hw/nfc.qcom.so
 8bde4901c5e22ddfcf446e0ba539629c17a6eef27544877cbf4b4f69c9ab21d3  ./quincyatt/proprietary/lib/hw/sensors.MSM8660_SURF.so
-965de287dbb63b44ca0a45638ea319a9cbb4b81baf764066e5683c2999e3a69c  ./quincyatt/proprietary/lib/hw/camera.msm8660.so
 a503e221db90acd6c6727287fbcbbc828f2705843d61af60e7d4add61758d61b  ./quincyatt/proprietary/lib/libqdi.so
 cfaf80d33ac1933eafb31eb1955c0fbe1a99209beb3c652710f7ed00e5561f05  ./quincyatt/proprietary/lib/libaudioalsa.so
 270259d2718f6211131e0150ed6e7167aeee9213f013a6ac753e58dd91c316e6  ./quincyatt/proprietary/lib/libfactoryutil.so
