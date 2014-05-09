@@ -4654,16 +4654,15 @@ e6237880f7936f9e1f393bfec65de41d0e6245e0f54d0bc92e9fd3c5a461c9af  ./d2lte/propri
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt_murata
 49abf02bf7f46204fe715ab281805d7ee7ba81fe55e40823e2d7f53c6575f61f  ./d2lte/proprietary/etc/wifi/nvram_net.txt_murata_b2
 5df3ad42d1cffe72f8e06d6ebb5ed00a6dc22488e366a16bd24d855d8a55df8c  ./d2lte/proprietary/etc/wifi/nvram_net.txt_semcosh
-75661cc256b01d616858c0cc675d18edd1b47d64f18e0a20ecf38026b6ccbb5a  ./d2lte/proprietary/etc/wifi/bcmdhd_sta.bin_b2
+214b14102303ed727ca53b9c78bfe91bd94f21a31e12533d9ed87f88d3fb8ed5  ./d2lte/proprietary/etc/wifi/bcmdhd_sta.bin_b2
 51fb492f8cb784d8f4dee25242114982a2f719f2687203d9de7f9cd42595500d  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt
-684bf51165a3323a5c3591b9e08f71468c005d59a15b3af53e4cdeab77b36914  ./d2lte/proprietary/etc/wifi/bcmdhd_mfg.bin_b2
-131f49ddb16549c95c7b3471a77138baf8eb30daddead6806fbb1be3baa65b6e  ./d2lte/proprietary/etc/wifi/wpa_supplicant.conf
+c9ffa228d4c850399adc0e16cd02de5816f66723b53b33b48e5adb4157ffb5f8  ./d2lte/proprietary/etc/wifi/bcmdhd_mfg.bin_b2
 75f11c8b21d803941d325a767810294855ce5a78e78e1f8738a210e8b75d3cc3  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt_murata_b2
 d8dd379c5de7fa86d54397c1fe03aeebb5d4085f0df2c285388eae7403fa386a  ./d2lte/proprietary/etc/wifi/nvram_net.txt
 c74b302f5ece52c8d4ab8ce0c09d62b022493e9fa41225b19ef6c222cb8d2a1d  ./d2lte/proprietary/etc/wifi/bcmdhd_p2p.bin_b2
 49abf02bf7f46204fe715ab281805d7ee7ba81fe55e40823e2d7f53c6575f61f  ./d2lte/proprietary/etc/wifi/nvram_net.txt_murata
 627bde570a441efca7a2af087ce7a0a32351f28d3c61e663c63c744ff205ee75  ./d2lte/proprietary/etc/wifi/nvram_mfg.txt_semcosh
-0640b16d05757dc5c2334490b1e737a042befb3db5504500eefafd4a8abc349e  ./d2lte/proprietary/etc/wifi/bcmdhd_apsta.bin_b2
+2121623ad1d54f38359f7ae57963a7fe50f72da36a6920505d86d68c1901bb29  ./d2lte/proprietary/etc/wifi/bcmdhd_apsta.bin_b2
 948b711eeb8220a6c2f3e5c1ae1b809b5edcbb5ba766cc38602c9c5d8b6904a5  ./d2lte/proprietary/etc/firmware/vidc_1080p.fw
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./d2lte/proprietary/etc/firmware/a225_pm4.fw
 096a8abaf484e74a4f084d3cdd396cc2809d7f89cee3f25645a629a845ea37cf  ./d2lte/proprietary/etc/firmware/a225p5_pm4.fw
@@ -4770,3 +4769,6 @@ c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./d2lte/propri
 9eeb99c3918a6a6e9603c5db56fb3c835b751ab978a33b9cb4924f102917941a  ./d2lte/proprietary/lib/libreference-ril.so
 1be08777a1f0c46c18238f68bd93b1b4ba65ef78b5e3e6d507133aedd1199184  ./d2lte/proprietary/lib/libI420colorconvert.so
 5447e46422eb4a1459acdb753026486c9c6ff3e9805965bbe0b240cd7e39a966  ./d2lte/proprietary/lib/libqmiservices.so
+7e44d9a1b9ca43b4a1403ab8110ee6373574023bb617808f06a358243e9d8882  ./d2lte/proprietary/vendor/firmware/bcm4334_murata.hcd
+b04040b9a1dc487127ac4919913c0b4de0bdd79d65948c6b6626ac523f7ba583  ./d2lte/proprietary/vendor/firmware/bcm4334_semco.hcd
+b04040b9a1dc487127ac4919913c0b4de0bdd79d65948c6b6626ac523f7ba583  ./d2lte/proprietary/vendor/firmware/bcm4334.hcd
