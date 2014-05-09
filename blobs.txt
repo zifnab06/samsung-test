@@ -3090,7 +3090,7 @@ f8b159f58504f8e1f48b7a6e3d06095073804a8ab08c5a1f3278be40ccb536d6  ./t769/proprie
 e57aaca9b45b628f50169583fb0bdc15933ab9fa0cd2ccc8d34917703d482146  ./t769/proprietary/lib/libril.so
 f2ce59a9badf2b692fde9a3692829f088390e84bf07352b4c3bd4aff6727fc12  ./t769/proprietary/lib/libacdbloader.so
 c1024c4a89115418a94be5824645ab738c3b9235604deb85e3e1c8ce6a6fc72d  ./t769/proprietary/lib/libidl.so
-f3b3378b6853bdf5387495ba5824cc07f08925ccbedc2c866bd8fc2e6564a349  ./t769/proprietary/lib/libakm.so
+c6bfef5e984f2d1b74c2fd730c30a1372066a365bfbac3e5e251ba1c1db947c2  ./t769/proprietary/lib/libakm.so
 eaf666602e92ee35b15644744ddef13633820d79e0123dd5c00dbb13cfc08e6f  ./t769/proprietary/lib/egl/libq3dtools_adreno200.so
 4a557367cfac0b7905df23c70f60fdf95a1cceb93afa6d79ef51fe3c8d08e763  ./t769/proprietary/lib/egl/eglsubAndroid.so
 3481b374a5fd587772b39612af20e002213cfe44460a9f914aa86be850127e4f  ./t769/proprietary/lib/egl/libGLESv1_CM_adreno200.so
@@ -3105,7 +3105,7 @@ e028c0e5fcc154c4c1c50b24ea0568649f12221efade22cd7aa24808354b342b  ./t769/proprie
 9200ca38982bc7f89fc295709018a56cf6529fee7a80796a6f45d14c02291039  ./t769/proprietary/lib/libOpenCL.so
 ae2d60c0a2bae2b026fbe9e7dc9b6139bd64ff821a2857c011eee78e835d2982  ./t769/proprietary/lib/libnetmgr.so
 16656b3ea24ec381f46bc1d70e84ee2367db72f4cc62ea7eddae4a11d61f3c54  ./t769/proprietary/lib/libaudcal.so
-c09482615a8c366f0a70586171a1ff6a69dfb9d161d2285c4debd5afe278acc0  ./t769/proprietary/lib/hw/sensors.default.so
+deb51039f79ee673789fca7dd7331393b530c796bd46357074ba0c72701bc914  ./t769/proprietary/lib/hw/sensors.default.so
 7f5981b1b1bbd103e4f25f4ef0106f560af9c128cd129a5e90380f84986473d6  ./t769/proprietary/lib/hw/camera.vendor.msm8660.so
 3c4a2d905febb7d71cb611a024b588715360420d84c2a9f53bda5e4ed1fe8c6d  ./t769/proprietary/lib/hw/nfc.qcom.so
 98ec0e41fbaa343e0a6953c96dcdbd5f14f66d5077a5fcccf7f021495294c598  ./t769/proprietary/lib/libqdi.so
