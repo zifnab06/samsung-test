@@ -4728,10 +4728,11 @@ fd524b4178db49e1cbaaf59660ef1974e3e5b993120aeed5bda7f4d4fcf36d3c  ./smdk4412-com
 8f5d53c3c21b065c973caccdc6a6bb8c589f0bc4dcb80c5da1350cb38df19f1f  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GD.bin
 91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZK.bin
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZH.bin
-51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./smdk4412-common/proprietary/system/vendor/lib/libwvdrm_L1.so
-01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./smdk4412-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
-f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./smdk4412-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
-2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./smdk4412-common/proprietary/system/vendor/lib/libwvm.so
+8a640c065157bc454c29a54f4ed04e00f09678c4b111fbde275314910732ec8a  ./smdk4412-common/proprietary/system/vendor/lib/libwvdrm_L1.so
+cb07201bfea05ebe752b3dcf733961e872f4901851a68c931d6017f0ae86cdd8  ./smdk4412-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
+bfe94dde12e402f4d8999cfc10fad67e5f9b6be0738e98d6d2c266843bb19191  ./smdk4412-common/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so
+6032c846bf633c486bd697e88571139800cda789b52d3675d5dae58e08a890a1  ./smdk4412-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
+9d3d71c6e7933bc6cdb016ba8b65ee5ed01ba0dd4aa0240da085a5ba4bafac72  ./smdk4412-common/proprietary/system/vendor/lib/libwvm.so
 7a79f91d6252b66f23f80b18d3072a3b73d8c359930353d8a1713a6a82f3c909  ./smdk4412-common/proprietary/system/media/battery_charging_100.qmg
 441130bd72d6d9e6989c0df059b195e19266addc6ca5d0ec36f88a24685cf9df  ./smdk4412-common/proprietary/system/media/battery_charging_5.qmg
 b8bdb3a5a5cdcf5406367e171aafebf79e3f88d9dd0fb5724212ed16a4eb180a  ./smdk4412-common/proprietary/system/media/battery_charging_90.qmg
