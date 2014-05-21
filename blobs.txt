@@ -4688,7 +4688,7 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./smdk4412-com
 a3310552cd5901b7e7d209d48e377f585d0022e485e30ac34d61c9d2ab74680c  ./smdk4412-common/proprietary/system/bin/gps.cer
 aecbe3dbde8e84286ca7e19ad20e89c91ecbf0030b12bc4107d76a96435bc7d3  ./smdk4412-common/proprietary/system/bin/bcm4334_murata.hcd
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334_semco.hcd
-30b545682c523be6f9623de55665f03f7d6e8cd916b216974b2e6429fdf23c4e  ./smdk4412-common/proprietary/system/bin/playlpm
+4eb9c7bdbf77557b9d7672dd43dc68c348026f6774ff456d6fbc2fe811d0ebc3  ./smdk4412-common/proprietary/system/bin/lpm
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334.hcd
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334_semcosh.hcd
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./smdk4412-common/proprietary/system/lib/libQmageDecoder.so
