@@ -4522,6 +4522,7 @@ d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./n7100/propri
 f9e935eea7e160eb4a29e798558e84da9a0bcd5840316587ffce7211eb325648  ./n7100/proprietary/system/lib/hw/sensors.smdk4x12.so
 d1c5376e32691494913919979d96a21870ebd25e8653a50a815fffc6b11b179d  ./n7100/proprietary/system/lib/hw/sensorhubs.smdk4x12.so
 5ae8489f54dc28df42836ccd7ef5377dee4d3a9b9be1df4c9c7dd240800a44c0  ./n7100/proprietary/system/lib/hw/gps.exynos4.so
+ec32640cd9eced60bc4780a8de41f12efa3d67afe990f5fe91202160d856bb91  ./n7100/proprietary/system/lib/hw/camera.vendor.smdk4x12.so
 3177cdd45b08641fd87b96320ff331ddb665bd172ca5c10dc30fe7aabef4171c  ./n7100/proprietary/system/lib/libsec-ril.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
@@ -4695,7 +4696,7 @@ e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-com
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./smdk4412-common/proprietary/system/lib/libsecnativefeature.so
 4c45cfd68f1a2a91da547182e16f452eb14b12202812e8fb2d72de8bdaff33b3  ./smdk4412-common/proprietary/system/lib/libMcClient.so
 455351707f51b20d99784e9c54cf79cdbad4fbeffba989f18fc135e47065dc65  ./smdk4412-common/proprietary/system/lib/libMcVersion.so
-9bc228f6cbfd742d808fa95dff867cfc4f23c30c96458e95249e3911ae6000b9  ./smdk4412-common/proprietary/system/lib/libfimg.so
+7bd0d715fbba1e6f1986a83f39be49eeeab348e1be023477c6a087d952ef8297  ./smdk4412-common/proprietary/system/lib/libfimg.so
 6b4aa693a2396084406ba5c26d5138d26e07d31148af78d386b28f43b31df1aa  ./smdk4412-common/proprietary/system/lib/libUMP.so
 8483be3c651b1857728862f50beec9d312c59b91b3764506fef4d70ae412b7d8  ./smdk4412-common/proprietary/system/lib/libvdis.so
 94d6d543ecb9a30226d08e8bff9a40a672425bdd3e6910cf251e0d9138c4fc48  ./smdk4412-common/proprietary/system/lib/libedid.so
@@ -4705,7 +4706,7 @@ e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-com
 90f90befd653e9b120e0716e2353e3a61165632733dd99a3c6564345d9ea62f1  ./smdk4412-common/proprietary/system/lib/egl/libEGL_mali.so
 f70d3c904b6b27ab6cb141e6ef348452498014185068c67fc25a88698ed1b5ce  ./smdk4412-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
 fb5fb9098976ae3ec14d33dc65346497744845f5382cde4ed08168c6942c8ecb  ./smdk4412-common/proprietary/system/lib/libhwconverter.so
-dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./smdk4412-common/proprietary/system/lib/libfimc.so
+a8e0f2ae5b509e1d644f107d7589a34b1928a9632d9e3bfe8eb900bcdee11849  ./smdk4412-common/proprietary/system/lib/libfimc.so
 164d509fd0a3271913691e3dec3bbe1a6fc7974901c65d9dcf04d963d8e2e716  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
 3eeb408b043813e3334f1da6e977f4b5699da4f8f89be5f3e9650cc0be0ce2ce  ./smdk4412-common/proprietary/system/lib/libMcRegistry.so
 9cedb8d4a75a0f223bf0bcedabc05d5a8a9e96e40f8e9934bc872c732b12450a  ./smdk4412-common/proprietary/system/lib/libquramimagecodec.so
@@ -4714,16 +4715,16 @@ d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./smdk4412-com
 5ccc92158ea9cccf8b176ced1e3aa1f97c66283527895bbbbbc64bd5a5e01743  ./smdk4412-common/proprietary/system/usr/keylayout/sii9234_rcp.kl
 d5340b8a77b92ff91f0b1462a7edadf6548751770f2b0524e468ce7bfdb44f61  ./smdk4412-common/proprietary/system/usr/keylayout/gpio-keys.kl
 8ae9af555bdb6b1fbec122425ff810a17f672cd2d98f291af2bb521f0c300b6b  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_PH.bin
-fb3c3d0951bd2003c296d93f356677f63f8d015b62f19cca3249734403475120  ./smdk4412-common/proprietary/system/vendor/firmware/fimc_is_fw.bin
+0b1c78124cfd806cb495befc32d40d113cd0be560965fe85fc58b123ffdcdd07  ./smdk4412-common/proprietary/system/vendor/firmware/fimc_is_fw.bin
 353c19b74bd613389d715840eac71a51e43e25263a05114c089cfeebb15dddd5  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZD.bin
 05ce013ca3b0bede533ad18cff3d732f30e26c9c69b2e617ccf97ce7f6c88018  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GK.bin
 4620769ace05cb3f8283f6860adead66e03b92b83eccb099abb414bbb84d894e  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZM.bin
-57021d1f2255c175d3b425dc3d46e3032d16abe98ca729b1febcedb75f7e927f  ./smdk4412-common/proprietary/system/vendor/firmware/mfc_fw.bin
+851e7f008cee93dd1746114d241807252b8d7ac58be5d7e748d34376163abe5a  ./smdk4412-common/proprietary/system/vendor/firmware/mfc_fw.bin
 a81d44c1132e42045c25469bcc8f77186498d50490a3ac2671e0e7c56e0af74e  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_BH.bin
 2218a6c55979050a0b4f44889b5508878b7b18fa46c54f3a4bdee3a9d61618e5  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_JH.bin
 fd524b4178db49e1cbaaf59660ef1974e3e5b993120aeed5bda7f4d4fcf36d3c  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_WH.bin
 8346a935081839c71701c65e011a1ace75b40ca6d4bbb721502d09b6d0540e2c  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GH.bin
-987a35e0c5bb6d5ed13051ab225f295024c1e363d83c80794942516419d8b68a  ./smdk4412-common/proprietary/system/vendor/firmware/setfile.bin
+1e03923c4ac802a8f7eda84dd8100b22abfd713ce2841c22ad7c89ed9cc9e638  ./smdk4412-common/proprietary/system/vendor/firmware/setfile.bin
 8f5d53c3c21b065c973caccdc6a6bb8c589f0bc4dcb80c5da1350cb38df19f1f  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_GD.bin
 91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZK.bin
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./smdk4412-common/proprietary/system/vendor/firmware/SlimISP_ZH.bin
