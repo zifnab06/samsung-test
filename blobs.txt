@@ -4722,7 +4722,7 @@ f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2lte/propri
 2182c9ead59532c674918d9587ce31f21d2101cbc1bad479ccdbd41055b06ade  ./d2lte/proprietary/lib/libCB.so
 0781b64fb9c9110b2bc1eae3731aef85de279787ac719422ed5d6dcb3579e64f  ./d2lte/proprietary/lib/libacdbloader.so
 7951aff2a28d5bb3beb3bfc8529e579b35ee08d0624ef10f7267f58b15685c87  ./d2lte/proprietary/lib/libidl.so
-1b008006389b5a6b3ca5a1711560c58e792741ec068d918722fa723363020e7d  ./d2lte/proprietary/lib/libinvensense_hal.so
+768cc8c64270fa284c922408b45bcd581d8e52750480d0f6e9fefff66996ad46  ./d2lte/proprietary/lib/libinvensense_hal.so
 6628d955573d594d4dfc8b613e7507a5d292c1b6b8488c6e76a000706e8159c6  ./d2lte/proprietary/lib/egl/libq3dtools_adreno200.so
 3583818fc8b87efee660d601c83f9bb58c02bda728840e9260571ce274856d13  ./d2lte/proprietary/lib/egl/eglsubAndroid.so
 0b845d80462475598eafe6e73cea2c197bf39c5999b68c19e72b32a5953c8d25  ./d2lte/proprietary/lib/egl/libGLESv1_CM_adreno200.so
