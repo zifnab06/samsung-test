@@ -1015,6 +1015,7 @@ bb20262cdaefd9d11218a3daf3d3cd94c200425585aa71bfc83cf0d16082b441  ./apexqtmo/pro
 309018c219c965ac6c69fe730fdf6939ff6a71a6c2f7e79f60d0fa0ed6074dc0  ./apexqtmo/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 583c2a39f9e1372a3847617f48d3f9ab9834f597ba4acc8785d5630f84d0ef13  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 c06dfa96b43f0b6cdbd13ba9e6aa1dd6f1ef5fa4731fe05367d2bcf678b82234  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_preview.so
+1b008006389b5a6b3ca5a1711560c58e792741ec068d918722fa723363020e7d  ./apexqtmo/proprietary/lib/libinvensense_hal.so
 bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./apexqtmo/proprietary/lib/libimage-omx-common.so
 8327ffe82a114394abbb5e87779257e9811847b8cbfe9f1c721f2368527f924f  ./apexqtmo/proprietary/lib/hw/camera.vendor.msm8960.so
 1329c3c8a1249827a6bb600d608ddc2e1700d2734623f8fd2f4b5df118c403a3  ./apexqtmo/proprietary/lib/hw/sensors.msm8960.so
@@ -4399,6 +4400,7 @@ ce9bf8ccefe1c532214949542b044134f402b5371b6f4f8d510efc39d410625a  ./expressatt/p
 5710a09b3dee9fa0e97e193858f59d01f7d0d38954394aafeb84e5713aebf11f  ./expressatt/proprietary/lib/libril.so
 583c2a39f9e1372a3847617f48d3f9ab9834f597ba4acc8785d5630f84d0ef13  ./expressatt/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 c06dfa96b43f0b6cdbd13ba9e6aa1dd6f1ef5fa4731fe05367d2bcf678b82234  ./expressatt/proprietary/lib/libchromatix_s5k3l1yx_preview.so
+1b008006389b5a6b3ca5a1711560c58e792741ec068d918722fa723363020e7d  ./expressatt/proprietary/lib/libinvensense_hal.so
 bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./expressatt/proprietary/lib/libimage-omx-common.so
 233d966109b33284f3a4b7c496a8c407a13cdee4619fccbf1dd922f3edc47a24  ./expressatt/proprietary/lib/libnetmgr.so
 07fd28c9cfcf3e3baf83dcdd199e2fc26313a0e0cc5b49488ae4e55ae45779cc  ./expressatt/proprietary/lib/libqmi_cci.so
