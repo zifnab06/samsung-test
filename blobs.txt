@@ -3384,6 +3384,7 @@ d88f22a9e58d8bf93c188969c28ce5788e26367ebe8cbcda76d329293a9d7e51  ./superior/pro
 0be479d597a9415e8c5d6cc682de3e4aeb8394207068b44c2a4caaac3fef01a9  ./superior/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.H264E.secure.so
 4baa09bc8420703083e3ce479839cd31c8bc120e6b0212e896711329e01f99f6  ./superior/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.CAMERA.so
 6a051732187aef550f15033136ec8f7fe8b2da523822847c653db19cca675db0  ./superior/proprietary/system/lib/libtvoutinterface.so
+89227e01a65d39359740e4391f9298a01b404d1b03f2640f2ebe9574adbe03c1  ./superior/proprietary/system/lib/libmedia_jni.so
 898759ac2c2a6b7991a0979934b9d10da0fb28050479ee233bd5f9f0d01a66eb  ./superior/proprietary/system/lib/libOMX.TI.DUCATI1.MISC.SAMPLE.so
 8bdacf61d2c49564421b4f5e322261e5336bb6c1fa124258b710fd9d341ab647  ./superior/proprietary/system/lib/libarcplatform.so
 e3e9bf11fa1cb6fe571286f0364cb93ba712723876576ac93ce3a55e2634a57b  ./superior/proprietary/system/lib/libOMX.TI.DUCATI1.VIDEO.H264E.so
