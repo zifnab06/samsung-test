@@ -4318,6 +4318,7 @@ b76d6c0ea6a660d89a393cdbc0f411a362a1e44d1ce22bfc38798009a8d18ad1  ./i9500/propri
 d35ad9b277493cd17b4f8c29374f08d64e5733732457010f03ab0a2627cd0e67  ./i9500/proprietary/etc/wifi/nvram_mfg.txt_semco3rd
 11022803c41f4ddab79448afbdfac6c38a97f5ab35685d04d355045de6138adc  ./i9500/proprietary/bin/lpm
 519b374999cb41844494c2124836c61752f4d1a1f5534a2a58fc9e48827246b6  ./i9500/proprietary/bin/gpsd
+2938b50137e1d64222314b4f6460dc19b6a7bde9746c64d7d1880a0ba2ab07c6  ./i9500/proprietary/bin/scranton_RD
 f9a494e94d13c5db34ce37829f38243d3f6f57a1245f4190c96f73c1fee0c735  ./i9500/proprietary/bin/cbd
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./i9500/proprietary/lib/libQmageDecoder.so
 bb80306c027426adb7ccd38d3bb1a79232c9d43294c2eb91a131d3595d1bae08  ./i9500/proprietary/lib/libsecnativefeature.so
