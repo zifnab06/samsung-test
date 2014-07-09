@@ -2134,7 +2134,7 @@ ba0b5fadd12fc80e16f821c1c36f69faf62bb58016aa12efc042308b629d704a  ./hlte/proprie
 2cf1f07ff36086872867f9760c7b4c7e21f4b4ba772d436b8f0ea20cf13926c6  ./hlte/proprietary/etc/C13QS_imx135_module_info.xml
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./hlte/proprietary/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./hlte/proprietary/cameradata/datapattern_front_420sp.yuv
-d512c590a79620b66fde5b4ea6295c804d5e6a50434dfd1724ed5c59bc1c2176  ./hlte/proprietary/bin/mpdecision
+84fb7d820e35798a4c1accb2667c6cd9c34ade189d82a577fcaa4bf0b9929497  ./hlte/proprietary/bin/mpdecision
 e6bcb81d1363785fd59791ce483d9ffc7173def959ca262667d70c904a7171d1  ./hlte/proprietary/bin/mm-pp-daemon
 48eecc3529a41467261fc9dbe5d8b7216251784244e05d31c141190450653b6b  ./hlte/proprietary/bin/qmiproxy
 39495f3a59d4341be7e6bef0f9f80de5a06d170ace08bf92679a209041702f09  ./hlte/proprietary/bin/hvdcp
@@ -2400,7 +2400,7 @@ b9d5ea1feb097fc3c4e68a31e02ae1b3bc314e7b275bc28a3cf7ab66cda2722d  ./hlte/proprie
 b0ebdf8a8b772fd46454eae8c879939698ab2f60650822700fc7affd69f36b3b  ./hlte/proprietary/vendor/lib/libqmi_common_so.so
 eb8e7583929640322139d7ab6f246366dfded5c4d50b0288802176ac82d320e1  ./hlte/proprietary/vendor/lib/librs_adreno.so
 9a2ff3e61359e9fb51ca283bbdd17ed0dc61889b14e19573fabd7f8af8999586  ./hlte/proprietary/vendor/lib/libOmxQcelp13Dec.so
-182912f421c2502fe8a5fd446f0f995b1e7aa080c14fbdc626774b2998a2dcc9  ./hlte/proprietary/vendor/lib/libqc-opt.so
+2ac5702c3415e88f80a4b5df1fc47ba07fd77baa3648df94d76b59fd745212c5  ./hlte/proprietary/vendor/lib/libqc-opt.so
 cb0cde5ec184a46a205bcb104e4b105d2a6dbd4ddcd6f7c07f7a90c6f9bccc2b  ./hlte/proprietary/vendor/lib/D13QL_libchromatix_s5k3l2xx_vt_hd.so
 f4de9677faf03e728661d494c3f0d8838fd00bf2483e124a005c288a153b22db  ./hlte/proprietary/vendor/lib/libmmcamera2_stats_modules.so
 b9db0744e0ff891411cb3f6ef205148ea6b5ff0686055b461f45a764d9016026  ./hlte/proprietary/vendor/lib/libOpenCL.so
