@@ -2256,12 +2256,6 @@ b62ab19dd30596a5fdf6a4c1ddd2d188bd45ef8ffc57a1297ed0a1c0168732a4  ./p1/proprieta
 49bf7008bfda7cfb7eb1d89b7e9e4ced586fe0658ef7a16f37cacd9a5ae7571a  ./p1/proprietary/libsec-ril.so
 f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./p1/proprietary/gps.s5pc110.so
 6a4086fb8ce42aad8500ac3ca8c08b3484ad5d79094ecfb9cbf69a18d74ab80b  ./p1/proprietary/libsecril-client.so
-9e92794855eebcc914b4cbc093df4c6209a578fb6fa5d88c8c0113e9a5b66e67  ./i815/props/system/lib/libsec-ril_lte.so
-210a064048fa812188324efbfd57193103f631623438d03c06d8a43f9db1f881  ./i815/props/system/lib/lib_gsd4t.so
-9fa1240cc6556c56c63275644a0dd30000f131b72bcce7a68c41fc91f02cb2ae  ./i815/props/system/lib/hw/sensors.exynos4.so
-672fba10750607ec7414bff6ec70cb9e87c0248934a2e7ab09d3a2bdab48ed58  ./i815/props/system/lib/hw/gps.exynos4.so
-35c62188b333252d73d7c0aae586096f75766b0a39b2e929a2081c2b0763c4f4  ./i815/props/system/lib/hw/vendor-camera.exynos4.so
-d8378c8a8d7c6b0816ddc3b13865344ebdbaccaf5ee55b0006cf8dccbb7cbd73  ./i815/props/system/vendor/etc/sirfgps.conf
 eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./p6800/props/system/bin/gpsd
 45030212b8e6a3d158b29a16e0ed86b1f39b4be70bf8447959a2a1a1355830a8  ./p6800/props/system/bin/rild
 cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./p6800/props/system/lib/libril.so
