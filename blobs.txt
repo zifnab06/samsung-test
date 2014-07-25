@@ -41,13 +41,6 @@ a861d876f243480b2f3da6d8b9df09aa79183c343a49b80b61e0ae90c5bf85ed  ./galaxys2-com
 01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./galaxys2-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
 f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./galaxys2-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
 2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./galaxys2-common/proprietary/system/vendor/lib/libwvm.so
-eb308610079d49722a7de8edc285b8d1a8a2127e4e55366e2945e6c2b932e74e  ./t869/props/system/bin/gpsd
-45030212b8e6a3d158b29a16e0ed86b1f39b4be70bf8447959a2a1a1355830a8  ./t869/props/system/bin/rild
-cda6cba54bbc37a3865a88e57238e88dd3e9489b6c5b08a91da5bde3e2e802d8  ./t869/props/system/lib/libril.so
-b1594641fd8607c88fb6698adcdf82590d24ea440b7de7999c389bedee7bb5c4  ./t869/props/system/lib/hw/sensors.exynos4.so
-15446a4682d6f9c3f4618f0a4cdce5facadd7fe9189a71e873f709a98295eb50  ./t869/props/system/lib/hw/gps.exynos4.so
-3fd2ae3a79ce285c84293e40396eb20da7f68a73cef892edb27ca04490ec38cc  ./t869/props/system/lib/hw/vendor-camera.exynos4.so
-9dc49f745553698ee0987741cfb3965a6735ad921509125caef362eaeb415841  ./t869/props/system/lib/libsec-ril.so
 1b5b1b5bb49d349425345d4d98410009ee0c640c9058972f8bfccc357a056983  ./aries-common/proprietary/libpvr2d.so
 a16c4f2928619f000f6bdbbb904e5b3fdbe0ccefe37a59d8ff965d66ecaf7c4b  ./aries-common/proprietary/libtvout.so
 fe3d8c0cdf55e525156e60a44f5f7ef1b36a6e46ca5d95f80affc8884853ccc4  ./aries-common/proprietary/libIMGegl.so
@@ -80,7 +73,7 @@ bbc043249f2f9bea7f6562e4db1ba1cbdd17ed88309d9b32717ea6a72c1b862a  ./aries-common
 4ce06520f25818d58176b212dfcaed283053fcc2c940d87b71c59cac1aebe84b  ./aries-common/proprietary/libglslcompiler.so
 1e98a81e9b07988c7e0f178a46c6de8cf60ddc876770bf052ffa010b76619ae7  ./aries-common/proprietary/samsung_mfc_fw.bin
 426a4aed03991bf53550fd91ecffeace2d8770869662c9d731af95e961d29a80  ./aries-common/proprietary/libtvoutservice.so
-f3b622cde19d1db0e7e94c85b4a4ca3b9e474076cdaaf92a79e907a00823c383  ./blobs.txt
+1788a0b53a6b23a21ceb98227513ae3bcf988d0a2c4e96bd57a574a833cd8f96  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
