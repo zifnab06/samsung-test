@@ -781,6 +781,7 @@ bb20262cdaefd9d11218a3daf3d3cd94c200425585aa71bfc83cf0d16082b441  ./apexqtmo/pro
 13cf3b7e3d5f2806fbe34d35a498b45d12c2f8dea7a10e14aee407b4a2c5b87b  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_default_video.so
 834f78264ff0714b02cc8a4171225f554bb39ca2bdd31b7d4bd618dd93bc5f58  ./apexqtmo/proprietary/lib/libimage-jpeg-dec-omx-comp.so
 309018c219c965ac6c69fe730fdf6939ff6a71a6c2f7e79f60d0fa0ed6074dc0  ./apexqtmo/proprietary/lib/libimage-jpeg-enc-omx-comp.so
+407d864cc9cb422a11db73c732b880920116fda644d4693ed65a83ba78f9334c  ./apexqtmo/proprietary/lib/libril.so
 583c2a39f9e1372a3847617f48d3f9ab9834f597ba4acc8785d5630f84d0ef13  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so
 c06dfa96b43f0b6cdbd13ba9e6aa1dd6f1ef5fa4731fe05367d2bcf678b82234  ./apexqtmo/proprietary/lib/libchromatix_s5k3l1yx_preview.so
 1b008006389b5a6b3ca5a1711560c58e792741ec068d918722fa723363020e7d  ./apexqtmo/proprietary/lib/libinvensense_hal.so
@@ -790,6 +791,7 @@ bfe892426879ddec74c3006e36c7c7ce85a9ffcbf5492b73582dcdad5c482e7d  ./apexqtmo/pro
 fe0f9b4608dc3fc3221d2e5d626ca6fa33b938f8374494a135a8cb2262834543  ./apexqtmo/proprietary/lib/libaudioalsa.so
 95c0f2ed1ce68e837d8a149fbf24d325675c6894fe418a6022d3c91f784bae99  ./apexqtmo/proprietary/lib/liboemcamera.so
 9ab3fa468d0f4e710aeac9b86ac86685ddc5bd46fc08b8541e299d428c57ac7c  ./apexqtmo/proprietary/lib/libbtnv.so
+17610a210d9369a07870da58e21e935ea5403b2264852448c19780fd62894bc8  ./apexqtmo/proprietary/lib/libril-qc-qmi-1.so
 47b5ce235e9650853f439a4713a8743cbb079e96a0dc5e9b7da7584812c0913a  ./apexqtmo/proprietary/lib/libaudioparsers.so
 7f5e2ca14327fabaa752800830384a6b0bebd5384fdd232683ef5acef38704df  ./apexqtmo/proprietary/vendor/firmware/libpn544_fw.so
 1f2d20f0856c3757280289734d213e7c8d0d6853e7fbb99e665dd65c1d457a0e  ./maguro/proprietary/lib/libdrmdecrypt.so
