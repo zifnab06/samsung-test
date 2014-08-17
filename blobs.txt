@@ -616,7 +616,7 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./msm8960-comm
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./msm8960-common/proprietary/cameradata/datapattern_420sp.yuv
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./msm8960-common/proprietary/cameradata/SlimISP_ZH.bin
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./msm8960-common/proprietary/cameradata/datapattern_front_420sp.yuv
-57330aa50932297cb9a4791707d6ef7741267f7cc3c56ff4f05b497c558738f4  ./msm8960-common/proprietary/bin/mpdecision
+38997a0c77f9e1d13c2c6a044cd883555280a9cf552ecf77e071fab38ec4d1fe  ./msm8960-common/proprietary/bin/mpdecision
 169e3a91109c078791157036b9189f90df16133c4ed4a8aab9252482e2ac774d  ./msm8960-common/proprietary/bin/qmiproxy
 0e21a4a2f15e32c8f27f65ad5ec795d0e254be99906de95b15db396dae30571b  ./msm8960-common/proprietary/bin/mm-qcamera-daemon
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./msm8960-common/proprietary/bin/rmt_storage
@@ -668,7 +668,7 @@ f3eec4c916ac0ff726fe5262561aacc97b1bb56954914d18cc2f570c2a7dc153  ./msm8960-comm
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./msm8960-common/proprietary/lib/libril-qcril-hook-oem.so
 9a600d3433d29b04930fe789c18cd2c70fd4c7afed0fd6b006bbc0884ea9982f  ./msm8960-common/proprietary/lib/libc2d2_z180.so
 19a1aed518fd25a15610166c888a62de329d49ca5e4a762ff82d95b8cbf8c906  ./msm8960-common/proprietary/lib/libqmi_common_so.so
-c9c7f9da09d8f1a0811b8c4125c182bf30900896eee70e34bf98d8471b623009  ./msm8960-common/proprietary/lib/libqc-opt.so
+2ac5702c3415e88f80a4b5df1fc47ba07fd77baa3648df94d76b59fd745212c5  ./msm8960-common/proprietary/lib/libqc-opt.so
 8175f00cc8e40261d651da6070faaf10758bbf77e2eaaa9c177d3be524830dd5  ./msm8960-common/proprietary/lib/libOpenCL.so
 6c7cabcf915755617cc4aa4aef4f3bfb6fc3204b0f08f1842ab0ea32882e9a40  ./msm8960-common/proprietary/lib/libnetmgr.so
 3a76285d631104488906726fbf94d5774a7bec2747f1a8bc80fe4b276d6d4c30  ./msm8960-common/proprietary/lib/libqmi_cci.so
