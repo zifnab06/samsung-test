@@ -462,7 +462,7 @@ f5f57318b954fcead90b9dfe99ed4d2edb21555e699e65c8aa3987d3c9bdfd3d  ./jflte/propri
 be778a31a04908b252ae5680219b78f18823598a6c304a2a71881424cfd5beae  ./jflte/proprietary/lib/libchromatix_s5k6b2yx_video.so
 4554a11a3734d2284bd18576e174f7076688146164ebaab23253e624c046ecab  ./jflte/proprietary/lib/libchromatix_mt9e013_default_video.so
 2bf4c7efcc7e805c700975fb1e310907e8f20bed1f169774893706045bc74d51  ./jflte/proprietary/lib/hw/sensorhubs.msm8960.so
-191656a9e6db5ac5893729c7381d442c4f7e41dabf8318db0ff1cce7b4101a18  ./jflte/proprietary/lib/hw/camera.vendor.msm8960.so
+6939036dffc3470738171c9b6e454986b6d49924ef642e5e5624c3295745894f  ./jflte/proprietary/lib/hw/camera.vendor.msm8960.so
 29442928956d6b41e513e64a57f9fd0e6ac2ae1fa1a046d58f7d9f1d6bc454de  ./jflte/proprietary/lib/hw/sensors.msm8960.so
 44e8414fd675f44fc9741af419406367a820e1a60858187e4a7f82779b8636c1  ./jflte/proprietary/lib/libchromatix_ov2720_default_video.so
 7e28438073d1b8cd26843e02c7bb75826ce0646fb0663ed6c35fb104280f6711  ./jflte/proprietary/lib/libfactoryutil.so
