@@ -631,13 +631,12 @@ bbb48fd4fbe51c70110daab70ceefc33f836af9664c215255d36eafeddfb6899  ./msm8960-comm
 f9144c616f6331eabcc880d4b56330ab4a8ed920180e499a8e5ee0b6d683a059  ./msm8960-common/proprietary/lib/libmllite.so
 b6aeca7afa334b03a6c2dba8a54d6eb2e6f8cb4e39372dcad374449694f9e1cc  ./msm8960-common/proprietary/lib/libmmosal.so
 a1d5b562221f2cab5f7e7bf8278f018d921da73e04d31d91502f14403d644f81  ./msm8960-common/proprietary/lib/libsc-a2xx.so
-4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./msm8960-common/proprietary/lib/libloc_api_v02.so
+5f55c34ea1101a212ca227ce471791b8eddfccd95d10df0bb9d1cb5c110ab129  ./msm8960-common/proprietary/lib/libloc_api_v02.so
 ea18468057fa5859df76149868f4547283084b5f97a5180ae6f2df5759a65847  ./msm8960-common/proprietary/lib/libmmjpeg.so
 1e4d763924abb1643441391e4adbcae230f8aa7b1ef5a822de973baabdc61442  ./msm8960-common/proprietary/lib/libmmcamera_frameproc.so
 f346d801d8e7b20d9c394604dea518bf21607edf719998f26b8f833d9e44ffe9  ./msm8960-common/proprietary/lib/libgemini.so
 124c391731cd40813b2c3eab0820703679639f666ebff02f228a46724deb69d4  ./msm8960-common/proprietary/lib/libmmstereo.so
 b6c61e8b5e109be5e41c8c7662725ec1f4aa43eba943ef5aa6b90814c5c5a625  ./msm8960-common/proprietary/lib/libgsl.so
-30c0833d7501d39510a9d116aa3c7b9373ef078f5ed9ad9b322fb15bb9943d92  ./msm8960-common/proprietary/lib/libgeofence.so
 1b71ac20080e6d21837edca49a2ce2167452e56da114d878f00682b32e82177f  ./msm8960-common/proprietary/lib/libmm-color-convertor.so
 70fc965ff59450529c3fed682948cc2ae32e95cdd52cb4e4a67f9a497ed8e243  ./msm8960-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 d737c1c95435f1e969a6cf8a3b0c56894d6258580dbdd2158cd278f9525e4f6e  ./msm8960-common/proprietary/lib/libdivxdrm.so
@@ -671,6 +670,10 @@ fa5909bcb1a54770d3afb577bc093b293300c089c2c0c644d1b86c55c5699091  ./msm8960-comm
 c72f382fa1cabcd9a95f3539e143f5dbb2e1b1b239c1de418e99cd8afe909dc5  ./msm8960-common/proprietary/lib/libmmstillomx.so
 2ff4709d488d4d087c67c3fb09033463101b09f4975f68e604458fb823f9b882  ./msm8960-common/proprietary/lib/libI420colorconvert.so
 3f2bc866effea11d14a38fb6921bedf2d06aab1612ca62406aeaf344dbce02cd  ./msm8960-common/proprietary/vendor/lib/libdiag.so
+11410e479e9f468cbb62fb42c258022704ad5bf9474e218953417bf6b198d53c  ./msm8960-common/proprietary/vendor/lib/liblocationservice.so
+0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./msm8960-common/proprietary/vendor/lib/libizat_core.so
+9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./msm8960-common/proprietary/vendor/lib/libgeofence.so
+357432b3e68711052b1e896c052421027e887dcc61f4361ca4f602db47fbbec3  ./msm8960-common/proprietary/vendor/lib/liblbs_core.so
 4f0c045e4eeb1458941aa966e71843ed6f178caaf9bdde5f6775057e55baf584  ./celox/proprietary/Driver-EULA.txt
 27e5e3d449b6742e947887df73b5b89169685e6593e760384c477a350f6604f3  ./celox/proprietary/etc/apns-conf.xml
 e30bf7ee409508128edc2ec89b579c70300456de1b6a8f179c1ac5b73f878ce0  ./celox/proprietary/etc/gps.conf
