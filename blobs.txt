@@ -604,6 +604,7 @@ b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./msm8960-comm
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./msm8960-common/proprietary/etc/firmware/a225_pfp.fw
 d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./msm8960-common/proprietary/etc/firmware/leia_pm4_470.fw
 cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./msm8960-common/proprietary/etc/firmware/leia_pfp_470.fw
+05099f46142f3b808ebaf9f598753cd8c8d9a867716752cec6003829111bff8a  ./msm8960-common/proprietary/etc/sec_config
 8ae9af555bdb6b1fbec122425ff810a17f672cd2d98f291af2bb521f0c300b6b  ./msm8960-common/proprietary/cameradata/SlimISP_PH.bin
 25bc912d3fc318ae64831e58e9045ac51205dfe20a80f4d00ac01faf76ed5f83  ./msm8960-common/proprietary/cameradata/SlimISP_ZC.bin
 353c19b74bd613389d715840eac71a51e43e25263a05114c089cfeebb15dddd5  ./msm8960-common/proprietary/cameradata/SlimISP_ZD.bin
@@ -619,6 +620,7 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./msm8960-comm
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./msm8960-common/proprietary/cameradata/datapattern_front_420sp.yuv
 38997a0c77f9e1d13c2c6a044cd883555280a9cf552ecf77e071fab38ec4d1fe  ./msm8960-common/proprietary/bin/mpdecision
 0e21a4a2f15e32c8f27f65ad5ec795d0e254be99906de95b15db396dae30571b  ./msm8960-common/proprietary/bin/mm-qcamera-daemon
+5b74fc725799632e9f3ba9187156ff6cd5c146f337dd67bbacf30610cbbabe08  ./msm8960-common/proprietary/bin/irsc_util
 74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./msm8960-common/proprietary/bin/thermald
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./msm8960-common/proprietary/bin/radish
 14215fea97579664c37906494ff72e11cbbba94b4abb8281481a8c36c115cef2  ./msm8960-common/proprietary/lib/libqdp.so
