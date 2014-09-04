@@ -290,6 +290,7 @@ d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./klte/proprie
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./klte/proprietary/lib/libsecnativefeature.so
 89f1baedbe9291cda18ead2817cc9933be6c2a545347dd90dc2bffae37c3ccdf  ./klte/proprietary/lib/libloc_api_v02.so
 23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./klte/proprietary/lib/libril.so
+2f2306f8b860dd3052c7e90e0514cd4cecb765d6d11a062c59ff441be8292562  ./klte/proprietary/lib/hw/nfc_nci.msm8974.so
 d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./klte/proprietary/lib/hw/flp.default.so
 cb550f59270f608c74d84fc0518528adeac9297c21f734b64daa4d5a4003ccf4  ./klte/proprietary/lib/libsec-ril.so
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./klte/proprietary/lib/libsecril-client.so
