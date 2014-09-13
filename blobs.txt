@@ -494,7 +494,7 @@ b40b0cbac4510c73cff7b1203228bc87a220cdd70ab888433f7114189d407ce4  ./jflte/propri
 4b286ea70722cf221c05f2592e82bd47e8432132c173d458ae3137279a34575e  ./jflte/proprietary/lib/libchromatix_s5k3l1yx_zsl.so
 f8c718449fb42ce660b68116255b8f5cdbe1ab24373b4712cc697cb8b5fca9d0  ./jflte/proprietary/lib/libmercury.so
 328ed3e4b102b525c4e291f95f55417cfaff8e7102190d7af61b218e67b48609  ./jflte/proprietary/lib/libchromatix_ov5647_default_video.so
-ead2c1453399a174e67c953357da5b3a6b636de763c92feae6f93b0bd9375767  ./jflte/proprietary/lib/libloc_api_v02.so
+fb05d8ccf38b460242c094bbe5551228ffea1c82d9c7a5aa3c133718f68ab2ca  ./jflte/proprietary/lib/libloc_api_v02.so
 fe38c55ae62aa6b143ab5415a81045055abd9f19171f4183fb78f34f9a786966  ./jflte/proprietary/lib/libmmjpeg.so
 7ddd5c7d775af5db76c57f52e08410ed24b444d7c9a7dbd87ed6cd55f32fc523  ./jflte/proprietary/lib/libmmcamera_frameproc.so
 47f2df973354d003fa84691e4791da27bfeb21f6270ca6be27c6c2bad0d86c3e  ./jflte/proprietary/lib/libchromatix_s5k4e1_default_video.so
@@ -604,7 +604,7 @@ b0935c2c624f70d2e86cc86e03300c6314edffcd6684701cea270436ee221545  ./jflte/propri
 04edd10b7d98304b95a7c8dd5c6f657bec26928a176b87562e55e8f849e67e93  ./jflte/proprietary/vendor/lib/libqmi_cci.so
 4f540193757d90015a2467b88c8fc27171020a4b34da6f624dd76c8687f02ad4  ./jflte/proprietary/vendor/lib/libadreno_utils.so
 ee6e96c8d3262d31df92d59572aff70292444a94a7bf6685b46873b9c681c4eb  ./jflte/proprietary/vendor/lib/libaudcal.so
-ee20c57f7fb0ec1327226dc8359d928142fdb9fbcae27cb390013c518b248ac7  ./jflte/proprietary/vendor/lib/liblbs_core.so
+520e0d431237e2573e8955384b1cd675c6ffe26be8f0f33fbb1328afa5d09e5f  ./jflte/proprietary/vendor/lib/liblbs_core.so
 c7cbb66f61c7eb49d7ed89fcbcddb35d46ba4058768561ed4f98f3eecf07d57a  ./jflte/proprietary/vendor/lib/libmm-abl.so
 9de4fac54febfeb35ed0ef722c3a4313d294c8e937f4ca6fff2cfae0a8238f28  ./jflte/proprietary/vendor/lib/libthermalclient.so
 64573edda80477b9af8589910396681cffef7e790a86c16792bed7b96e400b51  ./jflte/proprietary/vendor/lib/libqcci_legacy.so
