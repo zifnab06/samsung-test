@@ -3187,6 +3187,8 @@ d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./kltevzw/prop
 bd437dd2443937eb16b69086798766b9690ba6455ff2063b2731a81ad8c3c40e  ./kltevzw/proprietary/lib/libreference-ril.so
 d18327971ac4037d50b98490ebf3148b6abf4b79e858535171b1373f2c9888b3  ./kltevzw/proprietary/app/com.qualcomm.location.apk
 c8c26242c45b46f2dd403808e99ad66d2e60e28c3c5694895a75906be4dc9aad  ./kltevzw/proprietary/vendor/firmware/bcm4350.hcd
+c8c26242c45b46f2dd403808e99ad66d2e60e28c3c5694895a75906be4dc9aad  ./kltevzw/proprietary/vendor/firmware/BT_FW_VER_BCM4354_003.001.012.0167.0212_K_VZW_VM_ORC.hcd
+005b68da87cec004b25d5517eb11364647398e32a01f4f1a7bcc466121c44d58  ./kltevzw/proprietary/vendor/firmware/libpn547_fw.so
 3f2bc866effea11d14a38fb6921bedf2d06aab1612ca62406aeaf344dbce02cd  ./kltevzw/proprietary/vendor/lib/libdiag.so
 ecfd7d97ff4b48b91320066047e3ba6b1362fd6af332599bccd9ebaaa7d8504d  ./kltevzw/proprietary/vendor/lib/libdsutils.so
 4e5330ceacaa7a359470ece1b32ce0e3c2081508618341fd473005ff7a825500  ./kltevzw/proprietary/vendor/lib/libqmi_csi.so
