@@ -2515,7 +2515,7 @@ edb790c64edf20924f7f7eca708d0c2bd2255938ec4721d7144e31b1ddf439f8  ./serrano-comm
 2bb8fba1ed6561432840682b2bbb869a52f2cc51b89d7e0e9449d0094982bab7  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 168f6dfd34ade60acc1e18893d2f7b9977ba4ee44046b8b9738c8c4f348b6d6c  ./serrano-common/proprietary/lib/libaudcal.so
 9862d89b6ad7e55b322312d66dc71f19a32fe06a24563e9225db6e2ed043ddef  ./serrano-common/proprietary/lib/libchromatix_imx175_zsl.so
-261191e083d083d63a2bd229a14cd4c678a164bed2b44d9eb9c05e42028be6aa  ./serrano-common/proprietary/lib/hw/camera.vendor.msm8960.so
+1285cd74274b7723414189dee762bcda577fcb51ce985d5ac971f944eaa0f688  ./serrano-common/proprietary/lib/hw/camera.vendor.msm8960.so
 e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/lib/hw/sensors.msm8960.so
 dda50fa74d77ae725d5952475751f10d9f7594c70f3ba8e04ebbea3f23663705  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_zsl.so
 243e692dfbbfb2a8594af2e585aefa4bdf22ccfc3e1b9a8dc27fc1a0877c4bc9  ./serrano-common/proprietary/lib/libsec-ril.so
@@ -2542,8 +2542,8 @@ f2963b46bd2d019c641d97da54ecb37831339f1bd0d2ec84ec3d50b0c63ecb4b  ./serrano-comm
 8b38b839776b5f982211c730e5de6679aaf2a2ba469b529c1b15ffe585a88fae  ./serrano-common/proprietary/lib/libreference-ril.so
 315ac7e7dc611bbe2f8bf2b13db1d65c5fc5592246c3c01ef6ab0935c1fa4f3e  ./serrano-common/proprietary/lib/libadsprpc.so
 c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-common/proprietary/lib/libI420colorconvert.so
-360c6097d32c392a5ae68e5e688841a694ae802fc4bd9e2f568b46ca57f76ff1  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
-918443db16fdca0bf391ccc013b98c16308225c1a4dfb18cf0f36f7609a066aa  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
+fb54922c14b51557328773d898aee96e5661db90991a99db9a863f2b8cd26f40  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
+1429cac3844f21ef34987a38b5d02b1fc175299839952b5aa3647ffffbb14495  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
 e1d506c21d57878ca32cfad890f9f5547af3a62e0b821751d10dca1fce02b6c8  ./serrano-common/proprietary/vendor/lib/libdiag.so
 7834164981f4d7aa458b08a9fcc12bffa63eec4bd1deeb897eb75cc36ca84e7e  ./serrano-common/proprietary/vendor/lib/libdsutils.so
