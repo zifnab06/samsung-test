@@ -3326,6 +3326,7 @@ d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./kltevzw/prop
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./kltevzw/proprietary/lib/libsecnativefeature.so
 c4ef2c30a74f75de9168f6452f1d80053906d23eee415c960b108eeb5422ac48  ./kltevzw/proprietary/lib/libloc_api_v02.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./kltevzw/proprietary/lib/libril.so
+ff0694797bc4725016a5615a4b5da906316634c4c27cee1b023648d69999a3b9  ./kltevzw/proprietary/lib/hw/nfc_nci.msm8974.so
 d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./kltevzw/proprietary/lib/hw/flp.default.so
 1604c2919742d38e9d533595863f3fcf2922a62a33494d9f6deb77d3de46849a  ./kltevzw/proprietary/lib/libsec-ril.so
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./kltevzw/proprietary/lib/libsecril-client.so
