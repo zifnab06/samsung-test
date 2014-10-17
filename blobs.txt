@@ -4386,6 +4386,7 @@ e683862f90f313c1b15b68a6d381cca1ef177ecfe1ed6570dd6bb3b924eeb616  ./klte-common/
 9d18cde9d3bd512d5d5f491fde439fa085d5a4648cc8d6c48fe0c3112474db56  ./klte-common/proprietary/vendor/lib/libC2D2.so
 ebd683623bcc6b33f08c9c8285100f3d4b8c82bef513e4c44b13c48406be935d  ./klte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 2db160805cae989906b95d5cd8465fc27d755ee1582f6eedf9a637118549e833  ./klte-common/proprietary/vendor/lib/libfastcvopt.so
+c3e9871c5f37d012a0136fd18266ceb3b29de79fca73865bb8484cbce90811a2  ./klte-common/proprietary/vendor/lib/libthermalioctl.so
 1e4d980ace15d3c2fc50e132f4d9229a8266b659f97cd93af33139aa2d03d54e  ./klte-common/proprietary/vendor/lib/libCB.so
 e31a29cc31e36228b9e70794659c45a1741688800ab28a97a43441f165f6ffb2  ./klte-common/proprietary/vendor/lib/libactuator_dw9714_camcorder.so
 5377c9eeca37b55963d95dbd87fea407bbd5e2364ed37fbc8a6d485f16d80476  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_snapshot.so
