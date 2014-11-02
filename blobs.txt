@@ -2733,7 +2733,7 @@ f2963b46bd2d019c641d97da54ecb37831339f1bd0d2ec84ec3d50b0c63ecb4b  ./serrano-comm
 8b38b839776b5f982211c730e5de6679aaf2a2ba469b529c1b15ffe585a88fae  ./serrano-common/proprietary/lib/libreference-ril.so
 315ac7e7dc611bbe2f8bf2b13db1d65c5fc5592246c3c01ef6ab0935c1fa4f3e  ./serrano-common/proprietary/lib/libadsprpc.so
 c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-common/proprietary/lib/libI420colorconvert.so
-6988690426d4bbdcc6dd750296afc14a98ed5b10910c40ba87eccd417be9f0ac  ./serrano-common/proprietary/app/TimeService.apk
+d66dbb56b2f39d5838d8de06fa30099e87c7e0bb6d963b3135a7c8277459f097  ./serrano-common/proprietary/app/TimeService.apk
 fb54922c14b51557328773d898aee96e5661db90991a99db9a863f2b8cd26f40  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 1429cac3844f21ef34987a38b5d02b1fc175299839952b5aa3647ffffbb14495  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
