@@ -4363,6 +4363,7 @@ ce995b35cad1f977dd515e92ce4ba1e5804ed302c63fbd04c80e5654ad789a4a  ./klte-common/
 3549e2fe80f7a8edb5ea91854bba12a9da0beddf9a04cf13e901cebea42bd63b  ./klte-common/proprietary/vendor/lib/libRSDriver_adreno.so
 b8ea486504dc1d00df083dcb7357372a5cfe06b63e281c8992211f9c1f00d521  ./klte-common/proprietary/vendor/lib/libdrmfs.so
 4365d2653c93c9fbd53a829dfcd253b2deb4e24bdeaa3ffe66e486fec1116368  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res2.so
+8a640c065157bc454c29a54f4ed04e00f09678c4b111fbde275314910732ec8a  ./klte-common/proprietary/vendor/lib/libwvdrm_L1.so
 1b07b188bc18fbbb4692e9503e98dab236c3579808a65c740e561f781b267c8e  ./klte-common/proprietary/vendor/lib/libmmosal.so
 6dfb2aacbf93925450eb3bde485247cbec7d7821274fe87913ad8e19f3180eca  ./klte-common/proprietary/vendor/lib/libmmcamera2_isp_modules.so
 000f3ed4c587b4686a09961a90e46f021d16770a5aa1db43f76d3e7b0019e76d  ./klte-common/proprietary/vendor/lib/C16QL_libchromatix_s5k2p2xx_common_res1.so
