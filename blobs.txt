@@ -4445,7 +4445,6 @@ f272baba61554c4e070af5616abdca42bfac1418c9fedfa81e3d48d4283bfb8a  ./klte-common/
 9807f38083d0790d364e09cec016b5258cb4172244e5b4cdbdb8c0810a434f31  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_video.so
 2f31825ac047dda8887b352643115c8efcc3398f9c9dd0935aad4fd95cf63c13  ./klte-common/proprietary/vendor/lib/libDivxDrm.so
 3107d89d90996e50a6724557010cf8a070b3a9827de8ff8fa64075b409debc77  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_vt.so
-d1c044f601843789be1969997e25a4e1981b254324231ba623fe7c96f66f76f4  ./klte-common/proprietary/vendor/lib/liboemcrypto.so
 3f28990d9bee8a6344e1b3878c4aaf2c0c2cd5ab803bb9a5f1c231a51299fccd  ./klte-common/proprietary/vendor/lib/librpmb.so
 cca2df060026e753fca85574053372fb7b5084cdd62e0e246e02bf769f70bb5b  ./klte-common/proprietary/vendor/lib/libsensor1.so
 c8b751b266715d5553b4f60ed869f31226348b2ce3cd618be25ebc01a34e52ca  ./klte-common/proprietary/vendor/lib/libadsprpc.so
