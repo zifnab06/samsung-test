@@ -637,7 +637,7 @@ f3502c0fc4d2df767c851db67024c9164d14559f90669ab65f96b2e5634a6e33  ./jflte/propri
 8e6c8eb551c9ec8c48a695ac54f3c82a4f8b0325ba06728551894cb0cc71b3f7  ./jflte/proprietary/vendor/lib/libllvm-a3xx.so
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./jflte/proprietary/vendor/lib/libqmi_common_so.so
 3266458579e0f3040edcced824d5aa10c97480039ba0b44fcfda4d125c932213  ./jflte/proprietary/vendor/lib/librs_adreno.so
-d8a1f0ee61cf810df20ebb4b9b00b76a5b402ad385b4b9854e1125de96bc1b57  ./jflte/proprietary/vendor/lib/libqc-opt.so
+53735a0fe57b7895d4ab61597233d25604c84ee381e030bc4d34d9279afa7efa  ./jflte/proprietary/vendor/lib/libqc-opt.so
 434b1b4c99ecf7441b0cd3bb774591300e22b940f753dac51c1219819516383c  ./jflte/proprietary/vendor/lib/libOpenCL.so
 b0935c2c624f70d2e86cc86e03300c6314edffcd6684701cea270436ee221545  ./jflte/proprietary/vendor/lib/libnetmgr.so
 04edd10b7d98304b95a7c8dd5c6f657bec26928a176b87562e55e8f849e67e93  ./jflte/proprietary/vendor/lib/libqmi_cci.so
@@ -4132,7 +4132,7 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./d2-common/pr
 768cc8c64270fa284c922408b45bcd581d8e52750480d0f6e9fefff66996ad46  ./d2-common/proprietary/lib/libinvensense_hal.so
 9b6981df582639436932d6132ef6a5e9d589d54cdf94dbf2eff4182c171dda03  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so
 5b56b61d6849f2cd3826f471ca9dd3384ff7507b19ba4ef54de90b284f3af1e0  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-2ac5702c3415e88f80a4b5df1fc47ba07fd77baa3648df94d76b59fd745212c5  ./d2-common/proprietary/lib/libqc-opt.so
+7123a545bc64c671d12404bf403cb11e80e4364bd86756142018a7ee81a9c36c  ./d2-common/proprietary/lib/libqc-opt.so
 657a5d21c345cb82ff7fd68d0a13ef542e00637807183706f2aa617b5972cb93  ./d2-common/proprietary/lib/libchromatix_imx074_preview.so
 4ed9531f7462da014b6d9da63d2d67321517c9093f3c0c05284e46ee5665ed62  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 01df08d5b223fc17999b2abc3d57d89689f579124c3ab832b23812acdc622562  ./d2-common/proprietary/lib/libaudcal.so
