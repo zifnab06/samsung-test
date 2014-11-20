@@ -551,6 +551,7 @@ d78d493f254f3e6ff5c38a42c7cedd20adc4239ce67b35c97a567f9ddaa377da  ./jf-common/pr
 011e9a85323a748a74e449da8bdb1e8d3e570948a4e314a98e123836295817bb  ./jf-common/proprietary/lib/libsensirion_j1.so
 905f012e8c7b2f355d5b8a02c7f3226704fcbbdd0ea949958ea9e58219a250dd  ./jf-common/proprietary/lib/libchromatix_ov9726_preview.so
 d8dbf0e8236b2e0ab99e864886cd857f8e32d150de37a4bc690b9263aed0505e  ./jf-common/proprietary/lib/libmmcamera_image_stab.so
+978967c2e0939e941faf4200eff4c956a4cfcba1cc6f507eae7bffc740b9fd4a  ./jf-common/proprietary/lib/drm/libfwdlockengine.so
 4e7e4e07e2f7ed8e8530accf18dcab419dfa4d3d082113dde2393c5eb0af5511  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_hfr_120fps.so
 8f474c46892d61b9ddf9ed74ff92f787b1de99f93f101025d39f45691c77590b  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_preview.so
 a90484373e5b0e641b903b157d0d4ae446967bf6c1fa134951a0d5aa6702f0f8  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_smartstay.so
@@ -579,6 +580,7 @@ d5c72f2ea8809f61647b78aaf20a332c86133b2afdcd6c11c30d6d022e422a2e  ./jf-common/pr
 a2c12114292a124fa15624735ff8f01c5e6a59e2b9bf34e5ad13dfdb1cc9f6bf  ./jf-common/proprietary/lib/libchromatix_ov2720_preview.so
 2a7829c8a4681b671c52748d0984436702aad54b49c9ff324b0e89ef5448af50  ./jf-common/proprietary/lib/libmmstillomx.so
 f0470d5910c48c36aadde3c11ab7aaba9b8a07e75d4bcaff9b471ff7f076b131  ./jf-common/proprietary/lib/libmmjpeg_interface.so
+f155a9862ee6d7873676d6527d319c2eaa154a523ad9b838fdb95b1ca7c9471b  ./jf-common/proprietary/lib/liboemcrypto.so
 e0a72fb264a56a034b2a1de3444f217c8d36b099994bd2ebd4cdaebf6d526c7c  ./jf-common/proprietary/lib/libreference-ril.so
 fc55cef25faf93d0c0a702099cc098b4829c7ba43bc55426a78cf19ae8e697aa  ./jf-common/proprietary/lib/libadsprpc.so
 07c6aae162e59d8596abbfb23b22e48ac1635d30a51a7d661d395d5c86756ba6  ./jf-common/proprietary/lib/libchromatix_imx091_default_video.so
@@ -599,17 +601,18 @@ e8ca9812fcd8c23a12919e265f317554d2f86a9108bc228ac2bc61cbd5a44f4e  ./jf-common/pr
 11410e479e9f468cbb62fb42c258022704ad5bf9474e218953417bf6b198d53c  ./jf-common/proprietary/vendor/lib/liblocationservice.so
 b7bbc4daed28b68a7e05f70b6380a4387350156d0c4554c0b3e1a76a5551fc6a  ./jf-common/proprietary/vendor/lib/libRSDriver_adreno.so
 bc895750040eeac870e74e632e33cc926de48fcba6d59d5ed56b616275ef49e7  ./jf-common/proprietary/vendor/lib/libdrmfs.so
-8a640c065157bc454c29a54f4ed04e00f09678c4b111fbde275314910732ec8a  ./jf-common/proprietary/vendor/lib/libwvdrm_L1.so
+1a7e45972ab2675ddc7c52d26e58e95e03389fb1cba0a1c8cc483719a10e569b  ./jf-common/proprietary/vendor/lib/libwvdrm_L1.so
 85db30a11cee828489a01549aa298fc447b6f8d94d1ff11fca9a11c3d6d795f6  ./jf-common/proprietary/vendor/lib/libmmosal.so
 0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./jf-common/proprietary/vendor/lib/libizat_core.so
-26b480949fb5b313647f9e7062d748f8081c25c10af7f07149417c51db339763  ./jf-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
+aee5e44ece9566d61fbe10e7a3b3cb14a65778bdd29f6a17110db10aa446b9d2  ./jf-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
 76fe4dbd8a2c1823aba797da574217fbcea9f4fcea32bed6cdbdeaf5a579c6c6  ./jf-common/proprietary/vendor/lib/libgsl.so
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./jf-common/proprietary/vendor/lib/libgeofence.so
 ca18f574e0b15aabeecb8fba5e6687062ba94944d9c6c8a47cee51dc416a6ce7  ./jf-common/proprietary/vendor/lib/libmm-color-convertor.so
 c42cda57a9b252e25d482bcc0feba451a888b4968fb34eb97c1f993f2b7fc06d  ./jf-common/proprietary/vendor/lib/libdivxdrm.so
 319b8126b7ed1359d139f300b8eb97fde9712e138ec43f53ab041b6e2897d025  ./jf-common/proprietary/vendor/lib/libmm-abl-oem.so
 d469b623168244eb754ee5dde7dab394a8828f4b1c148f64d4d93ed6ef87a6b2  ./jf-common/proprietary/vendor/lib/libC2D2.so
-dae2c2f2954897e8df00aef0cb680ecefcc499dd576cd43a6c8586a7f7c07268  ./jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+dac5ce4df6df971d306f1f4b6d0f3fdc272e20767efbd0e33e9495580d6b92c6  ./jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+9a9a835e1240a49fdd572c7b0ff195f4417d81b83afe03e4bcc61526f541e9eb  ./jf-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so
 2d1f7cf62806a6f0d6b094b4c15c83879c7672c37b306496733547ffb1a820e0  ./jf-common/proprietary/vendor/lib/libCB.so
 2ca451059fdb86844e2bf6ec1e599f1f53c9f3dfa25c646dda45a9dc7d8b90a2  ./jf-common/proprietary/vendor/lib/libacdbloader.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./jf-common/proprietary/vendor/lib/libidl.so
@@ -621,8 +624,8 @@ de24077f7ed3bda56152c19e2b3033bb3dda290327c727a104deae0aa6e378fc  ./jf-common/pr
 b7df7d172077d9a437fa67489fc32078c5f3be9b85faee86759d398e4b06f8c5  ./jf-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 b6754ab89e28fead245ff17a4cf99cf0e7a540215c9e1ec8768bfe884ed97104  ./jf-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 08861d7d6ebe905fafed68cfe412330c44cc038d6cfbc328eee47123f3833911  ./jf-common/proprietary/vendor/lib/egl/libEGL_adreno.so
-f3502c0fc4d2df767c851db67024c9164d14559f90669ab65f96b2e5634a6e33  ./jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
-5a52f3b92f7c95d547aa10fd436cdc4c043b4d4c286e718ebfb0e4db850672d1  ./jf-common/proprietary/vendor/lib/libwvm.so
+faba9d8666e8a0dd1346cea4ac6110509c76be7ebfb7b9eec1465637d9a2b1ab  ./jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
+f2a7015b60a4f8b16c17f088c127e57f83533062aef9e2990069d57deef7e6a6  ./jf-common/proprietary/vendor/lib/libwvm.so
 834ab553311b1fcf4f45f12298382546d936b56508d586eebbcc014a3008edd3  ./jf-common/proprietary/vendor/lib/libdrmdecrypt.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./jf-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 8e6c8eb551c9ec8c48a695ac54f3c82a4f8b0325ba06728551894cb0cc71b3f7  ./jf-common/proprietary/vendor/lib/libllvm-a3xx.so
@@ -641,6 +644,7 @@ b0935c2c624f70d2e86cc86e03300c6314edffcd6684701cea270436ee221545  ./jf-common/pr
 3a1c751c9b5de62132288b76c1ed2cc28e7375fedf78f58591d0c47a00ff0a46  ./jf-common/proprietary/vendor/lib/libmmparser.so
 59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./jf-common/proprietary/vendor/lib/libExtendedExtractor.so
 8e31bef5b95e68ead93ad71ebf18a56a3bd6ed01ac3e8249cdb061b32fa15b86  ./jf-common/proprietary/vendor/lib/libqmi.so
+d288d60fe80261dbc39ffa98dd7b01ca91bd2162531258caeb5837ac8e83b46a  ./jf-common/proprietary/vendor/lib/libWVphoneAPI.so
 da19098bc18de280162b64ea879237f81ecfe190a2d9dfedd7d8c5898061b7bb  ./jf-common/proprietary/vendor/lib/libc2d30-a3xx.so
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./jf-common/proprietary/vendor/lib/libqmi_encdec.so
 c34d91c4b81d44e513c4b6db9b53f24fc9b570dfb45e768692e87f3aa172e903  ./jf-common/proprietary/vendor/lib/libQSEEComAPI.so
