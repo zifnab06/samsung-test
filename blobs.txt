@@ -4599,6 +4599,7 @@ f45efbe2adc1f180693ef0eece14e503938e99be8247fa45a6d6fff3971288c9  ./klte-common/
 dfb2f8c4a161d4636810e90b9f071ba5f108815c1fb44b45b781f02631b5579f  ./klte-common/proprietary/vendor/lib/libscve_stub.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./klte-common/proprietary/vendor/lib/libmmcamera_faceproc.so
 7a12abaf706f48845b9cc44eae4687b2546129bfdc80bfd50974b22a79a2da3f  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_preview.so
+265ecc4ed44b2b453fd64c29b51add69cfaced8ed03336a667c34d1a5f32a187  ./klte-common/proprietary/vendor/lib/libSHIMDivxDrm.so
 270fb2b094cddace1a823e0779e1f8bf44bd72386678a8c606c282396860d5af  ./klte-common/proprietary/vendor/lib/F16QS_libchromatix_imx240_common_res1.so
 e32bee846afe348ea409d12b8ee7b7a4b8f86836a10257e4742d65cc5713d0f3  ./klte-common/proprietary/vendor/lib/libdrmtime.so
 f733747dec389fdc5aa87b840b5e58b1be4ee6d278b7686aab9dae9038c77141  ./klte-common/proprietary/vendor/lib/libfastcvadsp_stub.so
