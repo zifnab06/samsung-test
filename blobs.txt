@@ -1133,7 +1133,7 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
 970885c722724391a7fd520efb3ea0a6ee760b600774ae0d7830e23786e4351a  ./jfltespr/proprietary/lib/libril.so
-057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./jfltespr/proprietary/lib/libsecril-client.so
+dd76e244e8749ccc0f18b346ed0f5f1307ea1e76c472df223b9b95606cee3069  ./jfltespr/proprietary/lib/libsec-ril.so
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./p4notelte/proprietary/system/etc/Diag_zero.cfg
 2c278e871474341a0b6f3092c390ad8b9ba314871dee0da88d534ea3b0f74f16  ./p4notelte/proprietary/system/etc/Diag.cfg
 13686ea4d4570aba6f8bcf9f97a7b4bd9724c93394b61c9003e85ad1a83ed4b5  ./p4notelte/proprietary/system/etc/Diag_audio.cfg
