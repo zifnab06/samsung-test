@@ -4340,10 +4340,10 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./d2-common/pr
 457d6389ebc9e6bddfa03b436bffcc121df637dba7db7248da104b9a9001b57c  ./d2-common/proprietary/bin/qmiproxy
 5b74fc725799632e9f3ba9187156ff6cd5c146f337dd67bbacf30610cbbabe08  ./d2-common/proprietary/bin/irsc_util
 300ea4a4bbb9eec065ec7f26c319729edb7575a2fa21b0f4da745cb28281af66  ./d2-common/proprietary/bin/efsks
-9140c656dd9f25630cb34c34cdd128c2f02c09beb459a0c9c2a5cdc8d9b5bbf6  ./d2-common/proprietary/bin/rmt_storage
 1a72c23fc26b272f14597be7ca6c981f8524ecc418e5163879a050932c2073a8  ./d2-common/proprietary/bin/ds_fmc_appd
 74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./d2-common/proprietary/bin/thermald
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./d2-common/proprietary/bin/radish
+9140c656dd9f25630cb34c34cdd128c2f02c09beb459a0c9c2a5cdc8d9b5bbf6  ./d2-common/proprietary/bin/rmt_storage2
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./d2-common/proprietary/bin/rild
 6cc16e802b865c7d245886d1f3dd843890be5debf87ae283865f251d22afe552  ./d2-common/proprietary/bin/qmuxd
 cc399ff9b5d475f215eb6bf24b49e4a0a948ccc5036b59849c82977d38bd9d0a  ./d2-common/proprietary/bin/qcks
