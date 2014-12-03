@@ -2792,7 +2792,7 @@ de6c043ec8033f0f87d1c8663112e5e28e06d1da42aa92b242d780c0dbabbfb9  ./picassowifi/
 de6c043ec8033f0f87d1c8663112e5e28e06d1da42aa92b242d780c0dbabbfb9  ./picassowifi/proprietary/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0031.0136_ORC_N1-3G.hcd
 74d816d36a306f63b4a28aad7e8aa824cc71c7798f3029ada06da2d3c229ec45  ./picassowifi/proprietary/vendor/lib/libRSDriverArm.so
 f950dabb6f63e02d8d167efda3b8c248cddefe0c33689f2f24ba0840f303b84c  ./picassowifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-b57a6db1992b39a8441c19487461c7f61e1e9236113b5d50b78cf80da7d66314  ./picassowifi/proprietary/vendor/lib/egl/libGLES_mali.so
+6adc626e48d82f386680b754255fdd3807dc81d52ee31d1fa119c03545225619  ./picassowifi/proprietary/vendor/lib/egl/libGLES_mali.so
 aabcf950457d9cd3e6925189f50cff61e7997ab8bd462ec8ea433ab2f742baf5  ./picassowifi/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 1e0eab0bb3ae5f7ff18b220552fbffe56a7a3cff2bbd33e9ca2878e8ccc570bd  ./picassowifi/proprietary/vendor/lib/libwvm.so
 8568e4ce0f3b717d79783e44cca1c04ea4f96eaab8cf908cbbeb9e8e68eb91a3  ./picassowifi/proprietary/vendor/lib/libmalicore.bc
