@@ -400,7 +400,7 @@ b3c8d0bfc445fb9411e7c5b3458341137ef632ea06149af452dc9bef27c255ce  ./n5120/propri
 32f5dff375f45c6423b882e97c50103e5eb3e0b7928b848a43f8d70534b0f100  ./n5120/proprietary/system/lib/libsecnativefeature.so
 76c7f12e3a8859723aa9e59fc1658e18d517dee15a8e41924ccf4206fa0d3ba8  ./n5120/proprietary/system/lib/libdsutils.so
 a8f6cd31520f8566a9a57144786765e59d8b99337351bb953f163a3fa741e1bc  ./n5120/proprietary/system/lib/libqmi_csi.so
-89a9b15ef5c7c7219a9b51862e3529f11270c0619740a8827508a5a73697e714  ./n5120/proprietary/system/lib/libloc_api_v02.so
+cabbfce99610980c44011fa633b94e9dde5e88bd3771249d276d9019990b2f55  ./n5120/proprietary/system/lib/libloc_api_v02.so
 2574ee450d78fcbff2f3839f8d95f8598b46d30f177401b3887528d6a03efeab  ./n5120/proprietary/system/lib/libdsi_netctrl.so
 f411f9328271add27450c1866b64cca4de5190822eb6677bbc29ccac8dcfe662  ./n5120/proprietary/system/lib/libatparser.so
 198e7e1ec5ccb570aa16abf99f808058c885dfa052af0687fbc62ca6d8447b98  ./n5120/proprietary/system/lib/libril.so
@@ -1154,7 +1154,7 @@ a9c094a3899bc045549a3e504b263fa5dcd9b6438166d48beaf47ba06775c77c  ./p4notelte/pr
 7c9ce2272090d1107813298b2bd3cc300b0586e7e6a71187c58c28d1f287c406  ./p4notelte/proprietary/system/lib/libdiag.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./p4notelte/proprietary/system/lib/libdsutils.so
 569fe58dac1360bdcea09ef935d400872fbc39f75cda74b1c7add9a2d4f98a28  ./p4notelte/proprietary/system/lib/libqmi_csi.so
-4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./p4notelte/proprietary/system/lib/libloc_api_v02.so
+cabbfce99610980c44011fa633b94e9dde5e88bd3771249d276d9019990b2f55  ./p4notelte/proprietary/system/lib/libloc_api_v02.so
 ac4439ed7fdeeeca49846b55f781e70ce709d2f3b76699459124b507bf47b4bc  ./p4notelte/proprietary/system/lib/libdsi_netctrl.so
 c76d28af06eb95a2545c7366f6320adbb35266573b4a5a2594352c2de6e59efd  ./p4notelte/proprietary/system/lib/libatparser.so
 7951aff2a28d5bb3beb3bfc8529e579b35ee08d0624ef10f7267f58b15685c87  ./p4notelte/proprietary/system/lib/libidl.so
@@ -4093,7 +4093,7 @@ f08cc62c3ccc12f145a026e67da7980c0a2b92eb5fa7b3d01cacb6637d6f0685  ./t0lte/propri
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0lte/proprietary/system/lib/libsecnativefeature.so
 5c740b3867e95e0661ac33dae3fedcde7a6c67f97006945f9c3c2fa7674fc23d  ./t0lte/proprietary/system/lib/libdsutils.so
 642b5a1ded215023373f4713e5ad4cf5dddf26eaa8aab8662c48bdd241a36df8  ./t0lte/proprietary/system/lib/libqmi_csi.so
-4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lte/proprietary/system/lib/libloc_api_v02.so
+cabbfce99610980c44011fa633b94e9dde5e88bd3771249d276d9019990b2f55  ./t0lte/proprietary/system/lib/libloc_api_v02.so
 5b02828a5b6fa56c155afa87856a91fba7d7876f55892797b03dfc3f87f8166a  ./t0lte/proprietary/system/lib/libdsi_netctrl.so
 514667cd5159d4c5c1658088832f2ba1619f87f9947b2aec8a47a9dbb686fbd5  ./t0lte/proprietary/system/lib/libatparser.so
 052c0c721bf4a34837a8337802e980219fe1eca230786928ed15566d04940932  ./t0lte/proprietary/system/lib/libril.so
