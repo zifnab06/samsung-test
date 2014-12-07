@@ -716,7 +716,7 @@ e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./jf-common/pr
 b2345236956507c0fce7a7e3499d5e97db4ee401dc2f7d452375ef67ae41941d  ./jf-common/proprietary/etc/wifi/bcmdhd_ibss.bin
 b76d6c0ea6a660d89a393cdbc0f411a362a1e44d1ce22bfc38798009a8d18ad1  ./jf-common/proprietary/etc/wifi/nvram_mfg.txt
 55ee89944c7e0bebb683ec30d4bea8972edddaa3fd60eb1ff64dbc4dc51a188a  ./jf-common/proprietary/etc/wifi/bcmdhd_sta.bin
-15ef1787c69594e5a38918bf3ca5323c564341e9715fa025e118b243ec1bcf41  ./jf-common/proprietary/etc/wifi/nvram_net.txt
+9fda98196b76fe30336bd147d55bbc0f0e1054e88ee0163c9c9087746a6c3bcf  ./jf-common/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./jf-common/proprietary/etc/wifi/cred.conf
 594796cf891fa213e1ccee9b349d5934c45194370de8b1437c39c2a904a6c9e9  ./jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin
 2c62cba735efe8c5770e07df20c49a6538a4cecb22f61777d4787a60e1e9277f  ./jf-common/proprietary/etc/sec_config
