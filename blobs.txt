@@ -804,6 +804,7 @@ e12e6247ae03ad3d6cbc7e6edbf35a8a8ac07a05dcf65b0d31eb1bd61f72b6ca  ./jf-common/pr
 477db9c9a9e9e5d72a389c20c1bff2a2cbf7172933ec5697b875fc6f623a5b89  ./jf-common/proprietary/lib/liboemcamera.so
 593b0a05c9affe9df306623bee13cd9ba00c0f0e8dc31a5360fcb34da8884921  ./jf-common/proprietary/lib/libchromatix_mt9e013_video_hfr.so
 7de2c4b8121867a9a3bec24ba55bd0a58c816f77f3d95b50cc5725c799b4cdbd  ./jf-common/proprietary/lib/libchromatix_mt9e013_preview.so
+c51f8ba5b772e3d6af51adc7e6987b54c69952b3baebca4e07e2e523d8e09ff8  ./jf-common/proprietary/lib/libTimeService.so
 7dd162f201b9b0da081b8a69cb8acb28159d39284b5fd83aac8c96bc79772feb  ./jf-common/proprietary/lib/libchromatix_ov2720_zsl.so
 f2ad489a43f4e18f49fef4e596205357a0b549fe49abc4295f76ff4f680eae90  ./jf-common/proprietary/lib/libmmcamera_interface.so
 329a2f9107fbead2f7427b7ecb05e32fcd872bc8d91b67b619b42f267b83511f  ./jf-common/proprietary/lib/libchromatix_ov8825_default_video.so
@@ -814,6 +815,7 @@ cf16039271e2b7fde22f965563244f3e8997bf85819bd82b886d7348f6c9207e  ./jf-common/pr
 e0a72fb264a56a034b2a1de3444f217c8d36b099994bd2ebd4cdaebf6d526c7c  ./jf-common/proprietary/lib/libreference-ril.so
 5b1a5da0538d8cd28e9b7eeb94e805f50add70165e913095094ddf9e8ccc737e  ./jf-common/proprietary/lib/libadsprpc.so
 2402613b028b632da14dc4f5785fd41228c6c26d626e5e838b95a961646f08a3  ./jf-common/proprietary/lib/libchromatix_imx091_default_video.so
+d66dbb56b2f39d5838d8de06fa30099e87c7e0bb6d963b3135a7c8277459f097  ./jf-common/proprietary/app/TimeService.apk
 08d592000ae020e8fb6b54a9ce0232b68129226c757c8d36c2f4128101735782  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 8263429415ac240510850f53060fb71a6c74c0c8c7c1a5a69d84cc69dc62df99  ./jf-common/proprietary/vendor/firmware/bcm4335_murata.hcd
 8263429415ac240510850f53060fb71a6c74c0c8c7c1a5a69d84cc69dc62df99  ./jf-common/proprietary/vendor/firmware/bcm4335_semco.hcd
