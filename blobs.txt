@@ -2103,6 +2103,7 @@ eadf191eb4698e1f0dd88a85bf85cf6ccbcfb329ff913e636560ecbc97b75ef9  ./hlte-common/
 7055fd4a7ea3fbb6df5b5381c45c8de0e0490a7daebae57eebb5e99403ea5b57  ./hlte-common/proprietary/lib/C13QL_libchromatix_s5k3l2xx_hfr_120.so
 0e40019fe9d01f427411c6e08781e898340c5e9f9d0172bb9a1a083f5814ad84  ./hlte-common/proprietary/lib/C13QS_libchromatix_imx135_pip.so
 74a55c9be2439c2d56565847be0c3395635427390d3b5cd5ae80c1f0401fdbd9  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_common_1080p_s.so
+b421fc6056214f9720692aeaf0330656aa34933b122a90f427ef98f9d8909326  ./hlte-common/proprietary/lib/libwvm.so
 8dd3bb673065b52ac3817ad9d360029645c516e7bd698ab2247da1f995d8d575  ./hlte-common/proprietary/lib/libchromatix_s5k6b2yx_default_video.so
 d4a3dfee78bf8a7186fd376e326f6ec207e11d764d035513cfd53a098609b3ec  ./hlte-common/proprietary/lib/D13QL_libTsAf.so
 6b3624bf76d934ad4a278928849328f109fb2a64073501ae36000fe6262faeaa  ./hlte-common/proprietary/lib/libdrmdecrypt.so
@@ -2159,6 +2160,7 @@ ee8fb9656fd5387e46d71e15fd3668759012d60d5bd11f4ab40bb0b8858c66de  ./hlte-common/
 20c18ed5cf8c433830ba0a0941f6426b0db233161b1ebd26ddc688bf6391b144  ./hlte-common/proprietary/lib/libchromatix_imx135_hfr_1080p_b.so
 e2edfdbaf4a9d8a358d2eae9c558207ebe8ce97a302e04897e9c28280477424f  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_hfr_1080p_b.so
 e94012bf9cc0352b503271b1ba7c7e22912ffbdc6de0195e7187c68024812a5e  ./hlte-common/proprietary/lib/C13QL_libchromatix_s5k3l2xx_zslshot.so
+886e2e9346d3fa8526524aff9df55075b4290ad8e39f02e2e1e2ecd8fc9cf6a5  ./hlte-common/proprietary/lib/libsensirion_h_2.so
 0b01c1ae2869e664fe229e6f65c483caa5d1f01f8bd5b66eda445b02b89c5ee7  ./hlte-common/proprietary/lib/libchromatix_imx134_liveshot.so
 115cef878b2f4a85c187ec158d885833e8f2c6cdd491103e0b24401a05aae2d0  ./hlte-common/proprietary/lib/libTsAf.so
 e1b70c67893ec1a269ac737b40d9da7b4b01487dbf526881b8de65a21f57d65d  ./hlte-common/proprietary/lib/libTsAe.so
@@ -2179,7 +2181,9 @@ f4612df543e5949f835f6fc85e2f6a9ed42a5a2749a3a912461a8c6108bba741  ./hlte-common/
 b24f2604dfe5f36c89527b184c921a354c5bbf3b1f684b87df0cb57ad73de5cb  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so
 da75f731e433b70d3c13d787001e14849291b4cb346c3d4152947f9fdf87975d  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
 aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
+bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399.hcd
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
+bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399_wisol.hcd
 f38d629be20319b25f3cc44cd65c1242d752f1f45f78b3960340c38ca8fca326  ./hlte-common/proprietary/vendor/lib/libOmxAacDec.so
 9a867123ca01761f47e42fb9037df13fe165fcbbd6c705c986d17dcb056e97e7  ./hlte-common/proprietary/vendor/lib/librs_adreno_sha1.so
 2520f7d9ac9b825aa29357b6c2f82e9b59ccb7b0bdec44840976d3c5ab89312f  ./hlte-common/proprietary/vendor/lib/libchromatix_imx134_vt_hd.so
@@ -2240,6 +2244,7 @@ ae3d3ba3667de811aa5314737ef2ac127dcb4c609f7b6e7538983bf1bdb135b7  ./hlte-common/
 eb853c44788867a0cb1edbb2dbcd53c726329a6178fea756511e4a129dd0e6d1  ./hlte-common/proprietary/vendor/lib/soundfx/libqcvirt.so
 d76d30785e0dc53fb79c5770a4c9595123c3775100679cba4e4ed42e21f5b28c  ./hlte-common/proprietary/vendor/lib/D13QL_libchromatix_s5k3l2xx_vt_hd.so
 45d5095611675d58e9f77814fe4b3c2da5a18742fc8fc24e416e4473d5c3a94a  ./hlte-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so
+f03639d57f4b49c00ee30215d61ee3de1abe3196c9542732dde652b10713a5ae  ./hlte-common/proprietary/vendor/lib/libOpenCL.so
 b3788318a7153a032d414b9f3d69db23134c2f9c49a2119e1b87533a7b862a8a  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_vt.so
 35ef4c9f8e846617b690dcb9abe00380a08ac33710a7efdc18e3ae44cfbe2a45  ./hlte-common/proprietary/vendor/lib/libadreno_utils.so
 c9fdd4e16dff99bb781f8f3b1433c2470ccd564f1572432dc14678aae5004675  ./hlte-common/proprietary/vendor/lib/libaudcal.so
