@@ -2185,6 +2185,7 @@ bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399_wisol.hcd
 f38d629be20319b25f3cc44cd65c1242d752f1f45f78b3960340c38ca8fca326  ./hlte-common/proprietary/vendor/lib/libOmxAacDec.so
+77a87589072d9a2ccff69e7d965ee153788511e2ba955a855a34293f2f0901e0  ./hlte-common/proprietary/vendor/lib/libqti-perfd-client.so
 9a867123ca01761f47e42fb9037df13fe165fcbbd6c705c986d17dcb056e97e7  ./hlte-common/proprietary/vendor/lib/librs_adreno_sha1.so
 2520f7d9ac9b825aa29357b6c2f82e9b59ccb7b0bdec44840976d3c5ab89312f  ./hlte-common/proprietary/vendor/lib/libchromatix_imx134_vt_hd.so
 be02bbc7019ec8d213ab4d526ee4ddd7c7a60a67aa6d840a358820f4dd818cf7  ./hlte-common/proprietary/vendor/lib/libactuator_dw9714_camera.so
