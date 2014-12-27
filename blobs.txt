@@ -2267,6 +2267,7 @@ d4837da6873df0f068d6d83487b20f8651b604884de5acc930fe0f24b490871b  ./hlte-common/
 406721fd42670ccef7e4ece42989b59966ab4c56994d5b047c0ed5f81ba4bb54  ./hlte-common/proprietary/vendor/lib/libQSEEComAPI.so
 cef0fa70bf515337a24b6738ed2c92cbe808f152eb0c15f9ced3aa2ac9821f92  ./hlte-common/proprietary/vendor/lib/libacdbrtac.so
 b14f2e4b4769a6cc3e0646455a98ee1f9a66203f4573a303660bfb0c9d2cf7b9  ./hlte-common/proprietary/vendor/lib/libDivxDrm.so
+14f7631566455b07c99f702e2aa96b7aeedf5f6cc57a1587a4546b0458498e82  ./hlte-common/proprietary/vendor/lib/liboemcrypto.so
 edcf7f389f65e461933621842ece0362fab1ba07b5a6da26d1aeb01d406f6e68  ./hlte-common/proprietary/vendor/lib/librpmb.so
 a2a709f083f98a263230ceaf6806a0200b9950c90c2f5e3e80b6675e307fdb66  ./hlte-common/proprietary/vendor/lib/libsensor1.so
 54bfe3e38524657e37f6a0b103394fa9131859fd902894108eef67615e251739  ./hlte-common/proprietary/vendor/lib/libI420colorconvert.so
