@@ -2180,6 +2180,7 @@ f4612df543e5949f835f6fc85e2f6a9ed42a5a2749a3a912461a8c6108bba741  ./hlte-common/
 9daa29252b7721d76b8796d13a8cbbca6bee0d93612ca7a57aa4f2adc1b40b10  ./hlte-common/proprietary/lib/C13QS_libTs_J_Awb.so
 b24f2604dfe5f36c89527b184c921a354c5bbf3b1f684b87df0cb57ad73de5cb  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so
 da75f731e433b70d3c13d787001e14849291b4cb346c3d4152947f9fdf87975d  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
+810238ce2186806261179eaf589a407f2728372831591371a81e6832025dafa1  ./hlte-common/proprietary/app/TimeService/TimeService.apk
 aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399.hcd
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
@@ -2258,6 +2259,7 @@ ef1314b06ba0ae2395c0a02e78b744d55367789a776957e6b0b6539d80a577fd  ./hlte-common/
 e27b62f35bd4e72f6d2fdff67dc69eed5ca60a27641a057c7631661327a42117  ./hlte-common/proprietary/vendor/lib/libthermalclient.so
 e2a18b9f926771c12d506268e201d05844f3b561fcc0763a579d502f966c04ee  ./hlte-common/proprietary/vendor/lib/liboemcamera.so
 60747d00f4ea2086f915cdb7363d223f8a798ff4cb8dc43a59aa76b624229964  ./hlte-common/proprietary/vendor/lib/libmmcamera2_imglib_modules.so
+c8b5a51e01eb1eb761e103aa2c847564d52c427701d93d5838e7d63ac5c7978a  ./hlte-common/proprietary/vendor/lib/libTimeService.so
 ff5ce9003242404aeae67f4e312269e78e8d4a134b77f80564a018dd632fa63a  ./hlte-common/proprietary/vendor/lib/libmmparser.so
 ff929ecf68a023c03f32c89a683bc30b0e8d1597ab0c335f64d5fc85a6b6d554  ./hlte-common/proprietary/vendor/lib/libExtendedExtractor.so
 3b2fdf7f0bbd4fdd65f0b421e97ecb31fa2f322147125c3c0246befa45e603a3  ./hlte-common/proprietary/vendor/lib/libHevcSwDecoder.so
