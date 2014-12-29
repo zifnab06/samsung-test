@@ -1524,7 +1524,6 @@ b5458992ebb5efd30c3aaa2b11541bcc33840a7fa5ac167dfc8c3df63a916877  ./jactivelte/p
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./hlte/proprietary/etc/permissions/com.qualcomm.location.xml
 d24441e4bcd64e1562f140905e2420ee85d1c44e3686692022da1141a2ac67a1  ./hlte/proprietary/bin/efsks
 90c78a505626d34dd729de6b923ada937e5a684db9ef55b977c97b06dd1ec06e  ./hlte/proprietary/bin/rmt_storage
-e98e1aef1b89f238ac28d7cc80aec9c1ac14343544dd8f609e181d5fd6363b3e  ./hlte/proprietary/bin/gsiff_daemon
 6df3995c4a2437313eec03581ebaadcb9f339452147702a49a79771c155058e5  ./hlte/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./hlte/proprietary/bin/rfs_access
 6a4cdd16c1763c01f11566f4e1405d18e055599fc81060346e7fc3c81bef5db5  ./hlte/proprietary/bin/qmuxd
