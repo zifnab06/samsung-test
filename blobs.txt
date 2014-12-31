@@ -1542,7 +1542,7 @@ d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./hlte/proprie
 5853857ad90a19358f2fb628e4c8cd8bc8dabc006cde52d3da5e5def2da67dea  ./hlte/proprietary/lib/libsec-ril.so
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./hlte/proprietary/lib/libsecril-client.so
 e0a72fb264a56a034b2a1de3444f217c8d36b099994bd2ebd4cdaebf6d526c7c  ./hlte/proprietary/lib/libreference-ril.so
-b6eb9534db923fe721881adcc9f10c46ef04ddce4c825e41cef26c752dacfb59  ./hlte/proprietary/app/com.qualcomm.location.apk
+b6eb9534db923fe721881adcc9f10c46ef04ddce4c825e41cef26c752dacfb59  ./hlte/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk
 3a9bab86f067a81f6cba9a89ca733d2833adc5bb289510cae93fef7d94e48144  ./hlte/proprietary/vendor/lib/libconfigdb.so
 3f2bc866effea11d14a38fb6921bedf2d06aab1612ca62406aeaf344dbce02cd  ./hlte/proprietary/vendor/lib/libdiag.so
 ecfd7d97ff4b48b91320066047e3ba6b1362fd6af332599bccd9ebaaa7d8504d  ./hlte/proprietary/vendor/lib/libdsutils.so
