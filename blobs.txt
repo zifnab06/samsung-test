@@ -586,7 +586,6 @@ d460f6acd7b712319c1a34df2efebfb72f3be3ed2ac7489d01aa0899778f8140  ./epicmtd/prop
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./klte/proprietary/etc/permissions/com.qualcomm.location.xml
 a9b50c1b1de3d5fc52e16a00cfbf5a6ca50215311039f68e3628e46140e2a24d  ./klte/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./klte/proprietary/bin/rmt_storage
-e98e1aef1b89f238ac28d7cc80aec9c1ac14343544dd8f609e181d5fd6363b3e  ./klte/proprietary/bin/gsiff_daemon
 61f53cad9adb559920d6a10ef8ce3413a677e6dc01160442dc458d87cd21b585  ./klte/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./klte/proprietary/bin/rfs_access
 d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./klte/proprietary/bin/qmuxd
@@ -1874,7 +1873,6 @@ f52d237278d592e7cc60f1f2cb54e02508ff99b0dbda9b43c7bc10617157418c  ./tuna/proprie
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./kltespr/proprietary/etc/permissions/com.qualcomm.location.xml
 40a44fa4d329c9760ac868254b6fd24640200e59f49002350a730cca1f5f4d13  ./kltespr/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./kltespr/proprietary/bin/rmt_storage
-0328d70f7e05d0b97bab5e6a942bbf72b14effdc048ece63d8629c209302f270  ./kltespr/proprietary/bin/gsiff_daemon
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./kltespr/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./kltespr/proprietary/bin/rfs_access
 d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./kltespr/proprietary/bin/qmuxd
@@ -2468,7 +2466,6 @@ ddec8ed22cb6b28ceef572b46043f022994aad81d8b88001ec96eb94850e768f  ./hlte-common/
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./kltedv/proprietary/etc/permissions/com.qualcomm.location.xml
 5a43bd5c13f434df5be6c06057513f733d2e25086c571ee7feb073eba065f99c  ./kltedv/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./kltedv/proprietary/bin/rmt_storage
-e98e1aef1b89f238ac28d7cc80aec9c1ac14343544dd8f609e181d5fd6363b3e  ./kltedv/proprietary/bin/gsiff_daemon
 61f53cad9adb559920d6a10ef8ce3413a677e6dc01160442dc458d87cd21b585  ./kltedv/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./kltedv/proprietary/bin/rfs_access
 d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./kltedv/proprietary/bin/qmuxd
@@ -3112,7 +3109,6 @@ faf7e0a2af59ecd1569a45e91568407b0f70e949eedc30951687c18df28e4b7e  ./d2spr/propri
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./klteusc/proprietary/etc/permissions/com.qualcomm.location.xml
 8852e25f60cef865cfea347d9e056e9c13f69b985797e10c1a70129a1feb3439  ./klteusc/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./klteusc/proprietary/bin/rmt_storage
-0328d70f7e05d0b97bab5e6a942bbf72b14effdc048ece63d8629c209302f270  ./klteusc/proprietary/bin/gsiff_daemon
 61f53cad9adb559920d6a10ef8ce3413a677e6dc01160442dc458d87cd21b585  ./klteusc/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./klteusc/proprietary/bin/rfs_access
 d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./klteusc/proprietary/bin/qmuxd
@@ -3868,7 +3864,6 @@ a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/pr
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./kltevzw/proprietary/etc/permissions/com.qualcomm.location.xml
 7fd3bff6161113fd9a24537927a14b0531b79a17eac4ff0956a3bfa5d4c19adf  ./kltevzw/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./kltevzw/proprietary/bin/rmt_storage
-0328d70f7e05d0b97bab5e6a942bbf72b14effdc048ece63d8629c209302f270  ./kltevzw/proprietary/bin/gsiff_daemon
 61f53cad9adb559920d6a10ef8ce3413a677e6dc01160442dc458d87cd21b585  ./kltevzw/proprietary/bin/rild
 93660425902afaf4c4bce12c850d350db4c250c987c6da203174d27878251360  ./kltevzw/proprietary/bin/rfs_access
 d350eb7ff5a00ac1a20115365ffb1d9309954f56b91cf2e1698d1c14e497600b  ./kltevzw/proprietary/bin/qmuxd
