@@ -2667,7 +2667,7 @@ f23a53f8f6bdd7e1a42971b01320d19858f3010b19c904f8d5869e3fd61af3f1  ./p51xx/common
 d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p51xx/common/system/lib/libtiutils.so
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p51xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p51xx/common/system/lib/libdomx.so
-9d102a6a4b084b31c4993f5da2f706d3b3f63e4fa1afdfa6b236bdfe49d917d7  ./p51xx/common/system/lib/hw/vendor-camera.piranha.so
+9d102a6a4b084b31c4993f5da2f706d3b3f63e4fa1afdfa6b236bdfe49d917d7  ./p51xx/common/system/lib/hw/camera.vendor.piranha.so
 208115cf0a016e3a1e4d99b37c44d57335f8f19a301a033943e91a6ba4f56a43  ./p51xx/common/system/lib/hw/sensors.omap4.so
 25a136600c5fa0671c9d521833541d4c331f3e056082381d529612c974f8b618  ./p51xx/common/system/lib/hw/gps.omap4.so
 a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p51xx/common/system/lib/libion_ti.so
@@ -3169,7 +3169,7 @@ acc41b79ffa2091dce4b63e094b61467d05ba93279ddd1e71b99012b4edf3f27  ./p31xx/common
 d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p31xx/common/system/lib/libtiutils.so
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p31xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p31xx/common/system/lib/libdomx.so
-5f84500db3a7abf5f513aa629a490b0673353f46b6567ea8d95215b48c7bfa49  ./p31xx/common/system/lib/hw/vendor-camera.piranha.so
+5f84500db3a7abf5f513aa629a490b0673353f46b6567ea8d95215b48c7bfa49  ./p31xx/common/system/lib/hw/camera.vendor.piranha.so
 25a136600c5fa0671c9d521833541d4c331f3e056082381d529612c974f8b618  ./p31xx/common/system/lib/hw/gps.omap4.so
 a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p31xx/common/system/lib/libion_ti.so
 c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
