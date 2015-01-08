@@ -3220,8 +3220,8 @@ c7c245052929c2ec4fe73e17e2670d23802071c74a94500e7db1367d17d8bb09  ./i9100g/propr
 5d29fbfa972699340fafe4599961cba75d97c5960a508f8ce77f790d7cfabb5a  ./i9100g/proprietary/system/lib/libtiutils.so
 9894939d926989881c24a57eb2fc96196b32245991e0e2078d95955d112445ec  ./i9100g/proprietary/system/lib/libmm_osal.so
 09d07735e21a066f0ab247cd055edb2032191d195a97632c0b7626457c407a3e  ./i9100g/proprietary/system/lib/libdomx.so
-b1dff4c292c35361b09907df43505eba3398c196428282713049aec458cee8a9  ./i9100g/proprietary/system/lib/hw/vendor-camera.t1.so
 b82455a4adf81b41ec257560e45bb6c8d4d5146f5d27914fcb2f2ef8077196ba  ./i9100g/proprietary/system/lib/hw/sensors.omap4.so
+b1dff4c292c35361b09907df43505eba3398c196428282713049aec458cee8a9  ./i9100g/proprietary/system/lib/hw/camera.vendor.t1.so
 071bebe9d07a213bede10436ae496d9eddfe40fe18a7100bed7b48cb9f23c7e8  ./i9100g/proprietary/system/lib/hw/gps.omap4.so
 039605f2e68a30aecef66c0092bc587db8416b70d774193e34a9b625f3e6ee9a  ./i9100g/proprietary/system/lib/libsec-ril.so
 1107d0b18ec36cdaddf51acd7e1ed9ed8f246c1d4b4bab3aa222ee5bb0fdaa29  ./i9100g/proprietary/system/lib/libPanoraMax3.so
