@@ -2331,13 +2331,14 @@ f4612df543e5949f835f6fc85e2f6a9ed42a5a2749a3a912461a8c6108bba741  ./hlte-common/
 9daa29252b7721d76b8796d13a8cbbca6bee0d93612ca7a57aa4f2adc1b40b10  ./hlte-common/proprietary/lib/C13QS_libTs_J_Awb.so
 b24f2604dfe5f36c89527b184c921a354c5bbf3b1f684b87df0cb57ad73de5cb  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so
 da75f731e433b70d3c13d787001e14849291b4cb346c3d4152947f9fdf87975d  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
-fff00d40ce99e78af1939094c644b14e0c7155335d3d2af65b923be303db381a  ./hlte-common/proprietary/app/TimeService/TimeService.apk
+c514f85db155b5b3038ade58e91212544044b68f3a3782f241bce72b1d6f4304  ./hlte-common/proprietary/app/TimeService/TimeService.apk
 aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 5fe843a8ecb453921053f2d7671c03ac577722b93fa1e98104f17ed02c1707de  ./hlte-common/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd
 f6b3dcc4df42bfaf42951730e186da6dcf3703e6115f67df51550826c5ab0c1d  ./hlte-common/proprietary/vendor/firmware/bcm2079xB5_pre_firmware.ncd
 bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399.hcd
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 bc8e7a22fb9421eeb9afab8dec08271e424ef5f53ed66b5d971221ef4e9bcc29  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0093.0399_wisol.hcd
+f41b524d634099a737346504fbe8c9bc37b6a9826d7531b4bf6bc34acad935e1  ./hlte-common/proprietary/vendor/lib/libscale.so
 f38d629be20319b25f3cc44cd65c1242d752f1f45f78b3960340c38ca8fca326  ./hlte-common/proprietary/vendor/lib/libOmxAacDec.so
 77a87589072d9a2ccff69e7d965ee153788511e2ba955a855a34293f2f0901e0  ./hlte-common/proprietary/vendor/lib/libqti-perfd-client.so
 9a867123ca01761f47e42fb9037df13fe165fcbbd6c705c986d17dcb056e97e7  ./hlte-common/proprietary/vendor/lib/librs_adreno_sha1.so
@@ -4355,7 +4356,7 @@ d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./hltespr/prop
 b6517f4b0a6ed84566db3ca5d92557eb2ba2b013f187749622f74f9d6c9c5ec5  ./hltespr/proprietary/lib/libsec-ril.so
 397599295510c76f81c75e54e48c7a6e46e56ee0712b1e9b65b2010a31c90e13  ./hltespr/proprietary/lib/libsecril-client.so
 ad411f1d9b1ca079cf6a3a1c0cb48335ca91866d3d1b4a1b1e7dee5fba73bd7c  ./hltespr/proprietary/lib/libreference-ril.so
-f007570dc4389ee3ee5f9e65bc75ddd86078c9d3c17d1fa27403be0f487d7dae  ./hltespr/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk
+379163a1b000711f8e9ea539a0b0e67abe23d794c4a48e3d3ac70be31434b2dc  ./hltespr/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./hltespr/proprietary/vendor/lib/libconfigdb.so
 6d5aff7d359e3f8d38a9cc491b6ca472dc563a37508dafc6117f1f9b2af3958a  ./hltespr/proprietary/vendor/lib/libdiag.so
 e428a6956ed1c763323317b01f8418563ec0605675743cacf7f8768cf3c869a7  ./hltespr/proprietary/vendor/lib/libdsutils.so
