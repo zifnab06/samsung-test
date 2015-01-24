@@ -1814,7 +1814,6 @@ cd1243d883488314efb114f0fa6a568ca1e78f193b8b3f4609d802d6ed1f05c9  ./galaxysbmtd/
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./galaxysbmtd/proprietary/libsecril-client.so
 4596c8e37a7a894730e7dcdeb386970380a23acfd0b38e17b6adc0d88707d2f1  ./galaxysbmtd/proprietary/Certification.cer
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./tuna/proprietary/etc/powervr.ini
-6d32db401eeb4cc0c73a8b447dd43b10e8f465ad7bf3f4d404f3ea7f570d1888  ./tuna/proprietary/vendor/bin/fRom
 eb283eca62a0abad2a3c335c9d35e705175f6ad4bfd02448c66f76b40f7a28dd  ./tuna/proprietary/vendor/firmware/ducati-m3.bin
 b5a8f65342468c66a11415c0cecd60231b73f2e62cfae7e22a6b274d7fca4aa1  ./tuna/proprietary/vendor/firmware/libpn544_fw.so
 28f1a6af8d667463054f2eed986219619f9691b19697327d5fad610056709657  ./tuna/proprietary/vendor/lib/libglslcompiler_SGX540_120.so
