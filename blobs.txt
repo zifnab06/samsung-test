@@ -727,7 +727,7 @@ b2565825f896ae6ccdaed19ffa8089cbc63485d0e97127dc1823021c766c5af2  ./jf-common/pr
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./jf-common/proprietary/cameradata/datapattern_420sp.yuv
 74998c9731bbdcc8c1e9fa6343091d6170f8b5ca233da4a4b28130282230d1d5  ./jf-common/proprietary/cameradata/RS_M10MO_SS.bin
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./jf-common/proprietary/cameradata/datapattern_front_420sp.yuv
-1c9d0fcb40e88acf5ddf92c0f05c9da2974b1aa9d1809ef03a957a6eed3a4632  ./jf-common/proprietary/bin/mpdecision
+fa25dfec34d9be1a1e7b54b185bcc83d26e501837c17b9ad8902001e74f6a89d  ./jf-common/proprietary/bin/mpdecision
 8d7f6c5dd6ea748af1ac24c96c4e8d5c069b891e75b63e86df7f73295e85df8f  ./jf-common/proprietary/bin/insthk
 f4783f5f733517043e9da408d480169fa8e594239a1822565f84aee66991ba52  ./jf-common/proprietary/bin/mm-pp-daemon
 307dc4eb1f09f111eeb6a125199257a20433b675f92544ddaf8836b7bb211a19  ./jf-common/proprietary/bin/mm-qcamera-daemon
