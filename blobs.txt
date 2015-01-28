@@ -3941,7 +3941,7 @@ f9758dc44063b3597f0fc81404037d54073dfb152c2dc20247f2114db7968162  ./ks01lte/prop
 2cf1f07ff36086872867f9760c7b4c7e21f4b4ba772d436b8f0ea20cf13926c6  ./ks01lte/proprietary/etc/C13QS_imx135_module_info.xml
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./ks01lte/proprietary/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./ks01lte/proprietary/cameradata/datapattern_front_420sp.yuv
-84fb7d820e35798a4c1accb2667c6cd9c34ade189d82a577fcaa4bf0b9929497  ./ks01lte/proprietary/bin/mpdecision
+49412fe5822385e2b260214a1e48031ac99e1221f198c81a739d4c25e8917a55  ./ks01lte/proprietary/bin/mpdecision
 29e1eee9a87a4ff02bb365f7e29568f97cfb4a117893033928ec8acf85ec24cf  ./ks01lte/proprietary/bin/mm-pp-daemon
 47c14c95acc838c30bdf3dc27e1bb3f4ad756fbaa3d00421f785f2a5dcf455e5  ./ks01lte/proprietary/bin/qmiproxy
 39495f3a59d4341be7e6bef0f9f80de5a06d170ace08bf92679a209041702f09  ./ks01lte/proprietary/bin/hvdcp
@@ -4049,6 +4049,7 @@ a8ce6c13520230b60bf509b3b6c6e42e2861cbf32c9cd38a7f2b79aa8b3ccd07  ./ks01lte/prop
 52a9f310c3b937f8ec76acd0e7c9c7aa9633df15ab8a9106e2246b236a2d94ca  ./ks01lte/proprietary/lib/hw/sensors.msm8974.so
 b7d49d24ea62d9e3b769541b9c417a3a08dec882a3025cd7c329fc822017ae12  ./ks01lte/proprietary/lib/hw/sensorhubs.msm8974.so
 4d653744c0c2510ab2b9f3614cd9e157c4150d9e7dcbbcaa08d408cd00a9d3a2  ./ks01lte/proprietary/lib/hw/camera.msm8974.so
+d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./ks01lte/proprietary/lib/hw/flp.default.so
 4ceab2a931ae0d381b310ba4f3908b76f20157d20bde7d24f82e34f37695c6fb  ./ks01lte/proprietary/lib/libarcsoft_vdoinvideo.so
 b75355035c8ff6ec1d41a0d4e2cfa8ce418ea29fb21709edf98e46eae698176d  ./ks01lte/proprietary/lib/libchromatix_imx135_default_video.so
 43cf6deb9335100ec18df5e9526fd7ac06d16a4391b4825c5484dc167b8005e0  ./ks01lte/proprietary/lib/libsec-ril.so
@@ -4090,6 +4091,7 @@ f985e8bda0a5eed33f74058ab1e095133dbe7dbe8e984b516d92d3b979f8169c  ./ks01lte/prop
 f46326bfc0b8bc0d7dd06d1426d4ccf3579cf6589fc1a9c86586157251cecf9d  ./ks01lte/proprietary/vendor/lib/libcsd-client.so
 3f2bc866effea11d14a38fb6921bedf2d06aab1612ca62406aeaf344dbce02cd  ./ks01lte/proprietary/vendor/lib/libdiag.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./ks01lte/proprietary/vendor/lib/libmmcamera_faceproc.so
+8ad20e10cba44d652ba178d651e36cabd75c0af7e0e19eb9c2130128962a0947  ./ks01lte/proprietary/vendor/lib/libSHIMDivxDrm.so
 4c2e989ea75611c39f22297cfb88310c68e3ef5015e4dd9a5175e204e00ca3a1  ./ks01lte/proprietary/vendor/lib/libdrmtime.so
 2949dbb1f675b938086c72cea32270b9277447616ce4d577e92d172eee194ed1  ./ks01lte/proprietary/vendor/lib/libfastcvadsp_stub.so
 e4778abfc5c7166a4082830f0c9a19504ee4c428a636fa29c1d968b4ba48dc14  ./ks01lte/proprietary/vendor/lib/libmmcamera2_wnr_module.so
@@ -4099,7 +4101,6 @@ cded213995d38472462c0346473aabbf467220fdd63322d415998c6aaf86720f  ./ks01lte/prop
 476051349be8a25598dbee750d03310a59d126cf70195b248aa7f4cd21148881  ./ks01lte/proprietary/vendor/lib/C13QS_libchromatix_imx135_vt.so
 4e5330ceacaa7a359470ece1b32ce0e3c2081508618341fd473005ff7a825500  ./ks01lte/proprietary/vendor/lib/libqmi_csi.so
 57f5bf3713b10bcda953d77c285a98f0550e0ba86d00ec75c9e242055985e517  ./ks01lte/proprietary/vendor/lib/libcneapiclient.so
-9ddafcd212ef4efa18b442526bf2405f5f6084d71c526116068fe5adeb5fab6f  ./ks01lte/proprietary/vendor/lib/libWVStreamControlAPI_L3.so
 38b16bc8c9bff1ac8744c2cb2d36f02df9b1d15424879d4c34ff54b823e819a1  ./ks01lte/proprietary/vendor/lib/libOmxWmaDec.so
 11410e479e9f468cbb62fb42c258022704ad5bf9474e218953417bf6b198d53c  ./ks01lte/proprietary/vendor/lib/liblocationservice.so
 d329e71a24298dcb56183591cbac76842334827c058ce896f177507e33abbbf1  ./ks01lte/proprietary/vendor/lib/libxml.so
@@ -4109,7 +4110,6 @@ ba2d4c02376829d55e37ebf4d8ec58ce3d3fe7ffad69629afcadede9be0b9249  ./ks01lte/prop
 41251e2e1a7f8ed4787503c372f776550a97ad92793a81add56c75ba2a110681  ./ks01lte/proprietary/vendor/lib/libOmxMux.so
 27be0ea62739c361bfd8624d8364bffd256e175c28b5cf3e8b4898ab964e82db  ./ks01lte/proprietary/vendor/lib/libmmosal.so
 34a6ce9fb6f27848ee6312d2111df63edb7b6f1fc7af88b4144a268239ded82a  ./ks01lte/proprietary/vendor/lib/libmmcamera2_isp_modules.so
-da7e70dc30bacb984c57f8cf650d3e2ab6257ed00f21d282e7c60d27f9d00ac9  ./ks01lte/proprietary/vendor/lib/libwvdrm_L3.so
 570400d92ac593084c7a56e5ada3303d7828c28948865c359a437ec2bb54c0d8  ./ks01lte/proprietary/vendor/lib/libizat_core.so
 64d8dd9caa3134744ae17d9aab961ca3303473330c0ed1e33dcf29a30bbcb188  ./ks01lte/proprietary/vendor/lib/libOmxEvrcDec.so
 78970a51e26936b6ba73247352799d0fe0e5cf69a8bbf3fee00b8c1ca4f617f7  ./ks01lte/proprietary/vendor/lib/libcneutils.so
