@@ -3004,7 +3004,7 @@ f9594208e1e723e4d9062bd96d1c35982bcb49aeecf8ab0b4806eea6791878f0  ./picassowifi/
 e125badee37669b99c262346072a4049f5ef20e243d5c7a20a7efb2ac51db0f6  ./picassowifi/proprietary/etc/wifi/bcmdhd_ibss.bin
 8baee94b63105ca69f1b92459bdaae96cc06feeaeb72bf5bd2b7f5b88c38ff50  ./picassowifi/proprietary/etc/wifi/nvram_mfg.txt
 78e8d8b284742bc369ef5e1b50cf7a8fcd0954d1ac5fa33fea79697e70267cb5  ./picassowifi/proprietary/etc/wifi/bcmdhd_sta.bin
-18ecc2b543f3bd67e4a70e8ba65687053de6512db92cfb11fa6dbb93d6a85e9b  ./picassowifi/proprietary/etc/wifi/nvram_net.txt
+7cf6f1f1a6a9028a7370a8fe083178d999904e9617f3d280bdd106145178936b  ./picassowifi/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./picassowifi/proprietary/etc/wifi/cred.conf
 973ff6ca1731c0ee24756e6f8fb39a8289c5e60724663c5f2711bd79a9411e8f  ./picassowifi/proprietary/etc/wifi/bcmdhd_mfg.bin
 b8574ca74f3e64dc60298efd9779bb44ffa1b72c791807097e84941975ca0460  ./picassowifi/proprietary/bin/drmserver.samsung
