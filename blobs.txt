@@ -3158,7 +3158,7 @@ b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-comm
 c04a40f3a7ac42ac686d42c378569355a3674bc2b8adf4ccaac94859852aac63  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 ffc1a2f6325921ac8cf06dfbf81f568d254882911fdb8a215f876e671faeefbe  ./serrano-common/proprietary/etc/plmn_se13.bin
 6a860ed52c7e7765d65b1fb8de2108d2d0af6f5ad049eb9efc1eb4f3c0e9639b  ./serrano-common/proprietary/bin/mpdecision
-f0a97800d7e274f2298903ea0cbc633df4698c4d2f4fc217063b6596557a43fd  ./serrano-common/proprietary/bin/insthk
+8d7f6c5dd6ea748af1ac24c96c4e8d5c069b891e75b63e86df7f73295e85df8f  ./serrano-common/proprietary/bin/insthk
 014dd31ee57e69756e1cdd6182a99c9a0b456db317030a5748a52535ca45db70  ./serrano-common/proprietary/bin/mm-qcamera-daemon
 654ec707683ba3c7197846a000b2cf74437d43c0504a3f26edf026b8eb27ad6a  ./serrano-common/proprietary/bin/geomagneticd
 5b74fc725799632e9f3ba9187156ff6cd5c146f337dd67bbacf30610cbbabe08  ./serrano-common/proprietary/bin/irsc_util
