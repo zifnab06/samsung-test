@@ -1100,7 +1100,7 @@ ca8127a6f438e3bb48e6947ab53c59f52fbd74db05707159762b3401b20862c7  ./klimtwifi/pr
 40e0aa041964f54ccce2b27ea62f1979010221f129710d95d4721ad6d2be2ecd  ./klimtwifi/proprietary/etc/wifi/nvram_mfg.txt
 9bb19d7184daee11227088691bb200ca36ea4ef3fa5a76ff8564f5fc9a6facab  ./klimtwifi/proprietary/etc/wifi/bcmdhd_sta_tput.bin
 6a14f306ad3c3359e26d6c899fd988b643602696f50a99ffe1e67e409dcc9a12  ./klimtwifi/proprietary/etc/wifi/bcmdhd_sta.bin
-116ebe89c743584d4a25e62d3116fc2228dcabcbe4df79716d78f2f0e9bc7170  ./klimtwifi/proprietary/etc/wifi/nvram_net.txt
+c8ffb50c02f47aa55f68419cfa439c519bdcb5cd6a37d240e3d4ba50c1ada776  ./klimtwifi/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./klimtwifi/proprietary/etc/wifi/cred.conf
 f5b6326ee2421769a98c78a4202686a9226b6294f9970bd1265fcc84548f56b2  ./klimtwifi/proprietary/etc/wifi/bcmdhd_mfg.bin
 b8574ca74f3e64dc60298efd9779bb44ffa1b72c791807097e84941975ca0460  ./klimtwifi/proprietary/bin/drmserver.samsung
