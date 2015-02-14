@@ -3591,7 +3591,7 @@ e3e9bf11fa1cb6fe571286f0364cb93ba712723876576ac93ce3a55e2634a57b  ./superior/pro
 80bc0c62e6d20bda972bf4fbf20681df8a46811d07b879ad2ffafc65680e7ff6  ./superior/proprietary/system/lib/libdmcFaceEngine3GVT.so
 3835051bc5c3360c5b9285cb96b46d4a35b1f0c380b61ca525f7114bbfbc697f  ./superior/proprietary/system/lib/libmm_osal.so
 5e916e4ab6bb7335da2083a830229b6ca8658f8b74d0f93bc6767457fa69c9f0  ./superior/proprietary/system/lib/libdomx.so
-de471e1164b489ae42874d503dd840ff55e96ae43c4aa5aa465c2a4ff5fbe232  ./superior/proprietary/system/lib/hw/vendor-camera.piranha.so
+de471e1164b489ae42874d503dd840ff55e96ae43c4aa5aa465c2a4ff5fbe232  ./superior/proprietary/system/lib/hw/camera.vendor.piranha.so
 948c75bf7f42ca2e62539b4bd465a1384b0043fc88792dedc8e888e3d6ff49b6  ./superior/proprietary/system/lib/hw/sensors.omap4.so
 ac14cffdee23ae48376063d712c0835343df21789532bda026d78b137022fe2a  ./superior/proprietary/system/lib/hw/gps.omap4.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./superior/proprietary/system/lib/libsec-ril.so
