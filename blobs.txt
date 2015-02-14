@@ -2940,6 +2940,7 @@ f23a53f8f6bdd7e1a42971b01320d19858f3010b19c904f8d5869e3fd61af3f1  ./p51xx/common
 7fbb6a09af0785d7a0a4c60ff86c78b33d1ea0ae0cf6de5b8a9a86e6af09e756  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.MISC.SAMPLE.so
 6704f0c8387d58a44b344143188e85a9ae225d928a5cc0881037e4a8cb934794  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.H264E.so
 432a90fe3de8653e84a16cc2c5600bbe278b40e2a34a004e36008c7e75dc8747  ./p51xx/common/system/lib/libion.omap4.so
+ff041f111e02e028842ab536332c2bb4e144d6f7a5e92b3b669bad68fa1d4994  ./p51xx/common/system/lib/libdrmdecrypt.so
 d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p51xx/common/system/lib/libtiutils.so
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p51xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p51xx/common/system/lib/libdomx.so
@@ -2952,10 +2953,11 @@ c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p51xx/common
 dd7188a8f886d6c6d7da6de5de0bc5338f5d193b33321e0535822d9ca5a5b9a0  ./p51xx/common/system/lib/libtvoutservice.so
 fadbc124dcde4f7103319ef10c3cdca595d69f2660c64259dada786333fbc84c  ./p51xx/common/system/vendor/firmware/ducati-m3.bin
 94035aeab3d6ffd46eebc96648994908c6c6bce8fa71f2eb69faee52f0ae1f8a  ./p51xx/common/system/vendor/firmware/BCM4330.hcd
-51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./p51xx/common/system/vendor/lib/libwvdrm_L1.so
-01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./p51xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
-f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./p51xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
-2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./p51xx/common/system/vendor/lib/libwvm.so
+f04f12f8efadea9d1c6f9ad83e8723e467fcdd1e8c560bf71bb4d2dbfdae157d  ./p51xx/common/system/vendor/lib/libWVStreamControlAPI_L3.so
+a0f986f78c33cc20ef99caab948cadd55413c6b85307d1556376dfa748836b71  ./p51xx/common/system/vendor/lib/libwvdrm_L3.so
+bb34d305d8fceb241de0f546f3f97f273a5e2a02dabed396a0b590c7ec7759de  ./p51xx/common/system/vendor/lib/mediadrm/libwvdrmengine.so
+6c7ad04020e786b3758fd0629ee717ee21597a447beb882d5d0a8470807fae9e  ./p51xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
+cd6e39c0747ab1fb82f1815ead76fd33a755f34db730e147c2c5f93b1f8e6517  ./p51xx/common/system/vendor/lib/libwvm.so
 052c0c721bf4a34837a8337802e980219fe1eca230786928ed15566d04940932  ./t0ltecdma/proprietary/system/lib/libril.so
 d6eab4bea138f5d337c8277f0ed385f1f58a43929b30172c847ce788f6b34c7f  ./t0ltecdma/proprietary/system/lib/libril-qcril-hook-oem.so
 519f00880f08adf5777230ee22e07826348b403dff76b4087cd2e80e0c09df7e  ./t0ltecdma/proprietary/system/lib/libril-qc-qmi-1.so
@@ -3418,6 +3420,7 @@ acc41b79ffa2091dce4b63e094b61467d05ba93279ddd1e71b99012b4edf3f27  ./p31xx/common
 7fbb6a09af0785d7a0a4c60ff86c78b33d1ea0ae0cf6de5b8a9a86e6af09e756  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.MISC.SAMPLE.so
 6704f0c8387d58a44b344143188e85a9ae225d928a5cc0881037e4a8cb934794  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.H264E.so
 432a90fe3de8653e84a16cc2c5600bbe278b40e2a34a004e36008c7e75dc8747  ./p31xx/common/system/lib/libion.omap4.so
+ff041f111e02e028842ab536332c2bb4e144d6f7a5e92b3b669bad68fa1d4994  ./p31xx/common/system/lib/libdrmdecrypt.so
 d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p31xx/common/system/lib/libtiutils.so
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p31xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p31xx/common/system/lib/libdomx.so
@@ -3428,10 +3431,11 @@ c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p31xx/common
 50031824b9ca8d7f81d3c595a204d7e08907862e6ba0bf0b88a1af06e31d5682  ./p31xx/common/system/lib/libI420colorconvert.so
 d0e4a02872c45e35c525e2923366d1b05c1fd46ea68548f50a141a1bfea38b43  ./p31xx/common/system/vendor/firmware/ducati-m3.bin
 94035aeab3d6ffd46eebc96648994908c6c6bce8fa71f2eb69faee52f0ae1f8a  ./p31xx/common/system/vendor/firmware/BCM4330.hcd
-51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./p31xx/common/system/vendor/lib/libwvdrm_L1.so
-01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./p31xx/common/system/vendor/lib/libWVStreamControlAPI_L1.so
-f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
-2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./p31xx/common/system/vendor/lib/libwvm.so
+f04f12f8efadea9d1c6f9ad83e8723e467fcdd1e8c560bf71bb4d2dbfdae157d  ./p31xx/common/system/vendor/lib/libWVStreamControlAPI_L3.so
+a0f986f78c33cc20ef99caab948cadd55413c6b85307d1556376dfa748836b71  ./p31xx/common/system/vendor/lib/libwvdrm_L3.so
+bb34d305d8fceb241de0f546f3f97f273a5e2a02dabed396a0b590c7ec7759de  ./p31xx/common/system/vendor/lib/mediadrm/libwvdrmengine.so
+6c7ad04020e786b3758fd0629ee717ee21597a447beb882d5d0a8470807fae9e  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
+cd6e39c0747ab1fb82f1815ead76fd33a755f34db730e147c2c5f93b1f8e6517  ./p31xx/common/system/vendor/lib/libwvm.so
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p31xx/p3110/system/lib/libril.so
 b55621ab59e72afcaf37a6d01d35038ec450845e802c63eb1d74f81496b0e490  ./p31xx/p3110/system/lib/hw/sensors.omap4.so
 45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3110/system/lib/libsecril-client.so
