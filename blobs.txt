@@ -3908,6 +3908,7 @@ ec32640cd9eced60bc4780a8de41f12efa3d67afe990f5fe91202160d856bb91  ./n7100/propri
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./n7100/proprietary/system/usr/idc/sec_e-pen.idc
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./n7100/proprietary/system/usr/keylayout/sec_touchkey.kl
 75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./n7100/proprietary/system/usr/keylayout/sec_e-pen.kl
+4743bfba457f078bca1d5346d1ba9941fe543c88f4ec069b34aea0d925678bae  ./ks01lte/proprietary/framework/com.quicinc.cne.jar
 5f528cf9edf27e2051998db3fbf2ddf559518266ee805931a8a42b7f7a194c58  ./ks01lte/proprietary/etc/Headset_cal.acdb
 793589d3570cb197eea817ac13db97a384e4614a03eb5d17408acb62a7440ab0  ./ks01lte/proprietary/etc/thermal-engine-8974.conf
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./ks01lte/proprietary/etc/srm.bin
