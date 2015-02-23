@@ -338,6 +338,9 @@ c8b751b266715d5553b4f60ed869f31226348b2ce3cd618be25ebc01a34e52ca  ./lt03lte/prop
 91ac20b849f2d603d333d1daa8597351d51c8a4001c7088df742e2c32597bf91  ./lt03lte/proprietary/vendor/lib/libI420colorconvert.so
 b5b9eda499cfa0505656d00aa0ff3a4a88b5a68220551f79770afcd08344abfc  ./lt03lte/proprietary/vendor/lib/libqmiservices.so
 c6eea04693f35e5e4a186a7fc9a47d3289a8f3182d6f7c2c13b0a771c6fef409  ./lt03lte/proprietary/vendor/lib/libllvm-qcom.so
+8ce80227e6757e0a2918b10140a226237603b9560094ab879eefd3c945258e9f  ./trltexx/proprietary/bin/ks
+e6cdfa09fc8215ffe85e5a092c22688b392bed7e392873e21ef73691e5803bd9  ./trltexx/proprietary/lib/libtime_genoff.so
+ad85d922d2d39e802eec3d8efa7c4e7bbd9f1af4ac0da3332d186ee7918855d5  ./trltexx/proprietary/lib/libsec-ril.so
 8553d381119c7c0b09c555f37db4ce49561a331699074240f2edda3278e2554b  ./tabpro-common/proprietary/etc/Headset_cal.acdb
 b6cbb8da3c2f78a566c3aabc644555d100eda3c4b69e50059c10f959c363d2e1  ./tabpro-common/proprietary/etc/Hdmi_cal.acdb
 23a0d64fbd18f20c1ed824a0e503ab7cb120be372e7be6813ce5e4eb262aaad8  ./tabpro-common/proprietary/etc/Speaker_cal.acdb
@@ -378,7 +381,7 @@ deda2cc1a6fc98ecae951b2f5800b1c0780a61a2408b946d9ee673057309a2b8  ./tabpro-commo
 59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./tabpro-common/proprietary/vendor/lib/libExtendedExtractor.so
 ce431dcf3e24418152bd60a73600b9e631cc93a37f4f97b861aa95c93d7f602f  ./tabpro-common/proprietary/vendor/lib/libacdbrtac.so
 e833feddf6cfda5b28323ff76af01b09afbe20e547e2ca2a0be18d81e6cd8ed6  ./tabpro-common/proprietary/vendor/lib/libDivxDrm.so
-da28939155d9ee44ded3f98d3265a462444394b9227534bd0b963e67c0307087  ./blobs.txt
+2e798844d3986d81c5f8c0b9855d5d5591b8f16fd2c008c14396077ba203513c  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
