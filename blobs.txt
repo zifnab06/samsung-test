@@ -1947,8 +1947,8 @@ e833feddf6cfda5b28323ff76af01b09afbe20e547e2ca2a0be18d81e6cd8ed6  ./mondrianwifi
 bf32ccce6fe81671df85e8224132b38135eaff5b810314e27a267bee85f01e87  ./mondrianwifi/proprietary/vendor/lib/libadsprpc.so
 549bab004a560f1e24d1228cce2455db8290259a719096e7542e623a3d877f2f  ./mondrianwifi/proprietary/vendor/lib/libqmiservices.so
 4750af0f7e631b4f25bb8db2a836178fef55e857356965d2c866ddcf68af8ce9  ./mondrianwifi/proprietary/vendor/lib/libllvm-qcom.so
-c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./i925/proprietary/system/lib/libril.so
-b6aedcf1c00ff77ac26f51eebe258b188806adddba527b2405b691b4a3ef0119  ./i925/proprietary/system/lib/libsec-ril.so
+e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./i925/proprietary/system/lib/libril.so
+fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./i925/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./i925/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
 374a9ae17ca9b1d5b4499cfff742c44e7b1e999afbe493f22c0a6402ccf5ecab  ./galaxysbmtd/proprietary/gps.xml
 b2090c79bd30ba91887e2eaee2055a2c24ac4a996dd2532fa07f698f00da6020  ./galaxysbmtd/proprietary/gpsd
@@ -3071,8 +3071,8 @@ a0f986f78c33cc20ef99caab948cadd55413c6b85307d1556376dfa748836b71  ./p51xx/common
 bb34d305d8fceb241de0f546f3f97f273a5e2a02dabed396a0b590c7ec7759de  ./p51xx/common/system/vendor/lib/mediadrm/libwvdrmengine.so
 6c7ad04020e786b3758fd0629ee717ee21597a447beb882d5d0a8470807fae9e  ./p51xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
 cd6e39c0747ab1fb82f1815ead76fd33a755f34db730e147c2c5f93b1f8e6517  ./p51xx/common/system/vendor/lib/libwvm.so
-c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./t0ltecdma/proprietary/system/lib/libril.so
-b6aedcf1c00ff77ac26f51eebe258b188806adddba527b2405b691b4a3ef0119  ./t0ltecdma/proprietary/system/lib/libsec-ril.so
+e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./t0ltecdma/proprietary/system/lib/libril.so
+fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./t0ltecdma/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./t0ltecdma/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./i9305/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./i9305/proprietary/system/etc/Diag.cfg
