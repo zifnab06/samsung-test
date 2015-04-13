@@ -904,7 +904,6 @@ d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./msm8960-comm
 cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./msm8960-common/proprietary/etc/firmware/leia_pfp_470.fw
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./msm8960-common/proprietary/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./msm8960-common/proprietary/cameradata/datapattern_front_420sp.yuv
-a81fbcaf6302f3ea45c78b0bfa83625362e766fc5ed25b1f4761bc94adf68a0d  ./msm8960-common/proprietary/bin/mm-qcamera-daemon
 105372d1ce9b5f08cbe3b0d97de99e18357f25e93bdb8953c520d784840d74e1  ./msm8960-common/proprietary/lib/libmmcamera_faceproc.so
 bbb48fd4fbe51c70110daab70ceefc33f836af9664c215255d36eafeddfb6899  ./msm8960-common/proprietary/lib/libdivxdrmdecrypt.so
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./msm8960-common/proprietary/lib/libsecnativefeature.so
@@ -1036,6 +1035,7 @@ a958bd8109462f5bd8521b1dd7a98741b1a1e02a0c1abb3693b42d6a76e307f4  ./apexqtmo/pro
 63d49422267c52cf7cb18fb00840d7f8509888f4e4ab567163720ab3a61a97ae  ./apexqtmo/proprietary/etc/hostapd/hostapd.accept
 214fe80a6b884989bef3ecaa869ccae145a36b9ce301cebe8bffccfce8433297  ./apexqtmo/proprietary/etc/hostapd/hostapd_default.conf
 d4a8b26f0af3b2350db46dc0b1a0fece1694cacf11ac5e564a55ec67a52696b8  ./apexqtmo/proprietary/bin/mpdecision
+0e21a4a2f15e32c8f27f65ad5ec795d0e254be99906de95b15db396dae30571b  ./apexqtmo/proprietary/bin/mm-qcamera-daemon
 4ee1915c7e360c3dc48d5ee25058b9ec67896a91c208693dd01f6da0b9ae0874  ./apexqtmo/proprietary/bin/geomagneticd
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./apexqtmo/proprietary/bin/rmt_storage
 059becfe28f246297a23934551dcea548cecb6042aa702891a2107f9a73928fd  ./apexqtmo/proprietary/bin/sec-ril
@@ -4373,6 +4373,7 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./expressatt/p
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./expressatt/proprietary/cameradata/SlimISP_ZH.bin
 38997a0c77f9e1d13c2c6a044cd883555280a9cf552ecf77e071fab38ec4d1fe  ./expressatt/proprietary/bin/mpdecision
 62de361c79c04eb6ebacf43c9190a69a415e0d457967de236b3fceb56a733497  ./expressatt/proprietary/bin/qmiproxy
+0e21a4a2f15e32c8f27f65ad5ec795d0e254be99906de95b15db396dae30571b  ./expressatt/proprietary/bin/mm-qcamera-daemon
 4ee1915c7e360c3dc48d5ee25058b9ec67896a91c208693dd01f6da0b9ae0874  ./expressatt/proprietary/bin/geomagneticd
 3b42837881f02a824ea95487eb9010a4cb7c74f7a1d0853a2e9a83bcc68c96f6  ./expressatt/proprietary/bin/macloader
 b479943393bdf524a0c5fa7650c8226ae3812ffe8e1b5e4a6c8acdf9b09435be  ./expressatt/proprietary/bin/rmt_storage
@@ -5083,6 +5084,7 @@ c5664125ed27d96cecdd428ab95d2f6f940063bc7c4029fdab3d3b969513339f  ./d2-common/pr
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./d2-common/proprietary/cameradata/SlimISP_ZH.bin
 38997a0c77f9e1d13c2c6a044cd883555280a9cf552ecf77e071fab38ec4d1fe  ./d2-common/proprietary/bin/mpdecision
 457d6389ebc9e6bddfa03b436bffcc121df637dba7db7248da104b9a9001b57c  ./d2-common/proprietary/bin/qmiproxy
+a81fbcaf6302f3ea45c78b0bfa83625362e766fc5ed25b1f4761bc94adf68a0d  ./d2-common/proprietary/bin/mm-qcamera-daemon
 5b74fc725799632e9f3ba9187156ff6cd5c146f337dd67bbacf30610cbbabe08  ./d2-common/proprietary/bin/irsc_util
 300ea4a4bbb9eec065ec7f26c319729edb7575a2fa21b0f4da745cb28281af66  ./d2-common/proprietary/bin/efsks
 9140c656dd9f25630cb34c34cdd128c2f02c09beb459a0c9c2a5cdc8d9b5bbf6  ./d2-common/proprietary/bin/rmt_storage
