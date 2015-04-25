@@ -4804,7 +4804,7 @@ c958deee844a576e5022b5088cb1857c175d16d65cbaa328ac4aef290c7a3133  ./trlte-common
 e1b5ffc6d3fcb5a9f4f0d0538ba61215845d8cde091038a281f1927f6eb21683  ./trlte-common/proprietary/lib/hw/consumerir.apq8084.so
 3e80d373afa9d19ad1bd0eb838319ecf262fce79e3d2e4a98554a3d4709bbdea  ./trlte-common/proprietary/lib/hw/sensorhubs.apq8084.so
 60dc46f9a7c701508ae2d5d803a414e674acaf7d0b4a2601fd8d592875d2c672  ./trlte-common/proprietary/lib/hw/sensors.apq8084.so
-9e494dc51e9fdaa977c3122352ea1e02df68bdd28a1d5821f0e37fc8657d0459  ./trlte-common/proprietary/lib/hw/camera.vendor.apq8084.so
+dacfe0d0fdfb738341c6d45ce751ba2dfcceb679382d96bd5b3ba43d426638b5  ./trlte-common/proprietary/lib/hw/camera.vendor.apq8084.so
 7894ecc2f1dce4e3cd5bc853acecdf82c7600623648ae772c255545bf2ce38b7  ./trlte-common/proprietary/lib/H16US_libTsAe.so
 025b14bfbc0b9839fae497e998808098af6d34daa0b7465ab3b700bc240c4ca5  ./trlte-common/proprietary/lib/H16UL_libchromatix_s5k2p2xx_zslshot_cpp.so
 0e667c4fc95231b0fb91c270d79b33ecb5db7ab2d75af4f665691e9885f984fb  ./trlte-common/proprietary/lib/H16UL_libchromatix_s5k2p2xx_hdr_video.so
