@@ -3951,8 +3951,8 @@ d81a07a6b6f6746f5c6fc576f6be84ed4e9a6b46d5abec13b857e0f621653dcb  ./i9500/propri
 6baa7fb0caf7ce99675781c7edc200fba4311caa9e7fd0023f465c96654edaf8  ./i9500/proprietary/vendor/lib/liboclcompiler.so
 044a00ec7c747d32fd70837a2750b683100afbb5e0d9a5ec3b1b9d08c8985bc6  ./i9500/proprietary/vendor/lib/libglslcompiler.so
 0752aecb4cc7d6940b70246b3281994c463a18b62b7cecc26df8251c3dcfbbcd  ./i9500/proprietary/vendor/lib/liboemcrypto.so
-23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./d2gsm/proprietary/lib/libril.so
-485f4c6a563f749f5f9b326dfabb90ab2a8f907726e20f71e23806adc392e688  ./d2gsm/proprietary/lib/libsec-ril.so
+c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2gsm/proprietary/lib/libril.so
+baff75a2ed4ec621cbb11baf7bd1352e0fd7a3a2c6ed51218e01105f9b5f2601  ./d2gsm/proprietary/lib/libsec-ril.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./quincyatt/proprietary/etc/thermald.conf
 9521d756558ea92419fdd8c4a3c829cd423bf17f668336c3fb6fd14f5ab65c6e  ./quincyatt/proprietary/etc/wifi/bcmdhd_apsta.bin
 2633ed7f8adc5187942e82054aad5973712e354f54eea409d8e7ad4341644047  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
