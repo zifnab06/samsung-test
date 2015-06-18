@@ -1204,8 +1204,6 @@ a4bdc83d1629f81e8b34681117d6914021433fca67058628d5d57051c0497c26  ./klimtwifi/pr
 bb3744b62afd00c191ce027cb34f6dc71f434bae7ba8d342e17740c88f1575b9  ./klimtwifi/proprietary/media/chargingwarning.qmg
 537c9c2606d545fc7f29fe063601541d4ad4af1692c21fc37e6c4575bef4473c  ./klimtwifi/proprietary/media/battery_charging_20.qmg
 417485fac48b0c13861c7e39b05ac4c7a4f7c2435faa4b8e081b422c15ac15c0  ./klimtwifi/proprietary/media/battery_charging_15.qmg
-1f2d20f0856c3757280289734d213e7c8d0d6853e7fbb99e665dd65c1d457a0e  ./maguro/proprietary/lib/libdrmdecrypt.so
-a8939847e9019cf370242b7a42d98f7d20c7edc60ec37da0004a3671dbdbc69c  ./maguro/proprietary/lib/libsecril-client.so
 bdf9594e26ed875f7ec10c1f244c067d02b370b83fb538e27ce399632ad7b99b  ./maguro/proprietary/vendor/etc/sirfgps.conf
 bb19fea4a3248ffecf8a59bbe8f20e9cf3290f090cc490cd472a8e99ded84bb2  ./maguro/proprietary/vendor/firmware/bcm4330.hcd
 888fabf1fcde3f99fedbe6755ac2c3a0ed0888199f5f0eff5fa2e20890215e3c  ./maguro/proprietary/vendor/lib/hw/gps.omap4.so
