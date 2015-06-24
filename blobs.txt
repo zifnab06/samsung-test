@@ -5195,6 +5195,7 @@ fad4dcb049fca9ab7e315a30aa24fc90f122fbf21af2b70d1523f569f45f6c29  ./trltetmo/pro
 72d3f5435fcda33eabf888426b2d6fd6379b816a7de8af0997923b8c4f1f80ea  ./trltetmo/proprietary/lib/libsecril-client.so
 6dde2b9211e7cc0284f8e5f58e8932cab630c9a8bbbd56535b0b36183d656687  ./trltetmo/proprietary/lib/libmdmdetect.so
 b590c1d27f63abb47e6013cc6be8eb6d637b615034c7d0268581ecd3856dca26  ./trltetmo/proprietary/lib/libreference-ril.so
+21df50b725a9593f996f2a251b27f3fb85ea8463fb42b2819c5806b7d6043bf5  ./trltetmo/proprietary/priv-app/com.qualcomm.location.apk
 b4c025d0b5b7508d792bacdd15b44f4b9b58648e90ac439d1172310b377e29a0  ./trltetmo/proprietary/vendor/firmware/bcm43569A1.hcd
 3f49d47c5856d3432d16ffcc9cbd3267429d1bd6faba809c30f02bcdd15df825  ./trltetmo/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin
 b4c025d0b5b7508d792bacdd15b44f4b9b58648e90ac439d1172310b377e29a0  ./trltetmo/proprietary/vendor/firmware/BT_FW_BCM4358A1_001.002.005.0032.0066.hcd
@@ -5202,6 +5203,7 @@ b4c025d0b5b7508d792bacdd15b44f4b9b58648e90ac439d1172310b377e29a0  ./trltetmo/pro
 bc316ad2ca588a8f7bc2571d01fb8843154a631d005a0de8d92072b021b1515a  ./trltetmo/proprietary/vendor/firmware/bcm43569A0.hcd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./trltetmo/proprietary/vendor/lib/libconfigdb.so
 6373db44a75ba7e91d4c9966b390d5e83e6563dbea155da5afa35e258ee9113f  ./trltetmo/proprietary/vendor/lib/libdiag.so
+a9367cab1ef9a04a650a7059d8954df7b6e1370aca9e3808b22fae9073ba5e73  ./trltetmo/proprietary/vendor/lib/libalarmservice_jni.so
 2511f7467ed8f849fe4df6e06a6be7b83358ee2403a15166a76558c007d56c54  ./trltetmo/proprietary/vendor/lib/libdsutils.so
 73a141b9a45258fa076e01c9ace03a336db13a9cb239c5f3aa3240f49b9422ce  ./trltetmo/proprietary/vendor/lib/libqmi_csi.so
 dae703325ec96d40adeac1257499e7de291dc0e040c0660f4a78552b94dbd8ea  ./trltetmo/proprietary/vendor/lib/liblocationservice.so
