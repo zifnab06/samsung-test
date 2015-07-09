@@ -339,8 +339,8 @@ c8b751b266715d5553b4f60ed869f31226348b2ce3cd618be25ebc01a34e52ca  ./lt03lte/prop
 b5b9eda499cfa0505656d00aa0ff3a4a88b5a68220551f79770afcd08344abfc  ./lt03lte/proprietary/vendor/lib/libqmiservices.so
 c6eea04693f35e5e4a186a7fc9a47d3289a8f3182d6f7c2c13b0a771c6fef409  ./lt03lte/proprietary/vendor/lib/libllvm-qcom.so
 8ce80227e6757e0a2918b10140a226237603b9560094ab879eefd3c945258e9f  ./trltexx/proprietary/bin/ks
-e6cdfa09fc8215ffe85e5a092c22688b392bed7e392873e21ef73691e5803bd9  ./trltexx/proprietary/lib/libtime_genoff.so
 ad85d922d2d39e802eec3d8efa7c4e7bbd9f1af4ac0da3332d186ee7918855d5  ./trltexx/proprietary/lib/libsec-ril.so
+21df50b725a9593f996f2a251b27f3fb85ea8463fb42b2819c5806b7d6043bf5  ./trltexx/proprietary/priv-app/com.qualcomm.location.apk
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./kltechn/proprietary/etc/permissions/com.qualcomm.location.xml
 a9b50c1b1de3d5fc52e16a00cfbf5a6ca50215311039f68e3628e46140e2a24d  ./kltechn/proprietary/bin/efsks
 2d92186f8adcd6e13e9187e02619dee4624e723e887ae72a3b38bd09ede0f1fb  ./kltechn/proprietary/bin/rmt_storage
@@ -417,7 +417,7 @@ deda2cc1a6fc98ecae951b2f5800b1c0780a61a2408b946d9ee673057309a2b8  ./tabpro-commo
 59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./tabpro-common/proprietary/vendor/lib/libExtendedExtractor.so
 ce431dcf3e24418152bd60a73600b9e631cc93a37f4f97b861aa95c93d7f602f  ./tabpro-common/proprietary/vendor/lib/libacdbrtac.so
 e833feddf6cfda5b28323ff76af01b09afbe20e547e2ca2a0be18d81e6cd8ed6  ./tabpro-common/proprietary/vendor/lib/libDivxDrm.so
-d2a11bdd38bfffcaa81e0c250631f074c34819a874425782fd8adbf2137c6176  ./blobs.txt
+913a36bcee144f101155e403abb4b8f6bcfccd8d53bf267214f5b2ac1e8dfbc2  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
@@ -3153,7 +3153,6 @@ b4c025d0b5b7508d792bacdd15b44f4b9b58648e90ac439d1172310b377e29a0  ./trltespr/pro
 bc316ad2ca588a8f7bc2571d01fb8843154a631d005a0de8d92072b021b1515a  ./trltespr/proprietary/vendor/firmware/bcm43569A0.hcd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./trltespr/proprietary/vendor/lib/libconfigdb.so
 6373db44a75ba7e91d4c9966b390d5e83e6563dbea155da5afa35e258ee9113f  ./trltespr/proprietary/vendor/lib/libdiag.so
-a9367cab1ef9a04a650a7059d8954df7b6e1370aca9e3808b22fae9073ba5e73  ./trltespr/proprietary/vendor/lib/libalarmservice_jni.so
 2511f7467ed8f849fe4df6e06a6be7b83358ee2403a15166a76558c007d56c54  ./trltespr/proprietary/vendor/lib/libdsutils.so
 73a141b9a45258fa076e01c9ace03a336db13a9cb239c5f3aa3240f49b9422ce  ./trltespr/proprietary/vendor/lib/libqmi_csi.so
 dae703325ec96d40adeac1257499e7de291dc0e040c0660f4a78552b94dbd8ea  ./trltespr/proprietary/vendor/lib/liblocationservice.so
@@ -4868,6 +4867,7 @@ f508464af6fc03dcc19d3b5e8cbac6057d4b2b187ddb35f5fb9a0eb2d4c13507  ./trlte-common
 a9a6ac86ac18ce7f0d2b92224106fbd1620a4842ac0d65a056dc7bd69df23ee4  ./trlte-common/proprietary/lib/H16US_libchromatix_imx240_zslshot_iso800_cpp.so
 aa91e24ab045861d44457838b4b631ddae1acd20468f40a9695d169cb8cb8f83  ./trlte-common/proprietary/lib/libmmcamera2_stats_algorithm.so
 7b9b38dc7b279a07e8b8af5441d9a5bce15ecae29b91dd4d5dc71560eecd1617  ./trlte-common/proprietary/lib/H16US_libchromatix_imx240_preview_drama_cpp.so
+e6cdfa09fc8215ffe85e5a092c22688b392bed7e392873e21ef73691e5803bd9  ./trlte-common/proprietary/lib/libtime_genoff.so
 d89ed07691419449a5b6f7410ef00c4ae9e0ef73fbb49fcec94686a43c4bf6c1  ./trlte-common/proprietary/lib/H16US_libchromatix_imx240_hdr_liveshot_cpp.so
 0788a56a4b14b637297ebac08be0f2453865ec6733afef0b2e7f1d44626cf152  ./trlte-common/proprietary/lib/H16US_libchromatix_imx240_zslshot_lls_cpp.so
 5b71d69af4c81159f0b58a456a90bd17560e9d8a5dfb88a2c7039d71fa582ab2  ./trlte-common/proprietary/lib/H16UL_libchromatix_s5k2p2xx_zslshot_2_4_iso800_cpp.so
@@ -4973,6 +4973,7 @@ ab08fd357465c8086e34818fdce96d43c6c0c9de55a84155800684a0c44e6b70  ./trlte-common
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./trlte-common/proprietary/vendor/lib/libmmcamera_faceproc.so
 d7bc609f75ff3d93159099d29565dc1a1b7b8461fa25aaa43a52262e2ae78cd6  ./trlte-common/proprietary/vendor/lib/libchromatix_s5k6d1yx_vt_cpp.so
 973c6cd2790075d5c84cfdb6dab537a9e0768d2920f735c3d90f51ee639ce808  ./trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_preview.so
+a9367cab1ef9a04a650a7059d8954df7b6e1370aca9e3808b22fae9073ba5e73  ./trlte-common/proprietary/vendor/lib/libalarmservice_jni.so
 269c78d7de5e8fecd0d430ff9b085c41bbc3381e9589d729b541a470b58264cf  ./trlte-common/proprietary/vendor/lib/libdrmtime.so
 371ef00f75db98135752ee68addc41e864cd27b7032a2398b9964b45e4117348  ./trlte-common/proprietary/vendor/lib/libfastcvadsp_stub.so
 723e541381833d02cb55908ec48c36ae762a521b4c42bff9df092b6964edbd98  ./trlte-common/proprietary/vendor/lib/libmmcamera2_wnr_module.so
@@ -5204,7 +5205,6 @@ b4c025d0b5b7508d792bacdd15b44f4b9b58648e90ac439d1172310b377e29a0  ./trltetmo/pro
 bc316ad2ca588a8f7bc2571d01fb8843154a631d005a0de8d92072b021b1515a  ./trltetmo/proprietary/vendor/firmware/bcm43569A0.hcd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./trltetmo/proprietary/vendor/lib/libconfigdb.so
 6373db44a75ba7e91d4c9966b390d5e83e6563dbea155da5afa35e258ee9113f  ./trltetmo/proprietary/vendor/lib/libdiag.so
-a9367cab1ef9a04a650a7059d8954df7b6e1370aca9e3808b22fae9073ba5e73  ./trltetmo/proprietary/vendor/lib/libalarmservice_jni.so
 2511f7467ed8f849fe4df6e06a6be7b83358ee2403a15166a76558c007d56c54  ./trltetmo/proprietary/vendor/lib/libdsutils.so
 73a141b9a45258fa076e01c9ace03a336db13a9cb239c5f3aa3240f49b9422ce  ./trltetmo/proprietary/vendor/lib/libqmi_csi.so
 dae703325ec96d40adeac1257499e7de291dc0e040c0660f4a78552b94dbd8ea  ./trltetmo/proprietary/vendor/lib/liblocationservice.so
