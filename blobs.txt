@@ -4018,7 +4018,7 @@ d35ad9b277493cd17b4f8c29374f08d64e5733732457010f03ab0a2627cd0e67  ./i9500/propri
 e8bbaf6f31d6a5db56b96d070fb4d7c2e0d074f1c59522f526ff4179c7209e6e  ./i9500/proprietary/bin/scranton_RD
 ee49fb060f01bbfb04dc168cd2c3ececfe60f1e2aecb3d0c826e201b1b2bb6b3  ./i9500/proprietary/bin/cbd
 c1a233538c71765fb9ab447fa036898acec657b1501e6540117ba82ec3e5353e  ./i9500/proprietary/lib/libsecnativefeature.so
-03dceaf2e1ddaac5db04a1da46d5df002869d3a730e244f71109535ca9c59c9b  ./i9500/proprietary/lib/libexynoscamera.so
+dd3ed99c2096f689aff3597aa542bb29cda476861b4cfd4f34c8cbbf6500056d  ./i9500/proprietary/lib/libexynoscamera.so
 81dfcb7f715c47f360a31b43b880f007fb817be92bb523fa15c943b083338edf  ./i9500/proprietary/lib/libvdis.so
 b27570078c233d87d4f862f017d1cfab7c3e09bbd39556c73cc1f003a079d6d9  ./i9500/proprietary/lib/libsensirion_j1.so
 2c0bfae25f3c697f07a4cd9b7ea37fc773a2707fc9ae90c993645a7b669fd833  ./i9500/proprietary/lib/libakm.so
