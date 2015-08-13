@@ -3262,9 +3262,6 @@ f0bed54d475b0f4a935df646057f3e2aa14fb2f324f80d060da917ecefe7b79a  ./crespo4g/pro
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./crespo4g/proprietary/libsecril-client.so
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p51xx/p5100/sbin/cbd
 b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./p51xx/p5100/system/lib/libsec-ril.so
-45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p51xx/p5100/system/lib/libsecril-client.so
-e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p51xx/p5110/system/lib/libril.so
-45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p51xx/p5110/system/lib/libsecril-client.so
 a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./p51xx/common/system/etc/wifi/bcmdhd_apsta.bin
 fcad66df9f1ed849d3a63cfb33046b4df9266f2f586adc75882bba202ac6c311  ./p51xx/common/system/etc/wifi/nvram_mfg.txt
 9f456eac39c58be04515e7d7fcb89eaa8bf8aab4cb32a54b61270ade7f6b36b1  ./p51xx/common/system/etc/wifi/bcmdhd_sta.bin
@@ -3272,10 +3269,8 @@ b937086b6c89f854b8348a40f1227473775eca0a6aa04598b98bff5a38756c91  ./p51xx/common
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p51xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p51xx/common/system/etc/wifi/bcmdhd_mfg.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p51xx/common/system/bin/smc_pa.ift
-abd6fed20f3961d544366b405882724b2e231839ea5650b333eef02a0ad408d7  ./p51xx/common/system/bin/geomagneticd
 2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p51xx/common/system/bin/gpsd
 73d4e9d70bbd039c4620b88eb4768021d95646445f8b5745a057434de09d4f3b  ./p51xx/common/system/bin/bintvoutservice
-039fae241c756f9db3a843cd10d098a46ac2584536dae48f305f30bbe8913453  ./p51xx/common/system/bin/orientationd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p51xx/common/system/bin/smc.ini
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./p51xx/common/system/lib/libQmageDecoder.so
 a1043ef14ff0925242ed0e6a88e7160f9fc6d92610cb9b00f637e58740053225  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
@@ -3294,7 +3289,6 @@ d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p51xx/common
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p51xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p51xx/common/system/lib/libdomx.so
 9d102a6a4b084b31c4993f5da2f706d3b3f63e4fa1afdfa6b236bdfe49d917d7  ./p51xx/common/system/lib/hw/camera.vendor.piranha.so
-208115cf0a016e3a1e4d99b37c44d57335f8f19a301a033943e91a6ba4f56a43  ./p51xx/common/system/lib/hw/sensors.omap4.so
 25a136600c5fa0671c9d521833541d4c331f3e056082381d529612c974f8b618  ./p51xx/common/system/lib/hw/gps.omap4.so
 a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p51xx/common/system/lib/libion_ti.so
 c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
@@ -3750,9 +3744,7 @@ d9940ea64f9a2445068435134021fb1c6903272c4bba6a2ab60f26cf64025c44  ./hercules/pro
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./hercules/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./hercules/proprietary/vendor/firmware/libpn544_fw.so
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p31xx/p3100/sbin/cbd
-0e77e41460a2c9ab5d06f073874a1448ecd7ea8873a9159d49a13afe393a9c52  ./p31xx/p3100/system/lib/hw/sensors.omap4.so
 b217916db451f411049e85ebf741f797ed62f97fe221f4e94a000343fc777877  ./p31xx/p3100/system/lib/libsec-ril.so
-45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3100/system/lib/libsecril-client.so
 a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./p31xx/common/system/etc/wifi/bcmdhd_apsta.bin
 17a0e898db6f8e065b2c59493f5b61c831b9a2bdc3bf5fb0104f7fa781dce06c  ./p31xx/common/system/etc/wifi/nvram_mfg.txt
 9f456eac39c58be04515e7d7fcb89eaa8bf8aab4cb32a54b61270ade7f6b36b1  ./p31xx/common/system/etc/wifi/bcmdhd_sta.bin
@@ -3760,9 +3752,7 @@ a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./p31xx/common
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p31xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p31xx/common/system/etc/wifi/bcmdhd_mfg.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p31xx/common/system/bin/smc_pa.ift
-abd6fed20f3961d544366b405882724b2e231839ea5650b333eef02a0ad408d7  ./p31xx/common/system/bin/geomagneticd
 2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p31xx/common/system/bin/gpsd
-039fae241c756f9db3a843cd10d098a46ac2584536dae48f305f30bbe8913453  ./p31xx/common/system/bin/orientationd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p31xx/common/system/bin/smc.ini
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./p31xx/common/system/lib/libQmageDecoder.so
 a1043ef14ff0925242ed0e6a88e7160f9fc6d92610cb9b00f637e58740053225  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
@@ -3789,9 +3779,6 @@ a0f986f78c33cc20ef99caab948cadd55413c6b85307d1556376dfa748836b71  ./p31xx/common
 bb34d305d8fceb241de0f546f3f97f273a5e2a02dabed396a0b590c7ec7759de  ./p31xx/common/system/vendor/lib/mediadrm/libwvdrmengine.so
 6c7ad04020e786b3758fd0629ee717ee21597a447beb882d5d0a8470807fae9e  ./p31xx/common/system/vendor/lib/drm/libdrmwvmplugin.so
 cd6e39c0747ab1fb82f1815ead76fd33a755f34db730e147c2c5f93b1f8e6517  ./p31xx/common/system/vendor/lib/libwvm.so
-e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./p31xx/p3110/system/lib/libril.so
-b55621ab59e72afcaf37a6d01d35038ec450845e802c63eb1d74f81496b0e490  ./p31xx/p3110/system/lib/hw/sensors.omap4.so
-45d55dbcd27a941e054ebbe2ae00ef45e1598b600ab0b8f3e03e4d62cd500447  ./p31xx/p3110/system/lib/libsecril-client.so
 2eabfc2eddbde14a75eaa6134d3c6bf31fee54da28d315d5b635e9ca03cebb02  ./i9100g/proprietary/sbin/cbd
 16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./i9100g/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 8a5d73da7c422f7a30ecaffe2828a98c946daecb94e13bd5cd0bcbcb6d666b6f  ./i9100g/proprietary/system/etc/wifi/nvram_mfg.txt_murata
