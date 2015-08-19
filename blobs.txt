@@ -3269,7 +3269,7 @@ b937086b6c89f854b8348a40f1227473775eca0a6aa04598b98bff5a38756c91  ./p51xx/common
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p51xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p51xx/common/system/etc/wifi/bcmdhd_mfg.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p51xx/common/system/bin/smc_pa.ift
-2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p51xx/common/system/bin/gpsd
+42472cfaa4fe8d786935aefa8300476ff9f697377dc3219e2b264c3556a63a9a  ./p51xx/common/system/bin/gpsd
 73d4e9d70bbd039c4620b88eb4768021d95646445f8b5745a057434de09d4f3b  ./p51xx/common/system/bin/bintvoutservice
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p51xx/common/system/bin/smc.ini
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./p51xx/common/system/lib/libQmageDecoder.so
@@ -3289,7 +3289,7 @@ d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p51xx/common
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p51xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p51xx/common/system/lib/libdomx.so
 9d102a6a4b084b31c4993f5da2f706d3b3f63e4fa1afdfa6b236bdfe49d917d7  ./p51xx/common/system/lib/hw/camera.vendor.piranha.so
-25a136600c5fa0671c9d521833541d4c331f3e056082381d529612c974f8b618  ./p51xx/common/system/lib/hw/gps.omap4.so
+afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./p51xx/common/system/lib/hw/gps.manta.so
 a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p51xx/common/system/lib/libion_ti.so
 c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p51xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
 50031824b9ca8d7f81d3c595a204d7e08907862e6ba0bf0b88a1af06e31d5682  ./p51xx/common/system/lib/libI420colorconvert.so
@@ -3752,7 +3752,7 @@ a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./p31xx/common
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./p31xx/common/system/etc/wifi/bcmdhd_p2p.bin
 c712ea0684f7f1138b68b468e5907e8e1ff97d266f31b134bd8d917b21e9c67c  ./p31xx/common/system/etc/wifi/bcmdhd_mfg.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./p31xx/common/system/bin/smc_pa.ift
-2d338a26aba65e9f45d473d41c30ebbe81043a448c4d8b4eb03b71d0629ef6a3  ./p31xx/common/system/bin/gpsd
+42472cfaa4fe8d786935aefa8300476ff9f697377dc3219e2b264c3556a63a9a  ./p31xx/common/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./p31xx/common/system/bin/smc.ini
 6b2d842fba9c8ee82804fc873cda46ebb728ffbc45b3303be3d5e4f76df9959f  ./p31xx/common/system/lib/libQmageDecoder.so
 a1043ef14ff0925242ed0e6a88e7160f9fc6d92610cb9b00f637e58740053225  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.DECODER.secure.so
@@ -3768,7 +3768,7 @@ d187709224980aceab5d58084ef1252ae04dc4419df5f2476b3a23526f6b5ec6  ./p31xx/common
 27c4d1800380ff42fa14fbe7200535e0804e09f51170e4b800fa321d5af8d07a  ./p31xx/common/system/lib/libmm_osal.so
 ae747e7628ca48fa70095c7bf4e442917ed9153c547eabac6dfe707b5ba05eb1  ./p31xx/common/system/lib/libdomx.so
 5f84500db3a7abf5f513aa629a490b0673353f46b6567ea8d95215b48c7bfa49  ./p31xx/common/system/lib/hw/camera.vendor.piranha.so
-25a136600c5fa0671c9d521833541d4c331f3e056082381d529612c974f8b618  ./p31xx/common/system/lib/hw/gps.omap4.so
+afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./p31xx/common/system/lib/hw/gps.manta.so
 a7ddcbc5c026cd2c71a6c2ff7f6730ff9f8ff1068e6ab84880b45b3404585732  ./p31xx/common/system/lib/libion_ti.so
 c30cb26a773d9a8d3d00b963f8850adce6a631b64dd617302919fc3a699bb362  ./p31xx/common/system/lib/libOMX.TI.DUCATI1.VIDEO.MPEG4E.so
 50031824b9ca8d7f81d3c595a204d7e08907862e6ba0bf0b88a1af06e31d5682  ./p31xx/common/system/lib/libI420colorconvert.so
@@ -4610,9 +4610,6 @@ ba291375a0123c1e043f20f7c094862d73f30b176848e485ae38a295a0c4365e  ./kltechnduo/p
 bcd0f7b447eea067a4c7520d7970e717b705f8a3938c2029cedfbca03d6b6cae  ./kltechnduo/proprietary/vendor/lib/libqmi_csvt_srvc.so
 85d8e4f724991d98eb53e013f7e0a1b2aaff2f85924b2d1649be773a8e5fce81  ./kltechnduo/proprietary/vendor/lib/libqmiservices.so
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./omap4-common/proprietary/system/etc/powervr.ini
-92685044fb7bd47d8c31882944ddd7ffdf1008c1542ffcaed7aa5be02785b72a  ./omap4-common/proprietary/system/vendor/bin/pvrsrvctl_SGX540_120
-fa1e17510deda24bf4b45e6093512d5b7b72e001432dc75e60df43e7703e3c16  ./omap4-common/proprietary/system/vendor/bin/pvrsrvinit
-a5ddf2a946bf2d57e5fc69e29cf66e59658181a69aef7ad8ac19f4090d040fb4  ./omap4-common/proprietary/system/vendor/bin/pvrsrvctl_SGX544_112
 28f1a6af8d667463054f2eed986219619f9691b19697327d5fad610056709657  ./omap4-common/proprietary/system/vendor/lib/libglslcompiler_SGX540_120.so
 453b867c5967bcef46389cdf907872878ea7cf5ef6fe3a18a8cabb9865d386d7  ./omap4-common/proprietary/system/vendor/lib/libsrv_init_SGX540_120.so
 3bb1bd1f9275c985b26d7a6e646fdc25ae3d350c5071d35c2b48e0e7cc237111  ./omap4-common/proprietary/system/vendor/lib/libpvrANDROID_WSEGL_SGX540_120.so
