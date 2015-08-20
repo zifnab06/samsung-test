@@ -4013,6 +4013,7 @@ fc4dac11bb8193883f7db867c314b9b0aa21d51553b51ebeea9d2f0e17cbcb37  ./i9500/propri
 6f452cb43448449200a3f3916d2007f261cb1a8185ac0389704474e12923e902  ./i9500/proprietary/lib/libdrmdecrypt.so
 d508671766d637de279971f685c985b9bfbdccc2a9cf3d525e744f56ce6d5a79  ./i9500/proprietary/lib/hw/gps.default.so
 b818b720a2fef52a7418f952bf338b34e21deb295fa3e8d4a0345bfd81fb3472  ./i9500/proprietary/lib/hw/camera.vendor.universal5410.so
+49a06f1a467bd59a0b8825845f73646cf2acdfc240b8f280a513ccc37c077518  ./i9500/proprietary/lib/hw/memtrack.exynos5.so
 82c012c287d56e44041fe6dcf003572119062a3e4abd6763218ac8243fee44f5  ./i9500/proprietary/lib/hw/sensors.universal5410.so
 ee9c526501378f1e88c6011e59a63276fa312be38895bb1009f2a5a56b782cd2  ./i9500/proprietary/lib/libsec-ril.so
 d2ad3ce967d6b6c0c04df7b276996496a9a6d5b8a60a20940c784798419277dc  ./i9500/proprietary/lib/libwrappergps.so
