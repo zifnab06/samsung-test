@@ -847,6 +847,7 @@ cc99a647f7f89625614c8e2b75c523ca2e255759fed5e605f23c3c551e983141  ./jf-common/pr
 87987b8c39d68e101bdb62b5aeca5c85182bee9670d917cb0546f8af516fa628  ./jf-common/proprietary/bin/qseecomd
 9140c656dd9f25630cb34c34cdd128c2f02c09beb459a0c9c2a5cdc8d9b5bbf6  ./jf-common/proprietary/bin/rmt_storage
 06ff78d64cf04ce95002030dc8666b4d08c1f202858989d41be99f320817fbac  ./jf-common/proprietary/bin/ds_fmc_appd
+d02ebd2ac08c22ec753b90863bb3621c77e3e14fd480b52254a8d572fccec627  ./jf-common/proprietary/bin/radish
 18612927341f28847517868c5e0756a6e0d0a8c3d14b2072269af2f87d19ff37  ./jf-common/proprietary/bin/time_daemon
 e23811eb933d5af36beabc543f55262bcebc0cd2788fa5da8e6e0ed819ddce83  ./jf-common/proprietary/bin/rild
 6062d801209b43d45b093d108e71594001ba3b69858a305bac6131d82477de49  ./jf-common/proprietary/bin/qmuxd
