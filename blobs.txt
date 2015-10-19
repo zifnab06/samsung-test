@@ -5414,9 +5414,9 @@ afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/pr
 bd4f98256d72a12355f8864e577b77ec4793dec85ada174ae74a3d8f6c6aad33  ./d2-common/proprietary/lib/libmmstillomx.so
 f155a9862ee6d7873676d6527d319c2eaa154a523ad9b838fdb95b1ca7c9471b  ./d2-common/proprietary/lib/liboemcrypto.so
 940b99663becf94cf91a30be4f97e4b8ebd7162583a54ef243580ffcd89917dc  ./d2-common/proprietary/lib/libreference-ril.so
-7e44d9a1b9ca43b4a1403ab8110ee6373574023bb617808f06a358243e9d8882  ./d2-common/proprietary/vendor/firmware/bcm4334_murata.hcd
-b04040b9a1dc487127ac4919913c0b4de0bdd79d65948c6b6626ac523f7ba583  ./d2-common/proprietary/vendor/firmware/bcm4334_semco.hcd
-b04040b9a1dc487127ac4919913c0b4de0bdd79d65948c6b6626ac523f7ba583  ./d2-common/proprietary/vendor/firmware/bcm4334.hcd
+897faa2c68495b4bce86d5e21c66545eeedbfdecbee6763a5b1f4d70b26e9ede  ./d2-common/proprietary/vendor/firmware/bcm4334_murata.hcd
+897faa2c68495b4bce86d5e21c66545eeedbfdecbee6763a5b1f4d70b26e9ede  ./d2-common/proprietary/vendor/firmware/bcm4334.hcd
+897faa2c68495b4bce86d5e21c66545eeedbfdecbee6763a5b1f4d70b26e9ede  ./d2-common/proprietary/vendor/firmware/bcm4334_semcosh.hcd
 3a9bab86f067a81f6cba9a89ca733d2833adc5bb289510cae93fef7d94e48144  ./d2-common/proprietary/vendor/lib/libconfigdb.so
 3f2bc866effea11d14a38fb6921bedf2d06aab1612ca62406aeaf344dbce02cd  ./d2-common/proprietary/vendor/lib/libdiag.so
 31aff2f9ebf03c74baa4db6e5bc051977c477e40f98a006cbc050a85b4a223f3  ./d2-common/proprietary/vendor/lib/libdsutils.so
