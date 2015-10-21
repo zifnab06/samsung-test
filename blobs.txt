@@ -5511,6 +5511,7 @@ a83cb0d7d819e2dc599a28175e8fc278ee6c97e886bf9d24d3a4e7e112b8ee4f  ./klte-common/
 3f6ebc884bc4afcebfd00a375c900d8c55443d9b9605179b15b14a002fffd86a  ./klte-common/proprietary/bin/mm-qcamera-daemon
 5b74fc725799632e9f3ba9187156ff6cd5c146f337dd67bbacf30610cbbabe08  ./klte-common/proprietary/bin/irsc_util
 9f5977041de153b547f21ef5ead9ce7879e4a8c7209d44498b9ce83ce3927801  ./klte-common/proprietary/bin/qseecomd
+e074f77749cb10747c9fa84d88ed91578387b496e21b4eb468c3e6052c312cbc  ./klte-common/proprietary/bin/radish
 db40e742b574244a31b255129a660fad96af07d84c2e829d95df59a458844780  ./klte-common/proprietary/bin/time_daemon
 ed59fd3efcbd045d9b9cbb6250645af01ea67a0b6ac0c29f48e063fa8c785f9f  ./klte-common/proprietary/bin/thermal-engine
 2e7c15fc98ddd1dfe65910bf3eaf5ff5e8320a64895904d05662b4932cc6b0fa  ./klte-common/proprietary/bin/adsprpcd
