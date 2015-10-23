@@ -3518,7 +3518,7 @@ e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-comm
 74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./serrano-common/proprietary/bin/thermald
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./serrano-common/proprietary/bin/radish
 28a20bb1e94ce563bc77a86cf76de5ead3c8374ef27bc00a32d0edecc1b67012  ./serrano-common/proprietary/bin/time_daemon
-c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano-common/proprietary/bin/rild
+f12ce5e01761ee3f265686b24295a80e8b3232da1c22eae4c8b7152e6e0c7d58  ./serrano-common/proprietary/bin/rild
 47a3a3364ed92e55034b567f60e205e11d2761f987788e23441393f5104c4fe3  ./serrano-common/proprietary/bin/btnvtool
 2f888eaaf605ac7863fb75e4a7a79019650fa5c2f3779c0a0074ac1f07d2e34d  ./serrano-common/proprietary/bin/qmuxd
 f61cf505becc5dcc518fac0c564aa8fb8b4fa3e39b86b51b9153fc8fb90a0450  ./serrano-common/proprietary/lib/libOmxAacDec.so
@@ -3529,7 +3529,7 @@ bdbd2cffcc5527f10955d5e6a7bea122870c29dcb19c4dc98410b846a51096ed  ./serrano-comm
 e41a42b4360d091a6ac5f7de4e61ff36dfd112e5aee295d533be2b3f0361e4f9  ./serrano-common/proprietary/lib/libSHIMDivxDrm.so
 955554240ccfa9b440733b3ce2dd5a786a3678890db901a288de3b75d4e56c66  ./serrano-common/proprietary/lib/libdrmtime.so
 40cfbb52d4175f1cc365a236f11357b2d780522e0537fb33e23e946673e1d0a0  ./serrano-common/proprietary/lib/libmmcamera_wavelet_lib.so
-700e62ef63757de46e8e364a310859c74e8376992b5bd682bd48e194b81d1ec5  ./serrano-common/proprietary/lib/libsecnativefeature.so
+c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./serrano-common/proprietary/lib/libsecnativefeature.so
 ef145860e4289ead54e7ca581338374dcbb76b6a0f6b6beb4f3ba5325e918d23  ./serrano-common/proprietary/lib/libmmcamera_plugin.so
 b918ffa0363f4f3f7cf3e5be36761faa8a2bacc99178fd970626c54efbfea5c8  ./serrano-common/proprietary/lib/libOmxAmrwbplusDec.so
 6327023a46a2c6df58bf5b3012e9093b31cc12f54aa0e07a2fbb1055b4cf5c72  ./serrano-common/proprietary/lib/libOmxWmaDec.so
@@ -3551,7 +3551,7 @@ ce5e23dff8c3fb45c243febb9a5069307819f3b8509b1a15dde038d6f3d86e91  ./serrano-comm
 e1cddc73303e9cc8629ca2e11782d71f406e972410d633ae37c6a32abf576772  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
 346f5fe3bf5a2f86a1e9c17a447c5a1847d53c494499eb6aa978009b32847bb2  ./serrano-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 0ef9c1fa35e191cdc25e948008889cb7aeb8d21b487e714a2a460f825b68c2b0  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
-396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano-common/proprietary/lib/libril.so
+225aac0cb2072049df8f98e66987b3b306e6cf5648678e09b33b44939f03ab28  ./serrano-common/proprietary/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./serrano-common/proprietary/lib/libcordon.so
 57a0d559d8ac6ccec044792441a8b0d76e78484a5357f21d8dec7ac42a63cefa  ./serrano-common/proprietary/lib/libacdbloader.so
 7ba733405e49c2cd6fe5927baf9e8023c1dfc11ba20530f6c94c829f6299f0ac  ./serrano-common/proprietary/lib/libimage-omx-common.so
