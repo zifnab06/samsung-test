@@ -2792,7 +2792,7 @@ eb353811254c1edd5ed1da0843be294fb7f35a0819aac1f8366c7f881d2a73b1  ./hlte-common/
 1994583d9ba90d142dacb1972253513ea8aa4358f3ee5b2668fd3ea269950e7b  ./hlte-common/proprietary/vendor/lib/libactuator_wv560_camera.so
 e29ceea3ecf35ffd56efbbd88da1e2d09bb73233600e1c273daf34e60b21e5d4  ./hlte-common/proprietary/vendor/lib/libchromatix_imx134_vt.so
 940141406df5a57a96b5fa03026df5d19c97e1650eb78811dfe46df8ef6d4402  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_vt_hd.so
-3e36c4daea1852465a25baecb90b06ff1c5f4776868cd1e9011b393eb09cef81  ./hlte-common/proprietary/vendor/lib/librs_adreno.so
+c897f13c38403e9f0f4299b041e69bc039d684ae6720de451f9e7f35a3d175ea  ./hlte-common/proprietary/vendor/lib/librs_adreno.so
 cd3f7afe15ff9decdac0c55862776a54c01e1579f2f63542f90c0b07ad6a1067  ./hlte-common/proprietary/vendor/lib/libOmxQcelp13Dec.so
 b65cdf11fbe3c6f9d30532d282743b08eca3191438ac039b6494ae8b3a29d313  ./hlte-common/proprietary/vendor/lib/soundfx/libqcreverb.so
 ae3d3ba3667de811aa5314737ef2ac127dcb4c609f7b6e7538983bf1bdb135b7  ./hlte-common/proprietary/vendor/lib/soundfx/libqcbassboost.so
