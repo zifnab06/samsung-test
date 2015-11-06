@@ -5490,7 +5490,7 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./d2-common/pr
 978967c2e0939e941faf4200eff4c956a4cfcba1cc6f507eae7bffc740b9fd4a  ./d2-common/proprietary/lib/drm/libfwdlockengine.so
 79e2adfc17eb33e6da16417e4053ca97e28676281b23fbcc6dad7b20af0d139c  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so
 f17fa91dba3cb944ba699bf0203e742d3494c7b4a34fa2fabb91be47d6e05b3c  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-7123a545bc64c671d12404bf403cb11e80e4364bd86756142018a7ee81a9c36c  ./d2-common/proprietary/lib/libqc-opt.so
+56141ffa4326225a36be12b089f8aab23e64465c46ee9f2d67d957e9601c4bf8  ./d2-common/proprietary/lib/libqc-opt.so
 657a5d21c345cb82ff7fd68d0a13ef542e00637807183706f2aa617b5972cb93  ./d2-common/proprietary/lib/libchromatix_imx074_preview.so
 5950d05449dfbed54f62f1adf80416bd960a51b29d7379a21413665288017d89  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 01df08d5b223fc17999b2abc3d57d89689f579124c3ab832b23812acdc622562  ./d2-common/proprietary/lib/libaudcal.so
