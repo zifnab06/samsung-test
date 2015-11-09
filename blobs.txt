@@ -1366,7 +1366,6 @@ f489627242be441c1983fc64c3e53b89a9abc7707504580470173febb5d951d8  ./jfltespr/pro
 b360282e85d25c9b2e855dd6190ee11cb667d4a339148dfc454da7fba8827c55  ./jfltespr/proprietary/lib/libxml.so
 66726b08024e15251309b9ccceacde021ada7fa44aab7b4b26f248dfa11f83bf  ./jfltespr/proprietary/lib/librmnetctl.so
 5b5479b1b90007547e63e469d83ccb9019d6cfc3f8ca03b056c4f1b7d02f525d  ./jfltespr/proprietary/lib/libatparser.so
-625b5effc7b37f53488c95c38f3392362f2776a9adf9ea163893cf16f4e0b396  ./jfltespr/proprietary/lib/libcnefeatureconfig.so
 9889a992d3d40e00352f5382d70cb3712445fcb8607e239c32737f960c05a0bb  ./jfltespr/proprietary/lib/libril.so
 18e333a30720c430c4fd4d04dbffe6b53a9075b31a6f1b4b46a449f3a0eb5032  ./jfltespr/proprietary/lib/libsec-ril.so
 c524bfc4f3b2d0a013910f50ef0ef34c6241b480a9e5b80f290913da3bb8e52b  ./jfltespr/proprietary/lib/libfactoryutil.so
@@ -3305,7 +3304,6 @@ a13cf9f188a7cc4bd06115ecf802f346b56b35829b24510047a1ff91c8e00a7f  ./jflteusc/pro
 b360282e85d25c9b2e855dd6190ee11cb667d4a339148dfc454da7fba8827c55  ./jflteusc/proprietary/lib/libxml.so
 66726b08024e15251309b9ccceacde021ada7fa44aab7b4b26f248dfa11f83bf  ./jflteusc/proprietary/lib/librmnetctl.so
 5b5479b1b90007547e63e469d83ccb9019d6cfc3f8ca03b056c4f1b7d02f525d  ./jflteusc/proprietary/lib/libatparser.so
-625b5effc7b37f53488c95c38f3392362f2776a9adf9ea163893cf16f4e0b396  ./jflteusc/proprietary/lib/libcnefeatureconfig.so
 6557abba00bf97fe340f2b4ecb52f0d295d3c8b2cb1c8d881fe7605418488474  ./jflteusc/proprietary/lib/libril.so
 23b20487ff860b16b6cc22aca96608bfb23eb5e35b88698a728028d9b954bc70  ./jflteusc/proprietary/lib/libsec-ril.so
 c524bfc4f3b2d0a013910f50ef0ef34c6241b480a9e5b80f290913da3bb8e52b  ./jflteusc/proprietary/lib/libfactoryutil.so
@@ -4574,7 +4572,6 @@ a959f9d9607b885d2ceafb4c462da3cb388d8ed23285949de6fe1fd2af6a7cfd  ./jfltevzw/pro
 b360282e85d25c9b2e855dd6190ee11cb667d4a339148dfc454da7fba8827c55  ./jfltevzw/proprietary/lib/libxml.so
 66726b08024e15251309b9ccceacde021ada7fa44aab7b4b26f248dfa11f83bf  ./jfltevzw/proprietary/lib/librmnetctl.so
 5b5479b1b90007547e63e469d83ccb9019d6cfc3f8ca03b056c4f1b7d02f525d  ./jfltevzw/proprietary/lib/libatparser.so
-625b5effc7b37f53488c95c38f3392362f2776a9adf9ea163893cf16f4e0b396  ./jfltevzw/proprietary/lib/libcnefeatureconfig.so
 02907f0b1915675f648ed4e22c4b3f75f9831e18795a2bd60a7aab0efab57121  ./jfltevzw/proprietary/lib/libril.so
 0780b03408a76c5b9569f40034bdd3def1d19094a7b1d43fe78581a7862888cc  ./jfltevzw/proprietary/lib/libsec-ril.so
 c524bfc4f3b2d0a013910f50ef0ef34c6241b480a9e5b80f290913da3bb8e52b  ./jfltevzw/proprietary/lib/libfactoryutil.so
