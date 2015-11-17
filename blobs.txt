@@ -4817,9 +4817,9 @@ d4efeb992d818e70a06858c07508bcaec0256a3a6e2940a3245cb48182a25038  ./omap4-common
 f9dea0108062d35d909aba195ccb2b0d0f960ebac82698e9062cd321d4cec1f8  ./omap4-common/proprietary/system/vendor/lib/libsrv_um_SGX540_120.so
 9ab70f89b00bc1216e10aa7044eb43e926ba1d204bce0f16b48b996c13e8c91d  ./omap4-common/proprietary/system/vendor/lib/libusc_SGX540_120.so
 ad52557ca74043089f0fcf69fe2a2497d7571c66f990dbf81eeda22517de6d8d  ./omap4-common/proprietary/system/vendor/lib/libPVRScopeServices_SGX540_120.so
-4cfd92366a27f9f3ac0d00f865328e23caac9f2844854d6a26e690f64b75eaa0  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4430.so
-bf932752b1b8b8c76a59bb0a2e221fe58a6b9231fef18c4d7d5ba7dbeb9a44dd  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4470.so
-4cfd92366a27f9f3ac0d00f865328e23caac9f2844854d6a26e690f64b75eaa0  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4460.so
+a36da4df0f78ac304c0135a54d2a37253491bc38006ed1959a7d599396254466  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4430.so
+9c81f03ed47d688673d3c1e12239c2d8cab8e3ae696a373fff1d19649c8398f4  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4470.so
+a36da4df0f78ac304c0135a54d2a37253491bc38006ed1959a7d599396254466  ./omap4-common/proprietary/system/vendor/lib/hw/gralloc.omap4460.so
 fd221078ffef53384ec704bbfa68ca32d09c5132f293f1cb71a5a2ec0d7fe01b  ./omap4-common/proprietary/system/vendor/lib/libsrv_init_SGX544_112.so
 5ea575968e66110e73cbe8db0b0beb3ca4973fa7d207125153235361fd038227  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX540_120.so
 0bb3e9766c992a9ed619418b148d0df7c76337985a72923f08abefac83564fbf  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX544_112.so
