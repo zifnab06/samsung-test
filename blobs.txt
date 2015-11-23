@@ -838,6 +838,7 @@ a81368851eabcf9465b347e4af6d46c3fe7687df40a46da1b58640d5bf21c4ac  ./klte/proprie
 c147b4306926f3339b8f070a85479ac1685a8f6d522926dd9b84fe1c0db4c495  ./klte/proprietary/bin/qmuxd
 16e0f166aac76f8a91e3f7dddbb00fbb6446b23dbe8a995acc007b4c1c2a7656  ./klte/proprietary/bin/qcks
 fbc355e36e6562f3ea52dbe8830005240c3ee0916ca590ed693019b5e673fcd1  ./klte/proprietary/bin/ks
+f2e533de3f74611b1e5d4944de191f9c9207bcb5d7469d73d41ed8a57034f5f3  ./klte/proprietary/lib/libloc_ds_api.so
 c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./klte/proprietary/lib/libsecnativefeature.so
 323a5372b9d6296a09b687d32fd3fc53968644131357bf38a47a28b97062d293  ./klte/proprietary/lib/libloc_core.so
 a2cd07e4556b8f868db8fe53bf56e1230dc564ba7f080f1107891c66bd917c12  ./klte/proprietary/lib/libloc_api_v02.so
@@ -858,11 +859,14 @@ b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./klte/proprie
 526d5d9efe748b57c0310cb290c0e10ea98b7deabdceeee6e7f9511c097a8876  ./klte/proprietary/vendor/lib/libqmi_csi.so
 8a6be0f4a22eb0199e315ad06a4b7d76f33cb9b5979badfba8c86f04cccda768  ./klte/proprietary/vendor/lib/libizat_core.so
 4c47691ea0b8a8689723787811ece1439bd0dee712a7b3f7d108bd9136f31b12  ./klte/proprietary/vendor/lib/libgeofence.so
+6813edb29550fb9f52f813ae898c0a4b6f2fc628d31737e4fd52db23be7d5d44  ./klte/proprietary/vendor/lib/libdsi_netctrl.so
 33797470b1159a2b3c1c09c25b0cacd0286f20181b01e5c86ad15de814298270  ./klte/proprietary/vendor/lib/libidl.so
 d72faaec79c0da0dfd4039707b4a588447a7af4aa930e7e0a29c4fb5bc16ecab  ./klte/proprietary/vendor/lib/libril-qcril-hook-oem.so
 e4c65547638438fcba0d564da408eda17158a0e87a34f48dbd3469d430c3b020  ./klte/proprietary/vendor/lib/libqmi_common_so.so
+bd7aa809350a1be00db00a2b9a0880d408171b197576afb7be7e11e5da7ecce3  ./klte/proprietary/vendor/lib/libnetmgr.so
 d85205f4861f9405d983a7a42b0a416355dcccdeb554b2694d83081390c6be39  ./klte/proprietary/vendor/lib/libqmi_cci.so
 d33f9ce1a866982dc421edfa89228c503eb7064d94c2e6536c09fdef8c8f481a  ./klte/proprietary/vendor/lib/hw/flp.default.so
+d3eb44b899ff6a91219a2c1367942b9c02e6406e42d1466a26435a2b9ee85dfb  ./klte/proprietary/vendor/lib/libqdi.so
 b458ff99f36780f522399d136afd68524a56d58389afff8a96cf47f4297d8b65  ./klte/proprietary/vendor/lib/liblbs_core.so
 55b01ce2f4f61abebce0218930aac1971f00213a3a11f785af46ca8f13da8753  ./klte/proprietary/vendor/lib/libqcci_legacy.so
 b2d53c4ba1bc376debc13bb5f2aa406114ce9beb35a014442e8d5c88ac4286d1  ./klte/proprietary/vendor/lib/libqmi.so
