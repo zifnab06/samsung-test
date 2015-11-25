@@ -5538,12 +5538,12 @@ c240ea42fd718a7c3760d10fe100a8c00e2606c3b7cddb6ec1aa1037f52b22b6  ./d710/proprie
 dfebc1727f266dbb5d6d237183b79aaf94142192b364e802e3ccfc46315b1ba4  ./d710/proprietary/system/vendor/firmware/wimaxloader.bin
 100397a6b5cfd8fd7a4a1ebcda927dea26a5ad141ddc3c5c2893404a56533100  ./d710/proprietary/SprintMenu.apk
 db8e68c9e011601ecf26afc9ae4675c1f6ef9b71e4e3c283c90c5ecfc6ca5ef6  ./d710/proprietary/AngryGPS.apk
-b445fe660c35bd09eb12240fb516df72cf6081b41688a7ed0ab8a8150843ba1d  ./i9300/proprietary/system/bin/gpsd
+e3e8e2a5c0ffebacd0b1a6ae86afc26710aa76112823f6f3a7b84a7934cd58ed  ./i9300/proprietary/system/bin/glgps
 2c75577f25b636115615d2ed6ae4375da4e70b8f7e4d75bcf0fbacbc3a921535  ./i9300/proprietary/system/bin/rild
 e63a31378223650b06e26382f307271be376eba054d5de2f6a6571d1b1776983  ./i9300/proprietary/system/lib/libril.so
 4c01ace2c499aba7fa161c336217a515f84e517233e614950b9bb1c33a6ac5dc  ./i9300/proprietary/system/lib/libakm.so
 aa11d026ceff0ed4b80c38f6acb3660133cdfd6f85d88b1d01ab1651a3d75f4c  ./i9300/proprietary/system/lib/hw/sensors.smdk4x12.so
-cbffab7d9e864f8916c7b6fbda68b87e55e07bb8f25023ce8f8a35653bf8d195  ./i9300/proprietary/system/lib/hw/gps.exynos4.so
+34a4020094566945565d65467c3561ee6d716cdc83b0805126aef9f21ec53af1  ./i9300/proprietary/system/lib/hw/gps.tegra3.so
 546d8690476d3eab3a52a305aa61ae021ac7ba5b30e491f5294f0533f8ec08b9  ./i9300/proprietary/system/lib/hw/camera.vendor.smdk4x12.so
 feecf76efde9ce1857f9c31c81846c4251a18fbd1cf24d0fc4f604b0f2b19d35  ./i9300/proprietary/system/lib/libsec-ril.so
 94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./i9300/proprietary/system/usr/keylayout/sec_touchkey.kl
