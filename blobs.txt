@@ -993,7 +993,6 @@ ee5b888d0537eb56131e526cfa9d78bef429a576201915e2775cb4fa9b233f51  ./jf-common/pr
 25d1e0c3a0fa39876f966f407f05a03379b73b256211e468b89f868e5cb5eff9  ./jf-common/proprietary/lib/libcsd-client.so
 c5482eee945e8ffb721e4c87870d775adefe10a1970a68129e640742fa81b5eb  ./jf-common/proprietary/lib/libmmcamera_interface2.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./jf-common/proprietary/lib/libmmcamera_faceproc.so
-d0388fe178f125edf56b69d4420e58a9d88e575ae9691544c23db8a589a46be7  ./jf-common/proprietary/lib/libSHIMDivxDrm.so
 f3d19be8c24ce284456de4a662c8e8674da14c010e40077403c3c3c8eb5ec1a1  ./jf-common/proprietary/lib/libdrmtime.so
 024d07aa010eb9720ad07fefbb93161c3059f73741b2766da90d6209e38e5bc7  ./jf-common/proprietary/lib/libmmcamera_wavelet_lib.so
 331ecb17f64a2d38c65a7a13e52f414d485883ba2ab402869e759edc06f5dc75  ./jf-common/proprietary/lib/libdivxdrmdecrypt.so
@@ -1003,7 +1002,6 @@ f3d19be8c24ce284456de4a662c8e8674da14c010e40077403c3c3c8eb5ec1a1  ./jf-common/pr
 7f0d72224ce700ce1f21e1dfc8b470f7b953c2b483920b50d4476580042249ea  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_hfr_60fps.so
 1e89f46bbb0338dbd1f9be718dadf5f9241f38172425efc9df779127a398c53b  ./jf-common/proprietary/lib/libdrmfs.so
 682ec998a7687c62579c6c3ebb94416e028d9a3a7df8b7f566155dfac4c7af6c  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_zsl.so
-6fd0985026dbb1317e015f33d9a04a386d47acd0649cd1718ecb80a55f7b35c7  ./jf-common/proprietary/lib/libmmosal.so
 c772e6ac315b4faa41222a4db6fbc3b95a3de9de452ab3a9bc89e8da7aaf5274  ./jf-common/proprietary/lib/libmercury.so
 21cdac1639fce0ce4372aade838f9e6b3118184ce4809dda8901a3be86e19f1f  ./jf-common/proprietary/lib/libchromatix_ov5647_default_video.so
 42c610bbb6eec3c0bdeb837a9b71b897bcfab03ef564483110b720608aadb4f7  ./jf-common/proprietary/lib/libloc_core.so
@@ -1064,15 +1062,12 @@ a866382142b52e7949886da18bdc88a8802a4bfeb2cfb29299d73f12cf27f947  ./jf-common/pr
 5e7dc3ddb36e368f3bb8a7d784bb764611ed2ff7f0583f5899e52e642cc57f1b  ./jf-common/proprietary/lib/libchromatix_mt9e013_preview.so
 c8b5a51e01eb1eb761e103aa2c847564d52c427701d93d5838e7d63ac5c7978a  ./jf-common/proprietary/lib/libTimeService.so
 48561c6ca3613c199e79418bc88f781b84732eb68d27d72cfb2938302397dc80  ./jf-common/proprietary/lib/libchromatix_ov2720_zsl.so
-a52b9aeba32dab8aac025b3feffaebaba7e1c6bc1d3f88d1f20722ce2f8d5391  ./jf-common/proprietary/lib/libmmparser.so
-bffb7586b3cb7af0add0ec36a69aacb3d90895167db13cc8659c77744930f049  ./jf-common/proprietary/lib/libExtendedExtractor.so
 0b45a2e206e5c39273393ad4dfe9c53ff63f5c64c57008f22f933c6ba01e66f1  ./jf-common/proprietary/lib/libmmcamera_interface.so
 d6ea672b5a4380f584e0b4fb6cc5a9423c52612822e70d6481dcfc5310f49859  ./jf-common/proprietary/lib/libchromatix_ov8825_default_video.so
 661dd2a0a6e75365e29848bba541ccc54659cb36fe3ed13fe52a830aa9280860  ./jf-common/proprietary/lib/libQSEEComAPI.so
 0e5e100f46513ad516fdd04de025ceec48420a4ed0359daa114d1d2f10c47a8c  ./jf-common/proprietary/lib/libchromatix_ov2720_preview.so
 73dc18f3433928604486adf40236ec7793ff445b120943adc47f4ce04930e04a  ./jf-common/proprietary/lib/libgps.utils.so
 3dafa71da00caa67ddd4a5652db24d75e26bad570a0017f622bd80afd255dc1a  ./jf-common/proprietary/lib/libmmstillomx.so
-b8a20012e9e84a691624cf7169278e5742e2d5c7c8f2d7e290515950c55fce3c  ./jf-common/proprietary/lib/libDivxDrm.so
 472e8e2103ed461ce2f0724c78b8f7d7e02c8447e36f0890ca5a325bdffe8384  ./jf-common/proprietary/lib/libmmjpeg_interface.so
 f7dc8883d8a0feb84c3c7874bc1ae2111640413e70bc2ed3bd73084ce9fa2a44  ./jf-common/proprietary/lib/liboemcrypto.so
 6fd07501cd50301b42ce620d381932b76913fecc695293a79020ebbaaac4c585  ./jf-common/proprietary/lib/libadsprpc.so
