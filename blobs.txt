@@ -1140,15 +1140,12 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./msm8960-comm
 105372d1ce9b5f08cbe3b0d97de99e18357f25e93bdb8953c520d784840d74e1  ./msm8960-common/proprietary/lib/libmmcamera_faceproc.so
 bbb48fd4fbe51c70110daab70ceefc33f836af9664c215255d36eafeddfb6899  ./msm8960-common/proprietary/lib/libdivxdrmdecrypt.so
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./msm8960-common/proprietary/lib/libsecnativefeature.so
-7756cdc1e4fe994a8a2497b3f533d19e87f201775661d86109edf6091ebd40f8  ./msm8960-common/proprietary/lib/libmmosal.so
 124c391731cd40813b2c3eab0820703679639f666ebff02f228a46724deb69d4  ./msm8960-common/proprietary/lib/libmmstereo.so
 4146655daecee4282178f81e94aa7aa65b318c67ffb1eb184b168cf60ce3616d  ./msm8960-common/proprietary/lib/libmm-color-convertor.so
-d737c1c95435f1e969a6cf8a3b0c56894d6258580dbdd2158cd278f9525e4f6e  ./msm8960-common/proprietary/lib/libdivxdrm.so
 61905b6d25e560ea38149883c90ffafc69560e933aee0874f7202acba245ad99  ./msm8960-common/proprietary/lib/libwvm.so
 72301711fd941b8b80ad83d8aa531778f6f06ced20ea082c22e5f2c6935d57c0  ./msm8960-common/proprietary/lib/libmplmpu.so
 57abb5f0a7cf9753eddc4530a5616a49e1222f2cf8e06185b7610209db900f78  ./msm8960-common/proprietary/lib/libyamaha.so
 80317d5373a72a4ded92a176e68ab1d656046a7a8a17b83b52190792e8aa90aa  ./msm8960-common/proprietary/lib/libmmmpod.so
-a983ba2e22342da8ec8a7ae92852122594ce15c3d4de567eae1c4729e7f21790  ./msm8960-common/proprietary/lib/libmmparser.so
 2ff4709d488d4d087c67c3fb09033463101b09f4975f68e604458fb823f9b882  ./msm8960-common/proprietary/lib/libI420colorconvert.so
 2192121d2d0d8e1874fe0d8468aaca1abba49dda4e1f5d0a611db38f81e3815d  ./msm8960-common/proprietary/vendor/lib/libsc-a2xx.so
 d3c0074c7842fdbdb833502f86530e6c384d18caec5dccf7522dcaee5b54b852  ./msm8960-common/proprietary/vendor/lib/libgsl.so
