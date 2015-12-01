@@ -564,6 +564,7 @@ e07a3c30562e97d472179d570e06f1ebe9f6c4cbe5037323fbc3b86eb45b7242  ./treltexx/pro
 345c6bab1d30ff762c9abd151b8c04e3ddd40033a0a2f992291156653e9a010f  ./treltexx/proprietary/lib/libvdis.so
 fd15a896ea705a63bf813f7e928497c864bb6bc7a32ab9d0150ea3c28b627cb5  ./treltexx/proprietary/lib/hw/sensors.universal5433.so
 8efcc6799ec2767c50626669ebf5b0b968d8dabd9c0aa61ed9484b201b1849c0  ./treltexx/proprietary/lib/hw/gps.universal5433.so
+0a4056b346a2b16e548d7112082a1ebc7116e6a3f125428ae7c08dd27910025f  ./treltexx/proprietary/lib/hw/consumerir.exynos5.so
 f827266b7689b2ef82dcf1379c7a572493f7e9b5d30e6a8a72fa03a42d88db8f  ./treltexx/proprietary/lib/hw/camera.universal5433.so
 e00d6b96a6b4419d3ed5be3b282cb7c03a9b6850777cad34621e886bc388b691  ./treltexx/proprietary/lib/hw/nfc_nci.universal5433.so
 da36e0aed6b6565bc6ee89e2537825a0d1f487fcb53b0575dd0af5bf195b7d4b  ./treltexx/proprietary/lib/libsec-ril.so
@@ -622,7 +623,7 @@ c3de89cad7d02b67c1bae93815618b0a036141a7c23610240de0c223668a804c  ./treltexx/pro
 4ebe3436d669b2886a1d0d8c96196fa6a066ec0b4955edef69628e5c572cbdf4  ./treltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 c14b934e276e28f4882ce1bd2402fa202188cecae12acf65db1d4271c2d44df1  ./treltexx/proprietary/vendor/lib/libwvm.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./treltexx/proprietary/vendor/lib/libmalicore.bc
-7dad0883cbc356547d4b4bf82fd63cd0c19112df1635362db278f4e3c65d448a  ./blobs.txt
+563a7817b8a911371149812c79bcd090367ad45ff2a14f15e9a7d848cba01f50  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
