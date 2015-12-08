@@ -2445,6 +2445,7 @@ b458ff99f36780f522399d136afd68524a56d58389afff8a96cf47f4297d8b65  ./kltespr/prop
 dbfc4132738dbf72d569023a53893fc24277092e35980441b896b1302f82e93e  ./kltespr/proprietary/vendor/lib/libqmi_encdec.so
 ba291375a0123c1e043f20f7c094862d73f30b176848e485ae38a295a0c4365e  ./kltespr/proprietary/vendor/lib/libqmi_client_qmux.so
 7ead268a8d301312653dd929b97188437fd96bb222156dbf98168d5a9f45663d  ./kltespr/proprietary/vendor/lib/libqmiservices.so
+e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./d2r530/proprietary/lib/libril.so
 f111f320f3ea8746489d088b5b3c3cca98268f1eac1c7346ecd1519033066bd2  ./d2r530/proprietary/lib/libsec-ril.so
 ece6b04710752811c52e95fc0c4126bf68987b11aeec7afd741e785eb9a3d00b  ./s3ve3g/proprietary/blobs/s3ve3gds/bin/ds_fmc_appd
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./s3ve3g/proprietary/blobs/s3ve3gds/bin/radish
@@ -3626,6 +3627,7 @@ a4bdc83d1629f81e8b34681117d6914021433fca67058628d5d57051c0497c26  ./picassowifi/
 bb3744b62afd00c191ce027cb34f6dc71f434bae7ba8d342e17740c88f1575b9  ./picassowifi/proprietary/media/chargingwarning.qmg
 537c9c2606d545fc7f29fe063601541d4ad4af1692c21fc37e6c4575bef4473c  ./picassowifi/proprietary/media/battery_charging_20.qmg
 417485fac48b0c13861c7e39b05ac4c7a4f7c2435faa4b8e081b422c15ac15c0  ./picassowifi/proprietary/media/battery_charging_15.qmg
+c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2spr/proprietary/lib/libril.so
 faf7e0a2af59ecd1569a45e91568407b0f70e949eedc30951687c18df28e4b7e  ./d2spr/proprietary/lib/libsec-ril.so
 6584b845cfde7cb93db0651f90a9d34fc142b9ed46d67e7bada77e6225d0118d  ./klteusc/proprietary/etc/permissions/com.qualcomm.location.xml
 8852e25f60cef865cfea347d9e056e9c13f69b985797e10c1a70129a1feb3439  ./klteusc/proprietary/bin/efsks
@@ -4062,6 +4064,7 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 4f26f8c0f0bb4c61149fa1c95104ce6d82996d94420d61934bc68654a00cb7d2  ./vibrantmtd/proprietary/rild
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
+e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./d2vzw/proprietary/lib/libril.so
 57e96f6661022f070f915b6903efe96940aaf6f9e0e4f6ffdc7a2a4f2098db1c  ./d2vzw/proprietary/lib/libsec-ril.so
 29b5c76479fecf44c991a882a6b9a3a82e05faa5559190b82e044a8b9a777873  ./superior/proprietary/sbin/cbd
 24b861efec05b35204de8fa3f99c4c142ad1f530fd544ff193cf272912c20677  ./superior/proprietary/system/etc/wifi/nvram_mfg.txt_murata
@@ -4254,6 +4257,7 @@ d17162835467a36a7798eaf150b02f473a7f6a1e9eb11f2cfb707c11c602627d  ./i9500/propri
 8ab46f03fe3de40d1af6cab757549888666ded287ade9fd31713e7a1027ccd43  ./i9500/proprietary/vendor/lib/libusc.so
 d637c7ba0d4ded2f72c0d1133df4920e7109252dfba776625f0393f123dc957f  ./i9500/proprietary/vendor/lib/liboclcompiler.so
 079f1e27b0810ed14de36a8ed71becdd83b8d09e64a09f3f0a275ced87a926c5  ./i9500/proprietary/vendor/lib/libglslcompiler.so
+23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./d2gsm/proprietary/lib/libril.so
 485f4c6a563f749f5f9b326dfabb90ab2a8f907726e20f71e23806adc392e688  ./d2gsm/proprietary/lib/libsec-ril.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./quincyatt/proprietary/etc/thermald.conf
 9521d756558ea92419fdd8c4a3c829cd423bf17f668336c3fb6fd14f5ab65c6e  ./quincyatt/proprietary/etc/wifi/bcmdhd_apsta.bin
@@ -5607,7 +5611,7 @@ a81fbcaf6302f3ea45c78b0bfa83625362e766fc5ed25b1f4761bc94adf68a0d  ./d2-common/pr
 1a72c23fc26b272f14597be7ca6c981f8524ecc418e5163879a050932c2073a8  ./d2-common/proprietary/bin/ds_fmc_appd
 74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./d2-common/proprietary/bin/thermald
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./d2-common/proprietary/bin/radish
-f12ce5e01761ee3f265686b24295a80e8b3232da1c22eae4c8b7152e6e0c7d58  ./d2-common/proprietary/bin/rild
+c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./d2-common/proprietary/bin/rild
 6cc16e802b865c7d245886d1f3dd843890be5debf87ae283865f251d22afe552  ./d2-common/proprietary/bin/qmuxd
 cc399ff9b5d475f215eb6bf24b49e4a0a948ccc5036b59849c82977d38bd9d0a  ./d2-common/proprietary/bin/qcks
 b14766a28008b9f17d55834a24cdaf8730e6d241b72a22246e4ed2eb3264a0e3  ./d2-common/proprietary/bin/ks
@@ -5615,7 +5619,6 @@ b14766a28008b9f17d55834a24cdaf8730e6d241b72a22246e4ed2eb3264a0e3  ./d2-common/pr
 db88f0817977aa80dd039c819fcc85227fb96742732f6410350561d51a7aa755  ./d2-common/proprietary/lib/libmmcamera_statsproc30.so
 f595038c2c0880b73ab44e7813aab404c2c340e83ddad25cdc772db8b58615b3  ./d2-common/proprietary/lib/libcsd-client.so
 bdbd2cffcc5527f10955d5e6a7bea122870c29dcb19c4dc98410b846a51096ed  ./d2-common/proprietary/lib/libomission_avoidance.so
-c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./d2-common/proprietary/lib/libsecnativefeature.so
 6da72d5f3b36890d8da64779546fff333c3e211b8a24e98542d362e702ad5c19  ./d2-common/proprietary/lib/libakmd.so
 d329e71a24298dcb56183591cbac76842334827c058ce896f177507e33abbbf1  ./d2-common/proprietary/lib/libxml.so
 f9144c616f6331eabcc880d4b56330ab4a8ed920180e499a8e5ee0b6d683a059  ./d2-common/proprietary/lib/libmllite.so
@@ -5627,7 +5630,6 @@ f24461024bf31ff3b278c1a259f056e46a758da44cbe9b08a1e8248044321848  ./d2-common/pr
 fcf79ec0d1b7cb5c14397df268b452ddaf460504230d65d12012d9e13e69fdd6  ./d2-common/proprietary/lib/libatparser.so
 a23b343c2a3e666e25a01913468179e5441ba6a763901d3de8f097a8f997c655  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
 1e55b7f5733f6bdedd2e19a9dd622955e9f295453e541d6db67e6d68816e9f08  ./d2-common/proprietary/lib/libchromatix_imx074_default_video.so
-225aac0cb2072049df8f98e66987b3b306e6cf5648678e09b33b44939f03ab28  ./d2-common/proprietary/lib/libril.so
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2-common/proprietary/lib/libvdis.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./d2-common/proprietary/lib/libcordon.so
 0781b64fb9c9110b2bc1eae3731aef85de279787ac719422ed5d6dcb3579e64f  ./d2-common/proprietary/lib/libacdbloader.so
