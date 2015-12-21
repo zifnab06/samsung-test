@@ -5822,6 +5822,7 @@ f9826441f26e2b7c0dd2bcc0bc02cfe58c1c93b785529da08dceff97024e078a  ./klte-common/
 b9d7740c329c48c22b51c631043491a61ae6b2b8ada83d1c71616c67070695f5  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_hdr_preview.so
 d7250db011e9db35ba93997432cef51d7abc7fd21b6d2cc6e57b7b14a86d0708  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_hdr_video.so
 84ecd81108708103d8ac25803c0dc04196f7314ecdbdfb57dc3ad2c2091b9dc1  ./klte-common/proprietary/lib/hw/sensors.msm8974.so
+422812a9fb9436e6bc40c5c608e7c9f907bcd4a5b6a7b1fd0dea9ccc5d36fd50  ./klte-common/proprietary/lib/hw/consumerir.default.so
 f586c17383854fa6eeb5289855b89ab48943d37d938ae8f851addc7b3de2fd14  ./klte-common/proprietary/lib/hw/camera.vendor.msm8974.so
 8610207e6a9cd995298c849519006b5cb24bd101f7ae47ef3168e7c549e4cb13  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_vt_hd.so
 5f8dc52c09de37c7b07b556f106c82847c32e4571f00a18ee0d92c4a813e74ca  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_lowres_zslshot.so
