@@ -5950,8 +5950,6 @@ e27b62f35bd4e72f6d2fdff67dc69eed5ca60a27641a057c7631661327a42117  ./klte-common/
 8fd94e25fcc1798a56239e18216c3852500c7cc813457bd12153156313cd8a9a  ./klte-common/proprietary/vendor/lib/liboemcamera.so
 7af5ce51da0f2fff1a92a92930b297f7323df1783828ab667aa6b4409aebb831  ./klte-common/proprietary/vendor/lib/libmmcamera2_imglib_modules.so
 c51f8ba5b772e3d6af51adc7e6987b54c69952b3baebca4e07e2e523d8e09ff8  ./klte-common/proprietary/vendor/lib/libTimeService.so
-468e756ffdb9eaf5f9d115290c3962fd4919cd836827377ca01543be87721d9c  ./klte-common/proprietary/vendor/lib/libmmparser.so
-bffb7586b3cb7af0add0ec36a69aacb3d90895167db13cc8659c77744930f049  ./klte-common/proprietary/vendor/lib/libExtendedExtractor.so
 bcaf09371ceed94d6ef969dcd23e7366628abfa18a3a3752bce045961ea36e43  ./klte-common/proprietary/vendor/lib/libHevcSwDecoder.so
 7bedd58591cdb35448826e1802a22eba59104d18f98bda930d1e8646b2f51633  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res0.so
 7a164b0d4d57c59970600a4a3c3a317f710f51cc6df9ac264db4b91f4bbb5d7b  ./klte-common/proprietary/vendor/lib/libactuator_wv560_camcorder.so
