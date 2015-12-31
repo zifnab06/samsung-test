@@ -1001,6 +1001,7 @@ a0f986f78c33cc20ef99caab948cadd55413c6b85307d1556376dfa748836b71  ./espresso-com
 bb34d305d8fceb241de0f546f3f97f273a5e2a02dabed396a0b590c7ec7759de  ./espresso-common/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so
 6c7ad04020e786b3758fd0629ee717ee21597a447beb882d5d0a8470807fae9e  ./espresso-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
 cd6e39c0747ab1fb82f1815ead76fd33a755f34db730e147c2c5f93b1f8e6517  ./espresso-common/proprietary/system/vendor/lib/libwvm.so
+604076674a96d996e77293c36fb4bf1ae1c4cac675e3582cfd6e7afc4a5a4ad9  ./espresso-common/proprietary/system/vendor/lib/libstlport.so
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./jf-common/proprietary/etc/srm.bin
 cfaf1291c759dd5b5a26a02e0fcb1a55b2a1f7d89e458d5aff78db2610fe670c  ./jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin
 66fb11d227a6c17e283ce0f955363843ddd07147cb22fa72f0298a921fc6f9df  ./jf-common/proprietary/etc/wifi/bcmdhd_ibss.bin
