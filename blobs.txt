@@ -988,7 +988,7 @@ a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./exhilarate/p
 1317253e936ccb249521f5f18a4a40a6fa2b74aaf8ff904a80bd81409640971e  ./espresso-common/proprietary/system/etc/wifi/nvram_net.txt
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_p2p.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./espresso-common/proprietary/system/bin/smc_pa.ift
-42472cfaa4fe8d786935aefa8300476ff9f697377dc3219e2b264c3556a63a9a  ./espresso-common/proprietary/system/bin/gpsd
+ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./espresso-common/proprietary/system/bin/smc.ini
 031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./espresso-common/proprietary/system/lib/libQmageDecoder.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso-common/proprietary/system/lib/libsecnativefeature.so
