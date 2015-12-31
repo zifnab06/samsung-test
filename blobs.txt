@@ -4989,11 +4989,11 @@ f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./t0lte/propri
 1e3f3b9e5033759883dbbbd690d07fde33016ec63a9dfda3ade2714e2a598046  ./t0lte/proprietary/system/bin/efsks
 d33d8923662ec0c5b8b90d523f5521fd62a262b7f9cd4c59916b2230dfdb709e  ./t0lte/proprietary/system/bin/at_distributor
 a3f8adf99e4a1360f2aa56a4b8a765d9651d550727a93a74bdeacd5f5f3a94f0  ./t0lte/proprietary/system/bin/diag_uart_log
+b14766a28008b9f17d55834a24cdaf8730e6d241b72a22246e4ed2eb3264a0e3  ./t0lte/proprietary/system/bin/ks_exec
 88bfcd87da8a4a00fd70b1d66e0f49e7a81e96fbbd1da8715dfc4f9164be8b43  ./t0lte/proprietary/system/bin/rild
 5c86749a7e511a1a4a59ae5cbb7766ea1a57418f26aeb661375cedd5ac13cc84  ./t0lte/proprietary/system/bin/smdexe
 465578452e831018cdaf860164ffb2262674b1aa57237511789d949b2801b0f8  ./t0lte/proprietary/system/bin/qmuxd
 85393aa4c410cd0f7c77ef674232a88334ef08d7ec354ad0724717e30b5d1dd7  ./t0lte/proprietary/system/bin/qcks
-baf0bfa13186b939e9c31e4a5c553647ebd72ce2f20ee72785efe931b3a1ba6f  ./t0lte/proprietary/system/bin/ks
 806a3c8283d2586f875db8e3cb97be97c0de5b47262953708709f14b35bd45a9  ./t0lte/proprietary/system/lib/libcsd-client.so
 4f0b2751a6f79777544b00eb10d9ba0fcc31f998aee883688e509abc5131a40e  ./t0lte/proprietary/system/lib/libomission_avoidance.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./t0lte/proprietary/system/lib/libsecnativefeature.so
