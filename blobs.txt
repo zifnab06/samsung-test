@@ -1095,7 +1095,6 @@ bb1c5dfb9267d3b7e698e8da2e77838b1fdeb384a6425dacad885c31aae4887a  ./espresso-com
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./espresso-common/proprietary/system/bin/smc_pa.ift
 ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./espresso-common/proprietary/system/bin/smc.ini
-031207f7b4d96dd80f29367fe4ad0661e5e1d070c947ab22f495b561f33f9354  ./espresso-common/proprietary/system/lib/libQmageDecoder.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso-common/proprietary/system/lib/libsecnativefeature.so
 ff041f111e02e028842ab536332c2bb4e144d6f7a5e92b3b669bad68fa1d4994  ./espresso-common/proprietary/system/lib/libdrmdecrypt.so
 afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./espresso-common/proprietary/system/lib/hw/gps.manta.so
