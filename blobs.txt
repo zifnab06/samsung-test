@@ -3502,11 +3502,6 @@ b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./p51xx/p5100/
 1877a8abecea957d98024ed7a45d14922e14869b60271b684c70a9c481dc63c7  ./p51xx/common/system/etc/wifi/bcmdhd_apsta.bin
 f978346fbb3fc4eadf7d9f8ab9072cecbc5146e63dbf9e44dcc767feb8de6cda  ./p51xx/common/system/etc/wifi/bcmdhd_sta.bin
 bb1c5dfb9267d3b7e698e8da2e77838b1fdeb384a6425dacad885c31aae4887a  ./p51xx/common/system/etc/wifi/bcmdhd_mfg.bin
-73d4e9d70bbd039c4620b88eb4768021d95646445f8b5745a057434de09d4f3b  ./p51xx/common/system/bin/bintvoutservice
-7fada031ec4b3a809cd67ed35b05f0d423a3c1320eaa7c64eaf9a8f01bd284fb  ./p51xx/common/system/lib/libhdcp.so
-4609044bd7a5b588ef02e3471fbd24ac8d148f91b0ee584820de6c2d162af9d7  ./p51xx/common/system/lib/libtvout_jni.so
-f23a53f8f6bdd7e1a42971b01320d19858f3010b19c904f8d5869e3fd61af3f1  ./p51xx/common/system/lib/libtvoutinterface.so
-dd7188a8f886d6c6d7da6de5de0bc5338f5d193b33321e0535822d9ca5a5b9a0  ./p51xx/common/system/lib/libtvoutservice.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./t0ltecdma/proprietary/system/lib/libril.so
 fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./t0ltecdma/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./t0ltecdma/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
