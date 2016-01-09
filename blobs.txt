@@ -986,7 +986,7 @@ a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./exhilarate/p
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./exhilarate/proprietary/vendor/firmware/libpn544_fw.so
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./espresso-common/proprietary/system/etc/powervr.ini
 17a0e898db6f8e065b2c59493f5b61c831b9a2bdc3bf5fb0104f7fa781dce06c  ./espresso-common/proprietary/system/etc/wifi/nvram_mfg.txt
-1317253e936ccb249521f5f18a4a40a6fa2b74aaf8ff904a80bd81409640971e  ./espresso-common/proprietary/system/etc/wifi/nvram_net.txt
+17ce78edcfece76e84d5780dac3103a79e7056718f2e1945492ef51b031a81ba  ./espresso-common/proprietary/system/etc/wifi/nvram_net.txt
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_p2p.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./espresso-common/proprietary/system/bin/smc_pa.ift
 ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
