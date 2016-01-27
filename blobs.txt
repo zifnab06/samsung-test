@@ -849,7 +849,6 @@ d460f6acd7b712319c1a34df2efebfb72f3be3ed2ac7489d01aa0899778f8140  ./epicmtd/prop
 4ce06520f25818d58176b212dfcaed283053fcc2c940d87b71c59cac1aebe84b  ./epicmtd/proprietary/vendor/lib/libglslcompiler.so
 8f4ba32e4fa7cf09afd97597fe0dad2657c43c0c3c70b91919f22790933b0377  ./klte/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./klte/proprietary/etc/sap.conf
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./klte/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./klte/proprietary/etc/clatd.conf
 cedbc3c0eecdedd5402bafd0d00706e09d5b6a6a99be4a08595fbb769f397536  ./klte/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klte/proprietary/bin/rmt_storage
