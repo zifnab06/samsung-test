@@ -849,7 +849,6 @@ d460f6acd7b712319c1a34df2efebfb72f3be3ed2ac7489d01aa0899778f8140  ./epicmtd/prop
 4ce06520f25818d58176b212dfcaed283053fcc2c940d87b71c59cac1aebe84b  ./epicmtd/proprietary/vendor/lib/libglslcompiler.so
 8f4ba32e4fa7cf09afd97597fe0dad2657c43c0c3c70b91919f22790933b0377  ./klte/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./klte/proprietary/etc/sap.conf
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./klte/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./klte/proprietary/etc/clatd.conf
 cedbc3c0eecdedd5402bafd0d00706e09d5b6a6a99be4a08595fbb769f397536  ./klte/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klte/proprietary/bin/rmt_storage
@@ -2436,7 +2435,6 @@ f52d237278d592e7cc60f1f2cb54e02508ff99b0dbda9b43c7bc10617157418c  ./tuna/proprie
 5ea575968e66110e73cbe8db0b0beb3ca4973fa7d207125153235361fd038227  ./tuna/proprietary/vendor/lib/libpvr2d_SGX540_120.so
 05cdd13c05b650ad1f2f7917f3f855e0946590873bde449c107bb89c50df496d  ./kltespr/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./kltespr/proprietary/etc/sap.conf
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltespr/proprietary/etc/flp.conf
 1afee74ed606acb4c9e34a4a24a737a6daab6f69d53fb2e33c0f744627ae9bf6  ./kltespr/proprietary/etc/clatd.conf
 6c9dd22d85da5634f723cdb097341d1b025cc3d1541641c9e4109ee9d0cd22f8  ./kltespr/proprietary/etc/izat.conf
 c4430f17dbe4ee1a65f3477394103681cd783be716ddcda1316b048b1adf03f4  ./kltespr/proprietary/bin/efsks
@@ -3043,7 +3041,6 @@ a2a709f083f98a263230ceaf6806a0200b9950c90c2f5e3e80b6675e307fdb66  ./hlte-common/
 90df6657568fa0771925c65decb0a7031650a79ac192e0bd95517c7db242fedf  ./hlte-common/proprietary/vendor/lib/libllvm-qcom.so
 8f4ba32e4fa7cf09afd97597fe0dad2657c43c0c3c70b91919f22790933b0377  ./kltedv/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./kltedv/proprietary/etc/sap.conf
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltedv/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./kltedv/proprietary/etc/clatd.conf
 6c1811a991a8868d528246a741025ce1efc8b6104602e0a2d1cb0335a257d5c3  ./kltedv/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./kltedv/proprietary/bin/rmt_storage
