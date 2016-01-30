@@ -4776,7 +4776,6 @@ b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./kltechnduo/p
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./kltechnduo/proprietary/etc/firmware/a300_pfp.fw
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./kltechnduo/proprietary/etc/firmware/a225_pfp.fw
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./kltechnduo/proprietary/etc/firmware/a300_pm4.fw
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltechnduo/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./kltechnduo/proprietary/etc/clatd.conf
 041cedbcd8a2d3fef1b0bc7f04812359afb2bb6b8c87fd8a45dac0b2082cd311  ./kltechnduo/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./kltechnduo/proprietary/bin/rmt_storage
