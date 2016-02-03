@@ -3597,7 +3597,7 @@ c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-comm
 324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
-06a14bd95c883242710de1689658e0290161c62ba200f23aaf0b627664896718  ./serrano-common/proprietary/vendor/lib/librs_adreno_sha1.so
+adea04c5f13f51a3d0e3f5a7e9618c4c36e7dafebdaa72e7b0ba93b9c1546096  ./serrano-common/proprietary/vendor/lib/librs_adreno_sha1.so
 e1d506c21d57878ca32cfad890f9f5547af3a62e0b821751d10dca1fce02b6c8  ./serrano-common/proprietary/vendor/lib/libdiag.so
 7834164981f4d7aa458b08a9fcc12bffa63eec4bd1deeb897eb75cc36ca84e7e  ./serrano-common/proprietary/vendor/lib/libdsutils.so
 490b69fb4bc0518b5cf7a7908e54aee091b5bcf0f76da20999517ebb2c698695  ./serrano-common/proprietary/vendor/lib/libsc-a3xx.so
@@ -3611,15 +3611,15 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./serrano-comm
 dc64a0e11b7086047213b8d05fb4faefa2f02c60ad4e3068b35ab9b0d6fe9681  ./serrano-common/proprietary/vendor/lib/libgeofence.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-common/proprietary/vendor/lib/libC2D2.so
 7bd16cb7d07a9c4c2ebf6347c4213a1456d4355b0ddecc9d3cfddd989c320ee5  ./serrano-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-80208f54bfe03d43638a354658f62bb6966257e7677374f94a8554d64a7bc0d3  ./serrano-common/proprietary/vendor/lib/libCB.so
+3ba402adfcca17e99626c41ed84212ab5cca9f0210c82230539abccc9aeb760d  ./serrano-common/proprietary/vendor/lib/libCB.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./serrano-common/proprietary/vendor/lib/libidl.so
 718eaa4356ecfe003eca0979dfadd075a3870ce7d70ac2e6dd509ba275f22d3f  ./serrano-common/proprietary/vendor/lib/libc2d30.so
 6e6a745404e766ec93e85d2a41727948ca210c2da313f103589ad00462dac8b2  ./serrano-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so
 662b47ec9a479848858495f0d3f0ea0d23a5dc174df92293f04481a6311e5b65  ./serrano-common/proprietary/vendor/lib/egl/eglsubAndroid.so
 6174b9d729a2ef97a0f48ad5a78749fed08c69ba7683e3bdf2936631d98c2c94  ./serrano-common/proprietary/vendor/lib/egl/libplayback_adreno.so
 e236852b9c455c440afc48f53d408febde2ecb7994f2d7669633664172e50b8c  ./serrano-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
-d396a5b2150f0839283d239acf67c02023d0fc68d9df01aebc62735e272b8472  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
-9185dae0770c2e63921e93e382040c93ce46fc329dfc6c625858d42877299cda  ./serrano-common/proprietary/vendor/lib/egl/libEGL_adreno.so
+e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
+562d5a974c1049b67a261333ef5438f749948ee04dd2044b93912e1259742f41  ./serrano-common/proprietary/vendor/lib/egl/libEGL_adreno.so
 489939081f30eaf9b642296a204b0cce26807b7edba736cea899bd6b04fa7ddd  ./serrano-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 79a2dfcc85bd45974fabe4de1f326dd8f6287b0e0e6ddde63c398f9c999542bd  ./serrano-common/proprietary/vendor/lib/libwvm.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./serrano-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
