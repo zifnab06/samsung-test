@@ -1168,7 +1168,7 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i9100/propri
 913ef575cdd8d5f3a88bc6a01804779a389e19ca5393a59ad2b2fb4c40288cf7  ./i9100/proprietary/system/etc/wifi/bcmdhd_mfg.bin
 3918366bef7dbc9a5eb5ef64b7b9f23a0ad2f9b8f413bd34992d9402cd4eeadd  ./i9100/proprietary/system/etc/wifi/nvram_net.txt_murata
 4e7323db3e068d7e5852136f09dec4dfa4c30c4d3765f106d65c742283f3f5e4  ./i9100/proprietary/system/lib/libakm.so
-f128547d8fb71a51aba8903e247b6823ce16ac81ce4fd8ceb56d6c7cf26fcea2  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
+04340367a65deedb150e91214e6ae3bea5e5e27b1ceadb7255dbd6cbd9ed6acb  ./i9100/proprietary/system/lib/hw/gps.exynos4.so
 dcb6ea5209f428e6b439de636cf0bf7fa4123d912a7451f1e52c3710c2fb37cc  ./i9100/proprietary/system/lib/libsec-ril.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./i9100/proprietary/system/lib/libsecril-client.so
 c9abb9c6c1c69fd86c37d34244c7ca757ac68eacf233655baedf73896368f89a  ./msm8960-common/proprietary/etc/firmware/vidc_1080p.fw
