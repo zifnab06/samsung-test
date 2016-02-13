@@ -79,7 +79,6 @@ b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./klteduos/pro
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./klteduos/proprietary/etc/firmware/a300_pfp.fw
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./klteduos/proprietary/etc/firmware/a225_pfp.fw
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./klteduos/proprietary/etc/firmware/a300_pm4.fw
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./klteduos/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./klteduos/proprietary/etc/clatd.conf
 041cedbcd8a2d3fef1b0bc7f04812359afb2bb6b8c87fd8a45dac0b2082cd311  ./klteduos/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klteduos/proprietary/bin/rmt_storage
@@ -454,7 +453,6 @@ ad85d922d2d39e802eec3d8efa7c4e7bbd9f1af4ac0da3332d186ee7918855d5  ./trltexx/prop
 21df50b725a9593f996f2a251b27f3fb85ea8463fb42b2819c5806b7d6043bf5  ./trltexx/proprietary/priv-app/com.qualcomm.location.apk
 05cdd13c05b650ad1f2f7917f3f855e0946590873bde449c107bb89c50df496d  ./kltechn/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./kltechn/proprietary/etc/sap.conf
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltechn/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./kltechn/proprietary/etc/clatd.conf
 9f74b67bf40da7d6a19617e3fc2d1445bf67d692a3bf869575f572d5293ae852  ./kltechn/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./kltechn/proprietary/bin/rmt_storage
@@ -642,7 +640,7 @@ c3de89cad7d02b67c1bae93815618b0a036141a7c23610240de0c223668a804c  ./treltexx/pro
 4ebe3436d669b2886a1d0d8c96196fa6a066ec0b4955edef69628e5c572cbdf4  ./treltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 c14b934e276e28f4882ce1bd2402fa202188cecae12acf65db1d4271c2d44df1  ./treltexx/proprietary/vendor/lib/libwvm.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./treltexx/proprietary/vendor/lib/libmalicore.bc
-c3e5690dbd6cd34ff3241dc6eb19cbdf825951ecd0c8556061fd10dd2a5cf89c  ./blobs.txt
+c9a16d3eb8af542f1f6232aceb06b5bfd46b2ad27ece0fa56919481916c73e51  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
@@ -4760,7 +4758,6 @@ b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./kltechnduo/p
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./kltechnduo/proprietary/etc/firmware/a300_pfp.fw
 a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./kltechnduo/proprietary/etc/firmware/a225_pfp.fw
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./kltechnduo/proprietary/etc/firmware/a300_pm4.fw
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltechnduo/proprietary/etc/flp.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./kltechnduo/proprietary/etc/clatd.conf
 041cedbcd8a2d3fef1b0bc7f04812359afb2bb6b8c87fd8a45dac0b2082cd311  ./kltechnduo/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./kltechnduo/proprietary/bin/rmt_storage
