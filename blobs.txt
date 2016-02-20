@@ -3764,7 +3764,6 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./serrano-comm
 695261c5aecc01aad7bac810494b901bc900c3c385f41df7e95b4cca56ac3fee  ./serrano-common/proprietary/lib/libmmcamera_statsproc31.so
 0964777e4dbd238e48c70a317bb3f93bd2c8952f1a3da597fb79df0d65d2f4c4  ./serrano-common/proprietary/lib/libmmcamera_image_stab.so
 7668da3b54a47ba064d053b6d2b9e3d8084ccdd51e25b57d2fa71c9d6e5a57d1  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so
-d07e107fcdff294469af2355c1bb93761a3c8b9ccaf4c666a9c9be751a82539c  ./serrano-common/proprietary/lib/libdrmdecrypt.so
 34d0a089ff64eec9920db342ff4c4e97fa4b946effb0e2c1e17ce29447c21a2a  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_default_video.so
 20fd12ac7bfdf844387b43ae0ba0b6fe557ec8f3dea73ec4aa606f0bae4f304e  ./serrano-common/proprietary/lib/libOmxQcelp13Dec.so
 b7fb397d7f55acc1f03d2b16fa7be21e173b44671f5a46c79b84e415aaee885b  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
@@ -3818,7 +3817,7 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./serrano-comm
 0f5fc158ebbb3864ae0123d92544b044dd24eadc2d381e5525bc3dae6f37ff18  ./serrano-common/proprietary/vendor/lib/libgsl.so
 dc64a0e11b7086047213b8d05fb4faefa2f02c60ad4e3068b35ab9b0d6fe9681  ./serrano-common/proprietary/vendor/lib/libgeofence.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-common/proprietary/vendor/lib/libC2D2.so
-7bd16cb7d07a9c4c2ebf6347c4213a1456d4355b0ddecc9d3cfddd989c320ee5  ./serrano-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+8540790a1098fa44490461c8dad12e2b214fa72f60e2c93d83c108b0cba38572  ./serrano-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 3ba402adfcca17e99626c41ed84212ab5cca9f0210c82230539abccc9aeb760d  ./serrano-common/proprietary/vendor/lib/libCB.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./serrano-common/proprietary/vendor/lib/libidl.so
 718eaa4356ecfe003eca0979dfadd075a3870ce7d70ac2e6dd509ba275f22d3f  ./serrano-common/proprietary/vendor/lib/libc2d30.so
@@ -3828,8 +3827,9 @@ ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-comm
 e236852b9c455c440afc48f53d408febde2ecb7994f2d7669633664172e50b8c  ./serrano-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 562d5a974c1049b67a261333ef5438f749948ee04dd2044b93912e1259742f41  ./serrano-common/proprietary/vendor/lib/egl/libEGL_adreno.so
-489939081f30eaf9b642296a204b0cce26807b7edba736cea899bd6b04fa7ddd  ./serrano-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
-79a2dfcc85bd45974fabe4de1f326dd8f6287b0e0e6ddde63c398f9c999542bd  ./serrano-common/proprietary/vendor/lib/libwvm.so
+40156b8fd2abe839f722d364fd5ae0c66bbd5dca414b5e88f3be0bf7463ba0c5  ./serrano-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
+7b1798d1c8d74bf710b90de182d57246a8558d5d217c021451e4f625da240e6c  ./serrano-common/proprietary/vendor/lib/libwvm.so
+2fbf5be6bfcfab615d241551703843e520cf77acefe30ce5206d83a51cc05294  ./serrano-common/proprietary/vendor/lib/libdrmdecrypt.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./serrano-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./serrano-common/proprietary/vendor/lib/libqmi_common_so.so
 af6196078771a187faf973e39ff2d687978597883bd666d58c46d48b96d8a758  ./serrano-common/proprietary/vendor/lib/librs_adreno.so
