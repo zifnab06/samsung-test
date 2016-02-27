@@ -1521,6 +1521,7 @@ ad8c5664d039589e277db612b83fe232b006ac9004c93a55c2ab003816a848dc  ./noblelte-com
 e9701201cb190c194530841a9bfdb79265899c4758818609ba30ec20a60fa0d1  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp5-dsm.wmfw
 d922f8c804bed0556bb9dd13c024d8d24f05d6509c0b21d11f6f5107463a215c  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-wb.wmfw
 5d3662c3ac69773a4a3480f88d7895571c395b26f63546cfcc9b1c5b4503d1c7  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-nb.wmfw
+a81d2b1757de4fe78889e3c403356b8804d733a4c386b713101ce33c2cc1628f  ./noblelte-common/proprietary/bin/bcm_sensorhub_a2.patch
 cd98b218dc2e22885f385143e10636c71f8b60677c19dc8147bfd205ace8ecbf  ./noblelte-common/proprietary/bin/gpsd
 409b43b3c6f52f7da5f21094935b83ccdbd6b2d8dbe1396cbffa145645a0ffc2  ./noblelte-common/proprietary/bin/lhd
 265726da910e4a3837f92e605ae573d6996adbb05e529c5ac6cd84389d024f1a  ./noblelte-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so
