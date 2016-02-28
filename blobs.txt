@@ -4459,9 +4459,9 @@ a9c8199a24b7a02b37c96d5cd263bf6296e8d7d0ad04bec5b8ffc98ce72539fc  ./zero-common/
 4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./zero-common/proprietary/vendor/lib/libwvdrm_L1.so
 d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./zero-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
 16c48f7ee22a1c35082a4495bb759116e0d282768f3f12c584fa5d5d2f55e5ba  ./zero-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-a15576a3f5950033abdcaea23862893de6ccd2f3aeae28935888383546c06f20  ./zero-common/proprietary/vendor/lib/egl/libGLES_mali.so
+60f9069a108e86f66842b791a00f1c52bdfeaa1d938171802b04acf08113806a  ./zero-common/proprietary/vendor/lib/egl/libGLES_mali.so
 26ffcec3131ea708c9a86e9b77dbb187f42bbac76b31c82fbc89edd8cf6bbed2  ./zero-common/proprietary/vendor/lib/libwvm.so
-78f45be8da7be32e83c6c32727dfa9646ad590ef48f283f010057d2d282461f9  ./zero-common/proprietary/vendor/lib64/egl/libGLES_mali.so
+f6221a54501d530608cc606f83cc959b3db7d9d412f66427bb93f01d1b925a1f  ./zero-common/proprietary/vendor/lib64/egl/libGLES_mali.so
 29b5c76479fecf44c991a882a6b9a3a82e05faa5559190b82e044a8b9a777873  ./superior/proprietary/sbin/cbd
 24b861efec05b35204de8fa3f99c4c142ad1f530fd544ff193cf272912c20677  ./superior/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 a548edba1531395abe41f6c7b154b065d45b7627fd8b6f379c56599ad77bd294  ./superior/proprietary/system/etc/wifi/nvram_net.txt_semcosh
