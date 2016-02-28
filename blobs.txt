@@ -4291,6 +4291,7 @@ e0dbe4b7d8e8d3feff116dfe149aa95ffb04638acb51258d94f67df237df2d35  ./zero-common/
 b7a6ca1b47004f67446b0ffe76d31b3fb6cedee65fb317fc46e67d6732892569  ./zero-common/proprietary/etc/firmware/florida-dsp3-tx-swb-conversation.bin
 38db54c2f1225a3ffc0648f21d9485beb2bb437d6ffd4b4ace2b5fbda4556546  ./zero-common/proprietary/bin/bcm_sensorhub_a2.patch
 6f2b05ef271a622612bca8d00059c197635d759dbbd79bc1f9d7013a110c3ecf  ./zero-common/proprietary/bin/fingerprintd
+dd1ab9b88310c3eec446c6fec6d991f49eb3ef2524475413c2e4614265237dc8  ./zero-common/proprietary/bin/gpsd
 6907deeeb598baffbcebfcb75e2da911697ed10cf47d522d44edafb0cb7eccc4  ./zero-common/proprietary/bin/cs
 1c8dc3cd76bee337c7f9b4855fdac90339ce894bbb18a213924769f39f68c2e0  ./zero-common/proprietary/bin/mcDriverDaemon
 e2aa873a44447ab6a7837816c2badf98b27f0e5955dd0f755326294b97272608  ./zero-common/proprietary/bin/lhd
@@ -4318,9 +4319,10 @@ e6cca490be75032cc337e2a574b7b6a3edba3e3b56ee51e905e3504bc595b2ba  ./zero-common/
 ea4465af65a7bd4c27ddf92b098b7d0646f2e58da0a41bb6fa2f22476fd2ef20  ./zero-common/proprietary/lib/hw/nfc_nci.universal7420.so
 dc1d21aa9ae87ee9d657d4ab8dcb7c77e733df2586814ae2457131f55186efcf  ./zero-common/proprietary/lib/hw/sensors.universal7420.so
 95666c978e570e448694026822cc7632db5f6384beb98306a2af9feb61f1b25b  ./zero-common/proprietary/lib/hw/consumerir.exynos5.so
-92bad3de1814ddca313e7e0d8263c1438c84de205616952688cd27d513e05db9  ./zero-common/proprietary/lib/hw/fingerprint.default.so
+92bad3de1814ddca313e7e0d8263c1438c84de205616952688cd27d513e05db9  ./zero-common/proprietary/lib/hw/fingerprint.universal7420.so
 1cab164afc7c6fb24f36389e5c7e677ff8bd09d71267737dbf2849cf3a82cd0b  ./zero-common/proprietary/lib/libegis_fp_normal_sensor_test.so
 3576720daad41934aad62c73ee1ae25a460a08f9221741b0e512bba1a4f8d18e  ./zero-common/proprietary/lib/libsecril-client.so
+d273dce993cbc72a640a69e8cdfded239cd374367abb500277c4dbef8711f0b4  ./zero-common/proprietary/lib/libwrappergps.so
 6cc7229e14aac44d87707c1f5eee79a993d822ead9b8fbdd9bf31e13d9e9e5f2  ./zero-common/proprietary/lib/libbauthtzcommon.so
 908647e12b9c9608c96f1303347e7fae787ee4f4304206db4c741dd98d9031b6  ./zero-common/proprietary/lib/libbauthserver.so
 2aa32c134d371d3ef3610d5084d461a35d58451aab24ff66d7d60318c0a694db  ./zero-common/proprietary/lib/libtlc_tz_iccc.so
@@ -4376,10 +4378,12 @@ cc1cd6f3be1e50a03202559336d4a9dcb0c93dc2c7150d3cc380f2074b6ef5d9  ./zero-common/
 b038ff31c479135da3dba32fe7031281ef2d8febd0a26da3b2bef62eecb1165b  ./zero-common/proprietary/lib64/libtlc_tz_esecomm.so
 88f714dc81186f33a418234e8d8d004a82c3d9ac10f8ef94983256b4576d6c9b  ./zero-common/proprietary/lib64/hw/nfc_nci.universal7420.so
 2a4eb92922cbdb640985b726c6e92fbbdcbcc8b662a4e48a0389e61c314d62ff  ./zero-common/proprietary/lib64/hw/sensors.universal7420.so
+15e07b733d39102210f8285420d517a81e84f31292c264b299e52e8dd7aaf2ee  ./zero-common/proprietary/lib64/hw/gps.universal7420.so
 81cfcad5abf2faba0daa1a5004107dbada7cfb4fe6f76569ac8e51290bf4a9f5  ./zero-common/proprietary/lib64/hw/consumerir.exynos5.so
-d3b803599249c2352d8a4870747c711b0b74cb795b09a92a145e9f1e7957bd6a  ./zero-common/proprietary/lib64/hw/fingerprint.default.so
+d3b803599249c2352d8a4870747c711b0b74cb795b09a92a145e9f1e7957bd6a  ./zero-common/proprietary/lib64/hw/fingerprint.universal7420.so
 84e475d8367901712948fa940c11185260e43df1ca60d250aa476d6f6a530ab2  ./zero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 c476d751190fc4e345c88ebbcf62303d619503909ec7e25c30f8ce3840210723  ./zero-common/proprietary/lib64/libsecril-client.so
+dca4dacd8fe5ff5a704ac2d88c808cd0020e5e20e2437786bab18dbbb3f60cb1  ./zero-common/proprietary/lib64/libwrappergps.so
 42e86fec009c1dcd7e27aac094f91cf3a693fee6effba7a662f2d8755edf9158  ./zero-common/proprietary/lib64/libbauthtzcommon.so
 9432be8e324a8c66e10b44373202ede53d583dfbda42dfdf4ca56b522343ba89  ./zero-common/proprietary/lib64/libbauthserver.so
 42defba4003989f4c6c666466c2d521381c4f1a1fde2e4729fc407655d7485f4  ./zero-common/proprietary/lib64/libtlc_tz_iccc.so
