@@ -4289,6 +4289,7 @@ e7a6a660be05f78da834bd0e0e1ece0452d83f17b61b085c23a44103a1bc7fa8  ./zero-common/
 164e5ffbe7ec424c232e984fc27931869b79da74acc68ae08477ce4cf33b41fe  ./zero-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-wb.wmfw
 e0dbe4b7d8e8d3feff116dfe149aa95ffb04638acb51258d94f67df237df2d35  ./zero-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-nb.wmfw
 b7a6ca1b47004f67446b0ffe76d31b3fb6cedee65fb317fc46e67d6732892569  ./zero-common/proprietary/etc/firmware/florida-dsp3-tx-swb-conversation.bin
+38db54c2f1225a3ffc0648f21d9485beb2bb437d6ffd4b4ace2b5fbda4556546  ./zero-common/proprietary/bin/bcm_sensorhub_a2.patch
 6f2b05ef271a622612bca8d00059c197635d759dbbd79bc1f9d7013a110c3ecf  ./zero-common/proprietary/bin/fingerprintd
 6907deeeb598baffbcebfcb75e2da911697ed10cf47d522d44edafb0cb7eccc4  ./zero-common/proprietary/bin/cs
 1c8dc3cd76bee337c7f9b4855fdac90339ce894bbb18a213924769f39f68c2e0  ./zero-common/proprietary/bin/mcDriverDaemon
