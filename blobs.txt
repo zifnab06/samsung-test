@@ -1589,6 +1589,7 @@ ba6566a213c093bb17d2b05f9c78341a6dabf91516cdffa66ff9743e8167caec  ./noblelte-com
 4b681a6528454044a8d8b994f01de798667b9619646f65744fe87b55db98fc17  ./noblelte-common/proprietary/lib64/libexynoscamera.so
 9bc64ec10c57ba9007f6403dfa50bbdd162b362555d31ab32c3745e0316a0abd  ./noblelte-common/proprietary/lib64/libsensorlistener.so
 576e7e3a8579836491becdfb63dff40f5602b7678a59370a4dae693876d27ddf  ./noblelte-common/proprietary/lib64/libexynoscamera3.so
+9ddf42c3d55031f55a165e8e259ff3e173d97f64468eba41af1dd5a7f0651004  ./noblelte-common/proprietary/lib64/hw/nfc_nci.universal7420.so
 f5cd67c0e9db3ed01dc944c93d8ec8d7ba5bb6c735df5f567f2a288f475243e5  ./noblelte-common/proprietary/lib64/hw/sensors.universal7420.so
 31f19c770dce8a2ef1c46cd740402ad8cf00002a323609b0aa77ce121e19ed9a  ./noblelte-common/proprietary/lib64/hw/gps.universal7420.so
 9cac6dc3de705fec72f688fe22a44e94bc706d839a5b76263b1db4fe8f8037fd  ./noblelte-common/proprietary/lib64/libsec-ril.so
