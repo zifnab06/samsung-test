@@ -2157,6 +2157,8 @@ b62ab19dd30596a5fdf6a4c1ddd2d188bd45ef8ffc57a1297ed0a1c0168732a4  ./p1/proprieta
 49bf7008bfda7cfb7eb1d89b7e9e4ced586fe0658ef7a16f37cacd9a5ae7571a  ./p1/proprietary/libsec-ril.so
 f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./p1/proprietary/gps.s5pc110.so
 6a4086fb8ce42aad8500ac3ca8c08b3484ad5d79094ecfb9cbf69a18d74ab80b  ./p1/proprietary/libsecril-client.so
+e639a9727a66f92430a9aee5cd8b5558d2eb04a10d7b37c64a2497bd4e6d80ad  ./trhpltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd
+8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./trhpltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 05cdd13c05b650ad1f2f7917f3f855e0946590873bde449c107bb89c50df496d  ./kltekdi/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./kltekdi/proprietary/etc/sap.conf
 1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./kltekdi/proprietary/etc/flp.conf
