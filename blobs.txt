@@ -4329,7 +4329,6 @@ f8575a883ff74415952ec2cdf4360ddba3e27a828a672b45f2faed43282a35e7  ./zero-common/
 79f2feba0a5642e3ebbe11f6dcdd22f81223cf9216dce882de11fea4a4af79db  ./zero-common/proprietary/lib/hw/consumerir.exynos5.so
 4f8e40723d44e6e7167762058df6b22c419c231e71e7a55121f9efd809add7dd  ./zero-common/proprietary/lib/hw/fingerprint.universal7420.so
 1cab164afc7c6fb24f36389e5c7e677ff8bd09d71267737dbf2849cf3a82cd0b  ./zero-common/proprietary/lib/libegis_fp_normal_sensor_test.so
-4eb1b7d2be90b78ad8a0540db184328c5ef0227d67242515b778ec89f0d2571e  ./zero-common/proprietary/lib/libsecril-client.so
 0720b62cd27b663851051209ec6d032dc2d0d3279a88fb7af84786b507f080b4  ./zero-common/proprietary/lib/libwrappergps.so
 d6b8ef594bb93f0f54f72fe8110712e5466d8205698c60489fe1f61382c9e377  ./zero-common/proprietary/lib/libbauthtzcommon.so
 a93837cb0c2634558558c87f79e4fc34be0f797e1bd2b2a72bae2fa83937176b  ./zero-common/proprietary/lib/libbauthserver.so
@@ -4390,7 +4389,6 @@ bf7731622454d6c2384628ad6e62865aded81c42bd3cd5449d4da49eaf2271fb  ./zero-common/
 94b3ba39a517953c4600c2213b7fdb72ae1b6a1ddb7657732c42deebe0745d1c  ./zero-common/proprietary/lib64/hw/consumerir.exynos5.so
 4e0a99310433d0dcd95758d07c5191dc572f963b598787a4595f0299f86b06c5  ./zero-common/proprietary/lib64/hw/fingerprint.universal7420.so
 84e475d8367901712948fa940c11185260e43df1ca60d250aa476d6f6a530ab2  ./zero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
-497fac4318519e8fed78b58630434ac3c6661d6d9e8a147ec1e5f66c18970c65  ./zero-common/proprietary/lib64/libsecril-client.so
 e02155c41a4381b6cea1fe93604be1fc716820b10e87bb9690dc8f1d593e4cca  ./zero-common/proprietary/lib64/libwrappergps.so
 30ce7752ec60b1487518f606fa3546ed4995caa377caa95668865e09f12f63b6  ./zero-common/proprietary/lib64/libbauthtzcommon.so
 762c815814e4256162171e7b368e6cb111879f857d2a595eb023f24c7e0f0a7e  ./zero-common/proprietary/lib64/libbauthserver.so
