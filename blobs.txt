@@ -6017,7 +6017,7 @@ a23b343c2a3e666e25a01913468179e5441ba6a763901d3de8f097a8f997c655  ./d2-common/pr
 f58095115109bf96b310fc879a5799f25c77e7274fafe7f798bffcef92da8135  ./d2-common/proprietary/lib/libvdis.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./d2-common/proprietary/lib/libcordon.so
 0781b64fb9c9110b2bc1eae3731aef85de279787ac719422ed5d6dcb3579e64f  ./d2-common/proprietary/lib/libacdbloader.so
-e2c387043ed461a5b039f1d6bafe7bb65973ab20f7d1c30e2b2a4b81d709110d  ./d2-common/proprietary/lib/libinvensense_hal.so
+d0ce9c50922c1f9dc52cf99a2033121b69b8f2ec9a0dbc94564ad7a703c0ee73  ./d2-common/proprietary/lib/libinvensense_hal.so
 978967c2e0939e941faf4200eff4c956a4cfcba1cc6f507eae7bffc740b9fd4a  ./d2-common/proprietary/lib/drm/libfwdlockengine.so
 79e2adfc17eb33e6da16417e4053ca97e28676281b23fbcc6dad7b20af0d139c  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_smart_stay.so
 f17fa91dba3cb944ba699bf0203e742d3494c7b4a34fa2fabb91be47d6e05b3c  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
@@ -6027,7 +6027,7 @@ f17fa91dba3cb944ba699bf0203e742d3494c7b4a34fa2fabb91be47d6e05b3c  ./d2-common/pr
 01df08d5b223fc17999b2abc3d57d89689f579124c3ab832b23812acdc622562  ./d2-common/proprietary/lib/libaudcal.so
 47fa8b4f330421dd8c090d77ed3bde3f411decd37d283d9dcffd8edb2e53df38  ./d2-common/proprietary/lib/hw/nfc.msm8960.so
 786030e697464331fc8126e92546879839e7a38745ae055694e65ac141c83303  ./d2-common/proprietary/lib/hw/camera.vendor.msm8960.so
-6f839f42b772cf03a978a09d80b14d82390adddf32f47c12404f636260e15465  ./d2-common/proprietary/lib/hw/sensors.msm8960.so
+87e29a7706b2b59de88296cd1e28289dd7791ce080125b199e04cd1b2e200154  ./d2-common/proprietary/lib/hw/sensors.msm8960.so
 66d47851218c61743c2149ff7ba92bf97d669465dea56401b06c1ca8bd287e20  ./d2-common/proprietary/lib/libqdi.so
 c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2-common/proprietary/lib/libchromatix_ov2720_default_video.so
 637c5655dba99516894f67d0f0fa4b1a26ce035469d29f251145a1ba4cb14c84  ./d2-common/proprietary/lib/libfactoryutil.so
