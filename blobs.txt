@@ -374,6 +374,7 @@ c0ad3298be70ad72584b1ef0554336f357138e7e61a9ba90f4446be6e0b558d8  ./lt03lte/prop
 5fc0b2179168f6d9518ce7558630ca6729f7399fa34178fbbc4e762cc4ae42d9  ./lt03lte/proprietary/vendor/lib/libOmxAmrwbplusDec.so
 86e85322db96598f57d16e4ad370e789f571401b593d349e6dc1fd39fe7a2d3b  ./lt03lte/proprietary/vendor/lib/libsc-a3xx.so
 519c2458bcb9c57ac7142b3251da53dff490170243ed22c42ae4c8ca467b4244  ./lt03lte/proprietary/vendor/lib/libqmi_csi.so
+10a7635dd5d031f3124901c9973c84a42ce0fd75ca91c666c5fdd53d754d8045  ./lt03lte/proprietary/vendor/lib/libcneapiclient.so
 20572c55a966add9439ef5b6eabe409db41e35f2717c88c1990ee852247a8285  ./lt03lte/proprietary/vendor/lib/libOmxWmaDec.so
 af09c298f25fa5c69f1b72db674a30dd03e36703d4d2e2c6146b5ddf89f94c17  ./lt03lte/proprietary/vendor/lib/libxml.so
 41ac4c428bfd8d5a43c1634ab2fa2b65f8219c67fa8608381c1bed4b05c01c8a  ./lt03lte/proprietary/vendor/lib/libRSDriver_adreno.so
@@ -676,7 +677,7 @@ c3de89cad7d02b67c1bae93815618b0a036141a7c23610240de0c223668a804c  ./treltexx/pro
 4ebe3436d669b2886a1d0d8c96196fa6a066ec0b4955edef69628e5c572cbdf4  ./treltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 c14b934e276e28f4882ce1bd2402fa202188cecae12acf65db1d4271c2d44df1  ./treltexx/proprietary/vendor/lib/libwvm.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./treltexx/proprietary/vendor/lib/libmalicore.bc
-008707aaa23735b4cb8760d66b42d203d40c964a8ff2ef6b81a3cfe30e447306  ./blobs.txt
+940073d62864f969228c5c5c0841cc23ec43cccf134d8ed7619196b947287642  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
