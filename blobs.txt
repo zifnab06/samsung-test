@@ -3286,7 +3286,6 @@ b9778d7b821a5da300897379faa2901c51237a7b05ccff126eb852c90ebfc760  ./tuna/proprie
 591cd8e827dd6102440dee9df3f042eb8577a338bc8ec2e34cb1d21f7f7f3bee  ./tuna/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 552737a9260093675a13f9e64e0ac3a5f9b20a1cebc81ee327fe3074982d34a6  ./tuna/proprietary/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
 5835e319896387c433c40713df38e6706f4977cfbd30f3f516da57650f6467b3  ./tuna/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
-1caf20f212b618fc2ef3e6d1f5d12be3f7bfcfcd50487c7fe5aa8bae522db046  ./tuna/proprietary/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
 23bd9cd67e600bd0b5063cf4e31c1e6d2f27b30a0dc70b17e545ab76aae71234  ./tuna/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 f836456689dc5a0fda0e7e629fee5be1bf8db9621b658a11ecaafbfae7f6ab7d  ./tuna/proprietary/vendor/lib/libwvm.so
 ccf6b0cb444ecbd4784cf9747945281206cb43fbebadc1f17727a0b5edda5a60  ./tuna/proprietary/vendor/lib/libIMGegl_SGX540_120.so
