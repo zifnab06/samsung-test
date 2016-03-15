@@ -1480,7 +1480,6 @@ fadbc124dcde4f7103319ef10c3cdca595d69f2660c64259dada786333fbc84c  ./espresso-com
 591cd8e827dd6102440dee9df3f042eb8577a338bc8ec2e34cb1d21f7f7f3bee  ./espresso-common/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so
 f233d350822388a6eb87e09492dd667ff59be3524602528b7c2ec9d73e9e7509  ./espresso-common/proprietary/system/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
 79db1c22f22dfdd5ecbf2f7832b008a8ea3c2061e15395c5f4d044f76cfb3c14  ./espresso-common/proprietary/system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
-f6889f275fa849941b0170f4f7261ddcd9548cb0ab886c6ff177329ddbb3a0a5  ./espresso-common/proprietary/system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
 23bd9cd67e600bd0b5063cf4e31c1e6d2f27b30a0dc70b17e545ab76aae71234  ./espresso-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
 f836456689dc5a0fda0e7e629fee5be1bf8db9621b658a11ecaafbfae7f6ab7d  ./espresso-common/proprietary/system/vendor/lib/libwvm.so
 d4efeb992d818e70a06858c07508bcaec0256a3a6e2940a3245cb48182a25038  ./espresso-common/proprietary/system/vendor/lib/libIMGegl_SGX540_120.so
