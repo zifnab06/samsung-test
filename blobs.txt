@@ -3990,7 +3990,7 @@ fcc01baa42a7d8b1b3aca0cc32eadc779de6707870a0345a5adeca281a83852a  ./trelte-commo
 077328426035e05cf4a4f8f8d49a4d648dd13dff123d20c846964566687ebc58  ./trelte-common/proprietary/etc/wifi/nvram_mfg.txt
 d2759a1f17fdae132bf311241673f7d731f3615edbde1d28d60fd2c23f05ea08  ./trelte-common/proprietary/etc/wifi/nvram_net.txt_a0
 f8f866ef9c175bc162c79ac21e62b9d4a5d8148481ef7057f69cd2032279a973  ./trelte-common/proprietary/etc/wifi/bcmdhd_sta.bin
-11a74fe02d10c5cafe717d44d8a03d94e93c9b56f606c4f25d3bd5b1f89e1a54  ./trelte-common/proprietary/etc/wifi/nvram_net.txt
+4fcfd8b8ee16e2f897237e0f7f265707e4bae6428cbbf7c6ac07a7d375000137  ./trelte-common/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./trelte-common/proprietary/etc/wifi/cred.conf
 87eee375bd209aa0009b0eee825a1b9c37560741d2b8ba4e3db92c933d8b1fd6  ./trelte-common/proprietary/etc/wifi/nvram_mfg.txt_a0
 f77e619aed628af750b43fa8163affa398fa96ac0372bf8b3ac36421cf8c2e98  ./trelte-common/proprietary/etc/wifi/bcmdhd_mfg.bin
