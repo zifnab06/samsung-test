@@ -5158,6 +5158,7 @@ c147b4306926f3339b8f070a85479ac1685a8f6d522926dd9b84fe1c0db4c495  ./kltechnduo/p
 18d6f9970b622489bb910dc8894c68a3b13c10be6d11385c9985b4ea663a8c0f  ./kltechnduo/proprietary/bin/qcks
 fbc355e36e6562f3ea52dbe8830005240c3ee0916ca590ed693019b5e673fcd1  ./kltechnduo/proprietary/bin/ks
 f2e533de3f74611b1e5d4944de191f9c9207bcb5d7469d73d41ed8a57034f5f3  ./kltechnduo/proprietary/lib/libloc_ds_api.so
+67f6eb2bf6fa18874cd94902154e58618fd985201c3988b5dc33fc0a2c5b14a6  ./kltechnduo/proprietary/lib/libsec-ril-09w.so
 c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./kltechnduo/proprietary/lib/libsecnativefeature.so
 323a5372b9d6296a09b687d32fd3fc53968644131357bf38a47a28b97062d293  ./kltechnduo/proprietary/lib/libloc_core.so
 a2cd07e4556b8f868db8fe53bf56e1230dc564ba7f080f1107891c66bd917c12  ./kltechnduo/proprietary/lib/libloc_api_v02.so
@@ -5167,6 +5168,7 @@ fb3b93208d174f541df1182d2d234ba9f420c0044a2fa45feddef68558187cbd  ./kltechnduo/p
 b4d010ff098c663d22f3cc13fbf5d9cb676092df26daf9a96f1943b6bfd5e68d  ./kltechnduo/proprietary/lib/hw/gps.default.so
 b83dfc203986dcfd9bae988dfe954d22ad60d7d5838cd81c016c31052f112c1a  ./kltechnduo/proprietary/lib/libsec-ril.so
 11597530ba6c9a7db8b00e67cc3b3f9ad71f40827b8192c907c0330e1e22ff88  ./kltechnduo/proprietary/lib/libsecril-client.so
+ce829aa279accc039a423807942827004cdad3a81048e1bded31ca17e2434bd3  ./kltechnduo/proprietary/lib/libsec-ril-dsds-09w.so
 76e29f6705b44cb528f136a4e51753f10db7ea74c934a35f9a80129a02ca1f90  ./kltechnduo/proprietary/lib/libgps.utils.so
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./kltechnduo/proprietary/lib/libmdmdetect.so
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./kltechnduo/proprietary/lib/librilutils.so
