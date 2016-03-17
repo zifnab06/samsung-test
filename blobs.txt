@@ -356,7 +356,7 @@ f4612df543e5949f835f6fc85e2f6a9ed42a5a2749a3a912461a8c6108bba741  ./lt03lte/prop
 acff9697a5685b031b36602889983f8ee91fdf6fe781950159ffd4a06f78916f  ./lt03lte/proprietary/lib/libreference-ril.so
 886427aaa5e48847aa228ab470a1d661fc054dff5915b78dd6bb8e63f83a9a79  ./lt03lte/proprietary/app/TimeService/TimeService.apk
 10df20cf5fde458566ab1a9728dcbdcd9a2ee57015321c5558739e7139c3d2bb  ./lt03lte/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk
-988a7c0366268436440226e7f28bb094c0e54e67514ad1928201c8bd74e55aa7  ./lt03lte/proprietary/vendor/firmware/BCM4339_003.001.009.0061.0300.hcd
+988a7c0366268436440226e7f28bb094c0e54e67514ad1928201c8bd74e55aa7  ./lt03lte/proprietary/vendor/firmware/BCM4335_003.001.009.0061.0300.hcd
 daf663c022cbe85678fae9e0e21030db092c163a86ea70e365f4793b06dbe3cb  ./lt03lte/proprietary/vendor/lib/libconfigdb.so
 f38d629be20319b25f3cc44cd65c1242d752f1f45f78b3960340c38ca8fca326  ./lt03lte/proprietary/vendor/lib/libOmxAacDec.so
 35ae8150d26a18ae8fa202ff054cc585c5c4fe215302fe1f3511b921cfda7bbc  ./lt03lte/proprietary/vendor/lib/libqti-perfd-client.so
@@ -680,7 +680,7 @@ c3de89cad7d02b67c1bae93815618b0a036141a7c23610240de0c223668a804c  ./treltexx/pro
 4ebe3436d669b2886a1d0d8c96196fa6a066ec0b4955edef69628e5c572cbdf4  ./treltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 c14b934e276e28f4882ce1bd2402fa202188cecae12acf65db1d4271c2d44df1  ./treltexx/proprietary/vendor/lib/libwvm.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./treltexx/proprietary/vendor/lib/libmalicore.bc
-cfb635c7cc36baf4a350d4bfe31ea75079c9d6ca7c11f4bd16fba2080ef22b29  ./blobs.txt
+43413858855a00ef4067508a1c0f5c2bc947eb213b6856dbd25550668b6f4848  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
