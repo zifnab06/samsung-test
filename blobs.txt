@@ -59,7 +59,6 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./galaxys2-com
 8fa27574ed87f1a6a30148eacf0e75bff72c734d11ebe4c326009e8db8e4e09b  ./galaxys2-common/proprietary/system/bin/bcm4330B1_murata.hcd
 8d3850e4ff6bef9369fe7c281e90dde822948c83f0503e8dbea3872b31c6cc28  ./galaxys2-common/proprietary/system/lib/libomission_avoidance.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./galaxys2-common/proprietary/system/lib/libsecnativefeature.so
-6b4aa693a2396084406ba5c26d5138d26e07d31148af78d386b28f43b31df1aa  ./galaxys2-common/proprietary/system/lib/libUMP.so
 e57eac1a8a5845b81e9e8d9d4d2a771e112cd19a1438759e0ab414d81c2a2c25  ./galaxys2-common/proprietary/system/lib/libMali.so
 f04ad203184cd9ebe10a456c7d74e68eac1f10fafb8ff8aaf5fd7ce4ca7259de  ./galaxys2-common/proprietary/system/lib/egl/libGLESv2_mali.so
 4f390c8b37e357c9db9734c7531472f00623a507a615546f052690c98bff1b26  ./galaxys2-common/proprietary/system/lib/egl/libEGL_mali.so
@@ -577,7 +576,7 @@ e833feddf6cfda5b28323ff76af01b09afbe20e547e2ca2a0be18d81e6cd8ed6  ./tabpro-commo
 d12a883b60edaef15133ac7a36e9ac173d5bd9dc32a9504f7451888418ef7cbb  ./treltexx/proprietary/etc/sec_s3fwrn5_rfreg_thl.bin
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 75d444d5198c1cbb98d5653f0f4bde1ac08620866d4b89d6ccd30b450183b456  ./treltexx/proprietary/vendor/firmware/bcm4358A1_V0051.0080.hcd
-ba7e0a8dd4c9fe9504d4376b11cc2de52b94dab92c76bd93b2b9a02752010123  ./blobs.txt
+156b86f241dc88eb1c7fd26474dafaf9e5262f23717920705f902fa1c18ccaa1  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 df212b4197a245cc7e5485fa3b5d223800b4c3de2c93ff02c282f185d063b02a  ./n5120/proprietary/system/bin/qmiproxy
@@ -5454,7 +5453,6 @@ e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-com
 4c45cfd68f1a2a91da547182e16f452eb14b12202812e8fb2d72de8bdaff33b3  ./smdk4412-common/proprietary/system/lib/libMcClient.so
 455351707f51b20d99784e9c54cf79cdbad4fbeffba989f18fc135e47065dc65  ./smdk4412-common/proprietary/system/lib/libMcVersion.so
 7bd0d715fbba1e6f1986a83f39be49eeeab348e1be023477c6a087d952ef8297  ./smdk4412-common/proprietary/system/lib/libfimg.so
-c05a15b10fda2a94da0763f898517cc245729552f6d03b526314b70efe357bac  ./smdk4412-common/proprietary/system/lib/libUMP.so
 94d6d543ecb9a30226d08e8bff9a40a672425bdd3e6910cf251e0d9138c4fc48  ./smdk4412-common/proprietary/system/lib/libedid.so
 4246e445a48b02053b69342a96feed313c6b0c24565b160cd2d5fa048b2b3d1d  ./smdk4412-common/proprietary/system/lib/libddc.so
 e57eac1a8a5845b81e9e8d9d4d2a771e112cd19a1438759e0ab414d81c2a2c25  ./smdk4412-common/proprietary/system/lib/libMali.so
