@@ -5539,7 +5539,6 @@ f04ad203184cd9ebe10a456c7d74e68eac1f10fafb8ff8aaf5fd7ce4ca7259de  ./smdk4412-com
 4f390c8b37e357c9db9734c7531472f00623a507a615546f052690c98bff1b26  ./smdk4412-common/proprietary/system/lib/egl/libEGL_mali.so
 3ff971f7f38d64997d6a8816afae8ac09616fac8f5a0fbd8c651bd4c5731050d  ./smdk4412-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
 fb5fb9098976ae3ec14d33dc65346497744845f5382cde4ed08168c6942c8ecb  ./smdk4412-common/proprietary/system/lib/libhwconverter.so
-a8e0f2ae5b509e1d644f107d7589a34b1928a9632d9e3bfe8eb900bcdee11849  ./smdk4412-common/proprietary/system/lib/libfimc.so
 164d509fd0a3271913691e3dec3bbe1a6fc7974901c65d9dcf04d963d8e2e716  ./smdk4412-common/proprietary/system/lib/libhwjpeg.so
 3eeb408b043813e3334f1da6e977f4b5699da4f8f89be5f3e9650cc0be0ce2ce  ./smdk4412-common/proprietary/system/lib/libMcRegistry.so
 9915cd2b79a83d6f2855c75606364dd73d455460a5fa79deb2ffefc3e263bce1  ./smdk4412-common/proprietary/system/usr/idc/melfas_ts.idc
