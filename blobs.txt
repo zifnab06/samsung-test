@@ -4554,7 +4554,7 @@ ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./i9100g/propr
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./i9100g/proprietary/system/media/battery_charging_15.qmg
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./espresso3g/proprietary/sbin/cbd
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso3g/proprietary/system/lib/libsecnativefeature.so
-b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./espresso3g/proprietary/system/lib/libsec-ril.so
+b0ced106a1ad280db4009dbcc034d569bc55e0b43251ecb891e079a1d07da957  ./espresso3g/proprietary/system/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./jflter970/proprietary/bin/rild
