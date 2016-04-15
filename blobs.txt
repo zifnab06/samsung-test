@@ -4194,10 +4194,9 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./trelte-commo
 289b9958e90874a80258e3fa1a96d5d35ae895ee2c7ed68f6b00057fc6dfdbca  ./trelte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 eee6d29b576a6a2d3aefa4f09e28a93fe65458e74936efaa13e7a3d451f761ad  ./trelte-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so
 2c326394e15f2653cb7e86f53e3e7ede540e6c29699adb7c2f1236dfd86708d8  ./trelte-common/proprietary/vendor/lib/liblvvetx_3.25.00.so
-4ebe3436d669b2886a1d0d8c96196fa6a066ec0b4955edef69628e5c572cbdf4  ./trelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
+6722c9f2e327f34a1ba469e58af0b9f5344532409bd5c0ed99d56b9467d77633  ./trelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
 6cf9f5d6e73c831d420bf130d5aaef723a97e0703e7ac2422e1c5e8939762011  ./trelte-common/proprietary/vendor/lib/libwvm.so
 5f5b49f2fa3945735e533e7127f94f41fce3282ca84b0040afd2b503e3607e14  ./trelte-common/proprietary/vendor/lib/liblvverx_3.25.00.so
-d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./trelte-common/proprietary/vendor/lib/libmalicore.bc
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p31xx/p3100/sbin/cbd
 b217916db451f411049e85ebf741f797ed62f97fe221f4e94a000343fc777877  ./p31xx/p3100/system/lib/libsec-ril.so
 2eabfc2eddbde14a75eaa6134d3c6bf31fee54da28d315d5b635e9ca03cebb02  ./i9100g/proprietary/sbin/cbd
