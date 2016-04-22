@@ -5477,10 +5477,7 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./smdk4412-com
 3ffee5efd144fdda01c603b034766886060cc611b3dd8134f5f0d7817786f687  ./smdk4412-common/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so
 13aa0bbc891c8adac1af225232322e611e5689cb23a329bc76463bc95553b419  ./smdk4412-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
 54b7473fea93a8aaccc66e6b95a1c6c47d14ca605fda1ef26b3ac58addf99dbd  ./smdk4412-common/proprietary/system/vendor/lib/libwvm.so
-0c159150abad63dc171c9c7fdfff1317c2d79015b86b3aba405dea8641dd79d6  ./toroplus/proprietary/lib/libsyncml_core.so
 71b9cbad4fb99526b5691b79aead28948792bbff9502d1131591b3ff90e57206  ./toroplus/proprietary/lib/lib_gsd4t.so
-7f4e62776698dd4729e0aaf8ae2e96fddd52b76d13f10b1bc3102298425be6b3  ./toroplus/proprietary/lib/libsyncml_port.so
-d46eeb685723103f44968835f5545ef29f40ebf8a6daee1bf43e2c2c6fe32dd1  ./toroplus/proprietary/app/SyncMLSvc.apk
 00c8c96eb07fb077e27a051b5c2d6a68be3bfd7d669929107b32c744c701ee76  ./toroplus/proprietary/app/SDM.apk
 17284a4a0ca09c0efd23262fd8932673cd4a9df0d8ad5f17791f702eda583100  ./toroplus/proprietary/app/SecPhone.apk
 728bfca4ebd77e695f5758b9bee6a8de9f56859d7841822dc1fdc3d90ffe65af  ./toroplus/proprietary/app/BIP.apk
