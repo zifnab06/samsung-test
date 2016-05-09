@@ -497,8 +497,6 @@ c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./trltexx/prop
 f94572efa94d387e1f83d1760250254c93f1f8b37e57acf43eb79ff7159388aa  ./trltexx/proprietary/lib/librmnetctl.so
 69f18d34a0265f3873ed1387b9c315fe5bf34d190cc55032e2cb48f7067bc681  ./trltexx/proprietary/lib/libloc_api_v02.so
 bfd57bf709226e43c8ed1cdf9b8234cc4d16a6758aa0a3b34fcbe62ede69602f  ./trltexx/proprietary/lib/libril.so
-0e09c60750a3148283269cebae95b9a6ab20d0d5fdecccb847c3914e1e82549f  ./trltexx/proprietary/lib/libbluetooth_jni.so
-5e7638e09f50f87407cb0984adbbb83df31c33bbfa52ec619e38d30bb6d531f7  ./trltexx/proprietary/lib/hw/bluetooth.default.so
 632733cbcdf834cb988e69e788f92d01fa876a74ffb2e310448b51fe6fe122f7  ./trltexx/proprietary/lib/libsec-ril.so
 aac93aeff938ef5e062cad15c1b087b092b969611acca289c862009d38fb2590  ./trltexx/proprietary/lib/libsecril-client.so
 acff9697a5685b031b36602889983f8ee91fdf6fe781950159ffd4a06f78916f  ./trltexx/proprietary/lib/libreference-ril.so
@@ -618,7 +616,7 @@ d12a883b60edaef15133ac7a36e9ac173d5bd9dc32a9504f7451888418ef7cbb  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-45e924d007ddb027d64bdd744ba369a929f5794284f0bd71929581779a5af1d5  ./blobs.txt
+0ca411836c254628bb251f891f1161d06fd7bdf29166f132b10abdc1a8816c64  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
@@ -3328,8 +3326,6 @@ c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./trlteusc/pro
 f94572efa94d387e1f83d1760250254c93f1f8b37e57acf43eb79ff7159388aa  ./trlteusc/proprietary/lib/librmnetctl.so
 0a17679a221dd890ee3db84157b7e7422f058f10e4d46c017e0e564c2df95fca  ./trlteusc/proprietary/lib/libloc_api_v02.so
 6557abba00bf97fe340f2b4ecb52f0d295d3c8b2cb1c8d881fe7605418488474  ./trlteusc/proprietary/lib/libril.so
-0e09c60750a3148283269cebae95b9a6ab20d0d5fdecccb847c3914e1e82549f  ./trlteusc/proprietary/lib/libbluetooth_jni.so
-5e7638e09f50f87407cb0984adbbb83df31c33bbfa52ec619e38d30bb6d531f7  ./trlteusc/proprietary/lib/hw/bluetooth.default.so
 d7e08c0328f76611fbfa1fcb2ffddce01f6afc94bd17c93c049f0a6f2a0e41f1  ./trlteusc/proprietary/lib/libsec-ril.so
 11597530ba6c9a7db8b00e67cc3b3f9ad71f40827b8192c907c0330e1e22ff88  ./trlteusc/proprietary/lib/libsecril-client.so
 f47e6ae457fd5ce0eb0b4ca9382afec7dd1d2e032ccc7acdc5be859f7aaa5e60  ./trlteusc/proprietary/lib/libreference-ril.so
@@ -3666,8 +3662,6 @@ c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./trltespr/pro
 f94572efa94d387e1f83d1760250254c93f1f8b37e57acf43eb79ff7159388aa  ./trltespr/proprietary/lib/librmnetctl.so
 3ebb9f92cc12d113d3dc75d55d767d86aa5bef021150a2190c37edaa11bf1db5  ./trltespr/proprietary/lib/libloc_api_v02.so
 9196eb7890578698e28f6ab59974395dcf0f15760a48c00950b41d881b53c14d  ./trltespr/proprietary/lib/libril.so
-0e09c60750a3148283269cebae95b9a6ab20d0d5fdecccb847c3914e1e82549f  ./trltespr/proprietary/lib/libbluetooth_jni.so
-5e7638e09f50f87407cb0984adbbb83df31c33bbfa52ec619e38d30bb6d531f7  ./trltespr/proprietary/lib/hw/bluetooth.default.so
 872dd89419277163540cc1e98b4431e27f44dfa783f3a09073ab8725683c1944  ./trltespr/proprietary/lib/libsec-ril.so
 41b6f07a41f670c6162c1d906f0efe88f0bce8531c236780f9f58f40bba322ba  ./trltespr/proprietary/lib/libcfiril.so
 10a852763b432c030b207999099cd4c4c66ada551c9a7c1838d2f4890a20dd1b  ./trltespr/proprietary/lib/librilswitch.so
@@ -6173,8 +6167,6 @@ c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./trltetmo/pro
 f94572efa94d387e1f83d1760250254c93f1f8b37e57acf43eb79ff7159388aa  ./trltetmo/proprietary/lib/librmnetctl.so
 f1e98c76d1b19cab0ad4e38f425e68482f26ebf5fee4d9f923b721b560402d8a  ./trltetmo/proprietary/lib/libloc_api_v02.so
 bfd57bf709226e43c8ed1cdf9b8234cc4d16a6758aa0a3b34fcbe62ede69602f  ./trltetmo/proprietary/lib/libril.so
-0e09c60750a3148283269cebae95b9a6ab20d0d5fdecccb847c3914e1e82549f  ./trltetmo/proprietary/lib/libbluetooth_jni.so
-5e7638e09f50f87407cb0984adbbb83df31c33bbfa52ec619e38d30bb6d531f7  ./trltetmo/proprietary/lib/hw/bluetooth.default.so
 9dd68987d8ae6ed0e6f8b2019fcf5b9ea51ef7ca0893d386bb0b203ea8c28f27  ./trltetmo/proprietary/lib/libsec-ril.so
 aac93aeff938ef5e062cad15c1b087b092b969611acca289c862009d38fb2590  ./trltetmo/proprietary/lib/libsecril-client.so
 acff9697a5685b031b36602889983f8ee91fdf6fe781950159ffd4a06f78916f  ./trltetmo/proprietary/lib/libreference-ril.so
