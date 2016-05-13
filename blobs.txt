@@ -67,10 +67,11 @@ dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./galaxys2-com
 b31ea9d214c182da332170e3895aeb364007d680eae20ac8b9f74f9b232a99ab  ./galaxys2-common/proprietary/system/lib/libfactoryutil.so
 851e7f008cee93dd1746114d241807252b8d7ac58be5d7e748d34376163abe5a  ./galaxys2-common/proprietary/system/vendor/firmware/mfc_fw.bin
 a861d876f243480b2f3da6d8b9df09aa79183c343a49b80b61e0ae90c5bf85ed  ./galaxys2-common/proprietary/system/vendor/firmware/libpn544_fw.so
-51c48cba3894ca5747fd47f0f394bb6d058f6bf863e9fd41e2b597f557cc8799  ./galaxys2-common/proprietary/system/vendor/lib/libwvdrm_L1.so
-01905fc1ea5bce495aa4470834693dd11c333caa91fab49c45f09dbf0d3faa7d  ./galaxys2-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L1.so
-f8c24104b327b4dbf3390985225ba2e3f0b54b5bf21b8acbad5207f402cc6c51  ./galaxys2-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
-2438fe64c171c8ac0e6d2efee8fef7c93269aa03272cde345f39ff1738c3ae6f  ./galaxys2-common/proprietary/system/vendor/lib/libwvm.so
+409a20c8fdf7aa95793a55a59ed3c823f78647d421be9f2039c159334887597a  ./galaxys2-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L3.so
+75a8f50385eadf1574f826629a8f1a72b68bf6a98192f02d21390f867e12385a  ./galaxys2-common/proprietary/system/vendor/lib/libwvdrm_L3.so
+591cd8e827dd6102440dee9df3f042eb8577a338bc8ec2e34cb1d21f7f7f3bee  ./galaxys2-common/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so
+23bd9cd67e600bd0b5063cf4e31c1e6d2f27b30a0dc70b17e545ab76aae71234  ./galaxys2-common/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so
+f836456689dc5a0fda0e7e629fee5be1bf8db9621b658a11ecaafbfae7f6ab7d  ./galaxys2-common/proprietary/system/vendor/lib/libwvm.so
 05cdd13c05b650ad1f2f7917f3f855e0946590873bde449c107bb89c50df496d  ./klteduos/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./klteduos/proprietary/etc/sap.conf
 b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./klteduos/proprietary/etc/firmware/a225_pm4.fw
@@ -616,7 +617,7 @@ d12a883b60edaef15133ac7a36e9ac173d5bd9dc32a9504f7451888418ef7cbb  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-0ca411836c254628bb251f891f1161d06fd7bdf29166f132b10abdc1a8816c64  ./blobs.txt
+a74cd457a771066b2d0797effaf195377561b08ed1c85deb32f66fdcb03efff4  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
