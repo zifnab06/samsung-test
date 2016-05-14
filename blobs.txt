@@ -3882,6 +3882,7 @@ d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./klteusc/prop
 11597530ba6c9a7db8b00e67cc3b3f9ad71f40827b8192c907c0330e1e22ff88  ./klteusc/proprietary/lib/libsecril-client.so
 2097a4f4420cbe968bda3025d62de20ce67da6a4a1445f289edae05aee377d7c  ./klteusc/proprietary/lib/libgps.utils.so
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./klteusc/proprietary/lib/libmdmdetect.so
+c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./klteusc/proprietary/lib/librilutils.so
 884be5847959410e405aeead5fc82b6f7e20c78d47fd60da8ecdd5b4e54a14af  ./klteusc/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./klteusc/proprietary/lib/libperipheral_client.so
 5f8d1dfa2bb056576f0a83606a7b7520ea121b39b838c324697340c27a46df8f  ./klteusc/proprietary/app/com.qualcomm.location.apk
