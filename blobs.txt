@@ -652,8 +652,6 @@ da1c3f5c23f2fbea6b3945440550bc2ed73b5875daee1c67572a67824bd6f4fe  ./n5120/propri
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./n5120/proprietary/system/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./n5120/proprietary/system/lib/libqmi_client_qmux.so
 ec0a06c9a803790b4a79f420b5e389135dd1322f4e1469ac5c79a1bdfaa7f5af  ./n5120/proprietary/system/lib/libgps.utils.so
-2a63301384b7550226846e3cbd1571ce2b74409499556283e46981584d1f0be4  ./n5120/proprietary/system/lib/librilutils.so
-344b4032d6ddcebc9d22d37e1045eb67647e7cb650a8c1a8d370a4be24ba1066  ./n5120/proprietary/system/lib/libreference-ril.so
 4124f4f1827faf10ab3468ea4b8f9d17014b12074178d8d01eab510b258e0d51  ./n5120/proprietary/system/lib/libqmiservices.so
 374a9ae17ca9b1d5b4499cfff742c44e7b1e999afbe493f22c0a6402ccf5ecab  ./captivatemtd/proprietary/gps.xml
 b2090c79bd30ba91887e2eaee2055a2c24ac4a996dd2532fa07f698f00da6020  ./captivatemtd/proprietary/gpsd
