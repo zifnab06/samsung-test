@@ -4064,7 +4064,6 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./kona-common/
 7df2c743ba29840d1bb33355661aad5ad449027c5ea7a9808378ba004af4d95d  ./kona-common/proprietary/system/usr/keylayout/sec_touchscreen.kl
 512b3beb206561f74d983d2abf85b66553b1f292a4a130dc1fbe953a7226a379  ./kona-common/proprietary/system/usr/keylayout/sec_e-pen.kl
 2368a9d63a523946e370abe06a55699b1ffff8a30666c78159e1dd843f51f988  ./n5110/proprietary/system/bin/at_distributor
-1ea8fe3e5b946549775ae5b0b25993f1ebdf2e0ceddb67b7ae12ad75284d3e19  ./n5110/proprietary/system/bin/rild
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./hercules/proprietary/etc/thermald.conf
 16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./hercules/proprietary/etc/wifi/bcmdhd_apsta.bin
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./hercules/proprietary/etc/wifi/nvram_mfg.txt_murata
