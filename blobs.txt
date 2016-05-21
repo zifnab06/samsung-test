@@ -1821,8 +1821,6 @@ b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./p4notelte/pr
 e3ed5998533cf94cf6963512333e9cb5f27d187c95eb8528c7b202893d6515d5  ./n5100/proprietary/system/lib/libomission_avoidance.so
 35e1cc5b29f64a3e10467f2dbee4bb99ae8295594b043f36570454216268f145  ./n5100/proprietary/system/lib/libsec-ril.so
 34046eb09af99450d4c10b15858f627a4a6ab6992efb1e7586f9e48707a567a8  ./n5100/proprietary/system/lib/libaudio-ril.so
-2a63301384b7550226846e3cbd1571ce2b74409499556283e46981584d1f0be4  ./n5100/proprietary/system/lib/librilutils.so
-b590c1d27f63abb47e6013cc6be8eb6d637b615034c7d0268581ecd3856dca26  ./n5100/proprietary/system/lib/libreference-ril.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./quincytmo/proprietary/etc/thermald.conf
 9521d756558ea92419fdd8c4a3c829cd423bf17f668336c3fb6fd14f5ab65c6e  ./quincytmo/proprietary/etc/wifi/bcmdhd_apsta.bin
 2633ed7f8adc5187942e82054aad5973712e354f54eea409d8e7ad4341644047  ./quincytmo/proprietary/etc/wifi/nvram_mfg.txt_murata
