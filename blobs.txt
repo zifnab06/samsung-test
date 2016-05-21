@@ -5661,7 +5661,7 @@ c74b302f5ece52c8d4ab8ce0c09d62b022493e9fa41225b19ef6c222cb8d2a1d  ./smdk4412-com
 4c455a0a54f02229bebddbe77e7c97b78885b127ea2622d8076ffb0d56236917  ./smdk4412-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin_b2
 6bcddf97428b5c3afa82047b92e85a8dedc485840ed1098d7403532fdf07799c  ./smdk4412-common/proprietary/system/cameradata/datapattern_420sp.yuv
 f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./smdk4412-common/proprietary/system/cameradata/datapattern_front_420sp.yuv
-a3310552cd5901b7e7d209d48e377f585d0022e485e30ac34d61c9d2ab74680c  ./smdk4412-common/proprietary/system/bin/gps.cer
+986683d0cce3cd29299a39cd6446c773b96b43d0fa4203efc505cebd946d09d8  ./smdk4412-common/proprietary/system/bin/gps.cer
 aecbe3dbde8e84286ca7e19ad20e89c91ecbf0030b12bc4107d76a96435bc7d3  ./smdk4412-common/proprietary/system/bin/bcm4334_murata.hcd
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334_semco.hcd
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334.hcd
