@@ -5673,7 +5673,7 @@ e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-com
 7bd0d715fbba1e6f1986a83f39be49eeeab348e1be023477c6a087d952ef8297  ./smdk4412-common/proprietary/system/lib/libfimg.so
 94d6d543ecb9a30226d08e8bff9a40a672425bdd3e6910cf251e0d9138c4fc48  ./smdk4412-common/proprietary/system/lib/libedid.so
 4246e445a48b02053b69342a96feed313c6b0c24565b160cd2d5fa048b2b3d1d  ./smdk4412-common/proprietary/system/lib/libddc.so
-e57eac1a8a5845b81e9e8d9d4d2a771e112cd19a1438759e0ab414d81c2a2c25  ./smdk4412-common/proprietary/system/lib/libMali.so
+68513f011233e98ad64e96da5093ce3334a496dc4b8308c2e85ed43c7d873f6f  ./smdk4412-common/proprietary/system/lib/libMali.so
 f04ad203184cd9ebe10a456c7d74e68eac1f10fafb8ff8aaf5fd7ce4ca7259de  ./smdk4412-common/proprietary/system/lib/egl/libGLESv2_mali.so
 4f390c8b37e357c9db9734c7531472f00623a507a615546f052690c98bff1b26  ./smdk4412-common/proprietary/system/lib/egl/libEGL_mali.so
 3ff971f7f38d64997d6a8816afae8ac09616fac8f5a0fbd8c651bd4c5731050d  ./smdk4412-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
