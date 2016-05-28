@@ -5780,7 +5780,7 @@ ae1ddee88540b731b634409b167e795ff0912bf8a10c6346ba77cae0fc4566c7  ./t0lte/propri
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./t0lte/proprietary/system/vendor/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./t0lte/proprietary/system/vendor/lib/libqmi_client_qmux.so
 b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./t0lte/proprietary/system/vendor/lib/libqmiservices.so
-2a1d4655bdc9bb77269fa204b872c3d1750c44251bef514b7e6d7cedcddf9a84  ./smdk4412-common/proprietary/sbin/cbd
+03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/sbin/cbd
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/system/etc/srm.bin
 2fcbf3ba340176f41fd277e64d33bec3351d3eda174e258d861d1c949dbef4a6  ./smdk4412-common/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 3dd0a0372811a52641fbc679489833689ddfa0e407c6d709175bd227efac7b29  ./smdk4412-common/proprietary/system/etc/wifi/nvram_net.txt_semcosh
