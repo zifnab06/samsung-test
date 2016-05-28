@@ -4177,6 +4177,7 @@ ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./serrano-comm
 d77e4559bce869f7c6960ce27d9f00632196e09514d3059cd5ebc14206b78a4f  ./serrano-common/proprietary/vendor/lib/libqmi_client_qmux.so
 c79e27faf8a8a5a9c084bea902558cfc70d6aff8b27591870d02989d574ef339  ./serrano-common/proprietary/vendor/lib/libqmiservices.so
 6791692a11871fb8f554cafd6abdf69fd8db750c1ae81535840c9ea627543173  ./serrano-common/proprietary/vendor/lib/libllvm-qcom.so
+2a1d4655bdc9bb77269fa204b872c3d1750c44251bef514b7e6d7cedcddf9a84  ./kona-common/proprietary/sbin/cbd
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./kona-common/proprietary/system/bin/geomagneticd
 8e40c9fab09891e83338de1621acaf95bdcc6c7f096119614bd739efbe5d5652  ./kona-common/proprietary/system/bin/ddexe
 ed66d573207a2d02c3594bde696a7b12b8eac0faac0c6305eb35d6896d495c7a  ./kona-common/proprietary/system/bin/gpsd
@@ -5780,7 +5781,7 @@ ae1ddee88540b731b634409b167e795ff0912bf8a10c6346ba77cae0fc4566c7  ./t0lte/propri
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./t0lte/proprietary/system/vendor/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./t0lte/proprietary/system/vendor/lib/libqmi_client_qmux.so
 b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./t0lte/proprietary/system/vendor/lib/libqmiservices.so
-2a1d4655bdc9bb77269fa204b872c3d1750c44251bef514b7e6d7cedcddf9a84  ./smdk4412-common/proprietary/sbin/cbd
+03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/sbin/cbd
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/system/etc/srm.bin
 2fcbf3ba340176f41fd277e64d33bec3351d3eda174e258d861d1c949dbef4a6  ./smdk4412-common/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 3dd0a0372811a52641fbc679489833689ddfa0e407c6d709175bd227efac7b29  ./smdk4412-common/proprietary/system/etc/wifi/nvram_net.txt_semcosh
