@@ -1095,7 +1095,6 @@ bb1c5dfb9267d3b7e698e8da2e77838b1fdeb384a6425dacad885c31aae4887a  ./espresso-com
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./espresso-common/proprietary/system/bin/smc_pa.ift
 ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./espresso-common/proprietary/system/bin/smc.ini
-0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso-common/proprietary/system/lib/libsecnativefeature.so
 ff041f111e02e028842ab536332c2bb4e144d6f7a5e92b3b669bad68fa1d4994  ./espresso-common/proprietary/system/lib/libdrmdecrypt.so
 afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./espresso-common/proprietary/system/lib/hw/gps.manta.so
 d0e4a02872c45e35c525e2923366d1b05c1fd46ea68548f50a141a1bfea38b43  ./espresso-common/proprietary/system/vendor/firmware/ducati-m3.bin
@@ -4554,6 +4553,7 @@ ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./i9100g/propr
 0db92e35ab7779dc6938cac84846c242b24a5ff21c30cdc2c4d9f68ec7f001ff  ./i9100g/proprietary/system/media/battery_charging_20.qmg
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./i9100g/proprietary/system/media/battery_charging_15.qmg
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./espresso3g/proprietary/sbin/cbd
+0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso3g/proprietary/system/lib/libsecnativefeature.so
 b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./espresso3g/proprietary/system/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
