@@ -1087,11 +1087,9 @@ a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./exhilarate/p
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./exhilarate/proprietary/vendor/firmware/libpn544_fw.so
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./espresso-common/proprietary/system/etc/powervr.ini
 1877a8abecea957d98024ed7a45d14922e14869b60271b684c70a9c481dc63c7  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin
-17a0e898db6f8e065b2c59493f5b61c831b9a2bdc3bf5fb0104f7fa781dce06c  ./espresso-common/proprietary/system/etc/wifi/nvram_mfg.txt
 f978346fbb3fc4eadf7d9f8ab9072cecbc5146e63dbf9e44dcc767feb8de6cda  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_sta.bin
 17ce78edcfece76e84d5780dac3103a79e7056718f2e1945492ef51b031a81ba  ./espresso-common/proprietary/system/etc/wifi/nvram_net.txt
 80c81df4abecfdc35a1cb4c254fbca13b8ef03034062f5dd2abdc2c23ecba367  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_p2p.bin
-bb1c5dfb9267d3b7e698e8da2e77838b1fdeb384a6425dacad885c31aae4887a  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_mfg.bin
 be64a2ccecf4d2f080cec710f310459c8001f8161e49c427d068775bdcddd5d7  ./espresso-common/proprietary/system/bin/smc_pa.ift
 ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./espresso-common/proprietary/system/bin/smc.ini
@@ -4554,7 +4552,7 @@ ed51ad45a632767b9cbb1c7af8881d84d297bfd0465c0d7d39a371563eddaff9  ./i9100g/propr
 ca26d48c61a5ce2357824188bdad979fe09d74f16fd780be33e4d03f33c75e4f  ./i9100g/proprietary/system/media/battery_charging_15.qmg
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./espresso3g/proprietary/sbin/cbd
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso3g/proprietary/system/lib/libsecnativefeature.so
-b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./espresso3g/proprietary/system/lib/libsec-ril.so
+b0ced106a1ad280db4009dbcc034d569bc55e0b43251ecb891e079a1d07da957  ./espresso3g/proprietary/system/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./jflter970/proprietary/bin/rild
