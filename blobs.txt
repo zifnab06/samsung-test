@@ -838,7 +838,6 @@ ed36cf463fdb0b8bd019d448debe978f15d7225a124eeb712004a9df780a10e6  ./gts2-common/
 62141c9738178e7ed5d6a50735389ab583e51513853f908be715840f8b6ea259  ./gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4356_a2
 4581bc922d4fd10b960653b399774f5b34c6946bba43151870ac3622363fc390  ./gts2-common/proprietary/bin/gpsd
 1f3abf2fd64b64819b5801aae55d4080dee5335d69fbaa85cd7557d6c2dfabf4  ./gts2-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so
-e617283fcd42b90aaf7b37470ffb5126c0a07b4187940f6b89b5e58a32a61905  ./gts2-common/proprietary/lib/libsecnativefeature.so
 c3e749a2909f679ddb640b37aa4a730f30c7dac17812f2f8dcbb1db20308c6f5  ./gts2-common/proprietary/lib/libexynoscamera.so
 44083546c4c7a6f456853aad06166ee4e638d15471ec7ba315a9477e3f7de4e8  ./gts2-common/proprietary/lib/libyasalgo.so
 51505dd80cc2fdb315b78db9c32293df4cca62e96f2bd25a2abfbdb2e3ac8ca8  ./gts2-common/proprietary/lib/libvdis.so
@@ -846,8 +845,6 @@ c3e749a2909f679ddb640b37aa4a730f30c7dac17812f2f8dcbb1db20308c6f5  ./gts2-common/
 a217b3983a6b4d6364a62322898ff21a04a3960b9878ac4753e0e912defbaa83  ./gts2-common/proprietary/lib/hw/gps.universal5433.so
 877b48e32d2eedc86d56a7d17af5a2739bc1ffd79c5cf2a822e28fcedd6ecfd0  ./gts2-common/proprietary/lib/hw/sensors.exynos5.so
 c61e2dfd0a928a48c461f3cc4a57160cd34dc0d5ece146812c54114b0d4bc5d4  ./gts2-common/proprietary/lib/hw/camera.universal5433.so
-9f9a706661f136b064efb4555702f621ca82223aaacd20083f312b7d6a99b803  ./gts2-common/proprietary/lib/libsec-ril.so
-7669864176193996789ad0b06518213912111f94e7e6e4d7b3ead0663fe41d9e  ./gts2-common/proprietary/lib/libwrappergps.so
 566e404d1111237f573444c4ff344c47691508da6434b91d2a6dc0b69a28c1cd  ./gts2-common/proprietary/lib/libhwjpeg.so
 1a44768b8718d948d43d791676023b369786b81da8b87c841c63b3ef29354c43  ./gts2-common/proprietary/lib/liboemcrypto.so
 c574be3dbad08acc59a5917b74562d0c05bf51f59479a5463e63de50d8a38d80  ./gts2-common/proprietary/app/FFFFFFFF000000000000000000000001.drbin
@@ -3592,6 +3589,9 @@ b54132c654e5d8aca6896c432eac56828b4696a082485adddc6fbe29d40bf9e2  ./superiorcmcc
 190f0590a5cf981a6b381c59abcd1da87ada6611c6f24ab413ec0f41f73b4033  ./superiorcmcc/proprietary/system/media/chargingwarning.qmg
 34fa4b553016ffe4c7e63330f18bf420cc51d35abc88337aeeceec2fc049cf7f  ./superiorcmcc/proprietary/system/media/battery_charging_20.qmg
 d7c59b70aa81fc2dc35a815fb91a8c5a1eedd0e25ff59c69fa4b4c96511bf634  ./superiorcmcc/proprietary/system/media/battery_charging_15.qmg
+e617283fcd42b90aaf7b37470ffb5126c0a07b4187940f6b89b5e58a32a61905  ./gts210ltexx/proprietary/lib/libsecnativefeature.so
+9f9a706661f136b064efb4555702f621ca82223aaacd20083f312b7d6a99b803  ./gts210ltexx/proprietary/lib/libsec-ril.so
+7669864176193996789ad0b06518213912111f94e7e6e4d7b3ead0663fe41d9e  ./gts210ltexx/proprietary/lib/libwrappergps.so
 2fc13aa999e68dd61e136191f1ec3957027447b7317380d967dcb2e472571511  ./gts210ltexx/proprietary/vendor/firmware/bcm4358A3_V0062.0104.hcd
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./t769/proprietary/etc/thermald.conf
 19f12f4810f1a671567e1d4cf3535734f771ca72eb1590bff732117834b22761  ./t769/proprietary/etc/wifi/bcmdhd_apsta.bin
