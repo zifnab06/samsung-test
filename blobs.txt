@@ -614,10 +614,11 @@ deda2cc1a6fc98ecae951b2f5800b1c0780a61a2408b946d9ee673057309a2b8  ./tabpro-commo
 ce431dcf3e24418152bd60a73600b9e631cc93a37f4f97b861aa95c93d7f602f  ./tabpro-common/proprietary/vendor/lib/libacdbrtac.so
 e833feddf6cfda5b28323ff76af01b09afbe20e547e2ca2a0be18d81e6cd8ed6  ./tabpro-common/proprietary/vendor/lib/libDivxDrm.so
 d12a883b60edaef15133ac7a36e9ac173d5bd9dc32a9504f7451888418ef7cbb  ./treltexx/proprietary/etc/sec_s3fwrn5_rfreg_thl.bin
+b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/proprietary/bin/cbd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-a74cd457a771066b2d0797effaf195377561b08ed1c85deb32f66fdcb03efff4  ./blobs.txt
+f8dc41c114a1bb41be77e01a373e5c8da76b720310fd4be15aa2e388ead761c7  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
@@ -2480,6 +2481,7 @@ b62ab19dd30596a5fdf6a4c1ddd2d188bd45ef8ffc57a1297ed0a1c0168732a4  ./p1/proprieta
 49bf7008bfda7cfb7eb1d89b7e9e4ced586fe0658ef7a16f37cacd9a5ae7571a  ./p1/proprietary/libsec-ril.so
 f39da861b92efa1e4825cf40359b4e0aff78f35618bd2dbfb16b2722a88fc362  ./p1/proprietary/gps.s5pc110.so
 6a4086fb8ce42aad8500ac3ca8c08b3484ad5d79094ecfb9cbf69a18d74ab80b  ./p1/proprietary/libsecril-client.so
+b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./trhpltexx/proprietary/bin/cbd
 e639a9727a66f92430a9aee5cd8b5558d2eb04a10d7b37c64a2497bd4e6d80ad  ./trhpltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./trhpltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 05cdd13c05b650ad1f2f7917f3f855e0946590873bde449c107bb89c50df496d  ./kltekdi/proprietary/etc/gps.conf
