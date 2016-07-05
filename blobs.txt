@@ -946,6 +946,7 @@ a2d0c3dea05576a88ed7cbbe9e45f0a627c38e9c5493443abc1f1a47b9e28aed  ./gts2-common/
 c7196d9e8f9c027649c4941310c1a4d70aa513f6a8ff24d3886664083356f375  ./gts2-common/proprietary/vendor/firmware/setfile_4h5.bin
 b4fedfcbc8efd19dc2523a09ba412f2b785be9fda97624e66b82fbd02dbe7d90  ./gts2-common/proprietary/vendor/firmware/seiren_fw_dram.bin
 4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./gts2-common/proprietary/vendor/lib/libwvdrm_L1.so
+d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./gts2-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
 9fb201a37e79072ba2e20514f857af614e24883ab5efe8e5b5803bff29e97009  ./gts2-common/proprietary/vendor/lib/liblvverx_3.27.02.so
 45a5759d792a5cac02f9b5b0dcc4ade019ae9f01e32a51e42d67015ee1594e32  ./gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 53757576d66c1de01b13dcdeb2eb73b9cf28ad373c184bd5119d2f3395a78f1f  ./gts2-common/proprietary/vendor/lib/liblvvetx_3.27.02.so
@@ -953,6 +954,7 @@ b4fedfcbc8efd19dc2523a09ba412f2b785be9fda97624e66b82fbd02dbe7d90  ./gts2-common/
 dc5ae4cdcedf6f2f93fb2d1b985f76a27e7bea4f279aa48ef10a7ed0c2067bea  ./gts2-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 86f293f37c1e71806f3fa3a02ebb260ad94647e69eeb6a7bdbe1996ebd309c1f  ./gts2-common/proprietary/vendor/lib/libwvm.so
 cdb88429c08ddde08c03ae57649a8a63a49c046a72a045c7a6a17eb632d6876e  ./gts2-common/proprietary/vendor/lib/libdrmdecrypt.so
+0d5acbc1a76d6c2f33819111ad97bd3cb8039a6ef926c4df6552c4516fa52e17  ./gts2-common/proprietary/vendor/lib/libWVphoneAPI.so
 8f4ba32e4fa7cf09afd97597fe0dad2657c43c0c3c70b91919f22790933b0377  ./klte/proprietary/etc/gps.conf
 1c7c3d205eed0e6adfd446eb93ca2839eb4a1ede8e8e332e290645cba2480495  ./klte/proprietary/etc/sap.conf
 0fafb2c60d38e91292f466638cba51beba8659f33abaa79c886edc317acc3dd9  ./klte/proprietary/etc/clatd.conf
