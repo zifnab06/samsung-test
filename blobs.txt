@@ -1190,10 +1190,8 @@ a6b86c6daed8b83ba67985c35bc7fe6c245795d33adcf1e89b8b7e83dbf65dbb  ./jf-common/pr
 011e9a85323a748a74e449da8bdb1e8d3e570948a4e314a98e123836295817bb  ./jf-common/proprietary/lib/libsensirion_j1.so
 94219ad1d0462b787a594fa7c3ee04772005d66e56b5e02905c7ed5e13de0e7f  ./jf-common/proprietary/lib/libchromatix_ov9726_preview.so
 fa4041952259508fba5ce02f481e779c4a76d2642733ab77444714db74027213  ./jf-common/proprietary/lib/libmmcamera_image_stab.so
-8159d31a8a25dc20e22a885757985e14f8108ee88feb02feff30e6aaab2efb18  ./jf-common/proprietary/lib/drm/libfwdlockengine.so
-79a2dfcc85bd45974fabe4de1f326dd8f6287b0e0e6ddde63c398f9c999542bd  ./jf-common/proprietary/lib/libwvm.so
 67e5d64fd81b4615d7ab66e7827bed31dbdb37012672eae8127737a66bbe4ddd  ./jf-common/proprietary/lib/libchromatix_s5k3l1yx_hfr_120fps.so
-9125978a167b03665bbd5981ba25b8597a46aca3ba3fa69c4aea2eb3cd3c9b28  ./jf-common/proprietary/lib/libdrmdecrypt.so
+44fd021b94211a44129ccd2edff291b27b63d74392fecd34674a82e1854d42a1  ./jf-common/proprietary/lib/libdrmdecrypt.so
 3cff22a62d4f32cab429189fd7d1d7c62c18199ba90e72adfee5eb55077d66c1  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_preview.so
 73c4b546678f2997f49cf0c8416fb8ba17313fde74c9740100544e69d59780e2  ./jf-common/proprietary/lib/libloc_eng.so
 4aabd4620e70374d941d9b9cf1ba0c17c08e5d851d1297003530529e968d58c4  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_smartstay.so
@@ -1226,7 +1224,6 @@ d6ea672b5a4380f584e0b4fb6cc5a9423c52612822e70d6481dcfc5310f49859  ./jf-common/pr
 3dafa71da00caa67ddd4a5652db24d75e26bad570a0017f622bd80afd255dc1a  ./jf-common/proprietary/lib/libmmstillomx.so
 b8a20012e9e84a691624cf7169278e5742e2d5c7c8f2d7e290515950c55fce3c  ./jf-common/proprietary/lib/libDivxDrm.so
 472e8e2103ed461ce2f0724c78b8f7d7e02c8447e36f0890ca5a325bdffe8384  ./jf-common/proprietary/lib/libmmjpeg_interface.so
-f7dc8883d8a0feb84c3c7874bc1ae2111640413e70bc2ed3bd73084ce9fa2a44  ./jf-common/proprietary/lib/liboemcrypto.so
 6fd07501cd50301b42ce620d381932b76913fecc695293a79020ebbaaac4c585  ./jf-common/proprietary/lib/libadsprpc.so
 a8bf2d3fff6501f4f8abf64d1790ec32ba8d22c56995052aba8f14a607d0f00f  ./jf-common/proprietary/lib/libchromatix_imx091_default_video.so
 681aaf9ad552c93e307ce2dc497692402185c3658e5ac80ada96d3b31a67f620  ./jf-common/proprietary/lib/libI420colorconvert.so
@@ -1249,8 +1246,7 @@ f1a4f7c32fa97de13851ffa0d5881849d82ba33647ac9e017ac51306a5961d0b  ./jf-common/pr
 b6ddd4f831b3767ea80fdc1edc9d76693e0ae95cd3819b10d106a555c9eb8ec5  ./jf-common/proprietary/vendor/lib/libgsl.so
 f9a10464759afa91fb93f9bf42347ee56ca23d68d9cc05fc47b8b8fa6bca987a  ./jf-common/proprietary/vendor/lib/libgeofence.so
 1a941aa3436e0233369004a2762afb54472e28bc60d3f45d9a3d6d07979ddd22  ./jf-common/proprietary/vendor/lib/libC2D2.so
-7bd16cb7d07a9c4c2ebf6347c4213a1456d4355b0ddecc9d3cfddd989c320ee5  ./jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-3fcae22bb44f05656ff0e61ab43f2a6ceaa6ac7b31e3cf01f27d8c317fc4d5ad  ./jf-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+06f35b360885daff1e6fce61d85e0b2f0aa783b9ae40cf0f3b51a29b502732f7  ./jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 0745027ab36b947aaa94aedf4ff4a151ab72bc96cc8f1f68807fffe78b1f5360  ./jf-common/proprietary/vendor/lib/libCB.so
 718eaa4356ecfe003eca0979dfadd075a3870ce7d70ac2e6dd509ba275f22d3f  ./jf-common/proprietary/vendor/lib/libc2d30.so
 adbd44255c86f38922fae201ae22b6dd31ed85fa7d98b20e6004d4bb6f3dcf62  ./jf-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so
@@ -1258,7 +1254,8 @@ de6ddc695051c2c355be0b5fd58128a6f60bb2402aabbaeb5e32eeb86b30c013  ./jf-common/pr
 4b7986f771443174d70c76778ff9f1dba006507cd8368a9457a75754d83822af  ./jf-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 e0cdc923c403b892b7b4fc05ebdbfe34982d1c937eb3fc2ee8926878f508293e  ./jf-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 ea74393e466144bd4bb4052fd50f2a8efd8eb6e0e9bde2f5468d503a93b79464  ./jf-common/proprietary/vendor/lib/egl/libEGL_adreno.so
-489939081f30eaf9b642296a204b0cce26807b7edba736cea899bd6b04fa7ddd  ./jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
+bd838591965428557e823c4b3b598ce2e71e0d2f7e2cba304cd1d5cf55c3a638  ./jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
+5821d2f4df3a71698b1e34cca2b95beaa573f5f87123157a56c974460a80155f  ./jf-common/proprietary/vendor/lib/libwvm.so
 53d20be5d61a8ba084b5323c5d4c9ec5275e9f94f090ac9b025b0f6054dcb977  ./jf-common/proprietary/vendor/lib/libllvm-a3xx.so
 ac25fd6a75ff038bcfa2b4263bafad00c72a99fc3889a0c2db7dc4b0773b68d5  ./jf-common/proprietary/vendor/lib/librs_adreno.so
 6f97523c14cebedbca2a3bb8cc1ae511224b135355da5270d0e1627bd71aa697  ./jf-common/proprietary/vendor/lib/libOpenCL.so
