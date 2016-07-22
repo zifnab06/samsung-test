@@ -3538,7 +3538,7 @@ c09ae03c3075b1d524e1b597c07ed91e5a210da5c13999e8befb9ae7fa5fe9ed  ./serrano-comm
 e89a7e6e826200feb789c4dd3f8bf80e9807d867e1b13139f72922b635bb921b  ./serrano-common/proprietary/lib/libmercury.so
 4aa522d6e1fb3d583a0d66ca0e0992077bf1f451be95843cfdff12c799cb2720  ./serrano-common/proprietary/lib/libOmxEvrcDec.so
 432b5efb5131adc11ff9d575c4b62d6d639c3cbb0ade44f612e1ef479a2624d5  ./serrano-common/proprietary/lib/libchromatix_imx175_default_video.so
-40e8c58e544eb1fee45c97d249049c88ed159d14a49eae0add9442da528c040a  ./serrano-common/proprietary/lib/libloc_api_v02.so
+b49d76e4208c923c99d1fdca15624bf1f5ef3377930c65fd0991b2003a887744  ./serrano-common/proprietary/lib/libloc_api_v02.so
 34fad80d098196f069e3cfd74881563e82df756f5a4e2731e01d0c70f3bf2642  ./serrano-common/proprietary/lib/libmmjpeg.so
 0da0a15ac70b3fd660e744460066b22589178b5f6f4d477e039a323c2dc0cdc1  ./serrano-common/proprietary/lib/libmmcamera_frameproc.so
 14d67dbc5fe7b99552e8589821a435bb8ab5897ab6e59113a478551054ee5f62  ./serrano-common/proprietary/lib/libgemini.so
@@ -3628,7 +3628,7 @@ ddadfa9756b9e70573e0bc1d1c5a1efad6cf00b26900caef5146e4a3366f373c  ./serrano-comm
 72f4a22f4e4bf7408b89e58566d130a40ed9e395b60ade258507b420686bdd6f  ./serrano-common/proprietary/vendor/lib/libqmi_cci.so
 db589544be9252948644990ebe418b02859a116dfcd3458bde1f6bb831a3c450  ./serrano-common/proprietary/vendor/lib/libadreno_utils.so
 d8dc13c298ee8275f862eb9b7be891ff95aababfdfa398fe48edeff96b1f62c6  ./serrano-common/proprietary/vendor/lib/libbccQTI.so
-f21692c2af51e6f4e9f1dee9e19f9d91f1d5bb2aa1c5b6a99e0eee6d3775669f  ./serrano-common/proprietary/vendor/lib/liblbs_core.so
+5b1718467fb4939199ce7c43fd2c28ab75cfdd30c4ef528f1ee4376e1602f66c  ./serrano-common/proprietary/vendor/lib/liblbs_core.so
 da1c3f5c23f2fbea6b3945440550bc2ed73b5875daee1c67572a67824bd6f4fe  ./serrano-common/proprietary/vendor/lib/libqcci_legacy.so
 5050b512187cb9ebf00f1de5efad9d823b2f0ecf4c2b21cc9483cca8020d4f3e  ./serrano-common/proprietary/vendor/lib/libqmi.so
 4ea5f6528eb72ce4135fd0137572990ffa8cc0ae64980dd37fe1d19e74c73c86  ./serrano-common/proprietary/vendor/lib/libc2d30-a3xx.so
