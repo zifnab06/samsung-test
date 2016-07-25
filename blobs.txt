@@ -6554,6 +6554,7 @@ aab894eabed2708d48f9037c5490b55a9130b66f8c1bcf0e558f6662c28955ce  ./hltevzw/prop
 146af48150965539ab5046cb0373f13bba0a4c1c18e9b6b30a923b9a69a085ac  ./hltevzw/proprietary/vendor/lib/libqmi_client_qmux.so
 b5b9eda499cfa0505656d00aa0ff3a4a88b5a68220551f79770afcd08344abfc  ./hltevzw/proprietary/vendor/lib/libqmiservices.so
 490244cfea5aa1bf85daf6ee419b32a437342523eca8937618cab49ba61c63cc  ./klte-common/proprietary/etc/Headset_cal.acdb
+60c60c53f39c0c8cd00f9db4f73e73190137a2a182294b8eb39b62619fc865fb  ./klte-common/proprietary/etc/F16QS_imx240_module_info.xml
 b6cbb8da3c2f78a566c3aabc644555d100eda3c4b69e50059c10f959c363d2e1  ./klte-common/proprietary/etc/Hdmi_cal.acdb
 21810bdeff9d557e7c8d709ddba6de7dc4bfc6fbe28d28f07cad01589caf21ec  ./klte-common/proprietary/etc/Speaker_cal.acdb
 2bde030191f028d2f6b21bd57064e57e49858c272ca233eaf93196c8b6986763  ./klte-common/proprietary/etc/Bluetooth_cal.acdb
@@ -6575,6 +6576,7 @@ e4ee76b287961f56e6a606ed5baf7127d9fd9a0d421b516af32fa655f1fdb5de  ./klte-common/
 816df0bda356609bb7e5c55c2c43953fe47416ef18e49398ae4e17e49be073a2  ./klte-common/proprietary/etc/Global_cal.acdb
 373e95bd598f397eb3a0e0a7743a2b15d538603013966a33630feaa11dfdf606  ./klte-common/proprietary/etc/sec_config
 f02edbb0a5af1005927e3819fdcb4a1beb9517a325e17168f6e8f1808b2cafb7  ./klte-common/proprietary/etc/Handset_cal.acdb
+b3400812835e596f0b4481072d225738de6cedd3f9a527c6e9efdcca67b2b7be  ./klte-common/proprietary/etc/F16QL_s5k2p2xx_module_info.xml
 bfaf7d308c7805e5adb5e3777b10c14649b05f8bedca1d261a29e06111e4aae9  ./klte-common/proprietary/cameradata/Master0.bin
 00733d1382742e9df94b078b62b2a25ccb018006aef8264d72af346c302106f5  ./klte-common/proprietary/cameradata/F16QL_Isp1_s5k2p2xx.bin
 e7c53dc88366f600905519cbdfa8da5453c50490893ac9eee1c5fde7f678e2f2  ./klte-common/proprietary/cameradata/F16QS_Isp1_imx240.bin
