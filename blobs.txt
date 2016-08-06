@@ -1096,6 +1096,7 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./jf-common/pr
 665c3fd562e22232c2eadfc79ed6c26cad1b3f67d314a875ac056fc089e37714  ./jf-common/proprietary/bin/radish
 e3bfb2df93fc644a832ccb5a4e4386e5bbee075832294e871951fb40039cbb67  ./jf-common/proprietary/bin/time_daemon
 49250f4707334abb64d215cbf9ff71dd76e79b1e616ecd41a9cd0a29a17ec1bb  ./jf-common/proprietary/bin/loc_launcher
+499848814bf81bcc3881b16b006d61d9ee321656664eab93506365f0f00fc1ff  ./jf-common/proprietary/bin/thermal-engine
 ee5b888d0537eb56131e526cfa9d78bef429a576201915e2775cb4fa9b233f51  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
 25d1e0c3a0fa39876f966f407f05a03379b73b256211e468b89f868e5cb5eff9  ./jf-common/proprietary/lib/libcsd-client.so
 c5482eee945e8ffb721e4c87870d775adefe10a1970a68129e640742fa81b5eb  ./jf-common/proprietary/lib/libmmcamera_interface2.so
@@ -1159,6 +1160,7 @@ fe385f1dc550f1811110ecfea733d1e1c611af649bad2d4bfc309808da6c2388  ./jf-common/pr
 e8a2b50eede452feaa9303405ac9fa8e43dd660432d84eddc4e66691ece2b4d4  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt.so
 3bb49f620e5314a9a25fdfcbb985f5efd7b469b3e6b1cee94a3679a78cd3de4c  ./jf-common/proprietary/lib/libhdcp2.so
 5fedb1a921118ef8670f580d7ef7198a7b120d6a640dfbb8cf39e0dc40ecb251  ./jf-common/proprietary/lib/libchromatix_imx091_preview.so
+2e71084ed40ffa7849e61cb4e09397fb3a5f0c9081884c9fbff2c45dd78008b9  ./jf-common/proprietary/lib/libthermalclient.so
 a866382142b52e7949886da18bdc88a8802a4bfeb2cfb29299d73f12cf27f947  ./jf-common/proprietary/lib/liboemcamera.so
 745e0bd1bbf1c716f2d332a016430617103dfe3e6085d19413a3ef94a43570b9  ./jf-common/proprietary/lib/libchromatix_mt9e013_video_hfr.so
 5e7dc3ddb36e368f3bb8a7d784bb764611ed2ff7f0583f5899e52e642cc57f1b  ./jf-common/proprietary/lib/libchromatix_mt9e013_preview.so
