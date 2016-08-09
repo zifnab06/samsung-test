@@ -1201,6 +1201,7 @@ e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./jf-common/pr
 bd838591965428557e823c4b3b598ce2e71e0d2f7e2cba304cd1d5cf55c3a638  ./jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 5821d2f4df3a71698b1e34cca2b95beaa573f5f87123157a56c974460a80155f  ./jf-common/proprietary/vendor/lib/libwvm.so
 af6196078771a187faf973e39ff2d687978597883bd666d58c46d48b96d8a758  ./jf-common/proprietary/vendor/lib/librs_adreno.so
+a73037fb69a78f141f450c5b0d93e6a7a188445af3d037aeebfb6cb337018e01  ./jf-common/proprietary/vendor/lib/libuiblur.so
 db589544be9252948644990ebe418b02859a116dfcd3458bde1f6bb831a3c450  ./jf-common/proprietary/vendor/lib/libadreno_utils.so
 d8dc13c298ee8275f862eb9b7be891ff95aababfdfa398fe48edeff96b1f62c6  ./jf-common/proprietary/vendor/lib/libbccQTI.so
 fabd5c03b42bec58cdae7d20a948ef60492d5c4714e6220b7c5d9aad1413be93  ./jf-common/proprietary/vendor/lib/liblbs_core.so
