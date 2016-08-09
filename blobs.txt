@@ -1249,6 +1249,7 @@ fb4a7eb19ba0d7c58580757b7103b588c6703dad8ae2eea77a15ba602c2a17c8  ./msm8960-comm
 faafdbc4af4d356bb382b2c83ca76bb5b930863181bf593f3081f3e4c6d66380  ./msm8960-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 5fd138bc4e60351397dba19ca5a4b7786b39842b8a926f21a99cdcb588031048  ./msm8960-common/proprietary/vendor/lib/egl/libEGL_adreno.so
 b82a4cf7014331b5e001e860724c19b94d55d6dfc69bce9e26fd6ac4dadd752d  ./msm8960-common/proprietary/vendor/lib/libc2d2_z180.so
+a73037fb69a78f141f450c5b0d93e6a7a188445af3d037aeebfb6cb337018e01  ./msm8960-common/proprietary/vendor/lib/libuiblur.so
 8610124aaafa504893cbce1d7e8f248e0404d2c260f0c199afc4ef4dd9c29839  ./msm8960-common/proprietary/vendor/lib/libOpenCL.so
 d285d9d8ace7a91bdd45228080a06b204c8c2aa8ccffe65919e3666a1f7e54dc  ./msm8960-common/proprietary/vendor/lib/libadreno_utils.so
 1792a00b6541fad96d2b508ba333e88b9ec8afb44bab46b8e5fe51d0225c2687  ./msm8960-common/proprietary/vendor/lib/libOpenVG.so
