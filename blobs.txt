@@ -441,6 +441,7 @@ d1d1cf4a9c31e49df1200102e4924c443be28de4d4f8ca26a542ef59a1d546e3  ./lt03lte/prop
 2fbf52318163084a8816d52843ade6cb070e00ac0b1dc4c64a2695486f60e8a4  ./lt03lte/proprietary/vendor/lib/soundfx/libqcbassboost.so
 43953fba0e24de2411566cc2bc5708b3f0fb6b2140144f0443839bfabc694db4  ./lt03lte/proprietary/vendor/lib/soundfx/libqcvirt.so
 2ef80396c0c5eb3309122c12d1d2be74b69b42cf7b9a5484e46be9265ec1c730  ./lt03lte/proprietary/vendor/lib/libmmcamera2_stats_modules.so
+c83bdd0d4ad1b5b01f3022ee719577bc1fc21219c919d3ee78f2b50437d925a2  ./lt03lte/proprietary/vendor/lib/libuiblur.so
 73c94b8d8665f50d3dc2779046737332016ea7b650ba8137663045932b43fec9  ./lt03lte/proprietary/vendor/lib/libOpenCL.so
 63022ddec1280b9dd38046a6e9c81558d8a907f63cf26c909e59ddb0f7587929  ./lt03lte/proprietary/vendor/lib/libnetmgr.so
 11edfd2e51867e93d7f4ddeed913240fb223dae82b6bb415ec494c3be6b9b978  ./lt03lte/proprietary/vendor/lib/libqmi_cci.so
@@ -618,7 +619,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-0debbdcf9b0d6f111c92810612551f4314bbe750cdbb9e06d57167af5880fe42  ./blobs.txt
+4fa83743e86c65528f749678cb6744a627862dc49fad573a14cc92551e950950  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
