@@ -21,7 +21,6 @@ cd2a00131430c6add45bd12874f6a619a3c0532bcd6e6d92a4efbf68948b027b  ./i777/proprie
 487ea96d39b7184552083139d0ec73d6dd8cb807fb7b65200a21a37f32814d34  ./i777/proprietary/system/lib/libsec-ril.so
 d0bd3ee22d85275e401cff4d370005490cecfed7042803ce9ec5e3260784b406  ./i777/proprietary/system/lib/libsecril-client.so
 cbe2c547674205882a23993dd87c89fcad2c6b6945193d3a2cdb99a01b81709b  ./jf-gsm-common/proprietary/bin/efsks
-0eb6ecda6a35f1eb0f4950173515c7479f624f45fd3e8d47a9e5ab598d2e46f4  ./jf-gsm-common/proprietary/bin/rmt_storage
 f3379dccba4d418f93fd3ad731a6f7a965261c7c96f7989eeb4e3674de2bfe32  ./jf-gsm-common/proprietary/bin/rild
 9c6f182bbd42a661dc764c98e144982f17ac598253036065dfc327cf14ef6d77  ./jf-gsm-common/proprietary/bin/qmuxd
 e162f28b9f5ffb7224cc43a3f53b5a0e937bca8c471b6408fc1c390c2b7bcd81  ./jf-gsm-common/proprietary/bin/netmgrd
@@ -619,7 +618,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-4fa83743e86c65528f749678cb6744a627862dc49fad573a14cc92551e950950  ./blobs.txt
+e21d33c9ac517018a9048cc262a5614cc5572e7af9041cfa44ad0832c5364b54  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
@@ -1096,6 +1095,7 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./jf-common/pr
 665c3fd562e22232c2eadfc79ed6c26cad1b3f67d314a875ac056fc089e37714  ./jf-common/proprietary/bin/radish
 e3bfb2df93fc644a832ccb5a4e4386e5bbee075832294e871951fb40039cbb67  ./jf-common/proprietary/bin/time_daemon
 49250f4707334abb64d215cbf9ff71dd76e79b1e616ecd41a9cd0a29a17ec1bb  ./jf-common/proprietary/bin/loc_launcher
+499848814bf81bcc3881b16b006d61d9ee321656664eab93506365f0f00fc1ff  ./jf-common/proprietary/bin/thermal-engine
 ee5b888d0537eb56131e526cfa9d78bef429a576201915e2775cb4fa9b233f51  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
 25d1e0c3a0fa39876f966f407f05a03379b73b256211e468b89f868e5cb5eff9  ./jf-common/proprietary/lib/libcsd-client.so
 c5482eee945e8ffb721e4c87870d775adefe10a1970a68129e640742fa81b5eb  ./jf-common/proprietary/lib/libmmcamera_interface2.so
@@ -1159,6 +1159,7 @@ fe385f1dc550f1811110ecfea733d1e1c611af649bad2d4bfc309808da6c2388  ./jf-common/pr
 e8a2b50eede452feaa9303405ac9fa8e43dd660432d84eddc4e66691ece2b4d4  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt.so
 3bb49f620e5314a9a25fdfcbb985f5efd7b469b3e6b1cee94a3679a78cd3de4c  ./jf-common/proprietary/lib/libhdcp2.so
 5fedb1a921118ef8670f580d7ef7198a7b120d6a640dfbb8cf39e0dc40ecb251  ./jf-common/proprietary/lib/libchromatix_imx091_preview.so
+2e71084ed40ffa7849e61cb4e09397fb3a5f0c9081884c9fbff2c45dd78008b9  ./jf-common/proprietary/lib/libthermalclient.so
 a866382142b52e7949886da18bdc88a8802a4bfeb2cfb29299d73f12cf27f947  ./jf-common/proprietary/lib/liboemcamera.so
 745e0bd1bbf1c716f2d332a016430617103dfe3e6085d19413a3ef94a43570b9  ./jf-common/proprietary/lib/libchromatix_mt9e013_video_hfr.so
 5e7dc3ddb36e368f3bb8a7d784bb764611ed2ff7f0583f5899e52e642cc57f1b  ./jf-common/proprietary/lib/libchromatix_mt9e013_preview.so
@@ -1822,7 +1823,6 @@ c2b164587287cf0b699cd3c0bd1f8e89c3b0a53500c20c89deb00a266114e883  ./smdk4210-tab
 204e7627d2617c08e7c9683a6f389d1892574e4f7ce2d6581e18bc596d687e03  ./smdk4210-tab/props/system/lib/libtvoutservice.so
 83e41c657e178583597ecd017eb530b198e282677bef16c680a0f3328db28721  ./smdk4210-tab/props/vendor/firmware/mfc_fw.bin
 0b1abcee7fadbe930596852a23ff5cefd9d91fcde2e1d3fde763b51e99880efc  ./jfltespr/proprietary/bin/efsks
-2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jfltespr/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./jfltespr/proprietary/bin/rild
 a13cf9f188a7cc4bd06115ecf802f346b56b35829b24510047a1ff91c8e00a7f  ./jfltespr/proprietary/bin/qmuxd
 44f6db82ca1ae1951811398e8ca34f575f07ace7b1902c968816a1cb790671ef  ./jfltespr/proprietary/bin/netmgrd
@@ -5477,7 +5477,6 @@ fc8defafcb105608dc76ab59c6f8b1318992b48f3baaf8859285d67100944245  ./jfltevzw/pro
 7092e3927e5b979eae733d343c44d6b7749f2b5dbf5f94219c4d1503c74d1b68  ./jfltevzw/proprietary/etc/firmware/q6.b04
 1fee08361bd3f1e8f921b1b4051e2945a3a0fdb9da0915c501cca5c1a5773369  ./jfltevzw/proprietary/etc/firmware/q6.b05
 1da5a7260902881f15e8782c6c5105f39accc4b803c76805bc79f0e253bdcef9  ./jfltevzw/proprietary/bin/efsks
-2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jfltevzw/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./jfltevzw/proprietary/bin/rild
 a13cf9f188a7cc4bd06115ecf802f346b56b35829b24510047a1ff91c8e00a7f  ./jfltevzw/proprietary/bin/qmuxd
 44f6db82ca1ae1951811398e8ca34f575f07ace7b1902c968816a1cb790671ef  ./jfltevzw/proprietary/bin/netmgrd
