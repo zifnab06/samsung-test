@@ -6502,6 +6502,7 @@ aab894eabed2708d48f9037c5490b55a9130b66f8c1bcf0e558f6662c28955ce  ./hltevzw/prop
 b5b9eda499cfa0505656d00aa0ff3a4a88b5a68220551f79770afcd08344abfc  ./hltevzw/proprietary/vendor/lib/libqmiservices.so
 490244cfea5aa1bf85daf6ee419b32a437342523eca8937618cab49ba61c63cc  ./klte-common/proprietary/etc/Headset_cal.acdb
 60c60c53f39c0c8cd00f9db4f73e73190137a2a182294b8eb39b62619fc865fb  ./klte-common/proprietary/etc/F16QS_imx240_module_info.xml
+5ebd6cac142465ca847f93862be11c99c2b8dd491bdfe4151c74d999019d222e  ./klte-common/proprietary/etc/C16QL_s5k2p2xx_module_info.xml
 b6cbb8da3c2f78a566c3aabc644555d100eda3c4b69e50059c10f959c363d2e1  ./klte-common/proprietary/etc/Hdmi_cal.acdb
 21810bdeff9d557e7c8d709ddba6de7dc4bfc6fbe28d28f07cad01589caf21ec  ./klte-common/proprietary/etc/Speaker_cal.acdb
 2bde030191f028d2f6b21bd57064e57e49858c272ca233eaf93196c8b6986763  ./klte-common/proprietary/etc/Bluetooth_cal.acdb
