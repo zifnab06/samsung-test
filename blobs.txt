@@ -4173,13 +4173,11 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./kona-common/
 7df2c743ba29840d1bb33355661aad5ad449027c5ea7a9808378ba004af4d95d  ./kona-common/proprietary/system/usr/keylayout/sec_touchscreen.kl
 512b3beb206561f74d983d2abf85b66553b1f292a4a130dc1fbe953a7226a379  ./kona-common/proprietary/system/usr/keylayout/sec_e-pen.kl
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5110/proprietary/system/bin/geomagneticd
-d15c415b8028fcbbdcd34dc3f0d482c0e74d27fa8085e0f09cbc1036ab44f6f4  ./n5110/proprietary/system/bin/gpsd
-8aeeca8c941b85cd66a9ef82a36e177d6609f20b127b195c33182fe5a8e7e2f8  ./n5110/proprietary/system/bin/at_distributor
+4fe15cec150aacea6ae30ffe14ac4502e2e4dfbe61929de866ce6260244045f3  ./n5110/proprietary/system/bin/gpsd
 a14f92f1b6e92e7a3f653f84927d4a9021dc17f537139e0e31e51b94c896ab29  ./n5110/proprietary/system/bin/orientationd
-191f79d1a8d6e24dd5b6df0c07a602d55dc06391ae729ad525c89682a78fee1b  ./n5110/proprietary/system/bin/smdexe
-4f0b2751a6f79777544b00eb10d9ba0fcc31f998aee883688e509abc5131a40e  ./n5110/proprietary/system/lib/libomission_avoidance.so
-763eb69635520530f651e89ce556c58c0bffc0af3bbbbd7616acd71ad144ceef  ./n5110/proprietary/system/lib/hw/gps.default.so
-dfbb07a9b46efdb49c88d0bc18ab218fabe302395357dc558d3e1d2f578597ab  ./n5110/proprietary/system/lib/libfactoryutil.so
+ca922678ff96dd1ca7c756eaa5f914f548ef88fc52424f4cf71121a28282f028  ./n5110/proprietary/system/lib/libomission_avoidance.so
+01c7c983d30fe1cb9c0ccd4b59872717d7cea0bfb2112f1801433585f311197c  ./n5110/proprietary/system/lib/hw/gps.default.so
+de35ec9f1e71f0af5757573b11ae538633cf70c1c417d1a644f27a389957b917  ./n5110/proprietary/system/lib/libfactoryutil.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./hercules/proprietary/etc/thermald.conf
 16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./hercules/proprietary/etc/wifi/bcmdhd_apsta.bin
 1613ce099b65a58e8ed6fb056a087bbd7b1696b211a5c592a235c6e80bf8d79f  ./hercules/proprietary/etc/wifi/nvram_mfg.txt_murata
