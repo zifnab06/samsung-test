@@ -4684,10 +4684,13 @@ d494ea5a82adda04b0d1988ae9dbf74171360ee833e756bc772fd5ac0f2d8f2f  ./zero-common/
 d483778712a3e2dce1bb562619b945d5d29aa17e27aa3dc6bafc196d588f8ecf  ./zero-common/proprietary/lib/libtlc_tz_esecomm.so
 94ab0b3628133747d4f37a7d6b0e5e890a68d25261e87789a19a938d299022c1  ./zero-common/proprietary/lib/hw/nfc_nci.universal7420.so
 f8575a883ff74415952ec2cdf4360ddba3e27a828a672b45f2faed43282a35e7  ./zero-common/proprietary/lib/hw/sensors.universal7420.so
+e4e6a97f1da002dcba9b0a0bfb20a83ab2dacec4aaada80861f5cacdb4e8dfab  ./zero-common/proprietary/lib/hw/camera.vendor.universal7420.so
 79f2feba0a5642e3ebbe11f6dcdd22f81223cf9216dce882de11fea4a4af79db  ./zero-common/proprietary/lib/hw/consumerir.exynos5.so
 4f8e40723d44e6e7167762058df6b22c419c231e71e7a55121f9efd809add7dd  ./zero-common/proprietary/lib/hw/fingerprint.universal7420.so
+7c5198ed487c6f99f1eb5d3092893934d5952c5b4d94c9e143edac24e3089c72  ./zero-common/proprietary/lib/hw/camera.exynos5.so
 1cab164afc7c6fb24f36389e5c7e677ff8bd09d71267737dbf2849cf3a82cd0b  ./zero-common/proprietary/lib/libegis_fp_normal_sensor_test.so
 0720b62cd27b663851051209ec6d032dc2d0d3279a88fb7af84786b507f080b4  ./zero-common/proprietary/lib/libwrappergps.so
+f3f09500e9f08218649e6204fcfe960fbeeaffeb557fcb04aa72cf970c7bba94  ./zero-common/proprietary/lib/libhwjpeg.so
 d6b8ef594bb93f0f54f72fe8110712e5466d8205698c60489fe1f61382c9e377  ./zero-common/proprietary/lib/libbauthtzcommon.so
 a93837cb0c2634558558c87f79e4fc34be0f797e1bd2b2a72bae2fa83937176b  ./zero-common/proprietary/lib/libbauthserver.so
 b1b6c68c707f5ee10e6bf58002921e2f61444dfae9e6a9b3cd3bef2d7f505325  ./zero-common/proprietary/lib/libtlc_tz_iccc.so
@@ -4744,10 +4747,13 @@ cc8a82dda76658c212fd0638f2e750d4802f8ab8845eab14569a6cd35aba1629  ./zero-common/
 bf7731622454d6c2384628ad6e62865aded81c42bd3cd5449d4da49eaf2271fb  ./zero-common/proprietary/lib64/hw/nfc_nci.universal7420.so
 493cb7b5670256816a89d4f2426112d17c5939105f9e6ea4f6225300c91a8506  ./zero-common/proprietary/lib64/hw/sensors.universal7420.so
 15e07b733d39102210f8285420d517a81e84f31292c264b299e52e8dd7aaf2ee  ./zero-common/proprietary/lib64/hw/gps.universal7420.so
+c84ce4e21791484e32dc2c4b71fb0d85d1570315348447194f98377ed49c765c  ./zero-common/proprietary/lib64/hw/camera.vendor.universal7420.so
 94b3ba39a517953c4600c2213b7fdb72ae1b6a1ddb7657732c42deebe0745d1c  ./zero-common/proprietary/lib64/hw/consumerir.exynos5.so
 4e0a99310433d0dcd95758d07c5191dc572f963b598787a4595f0299f86b06c5  ./zero-common/proprietary/lib64/hw/fingerprint.universal7420.so
+654425284900a7fedbe3a8d5b50a90f3db142edc23975c264f9ef327912eb902  ./zero-common/proprietary/lib64/hw/camera.exynos5.so
 84e475d8367901712948fa940c11185260e43df1ca60d250aa476d6f6a530ab2  ./zero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 e02155c41a4381b6cea1fe93604be1fc716820b10e87bb9690dc8f1d593e4cca  ./zero-common/proprietary/lib64/libwrappergps.so
+a51320766cb51bf979f1586bfca087b9e35f377ed3948dfe33f40dd8a3b452c9  ./zero-common/proprietary/lib64/libhwjpeg.so
 30ce7752ec60b1487518f606fa3546ed4995caa377caa95668865e09f12f63b6  ./zero-common/proprietary/lib64/libbauthtzcommon.so
 762c815814e4256162171e7b368e6cb111879f857d2a595eb023f24c7e0f0a7e  ./zero-common/proprietary/lib64/libbauthserver.so
 fde8dec3b7131c7fa771940f63aee7aca1ceb25c3216a479abf4cbd977573c33  ./zero-common/proprietary/lib64/libtlc_tz_iccc.so
@@ -4821,6 +4827,7 @@ cfbb6e80c6bf42742bf8ea708ecd54955b23abcdd55f9254c97ec5a67414965d  ./zero-common/
 dd18da76208086247e7dab5c75db8d038dcdfedcf26b2bdbb162c7673211c647  ./zero-common/proprietary/vendor/firmware/sec_s3fwrn5p_firmware.bin
 7b92a58634c23e7f8832db18f93cd4eaaf4f9d36418809ea23f14a23dd72e2ea  ./zero-common/proprietary/vendor/firmware/seiren_fw_dram.bin
 b43c1de2e30c0f6a229891ab7dec0a23374afdf8b869dab228f431839dad4e3d  ./zero-common/proprietary/vendor/firmware/bcm4358A3_V0064.0105.hcd
+cea8b50434fb7a532b08f5ca930737702e4787cca6cf92be8b7973268ab0ef74  ./zero-common/proprietary/vendor/firmware/setfile_2p2.bin
 b43c1de2e30c0f6a229891ab7dec0a23374afdf8b869dab228f431839dad4e3d  ./zero-common/proprietary/vendor/firmware/bcm4358A3_V0064.0105_wisol.hcd
 adb2b9985678a544c90e22991da451f51ee43e72f62f5d94ff2efafad068683a  ./zero-common/proprietary/vendor/firmware/setfile_imx240.bin
 a9c8199a24b7a02b37c96d5cd263bf6296e8d7d0ad04bec5b8ffc98ce72539fc  ./zero-common/proprietary/vendor/firmware/setfile_4e6.bin
