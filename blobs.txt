@@ -3551,7 +3551,7 @@ cb33b9c84d4511c128357d739855e05f59a463a6c30a10b78764fcc3934121a8  ./gts210ltexx/
 640024b17c0e9ae4dd7e38ad345202d80e98cf9beb4e7d02b01178ded8a400d4  ./gts210ltexx/proprietary/etc/wifi/nvram_mfg.txt
 9e534658232009e6e7170787acb95740a123d213a80702b0b879d436be2c7c79  ./gts210ltexx/proprietary/etc/wifi/nvram_net.txt
 9e534658232009e6e7170787acb95740a123d213a80702b0b879d436be2c7c79  ./gts210ltexx/proprietary/etc/wifi/nvram_net.txt_4356_a2
-4581bc922d4fd10b960653b399774f5b34c6946bba43151870ac3622363fc390  ./gts210ltexx/proprietary/bin/gpsd
+3d29f91ba3d050c1af448ed1d83099c4193e65114093afb18d4dbc90f0af84c2  ./gts210ltexx/proprietary/bin/gpsd
 e6c344715d86be54f63b407ab14038e1746949dfbd404b4139361db9cc73726b  ./gts210ltexx/proprietary/bin/cbd
 a217b3983a6b4d6364a62322898ff21a04a3960b9878ac4753e0e912defbaa83  ./gts210ltexx/proprietary/lib/hw/gps.universal5433.so
 9f9a706661f136b064efb4555702f621ca82223aaacd20083f312b7d6a99b803  ./gts210ltexx/proprietary/lib/libsec-ril.so
