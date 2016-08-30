@@ -3558,7 +3558,6 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./serrano-comm
 34d0a089ff64eec9920db342ff4c4e97fa4b946effb0e2c1e17ce29447c21a2a  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_default_video.so
 20fd12ac7bfdf844387b43ae0ba0b6fe557ec8f3dea73ec4aa606f0bae4f304e  ./serrano-common/proprietary/lib/libOmxQcelp13Dec.so
 b7fb397d7f55acc1f03d2b16fa7be21e173b44671f5a46c79b84e415aaee885b  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt_hd.so
-ea348d2c0fc43e6c8810064086bfd9ccfc594a4c41e6cb4802085d6cc5c19a40  ./serrano-common/proprietary/lib/libqc-opt.so
 06e6a91cfd742847a136d7bc407a7748a488c04588ee154c4f7fd0e0b070836a  ./serrano-common/proprietary/lib/libmmmpod.so
 ad798eb9a31547a50240d5c93793e0990234f52e7c5d91776fc362587ae7d45c  ./serrano-common/proprietary/lib/libchromatix_imx175_preview.so
 edb790c64edf20924f7f7eca708d0c2bd2255938ec4721d7144e31b1ddf439f8  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_zsl_drama.so
@@ -3595,6 +3594,7 @@ c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-comm
 324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
+1139d2867d8281c6963ebea20a17f99b54511f62a13a6eec6cb948bd4f66124b  ./serrano-common/proprietary/vendor/lib/libqti-perfd-client.so
 adea04c5f13f51a3d0e3f5a7e9618c4c36e7dafebdaa72e7b0ba93b9c1546096  ./serrano-common/proprietary/vendor/lib/librs_adreno_sha1.so
 e1d506c21d57878ca32cfad890f9f5547af3a62e0b821751d10dca1fce02b6c8  ./serrano-common/proprietary/vendor/lib/libdiag.so
 7834164981f4d7aa458b08a9fcc12bffa63eec4bd1deeb897eb75cc36ca84e7e  ./serrano-common/proprietary/vendor/lib/libdsutils.so
