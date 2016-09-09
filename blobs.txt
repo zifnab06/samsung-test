@@ -6174,7 +6174,6 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./sltexx/propr
 bf045cce01eb7e6368d466eabc686cda04e2683254ecea3827adf3a01d028030  ./sltexx/proprietary/vendor/lib/libLifevibes_lvvetx.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./sltexx/proprietary/vendor/lib/libmalicore.bc
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./espresso3g/proprietary/sbin/cbd
-0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./espresso3g/proprietary/system/vendor/lib/libsecnativefeature.so
 b0ced106a1ad280db4009dbcc034d569bc55e0b43251ecb891e079a1d07da957  ./espresso3g/proprietary/system/vendor/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
