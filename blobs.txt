@@ -3516,7 +3516,7 @@ e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-comm
 7bb753431000541f035d1fc8d35fa2ca10c99d3a94d873b9bbf18df3fcd18df4  ./serrano-common/proprietary/bin/hci_qcomm_init
 74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./serrano-common/proprietary/bin/thermald
 d1feb4855dc661ed734d891d03083b3897fe801e2e50c11d3a060618f4a958fb  ./serrano-common/proprietary/bin/radish
-28a20bb1e94ce563bc77a86cf76de5ead3c8374ef27bc00a32d0edecc1b67012  ./serrano-common/proprietary/bin/time_daemon
+7fb458d7272b23f842c8b4bc03bf4d5dc3357647b43306315ae1669819ec2882  ./serrano-common/proprietary/bin/time_daemon
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano-common/proprietary/bin/rild
 35410a402dcb27594f1756e61832226474256674662690c894bbff04e15d0caf  ./serrano-common/proprietary/bin/btnvtool
 2f888eaaf605ac7863fb75e4a7a79019650fa5c2f3779c0a0074ac1f07d2e34d  ./serrano-common/proprietary/bin/qmuxd
@@ -3542,7 +3542,6 @@ b49d76e4208c923c99d1fdca15624bf1f5ef3377930c65fd0991b2003a887744  ./serrano-comm
 34fad80d098196f069e3cfd74881563e82df756f5a4e2731e01d0c70f3bf2642  ./serrano-common/proprietary/lib/libmmjpeg.so
 0da0a15ac70b3fd660e744460066b22589178b5f6f4d477e039a323c2dc0cdc1  ./serrano-common/proprietary/lib/libmmcamera_frameproc.so
 14d67dbc5fe7b99552e8589821a435bb8ab5897ab6e59113a478551054ee5f62  ./serrano-common/proprietary/lib/libgemini.so
-ac5657741d14808161c4aa8c423a46fabd4cb8886f58650e5b806e5ebfdd69f1  ./serrano-common/proprietary/lib/libtime_genoff.so
 ce5e23dff8c3fb45c243febb9a5069307819f3b8509b1a15dde038d6f3d86e91  ./serrano-common/proprietary/lib/libimage-jpeg-dec-omx-comp.so
 959828bf2d976d948f66a9ec8f826ebcaa5ddaac05f5071e90fd5eb6f8cf7bc2  ./serrano-common/proprietary/lib/libmm-color-convertor.so
 e1cddc73303e9cc8629ca2e11782d71f406e972410d633ae37c6a32abf576772  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
@@ -3575,7 +3574,6 @@ dda50fa74d77ae725d5952475751f10d9f7594c70f3ba8e04ebbea3f23663705  ./serrano-comm
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./serrano-common/proprietary/lib/libsecril-client.so
 2c4c154d8f52feeaa92ecc1f40d1904e5f6c9095852ac2473d8073124094a4a7  ./serrano-common/proprietary/lib/liboemcamera.so
 c7a45adcb11056e07d161923ff3f4d9a32040ba13ed13cb24632f7c9c10c43c1  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_antishake.so
-872dbf8fc8176db40a35383e0826dbf3600a9ed7f86ac948ca1af83ee8d28b1e  ./serrano-common/proprietary/lib/libTimeService.so
 997e7fae6b5804c2d6572986ac6d58fc74ed4608c846b1f9f1ca305c194fa707  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
 9ab3fa468d0f4e710aeac9b86ac86685ddc5bd46fc08b8541e299d428c57ac7c  ./serrano-common/proprietary/lib/libbtnv.so
 26e6b0c7cd34694bb27bd169b0eefac0bf4d33f72921995f2ba18b5fc0551fde  ./serrano-common/proprietary/lib/libchromatix_imx175_zsl_drama.so
@@ -3590,7 +3588,6 @@ b13080e59aa44b4e0e2dd9516cf33a34fc3b737bbd4d22430b824fcb61da53e9  ./serrano-comm
 4544a12f8e07d7c274861c1ede2d4698e0bff321a9e111a26d0e11a86cd4e514  ./serrano-common/proprietary/lib/libchromatix_imx175_lls.so
 315ac7e7dc611bbe2f8bf2b13db1d65c5fc5592246c3c01ef6ab0935c1fa4f3e  ./serrano-common/proprietary/lib/libadsprpc.so
 c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-common/proprietary/lib/libI420colorconvert.so
-3d797aa441219d8426650e3287bd9d67afab60ac42ddb0d751b1db60a6db58d7  ./serrano-common/proprietary/app/TimeService/TimeService.apk
 324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
@@ -3605,6 +3602,7 @@ e1d506c21d57878ca32cfad890f9f5547af3a62e0b821751d10dca1fce02b6c8  ./serrano-comm
 b20d0452523920a581a41dce917c8f250e6998106a75be52f3ce9fb209d8ca6f  ./serrano-common/proprietary/vendor/lib/libRSDriver_adreno.so
 75a8f50385eadf1574f826629a8f1a72b68bf6a98192f02d21390f867e12385a  ./serrano-common/proprietary/vendor/lib/libwvdrm_L3.so
 1a7fc2de7b87cab3f8bdf3f9abe975c3116e4b78d173f81d2c511ef64a3222d7  ./serrano-common/proprietary/vendor/lib/libizat_core.so
+926ac9418b2ff7521c3cdbeb602c4c88dd5a462f1dfe5defb0ec97c832b7765d  ./serrano-common/proprietary/vendor/lib/libtime_genoff.so
 0f5fc158ebbb3864ae0123d92544b044dd24eadc2d381e5525bc3dae6f37ff18  ./serrano-common/proprietary/vendor/lib/libgsl.so
 dc64a0e11b7086047213b8d05fb4faefa2f02c60ad4e3068b35ab9b0d6fe9681  ./serrano-common/proprietary/vendor/lib/libgeofence.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-common/proprietary/vendor/lib/libC2D2.so
