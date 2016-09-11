@@ -5269,7 +5269,7 @@ f0bed54d475b0f4a935df646057f3e2aa14fb2f324f80d060da917ecefe7b79a  ./crespo4g/pro
 8571299db0b9af351abd47bf4f8966bfdbcc3a1bfa152335af466c6fdaaa5417  ./crespo4g/proprietary/libsec-ril.so
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./crespo4g/proprietary/libsecril-client.so
 8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p51xx/p5100/sbin/cbd
-b9fe05518b6011f6c3b38fff7d530aee97da1385fd4f2dab5bbb8d2e0000a5e6  ./p51xx/p5100/system/lib/libsec-ril.so
+a5d9be43474a09e75654295d67ac8b047b89c262e9727df29bb111ff1fca9b22  ./p51xx/p5100/system/lib/libsec-ril.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./t0ltecdma/proprietary/system/lib/libril.so
 fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./t0ltecdma/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./t0ltecdma/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
@@ -6173,8 +6173,8 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./sltexx/propr
 49b12f8d2fc78747b3fd815eb33a5e56b8b7669003290634a95f0569fdc155da  ./sltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 bf045cce01eb7e6368d466eabc686cda04e2683254ecea3827adf3a01d028030  ./sltexx/proprietary/vendor/lib/libLifevibes_lvvetx.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./sltexx/proprietary/vendor/lib/libmalicore.bc
-8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./espresso3g/proprietary/sbin/cbd
-0a8a9070a2cd3d0cf92d70e4d8672bb2661921615a8368c10640d3dbdb0ab575  ./espresso3g/proprietary/system/vendor/lib/libsec-ril.so
+81875d8a1abf535a193c47fbfec1e7dbc06c30372f26013a2d780db182621e90  ./espresso3g/proprietary/sbin/cbd
+724a8d83c5ffd21666743437b998c903a8a482a7e89c63fccccacfbb5a65aa32  ./espresso3g/proprietary/system/vendor/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./jflter970/proprietary/bin/rild
