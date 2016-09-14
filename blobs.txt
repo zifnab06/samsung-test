@@ -620,10 +620,7 @@ f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/propri
 64b38b04d0ce0702b15944cc257d7faacc5a776c5df57d6be7fd77924683eeec  ./n5120/proprietary/system/etc/flp.conf
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
 1e3f3b9e5033759883dbbbd690d07fde33016ec63a9dfda3ade2714e2a598046  ./n5120/proprietary/system/bin/efsks
-87c21077be220aa0fc101805cc836d5a9536190a3cf51aa1a2806fb82252af7a  ./n5120/proprietary/system/bin/at_distributor
-9ff0827a25b4bd3a889598f9d3e5efc932abe80a65819fcf256b10c223649b8a  ./n5120/proprietary/system/bin/diag_uart_log
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./n5120/proprietary/system/bin/rild
-5c86749a7e511a1a4a59ae5cbb7766ea1a57418f26aeb661375cedd5ac13cc84  ./n5120/proprietary/system/bin/smdexe
 465578452e831018cdaf860164ffb2262674b1aa57237511789d949b2801b0f8  ./n5120/proprietary/system/bin/qmuxd
 85393aa4c410cd0f7c77ef674232a88334ef08d7ec354ad0724717e30b5d1dd7  ./n5120/proprietary/system/bin/qcks
 b04340780f6745f9d675a11b38189511fe3334045660fb1929249ec56e2cfa15  ./n5120/proprietary/system/bin/ks
@@ -639,7 +636,6 @@ c342f2ec2f83aae3bbb1c81b2ff60f430f513e363fcc47134f7a2e3d01730e85  ./n5120/propri
 0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./n5120/proprietary/system/lib/libizat_core.so
 15365782d3d66d3382fadda4315a45e850854beafa83cb193f97ae82403a8755  ./n5120/proprietary/system/lib/libloc_api_v02.so
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./n5120/proprietary/system/lib/libgeofence.so
-fcf79ec0d1b7cb5c14397df268b452ddaf460504230d65d12012d9e13e69fdd6  ./n5120/proprietary/system/lib/libatparser.so
 23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./n5120/proprietary/system/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./n5120/proprietary/system/lib/libcordon.so
 3943684d6d3bb6ad9df4d5a560e598007222f01d732b6d6e15ee75475fa8d7d2  ./n5120/proprietary/system/lib/libidl.so
