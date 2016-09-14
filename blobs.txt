@@ -617,14 +617,15 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 0732269cf1382320badcf8eee5730de74831110b650896f893d61816a9552c44  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
+64b38b04d0ce0702b15944cc257d7faacc5a776c5df57d6be7fd77924683eeec  ./n5120/proprietary/system/etc/flp.conf
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
-fc37d6d1a1c87d04dd91364a3364d789b77bfd9c08ea0be2f750199f1b24364f  ./n5120/proprietary/system/bin/efsks
+1e3f3b9e5033759883dbbbd690d07fde33016ec63a9dfda3ade2714e2a598046  ./n5120/proprietary/system/bin/efsks
 87c21077be220aa0fc101805cc836d5a9536190a3cf51aa1a2806fb82252af7a  ./n5120/proprietary/system/bin/at_distributor
 9ff0827a25b4bd3a889598f9d3e5efc932abe80a65819fcf256b10c223649b8a  ./n5120/proprietary/system/bin/diag_uart_log
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./n5120/proprietary/system/bin/rild
 5c86749a7e511a1a4a59ae5cbb7766ea1a57418f26aeb661375cedd5ac13cc84  ./n5120/proprietary/system/bin/smdexe
-800eb0f77236d927154f134dd750dba8dd1baea40c65e6f1c797d37d463d61e5  ./n5120/proprietary/system/bin/qmuxd
-dd13d6da34f19ee949eb16739825bb259baff0a8751db661127da9d8703fdf1b  ./n5120/proprietary/system/bin/qcks
+465578452e831018cdaf860164ffb2262674b1aa57237511789d949b2801b0f8  ./n5120/proprietary/system/bin/qmuxd
+85393aa4c410cd0f7c77ef674232a88334ef08d7ec354ad0724717e30b5d1dd7  ./n5120/proprietary/system/bin/qcks
 b04340780f6745f9d675a11b38189511fe3334045660fb1929249ec56e2cfa15  ./n5120/proprietary/system/bin/ks
 b25daed3290fcb40cefabce6274bd9abd4e12a21b918da311b831b2c9149746c  ./n5120/proprietary/system/lib/libconfigdb.so
 f9e1dc963dfd49503d67ea5dac2f4eeff57b15906131dc65924fb3afbcbf83a8  ./n5120/proprietary/system/lib/libcsd-client.so
@@ -645,6 +646,7 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./n5120/propri
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./n5120/proprietary/system/lib/libril-qcril-hook-oem.so
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./n5120/proprietary/system/lib/libqmi_common_so.so
 e02dc89416cc17ce92141e8718a4f5f9d5ff9a5cbf566e32704c8a21780e7baf  ./n5120/proprietary/system/lib/libqmi_cci.so
+727acd3223eae9cf7b4fc67b3a4d8e102d682aa9c4cb9e8f96491192604bdd71  ./n5120/proprietary/system/lib/hw/flp.default.so
 dc27625b04a8b5a89c02f3b9c588e8d2c27d917ca6acd5e7567380ada4bad01d  ./n5120/proprietary/system/lib/libsec-ril.so
 dfbb07a9b46efdb49c88d0bc18ab218fabe302395357dc558d3e1d2f578597ab  ./n5120/proprietary/system/lib/libfactoryutil.so
 3b45897fedd9851ddbb0bf54d606fcd5789c9321867e209709da6fdaca88dfec  ./n5120/proprietary/system/lib/liblbs_core.so
