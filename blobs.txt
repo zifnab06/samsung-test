@@ -634,7 +634,7 @@ b381ff865513a4824c9ca9d141ab9975c7c6962a6474d3ac34bd9d511e3244b6  ./n5120/propri
 11410e479e9f468cbb62fb42c258022704ad5bf9474e218953417bf6b198d53c  ./n5120/proprietary/system/lib/liblocationservice.so
 c342f2ec2f83aae3bbb1c81b2ff60f430f513e363fcc47134f7a2e3d01730e85  ./n5120/proprietary/system/lib/libxml.so
 0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./n5120/proprietary/system/lib/libizat_core.so
-15365782d3d66d3382fadda4315a45e850854beafa83cb193f97ae82403a8755  ./n5120/proprietary/system/lib/libloc_api_v02.so
+5f55c34ea1101a212ca227ce471791b8eddfccd95d10df0bb9d1cb5c110ab129  ./n5120/proprietary/system/lib/libloc_api_v02.so
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./n5120/proprietary/system/lib/libgeofence.so
 23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./n5120/proprietary/system/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./n5120/proprietary/system/lib/libcordon.so
