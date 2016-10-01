@@ -619,7 +619,9 @@ f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/propri
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 64b38b04d0ce0702b15944cc257d7faacc5a776c5df57d6be7fd77924683eeec  ./n5120/proprietary/system/etc/flp.conf
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
+ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5120/proprietary/system/bin/geomagneticd
 1e3f3b9e5033759883dbbbd690d07fde33016ec63a9dfda3ade2714e2a598046  ./n5120/proprietary/system/bin/efsks
+fa0c01935921dba164292e9b0f30502a68cb4ecbd1f7f0f22d7e8cc7ee0decf6  ./n5120/proprietary/system/bin/orientationd
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./n5120/proprietary/system/bin/rild
 465578452e831018cdaf860164ffb2262674b1aa57237511789d949b2801b0f8  ./n5120/proprietary/system/bin/qmuxd
 85393aa4c410cd0f7c77ef674232a88334ef08d7ec354ad0724717e30b5d1dd7  ./n5120/proprietary/system/bin/qcks
