@@ -628,7 +628,6 @@ c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./n5120/propri
 b04340780f6745f9d675a11b38189511fe3334045660fb1929249ec56e2cfa15  ./n5120/proprietary/system/bin/ks
 b25daed3290fcb40cefabce6274bd9abd4e12a21b918da311b831b2c9149746c  ./n5120/proprietary/system/lib/libconfigdb.so
 806a3c8283d2586f875db8e3cb97be97c0de5b47262953708709f14b35bd45a9  ./n5120/proprietary/system/lib/libcsd-client.so
-4f0b2751a6f79777544b00eb10d9ba0fcc31f998aee883688e509abc5131a40e  ./n5120/proprietary/system/lib/libomission_avoidance.so
 168be9e3aef39bf40d548d2d75b46bdfc6b1713449bd35b7bd02a026b0f26626  ./n5120/proprietary/system/lib/libdiag.so
 0166d87d87c44c382a958a87c3580f657f5d0efcada0c47b0eab929957fe02e4  ./n5120/proprietary/system/lib/libsecnativefeature.so
 b381ff865513a4824c9ca9d141ab9975c7c6962a6474d3ac34bd9d511e3244b6  ./n5120/proprietary/system/lib/libdsutils.so
@@ -1870,7 +1869,6 @@ ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5100/propri
 4581bc922d4fd10b960653b399774f5b34c6946bba43151870ac3622363fc390  ./n5100/proprietary/system/bin/gpsd
 fa0c01935921dba164292e9b0f30502a68cb4ecbd1f7f0f22d7e8cc7ee0decf6  ./n5100/proprietary/system/bin/orientationd
 2a1d4655bdc9bb77269fa204b872c3d1750c44251bef514b7e6d7cedcddf9a84  ./n5100/proprietary/system/bin/cbd
-4f9d7d5f099aaa646c9b5b91c2a3114b037b179216c1d69723646b9c27e2145c  ./n5100/proprietary/system/lib/libomission_avoidance.so
 a217b3983a6b4d6364a62322898ff21a04a3960b9878ac4753e0e912defbaa83  ./n5100/proprietary/system/lib/hw/gps.default.so
 35e1cc5b29f64a3e10467f2dbee4bb99ae8295594b043f36570454216268f145  ./n5100/proprietary/system/lib/libsec-ril.so
 1db333ff911bcbc4853ae98a0b7c9f62b1fd08d947401940cb4b373862d4fcda  ./n5100/proprietary/system/lib/libfactoryutil.so
@@ -4171,7 +4169,6 @@ d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./kona-common/
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5110/proprietary/system/bin/geomagneticd
 4fe15cec150aacea6ae30ffe14ac4502e2e4dfbe61929de866ce6260244045f3  ./n5110/proprietary/system/bin/gpsd
 a14f92f1b6e92e7a3f653f84927d4a9021dc17f537139e0e31e51b94c896ab29  ./n5110/proprietary/system/bin/orientationd
-ca922678ff96dd1ca7c756eaa5f914f548ef88fc52424f4cf71121a28282f028  ./n5110/proprietary/system/lib/libomission_avoidance.so
 01c7c983d30fe1cb9c0ccd4b59872717d7cea0bfb2112f1801433585f311197c  ./n5110/proprietary/system/lib/hw/gps.default.so
 de35ec9f1e71f0af5757573b11ae538633cf70c1c417d1a644f27a389957b917  ./n5110/proprietary/system/lib/libfactoryutil.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./hercules/proprietary/etc/thermald.conf
