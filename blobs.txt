@@ -4146,7 +4146,6 @@ bd7c4eb19cec10c0031ea5edabb67acfd3fe975ad93e0d37826f8936a3acc9ff  ./serrano-comm
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./serrano-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./serrano-common/proprietary/vendor/lib/libqmi_common_so.so
 af6196078771a187faf973e39ff2d687978597883bd666d58c46d48b96d8a758  ./serrano-common/proprietary/vendor/lib/librs_adreno.so
-ddadfa9756b9e70573e0bc1d1c5a1efad6cf00b26900caef5146e4a3366f373c  ./serrano-common/proprietary/vendor/lib/libOpenCL.so
 72f4a22f4e4bf7408b89e58566d130a40ed9e395b60ade258507b420686bdd6f  ./serrano-common/proprietary/vendor/lib/libqmi_cci.so
 db589544be9252948644990ebe418b02859a116dfcd3458bde1f6bb831a3c450  ./serrano-common/proprietary/vendor/lib/libadreno_utils.so
 d8dc13c298ee8275f862eb9b7be891ff95aababfdfa398fe48edeff96b1f62c6  ./serrano-common/proprietary/vendor/lib/libbccQTI.so
