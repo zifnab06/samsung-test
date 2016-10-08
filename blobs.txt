@@ -644,7 +644,7 @@ be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./n5120/propri
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./n5120/proprietary/system/lib/libqmi_common_so.so
 e02dc89416cc17ce92141e8718a4f5f9d5ff9a5cbf566e32704c8a21780e7baf  ./n5120/proprietary/system/lib/libqmi_cci.so
 727acd3223eae9cf7b4fc67b3a4d8e102d682aa9c4cb9e8f96491192604bdd71  ./n5120/proprietary/system/lib/hw/flp.default.so
-c4e7f4fb04e8f470e85f5f23b881836cb214ea59a5a24525b2e1e2abe6f7895a  ./n5120/proprietary/system/lib/libsec-ril.so
+dc27625b04a8b5a89c02f3b9c588e8d2c27d917ca6acd5e7567380ada4bad01d  ./n5120/proprietary/system/lib/libsec-ril.so
 dfbb07a9b46efdb49c88d0bc18ab218fabe302395357dc558d3e1d2f578597ab  ./n5120/proprietary/system/lib/libfactoryutil.so
 357432b3e68711052b1e896c052421027e887dcc61f4361ca4f602db47fbbec3  ./n5120/proprietary/system/lib/liblbs_core.so
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./n5120/proprietary/system/lib/libsecril-client.so
