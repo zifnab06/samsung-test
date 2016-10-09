@@ -101,7 +101,6 @@ b83dfc203986dcfd9bae988dfe954d22ad60d7d5838cd81c016c31052f112c1a  ./klteduos/pro
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./klteduos/proprietary/lib/librilutils.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./klteduos/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./klteduos/proprietary/lib/libperipheral_client.so
-61037dc2a0b8866e73d81b38ed0ac1e250f31e85703040d9f57a393fe4fa571b  ./klteduos/proprietary/vendor/firmware/bcm4350_V0301.0561.hcd
 3a663d8875e61f4a129840a534f9e5aef518737d719c80c1ddb780580be1f565  ./klteduos/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./klteduos/proprietary/vendor/lib/libconfigdb.so
 5f2a4bccfbe2e780753c6d37b4a09eeb04d9084c1f25cf7496180fc17acd61f2  ./klteduos/proprietary/vendor/lib/libNimsWrap.so
@@ -551,7 +550,6 @@ d7b54fa5025b251389be20bbf657d39621e7eb113b57077846c6baf5b2ac41c3  ./kltechn/prop
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./kltechn/proprietary/lib/libmdmdetect.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltechn/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./kltechn/proprietary/lib/libperipheral_client.so
-61037dc2a0b8866e73d81b38ed0ac1e250f31e85703040d9f57a393fe4fa571b  ./kltechn/proprietary/vendor/firmware/bcm4350_V0301.0561.hcd
 9ee4d84d5e6a771284f790f3916caeacab002d4ff9faf0a9ae5ee49aa34f0e7b  ./kltechn/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltechn/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./kltechn/proprietary/vendor/lib/libdiag.so
@@ -618,7 +616,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-96c1eb0247a2e66bac606375ebad0b518aa2c2d593566668472da39062adbf52  ./blobs.txt
+3145a172561f1867228b1e15d9a4a068205cf7f767d4f1109c48b646497f900c  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
@@ -924,7 +922,6 @@ ba856f3a97e7750103f7f597591f29b4bdf32ce97820fb3508f878ce51c585b1  ./klte/proprie
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./klte/proprietary/lib/libmdmdetect.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./klte/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./klte/proprietary/lib/libperipheral_client.so
-61037dc2a0b8866e73d81b38ed0ac1e250f31e85703040d9f57a393fe4fa571b  ./klte/proprietary/vendor/firmware/bcm4350_V0301.0561.hcd
 9ee4d84d5e6a771284f790f3916caeacab002d4ff9faf0a9ae5ee49aa34f0e7b  ./klte/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./klte/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./klte/proprietary/vendor/lib/libdiag.so
@@ -2448,7 +2445,6 @@ b4d010ff098c663d22f3cc13fbf5d9cb676092df26daf9a96f1943b6bfd5e68d  ./kltekdi/prop
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./kltekdi/proprietary/lib/libmdmdetect.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltekdi/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./kltekdi/proprietary/lib/libperipheral_client.so
-8704f0d422d8f95922ec3eed78c5bdc93cd1cba6543ff887c4ddd32fb93c0740  ./kltekdi/proprietary/vendor/firmware/bcm4350_V0301.0571.hcd
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltekdi/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./kltekdi/proprietary/vendor/lib/libdiag.so
 2bf3cd74e7500348ea0db7a44180a33e528ecfb29947efac8a5d637614c20dde  ./kltekdi/proprietary/vendor/lib/libdsutils.so
@@ -2756,7 +2752,6 @@ aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./kltespr/prop
 05f77bcae7a32b5a501da04af34d5bc8093e5ebd4507b460e27f3b8a0c7b3f36  ./kltespr/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd
 67ad1595305281e37272183f198c917f23a3bdaafaa690e546ce10010790b92d  ./kltespr/proprietary/vendor/firmware/bcm2079xB5_pre_firmware.ncd
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./kltespr/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
-458ad2ed76d6b943e5a29d8f5467656b6a9eeb78f1a76cb153f3698f9ddf3ce8  ./kltespr/proprietary/vendor/firmware/bcm4350_V0301.0568.hcd
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltespr/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./kltespr/proprietary/vendor/lib/libdiag.so
 2bf3cd74e7500348ea0db7a44180a33e528ecfb29947efac8a5d637614c20dde  ./kltespr/proprietary/vendor/lib/libdsutils.so
@@ -3362,7 +3357,6 @@ aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./kltedv/propr
 9a572b3684ec25ef1082cad59ced4a04a25b62c40733a796bf40c8a3f7cc43b7  ./kltedv/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd
 58fe7b556c5da10a39fdce5954b4fe4e9dbf28cae878b69b0dbf761d21de75f9  ./kltedv/proprietary/vendor/firmware/bcm2079xB5_pre_firmware.ncd
 a6ad37856fb7e3bc7e95602ae3e69e599d34b863be66f81705e31e64258a3df8  ./kltedv/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
-61037dc2a0b8866e73d81b38ed0ac1e250f31e85703040d9f57a393fe4fa571b  ./kltedv/proprietary/vendor/firmware/bcm4350_V0301.0561.hcd
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltedv/proprietary/vendor/lib/libconfigdb.so
 755aa41e719c287dc8f7e7a7339846953bf9e575e8be2c901d02a0455e58151e  ./kltedv/proprietary/vendor/lib/libdiag.so
 2bf3cd74e7500348ea0db7a44180a33e528ecfb29947efac8a5d637614c20dde  ./kltedv/proprietary/vendor/lib/libdsutils.so
@@ -4000,7 +3994,6 @@ c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./klteusc/prop
 884be5847959410e405aeead5fc82b6f7e20c78d47fd60da8ecdd5b4e54a14af  ./klteusc/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./klteusc/proprietary/lib/libperipheral_client.so
 5f8d1dfa2bb056576f0a83606a7b7520ea121b39b838c324697340c27a46df8f  ./klteusc/proprietary/app/com.qualcomm.location.apk
-044039aeb26737bf4112b68b976f1451d03bb13e7658da2d0a35e553a3b881e6  ./klteusc/proprietary/vendor/firmware/bcm4350_V0301.0569.hcd
 9ee4d84d5e6a771284f790f3916caeacab002d4ff9faf0a9ae5ee49aa34f0e7b  ./klteusc/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./klteusc/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./klteusc/proprietary/vendor/lib/libdiag.so
@@ -5137,8 +5130,6 @@ c9475109445ab376121562367e6d7c0682594fc28b1117c2d2cf39d4aebd88e1  ./kltevzw/prop
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./kltevzw/proprietary/lib/libmdmdetect.so
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./kltevzw/proprietary/lib/librilutils.so
 c41a1b5ba24c1bbc9ea87ced3edc6c4fb5e1cf2c975016ff2951af651d6a35d9  ./kltevzw/proprietary/lib/libreference-ril.so
-4c727701a99c9487ea69a50f5b23230e4c58e7a52936d2b004716c658667f07f  ./kltevzw/proprietary/vendor/firmware/bcm4350_V0375.0768.hcd
-6830c0d22a533cda7121b937301b02ad7efa00600f9214e4eb901993e29c8b01  ./kltevzw/proprietary/vendor/firmware/bcm4350_V0375.0766_wisol.hcd
 9ee4d84d5e6a771284f790f3916caeacab002d4ff9faf0a9ae5ee49aa34f0e7b  ./kltevzw/proprietary/vendor/firmware/libpn547_fw.so
 23e2951a69a701f6547f95a4fd6c332aeff76c1ff790da7a20cbf08055e6d65c  ./kltevzw/proprietary/vendor/lib/libconfigdb.so
 a66f2beee62e2e5557c0f3945efd0e6676f09828ddf8afda25137cf9fe9ee976  ./kltevzw/proprietary/vendor/lib/libdiag.so
@@ -5543,7 +5534,6 @@ ce829aa279accc039a423807942827004cdad3a81048e1bded31ca17e2434bd3  ./kltechnduo/p
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./kltechnduo/proprietary/lib/librilutils.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltechnduo/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./kltechnduo/proprietary/lib/libperipheral_client.so
-61037dc2a0b8866e73d81b38ed0ac1e250f31e85703040d9f57a393fe4fa571b  ./kltechnduo/proprietary/vendor/firmware/bcm4350_V0301.0561.hcd
 3a663d8875e61f4a129840a534f9e5aef518737d719c80c1ddb780580be1f565  ./kltechnduo/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltechnduo/proprietary/vendor/lib/libconfigdb.so
 5f2a4bccfbe2e780753c6d37b4a09eeb04d9084c1f25cf7496180fc17acd61f2  ./kltechnduo/proprietary/vendor/lib/libNimsWrap.so
@@ -6628,6 +6618,7 @@ ecce4d5328f5875f4d5d6a8c5fed1edaebbde6818b3d730f9f561b12ad60688d  ./klte-common/
 3165cb3d83e39c453501385bfe1051853f44aa27b424effb57efa0b083e069d2  ./klte-common/proprietary/lib/libmmjpeg_interface.so
 e2ca0bd58f416f942ead4bc1baa476b95ff26399a0eea3713f0197031523c3f2  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_shotmode_preview.so
 d66dbb56b2f39d5838d8de06fa30099e87c7e0bb6d963b3135a7c8277459f097  ./klte-common/proprietary/app/TimeService/TimeService.apk
+4c727701a99c9487ea69a50f5b23230e4c58e7a52936d2b004716c658667f07f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0375.0768.hcd
 17bcf14167683266edeaf826c936c4f7ece5d23625cc689a2d738a2f9c705402  ./klte-common/proprietary/vendor/lib/libOmxAacDec.so
 362031e7c777217a2aa62055b9a9ff8ec78feeb4524e5251b80675725170b711  ./klte-common/proprietary/vendor/lib/libqti-perfd-client.so
 360831badc7846787b2d4847b2ad6853403baa234a1133e0ead5d415bc8bec1f  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res1.so
