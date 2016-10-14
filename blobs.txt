@@ -4163,6 +4163,14 @@ ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./serrano-comm
 d77e4559bce869f7c6960ce27d9f00632196e09514d3059cd5ebc14206b78a4f  ./serrano-common/proprietary/vendor/lib/libqmi_client_qmux.so
 c79e27faf8a8a5a9c084bea902558cfc70d6aff8b27591870d02989d574ef339  ./serrano-common/proprietary/vendor/lib/libqmiservices.so
 6791692a11871fb8f554cafd6abdf69fd8db750c1ae81535840c9ea627543173  ./serrano-common/proprietary/vendor/lib/libllvm-qcom.so
+cfe6d9b853cf9e58240f1d50b936cbe49c09d29bba7cfdde028c2d2ca2f9fe83  ./kona-common/proprietary/system/etc/wifi/nvram_mfg.txt_murata
+9b6f1f956b80b0c2c48f44ef4f8d6447eb5d0559f381cf502e5bf5dc6eedbd21  ./kona-common/proprietary/system/etc/wifi/bcmdhd_sta.bin_b2
+fa94781cefd86c35cb348ace6c47f6a005bc9219c9ba6c4d0da87d8e19207000  ./kona-common/proprietary/system/etc/wifi/nvram_mfg.txt
+61f66f3c6966b2e64e249114b1a86964011aa42cc031000fdddecd81d8ec93c6  ./kona-common/proprietary/system/etc/wifi/bcmdhd_mfg.bin_b2
+ce19552e296b1604acd6fd9b3877c293030ea74df71e8ca62de928b433cc878a  ./kona-common/proprietary/system/etc/wifi/nvram_net.txt
+c74b302f5ece52c8d4ab8ce0c09d62b022493e9fa41225b19ef6c222cb8d2a1d  ./kona-common/proprietary/system/etc/wifi/bcmdhd_p2p.bin_b2
+9e500b0edf935d59a130835fbf1d08b053fa78fd5e0e0f7a7501960c29c94229  ./kona-common/proprietary/system/etc/wifi/nvram_net.txt_murata
+4c455a0a54f02229bebddbe77e7c97b78885b127ea2622d8076ffb0d56236917  ./kona-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin_b2
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./kona-common/proprietary/system/usr/idc/sec_e-pen.idc
 7df2c743ba29840d1bb33355661aad5ad449027c5ea7a9808378ba004af4d95d  ./kona-common/proprietary/system/usr/keylayout/sec_touchscreen.kl
 512b3beb206561f74d983d2abf85b66553b1f292a4a130dc1fbe953a7226a379  ./kona-common/proprietary/system/usr/keylayout/sec_e-pen.kl
