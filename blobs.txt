@@ -4172,8 +4172,8 @@ c74b302f5ece52c8d4ab8ce0c09d62b022493e9fa41225b19ef6c222cb8d2a1d  ./kona-common/
 9e500b0edf935d59a130835fbf1d08b053fa78fd5e0e0f7a7501960c29c94229  ./kona-common/proprietary/system/etc/wifi/nvram_net.txt_murata
 4c455a0a54f02229bebddbe77e7c97b78885b127ea2622d8076ffb0d56236917  ./kona-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin_b2
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./kona-common/proprietary/system/usr/idc/sec_e-pen.idc
-7df2c743ba29840d1bb33355661aad5ad449027c5ea7a9808378ba004af4d95d  ./kona-common/proprietary/system/usr/keylayout/sec_touchscreen.kl
-512b3beb206561f74d983d2abf85b66553b1f292a4a130dc1fbe953a7226a379  ./kona-common/proprietary/system/usr/keylayout/sec_e-pen.kl
+6ec042d619f27d4d808dec195692a0ededa59f2df47230b147fe9d5ea3d7d5b7  ./kona-common/proprietary/system/usr/keylayout/sec_touchscreen.kl
+3f3d2c6aa2b3b26329a4bddbae8c994611509c204cb95a583dfc9547fb01d7c6  ./kona-common/proprietary/system/usr/keylayout/sec_e-pen.kl
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5110/proprietary/system/bin/geomagneticd
 4fe15cec150aacea6ae30ffe14ac4502e2e4dfbe61929de866ce6260244045f3  ./n5110/proprietary/system/bin/gpsd
 a14f92f1b6e92e7a3f653f84927d4a9021dc17f537139e0e31e51b94c896ab29  ./n5110/proprietary/system/bin/orientationd
