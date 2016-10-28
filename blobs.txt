@@ -3957,7 +3957,7 @@ bdbd2cffcc5527f10955d5e6a7bea122870c29dcb19c4dc98410b846a51096ed  ./serrano-comm
 fbad37bba3a77a68c8e3a8eb4158ea68d9f570a350cc6acf06f876789cd75705  ./serrano-common/proprietary/lib/libmmcamera_interface2.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./serrano-common/proprietary/lib/libmmcamera_faceproc.so
 955554240ccfa9b440733b3ce2dd5a786a3678890db901a288de3b75d4e56c66  ./serrano-common/proprietary/lib/libdrmtime.so
-29401f0d3327ba6054b235b8b32a0eb3ec0510d4d75c6430d79f05b057357de2  ./serrano-common/proprietary/lib/libmmcamera_wavelet_lib.so
+7254173cf6410f781a49f0e9dac141cdab9fee753ef31b63564cfd4893b4f8a3  ./serrano-common/proprietary/lib/libmmcamera_wavelet_lib.so
 700e62ef63757de46e8e364a310859c74e8376992b5bd682bd48e194b81d1ec5  ./serrano-common/proprietary/lib/libsecnativefeature.so
 b80ab19b4f20fede1b022db8a22afd8b675d472c8dd6e942a7c7c4730c7013b2  ./serrano-common/proprietary/lib/libmmcamera_plugin.so
 5686592cbf8b1d7c86c3200a812397cb4359e3d80d8f65ea93982798e50db0ef  ./serrano-common/proprietary/lib/libxml.so
@@ -4017,6 +4017,7 @@ c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-comm
 324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
+1139d2867d8281c6963ebea20a17f99b54511f62a13a6eec6cb948bd4f66124b  ./serrano-common/proprietary/vendor/lib/libqti-perfd-client.so
 f328f93cd884391e17b460798713d8bca9a02a8995a850fe8c05eca76864b9c3  ./serrano-common/proprietary/vendor/lib/librs_adreno_sha1.so
 e1d506c21d57878ca32cfad890f9f5547af3a62e0b821751d10dca1fce02b6c8  ./serrano-common/proprietary/vendor/lib/libdiag.so
 7834164981f4d7aa458b08a9fcc12bffa63eec4bd1deeb897eb75cc36ca84e7e  ./serrano-common/proprietary/vendor/lib/libdsutils.so
