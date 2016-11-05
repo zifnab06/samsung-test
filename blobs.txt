@@ -1188,10 +1188,8 @@ f9a10464759afa91fb93f9bf42347ee56ca23d68d9cc05fc47b8b8fa6bca987a  ./jf-common/pr
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./jf-common/proprietary/vendor/lib/libC2D2.so
 683304ccde870886d4c7c4da67e6a5772b0bd2a482f9a626b8b715b0e64a767e  ./jf-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 3ba402adfcca17e99626c41ed84212ab5cca9f0210c82230539abccc9aeb760d  ./jf-common/proprietary/vendor/lib/libCB.so
-718eaa4356ecfe003eca0979dfadd075a3870ce7d70ac2e6dd509ba275f22d3f  ./jf-common/proprietary/vendor/lib/libc2d30.so
 6e6a745404e766ec93e85d2a41727948ca210c2da313f103589ad00462dac8b2  ./jf-common/proprietary/vendor/lib/egl/libq3dtools_adreno.so
 662b47ec9a479848858495f0d3f0ea0d23a5dc174df92293f04481a6311e5b65  ./jf-common/proprietary/vendor/lib/egl/eglsubAndroid.so
-6174b9d729a2ef97a0f48ad5a78749fed08c69ba7683e3bdf2936631d98c2c94  ./jf-common/proprietary/vendor/lib/egl/libplayback_adreno.so
 e236852b9c455c440afc48f53d408febde2ecb7994f2d7669633664172e50b8c  ./jf-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./jf-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 562d5a974c1049b67a261333ef5438f749948ee04dd2044b93912e1259742f41  ./jf-common/proprietary/vendor/lib/egl/libEGL_adreno.so
