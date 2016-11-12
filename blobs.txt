@@ -549,7 +549,6 @@ d7b54fa5025b251389be20bbf657d39621e7eb113b57077846c6baf5b2ac41c3  ./kltechn/prop
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./kltechn/proprietary/lib/libmdmdetect.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltechn/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./kltechn/proprietary/lib/libperipheral_client.so
-9ee4d84d5e6a771284f790f3916caeacab002d4ff9faf0a9ae5ee49aa34f0e7b  ./kltechn/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltechn/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./kltechn/proprietary/vendor/lib/libdiag.so
 2bf3cd74e7500348ea0db7a44180a33e528ecfb29947efac8a5d637614c20dde  ./kltechn/proprietary/vendor/lib/libdsutils.so
@@ -615,7 +614,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-df5e91fb9fcb5cb13d2746f8fd005b4682e32e9ee5b786d130132a9afd6a8b8d  ./blobs.txt
+da75feb46316263e99eab1fdd8120659b5bf3b7012eb0c162bd07760d8185a86  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
@@ -5528,7 +5527,6 @@ ce829aa279accc039a423807942827004cdad3a81048e1bded31ca17e2434bd3  ./kltechnduo/p
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./kltechnduo/proprietary/lib/librilutils.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltechnduo/proprietary/lib/libreference-ril.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./kltechnduo/proprietary/lib/libperipheral_client.so
-3a663d8875e61f4a129840a534f9e5aef518737d719c80c1ddb780580be1f565  ./kltechnduo/proprietary/vendor/firmware/libpn547_fw.so
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./kltechnduo/proprietary/vendor/lib/libconfigdb.so
 5f2a4bccfbe2e780753c6d37b4a09eeb04d9084c1f25cf7496180fc17acd61f2  ./kltechnduo/proprietary/vendor/lib/libNimsWrap.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./kltechnduo/proprietary/vendor/lib/libdiag.so
