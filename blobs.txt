@@ -4083,7 +4083,6 @@ e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-comm
 243e692dfbbfb2a8594af2e585aefa4bdf22ccfc3e1b9a8dc27fc1a0877c4bc9  ./serrano-common/proprietary/lib/libsec-ril.so
 637c5655dba99516894f67d0f0fa4b1a26ce035469d29f251145a1ba4cb14c84  ./serrano-common/proprietary/lib/libfactoryutil.so
 f9ee6da43b9e9b1ecbfb578c61a4e18209058da7ef243a5eb02712602d419daf  ./serrano-common/proprietary/lib/libhdcp2.so
-057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./serrano-common/proprietary/lib/libsecril-client.so
 f29e1eeda66fc826e754dca3855dde184e9de3c674c5b074ade5320d4ba439f6  ./serrano-common/proprietary/lib/liboemcamera.so
 495390eefcd351fc135f0769c42f707a3fac4ccf787471b247cf9a1be97f0253  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_antishake.so
 997e7fae6b5804c2d6572986ac6d58fc74ed4608c846b1f9f1ca305c194fa707  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
