@@ -3834,7 +3834,6 @@ d329e71a24298dcb56183591cbac76842334827c058ce896f177507e33abbbf1  ./i9305/propri
 0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./i9305/proprietary/system/lib/libizat_core.so
 0655890d3211839690f402efeec4794335e52e61f261207dd5b4a6c6334af4f0  ./i9305/proprietary/system/lib/libloc_api_v02.so
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./i9305/proprietary/system/lib/libgeofence.so
-eee3731d8899d03d5a1e4e173089b3fd4796bfbc6f8a2f13374d89f97287aeca  ./i9305/proprietary/system/lib/libril.so
 219a26983407f7b7c3c85e2d6430eae1a5b22154891ad75a8d8702712392d7bb  ./i9305/proprietary/system/lib/libcordon.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./i9305/proprietary/system/lib/libidl.so
 9387b01426a59b7f1118cf18b3bf07d7c16a3022abd25f5282a6cb09700bf328  ./i9305/proprietary/system/lib/libril-qcril-hook-oem.so
@@ -3844,13 +3843,10 @@ eee3731d8899d03d5a1e4e173089b3fd4796bfbc6f8a2f13374d89f97287aeca  ./i9305/propri
 2044a06b5e291abee9afffda68732f79f934c22a57aa9a03a470636ff548c43d  ./i9305/proprietary/system/lib/libsec-ril.so
 d6332070b966813d0d91829faae0ead9e767ac4594dd701132e59fc559cc2f03  ./i9305/proprietary/system/lib/libfactoryutil.so
 3b45897fedd9851ddbb0bf54d606fcd5789c9321867e209709da6fdaca88dfec  ./i9305/proprietary/system/lib/liblbs_core.so
-20554f3a174a1ed544daa6dba6f18129616e9c4b9688c849fbb7ef4a1a96a3d2  ./i9305/proprietary/system/lib/libsecril-client.so
 da1c3f5c23f2fbea6b3945440550bc2ed73b5875daee1c67572a67824bd6f4fe  ./i9305/proprietary/system/lib/libqcci_legacy.so
 bf0a504fb9903deb063f4610d8e1b522da545edfdbce661bce601bb190cb414f  ./i9305/proprietary/system/lib/libqmi.so
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./i9305/proprietary/system/lib/libqmi_encdec.so
 9963bb3f982435e46613616ee2a7a429c02515b16b3689a2c9124aa6c07f7ccc  ./i9305/proprietary/system/lib/libqmi_client_qmux.so
-2a63301384b7550226846e3cbd1571ce2b74409499556283e46981584d1f0be4  ./i9305/proprietary/system/lib/librilutils.so
-d98e8a0a2e0920460984c55c81a041a1e5b2c6ea3f3a6ee016138c6993707435  ./i9305/proprietary/system/lib/libreference-ril.so
 efb91f077d54a2321b12bf103dcbdd3a1ba09b5363332b77031a8afc4ac9f727  ./i9305/proprietary/system/lib/libqmiservices.so
 0917031ccb25aad572c3485030a2d1e4dd21e7c93e64f2c147ac67135781e902  ./i9305/proprietary/system/usr/keylayout/sec_touchkey.kl
 f9594208e1e723e4d9062bd96d1c35982bcb49aeecf8ab0b4806eea6791878f0  ./picassowifi/proprietary/etc/gps.xml
