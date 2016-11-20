@@ -3836,6 +3836,7 @@ d329e71a24298dcb56183591cbac76842334827c058ce896f177507e33abbbf1  ./i9305/propri
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./i9305/proprietary/system/lib/libgeofence.so
 219a26983407f7b7c3c85e2d6430eae1a5b22154891ad75a8d8702712392d7bb  ./i9305/proprietary/system/lib/libcordon.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./i9305/proprietary/system/lib/libidl.so
+d9e5ad8e6b869de8713e416f4c2faae912e7d3f6457bae771be7eb5da0494164  ./i9305/proprietary/system/lib/libakm.so
 9387b01426a59b7f1118cf18b3bf07d7c16a3022abd25f5282a6cb09700bf328  ./i9305/proprietary/system/lib/libril-qcril-hook-oem.so
 01a935028f5d7aef968687f3dbc67bdba050e737baaab978873a43ae7e956f6e  ./i9305/proprietary/system/lib/libqmi_common_so.so
 355a00b2c81a57a019f8f0cea80069b25384eabe9c7017c4babc53617e9183a7  ./i9305/proprietary/system/lib/libqmi_cci.so
