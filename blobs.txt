@@ -622,7 +622,6 @@ f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/propri
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5120/proprietary/system/bin/geomagneticd
 1e3f3b9e5033759883dbbbd690d07fde33016ec63a9dfda3ade2714e2a598046  ./n5120/proprietary/system/bin/efsks
 fa0c01935921dba164292e9b0f30502a68cb4ecbd1f7f0f22d7e8cc7ee0decf6  ./n5120/proprietary/system/bin/orientationd
-c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./n5120/proprietary/system/bin/rild
 465578452e831018cdaf860164ffb2262674b1aa57237511789d949b2801b0f8  ./n5120/proprietary/system/bin/qmuxd
 85393aa4c410cd0f7c77ef674232a88334ef08d7ec354ad0724717e30b5d1dd7  ./n5120/proprietary/system/bin/qcks
 b04340780f6745f9d675a11b38189511fe3334045660fb1929249ec56e2cfa15  ./n5120/proprietary/system/bin/ks
@@ -637,7 +636,6 @@ c342f2ec2f83aae3bbb1c81b2ff60f430f513e363fcc47134f7a2e3d01730e85  ./n5120/propri
 0c79a467a0d10816e569c4c10d0e8f1ce9aea9ecf8d8f8b9862e5761b191c6f7  ./n5120/proprietary/system/lib/libizat_core.so
 5f55c34ea1101a212ca227ce471791b8eddfccd95d10df0bb9d1cb5c110ab129  ./n5120/proprietary/system/lib/libloc_api_v02.so
 9c37fb75ae00d9663daeb81bdba299a94b4e0a0534a770755d8db457e842d7d0  ./n5120/proprietary/system/lib/libgeofence.so
-23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./n5120/proprietary/system/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./n5120/proprietary/system/lib/libcordon.so
 18ec998842ebc7b0a453637682563f117cb2a0a02a3b2579815f421db136947b  ./n5120/proprietary/system/lib/libidl.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./n5120/proprietary/system/lib/libril-qcril-hook-oem.so
@@ -647,13 +645,10 @@ e02dc89416cc17ce92141e8718a4f5f9d5ff9a5cbf566e32704c8a21780e7baf  ./n5120/propri
 dc27625b04a8b5a89c02f3b9c588e8d2c27d917ca6acd5e7567380ada4bad01d  ./n5120/proprietary/system/lib/libsec-ril.so
 dfbb07a9b46efdb49c88d0bc18ab218fabe302395357dc558d3e1d2f578597ab  ./n5120/proprietary/system/lib/libfactoryutil.so
 357432b3e68711052b1e896c052421027e887dcc61f4361ca4f602db47fbbec3  ./n5120/proprietary/system/lib/liblbs_core.so
-057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./n5120/proprietary/system/lib/libsecril-client.so
 da1c3f5c23f2fbea6b3945440550bc2ed73b5875daee1c67572a67824bd6f4fe  ./n5120/proprietary/system/lib/libqcci_legacy.so
 ae1ddee88540b731b634409b167e795ff0912bf8a10c6346ba77cae0fc4566c7  ./n5120/proprietary/system/lib/libqmi.so
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./n5120/proprietary/system/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./n5120/proprietary/system/lib/libqmi_client_qmux.so
-2a63301384b7550226846e3cbd1571ce2b74409499556283e46981584d1f0be4  ./n5120/proprietary/system/lib/librilutils.so
-344b4032d6ddcebc9d22d37e1045eb67647e7cb650a8c1a8d370a4be24ba1066  ./n5120/proprietary/system/lib/libreference-ril.so
 b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./n5120/proprietary/system/lib/libqmiservices.so
 374a9ae17ca9b1d5b4499cfff742c44e7b1e999afbe493f22c0a6402ccf5ecab  ./captivatemtd/proprietary/gps.xml
 b2090c79bd30ba91887e2eaee2055a2c24ac4a996dd2532fa07f698f00da6020  ./captivatemtd/proprietary/gpsd
