@@ -6400,7 +6400,6 @@ fa5909bcb1a54770d3afb577bc093b293300c089c2c0c644d1b86c55c5699091  ./d2-common/pr
 59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./d2-common/proprietary/lib/libExtendedExtractor.so
 f6ff4f01678f6cc6ac85921d8b36a4e06e8aab835fc727bd4c405ce1e894f14e  ./d2-common/proprietary/lib/libQSEEComAPI.so
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/proprietary/lib/libchromatix_ov2720_preview.so
-3ddd9de3bea7b30766399da2de61473d69791bb0c922455dc0f35d1041ebbcec  ./d2-common/proprietary/lib/libqmi_client_qmux.so
 bd4f98256d72a12355f8864e577b77ec4793dec85ada174ae74a3d8f6c6aad33  ./d2-common/proprietary/lib/libmmstillomx.so
 f155a9862ee6d7873676d6527d319c2eaa154a523ad9b838fdb95b1ca7c9471b  ./d2-common/proprietary/lib/liboemcrypto.so
 940b99663becf94cf91a30be4f97e4b8ebd7162583a54ef243580ffcd89917dc  ./d2-common/proprietary/lib/libreference-ril.so
