@@ -1759,6 +1759,9 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./noblelte-com
 60f9069a108e86f66842b791a00f1c52bdfeaa1d938171802b04acf08113806a  ./noblelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
 d68946319346c42b7dd51f7aa908b11241855823b3b2198a33c9bb6969d3ffe3  ./noblelte-common/proprietary/vendor/lib/libwvm.so
 f6221a54501d530608cc606f83cc959b3db7d9d412f66427bb93f01d1b925a1f  ./noblelte-common/proprietary/vendor/lib64/egl/libGLES_mali.so
+c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano3gxx/proprietary/bin/rild
+396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano3gxx/proprietary/lib/libril.so
+2d415ffde2168f426291dfd482b7a8006f24dca271af28d199e816cc2484e14d  ./serrano3gxx/proprietary/lib/libsec-ril.so
 bdf9594e26ed875f7ec10c1f244c067d02b370b83fb538e27ce399632ad7b99b  ./maguro/proprietary/vendor/etc/sirfgps.conf
 bb19fea4a3248ffecf8a59bbe8f20e9cf3290f090cc490cd472a8e99ded84bb2  ./maguro/proprietary/vendor/firmware/bcm4330.hcd
 876f4c865e17714619bfa27acd4532bca9b753e6b0b28dd5be713bf649f76b91  ./maguro/proprietary/vendor/lib/hw/gps.omap4.so
@@ -2172,6 +2175,11 @@ ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./hltetmo/prop
 b5458992ebb5efd30c3aaa2b11541bcc33840a7fa5ac167dfc8c3df63a916877  ./hltetmo/proprietary/vendor/lib/libqmi_client_qmux.so
 bcd0f7b447eea067a4c7520d7970e717b705f8a3938c2029cedfbca03d6b6cae  ./hltetmo/proprietary/vendor/lib/libqmi_csvt_srvc.so
 ffc268777ac1a775376e1aa0b2a73322439943329d9ba7e587f74c700853679c  ./hltetmo/proprietary/vendor/lib/libqmiservices.so
+c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serranoltexx/proprietary/bin/rild
+396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serranoltexx/proprietary/lib/libril.so
+243e692dfbbfb2a8594af2e585aefa4bdf22ccfc3e1b9a8dc27fc1a0877c4bc9  ./serranoltexx/proprietary/lib/libsec-ril.so
+324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
+1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serranoltexx/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 f16fc9384f4f077581c7cff3f0bbf7a15e060bf4092e53f06ee80f911895b3cd  ./espressovzw/proprietary/etc/gps.conf
 383f653c586487b9df911754cded41063f64f0f66c4bbb6b1957de86f71751c6  ./espressovzw/proprietary/etc/firmware/wcnss.b02
 804f4c6522213060d02b0001b5949d728fb9988ff650a1f56a61682cca2fdb7b  ./espressovzw/proprietary/etc/firmware/wcnss.b01
@@ -2664,6 +2672,10 @@ e85013cf9754bd249498d4bbfff181acc9ff9aaa0cad38d1c958731208cc4fe5  ./mondrianwifi
 bf32ccce6fe81671df85e8224132b38135eaff5b810314e27a267bee85f01e87  ./mondrianwifi/proprietary/vendor/lib/libadsprpc.so
 549bab004a560f1e24d1228cce2455db8290259a719096e7542e623a3d877f2f  ./mondrianwifi/proprietary/vendor/lib/libqmiservices.so
 b68dbbdd7a4ccab8eb469882d419020b0192a05798f3d90590f89e625e45a5a2  ./mondrianwifi/proprietary/vendor/lib/libllvm-qcom.so
+2cca18bac0208fbed1cc4ace5eb7d469114e49ef3b308bb1acc0da89ecfeacb0  ./serranodsdd/proprietary/bin/rild
+a56f63bbd2be1cc709a38a188b057129ee99b64e7dbcda96ed6e321270d38e05  ./serranodsdd/proprietary/lib/libril.so
+5ce1b52106fab3376b44a9da35dcd3f5042b8a7b69dd6186d005b34e1289ecdc  ./serranodsdd/proprietary/lib/libsec-ril-dsds.so
+06e79b30f361d54583e45236658ee9d9d07212e14dac923fa407abbc1d9ff59f  ./serranodsdd/proprietary/lib/libsec-ril.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./i925/proprietary/system/lib/libril.so
 fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./i925/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./i925/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
@@ -4017,7 +4029,6 @@ e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-comm
 d92f1feaddbf978e035396de7cd08bd0aa6e9bca56f94f454b5e23e816e901c1  ./serrano-common/proprietary/bin/thermald
 d1feb4855dc661ed734d891d03083b3897fe801e2e50c11d3a060618f4a958fb  ./serrano-common/proprietary/bin/radish
 7fb458d7272b23f842c8b4bc03bf4d5dc3357647b43306315ae1669819ec2882  ./serrano-common/proprietary/bin/time_daemon
-c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano-common/proprietary/bin/rild
 35410a402dcb27594f1756e61832226474256674662690c894bbff04e15d0caf  ./serrano-common/proprietary/bin/btnvtool
 2f888eaaf605ac7863fb75e4a7a79019650fa5c2f3779c0a0074ac1f07d2e34d  ./serrano-common/proprietary/bin/qmuxd
 b39da907ec52fd25b589b55b576eb6761feb2ccff1727a3f9bf0e83defbf3af4  ./serrano-common/proprietary/lib/libchromatix_imx175_antishake.so
@@ -4042,7 +4053,6 @@ a1da28695e5dbc1cc1cf5a1c118521808875e5e6b088300de006a5578335ae2c  ./serrano-comm
 148698fff2fb668e67204c325eb1bf593e85f7ead10a8120cc3881953064f20f  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_lls.so
 4f6ffdca867b767e230b2a467ed1c9c58f824a37a3fba4663c8598dbac2e0b9c  ./serrano-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so
 61e085da3a9e59be6ca6039f921028eb6a8fceecc828b42836f7d1dbd4e7aa5e  ./serrano-common/proprietary/lib/libchromatix_s5k6a3yx_vt.so
-396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano-common/proprietary/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./serrano-common/proprietary/lib/libcordon.so
 57a0d559d8ac6ccec044792441a8b0d76e78484a5357f21d8dec7ac42a63cefa  ./serrano-common/proprietary/lib/libacdbloader.so
 7ba733405e49c2cd6fe5927baf9e8023c1dfc11ba20530f6c94c829f6299f0ac  ./serrano-common/proprietary/lib/libimage-omx-common.so
@@ -4062,7 +4072,6 @@ a68baf58a9b55d1368c0a8b51ef8fd7c736493d6a558e183016f1fcc150096ee  ./serrano-comm
 be2b35bd04c375e694969ef1efc34bb7a071e4476b25d38c2fbcd130ac47d5f5  ./serrano-common/proprietary/lib/hw/camera.vendor.msm8960.so
 e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/lib/hw/sensors.msm8960.so
 8b6f0271cbbb8e1806823f4bad5af25e0e75d62379c77b0a7f1a93f61233d7ba  ./serrano-common/proprietary/lib/libchromatix_s5k3h5xa_zsl.so
-243e692dfbbfb2a8594af2e585aefa4bdf22ccfc3e1b9a8dc27fc1a0877c4bc9  ./serrano-common/proprietary/lib/libsec-ril.so
 637c5655dba99516894f67d0f0fa4b1a26ce035469d29f251145a1ba4cb14c84  ./serrano-common/proprietary/lib/libfactoryutil.so
 f9ee6da43b9e9b1ecbfb578c61a4e18209058da7ef243a5eb02712602d419daf  ./serrano-common/proprietary/lib/libhdcp2.so
 f29e1eeda66fc826e754dca3855dde184e9de3c674c5b074ade5320d4ba439f6  ./serrano-common/proprietary/lib/liboemcamera.so
@@ -4081,8 +4090,6 @@ f2963b46bd2d019c641d97da54ecb37831339f1bd0d2ec84ec3d50b0c63ecb4b  ./serrano-comm
 394a9b0c9575bd6021696c471b4d2d173196b34239f8111acf7cd843b6ea4610  ./serrano-common/proprietary/lib/libchromatix_imx175_lls.so
 315ac7e7dc611bbe2f8bf2b13db1d65c5fc5592246c3c01ef6ab0935c1fa4f3e  ./serrano-common/proprietary/lib/libadsprpc.so
 c7fb7a1ef27871f550b195b490b31ed405b7f819d35ac060c368846f654f8a69  ./serrano-common/proprietary/lib/libI420colorconvert.so
-324b1721cba76050359bb0afa8cb3daa1c2ab89de884123692a43b16116201c6  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
-1d599f347cb7e68b3daffb943ff305ea9e33f62dbc8cf5d5b477c9a969998561  ./serrano-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
 82ba6a6eda0c8e1e6cac6e1c85c4b0f5c7f1fc263b3e40ffa12317e4847c34c0  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
 1139d2867d8281c6963ebea20a17f99b54511f62a13a6eec6cb948bd4f66124b  ./serrano-common/proprietary/vendor/lib/libqti-perfd-client.so
 f328f93cd884391e17b460798713d8bca9a02a8995a850fe8c05eca76864b9c3  ./serrano-common/proprietary/vendor/lib/librs_adreno_sha1.so
