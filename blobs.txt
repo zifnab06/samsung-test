@@ -2713,7 +2713,7 @@ d14982ec3f9fbdc36ca0aa4345a397720b8a16b6ae08540c14a9a83eeeaab02b  ./tuna/proprie
 7b73faea7a62ce85a1f3a7ba38256020f3c2aa5f1c582b8186abfbe36eb3e185  ./tuna/proprietary/vendor/lib/hw/gralloc.omap4460.so
 84cd9433b11fc76f0d0936295bcac4111ec4245a8eaaa01951d7e8af5d5da53e  ./tuna/proprietary/vendor/lib/libinvensense_mpl.so
 85607ff141a2b4b77bcffbb420cabe55228ab9672153ad2da578c4ed68c3cf6d  ./tuna/proprietary/vendor/lib/libpvr2d_SGX540_120.so
-96167c11fd609da061d15da687a0004f5f8d8740815de512ae424365054efd34  ./kltespr/proprietary/etc/gps.conf
+741050ca8fa8135520ecd13ae165009ad8b5684ffd846a4a66ee1a17e90c92e8  ./kltespr/proprietary/etc/gps.conf
 ac364e8dbc63530a9eaee02b1a9ca655eb04e3c82e5e8e7f599f1cd1764ac371  ./kltespr/proprietary/etc/sap.conf
 b67a60c2c73a6ad24500e4e226f101c91e09341087c5e3cddbcef32e0dd7a347  ./kltespr/proprietary/etc/clatd.conf
 69718d5986699e1e37661be44c5cef5fe33c2e1c424e13a7bee0616995b398e8  ./kltespr/proprietary/etc/izat.conf
@@ -3964,7 +3964,7 @@ bb3744b62afd00c191ce027cb34f6dc71f434bae7ba8d342e17740c88f1575b9  ./picassowifi/
 417485fac48b0c13861c7e39b05ac4c7a4f7c2435faa4b8e081b422c15ac15c0  ./picassowifi/proprietary/media/battery_charging_15.qmg
 c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2spr/proprietary/lib/libril.so
 faf7e0a2af59ecd1569a45e91568407b0f70e949eedc30951687c18df28e4b7e  ./d2spr/proprietary/lib/libsec-ril.so
-96167c11fd609da061d15da687a0004f5f8d8740815de512ae424365054efd34  ./klteusc/proprietary/etc/gps.conf
+741050ca8fa8135520ecd13ae165009ad8b5684ffd846a4a66ee1a17e90c92e8  ./klteusc/proprietary/etc/gps.conf
 ac364e8dbc63530a9eaee02b1a9ca655eb04e3c82e5e8e7f599f1cd1764ac371  ./klteusc/proprietary/etc/sap.conf
 1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./klteusc/proprietary/etc/flp.conf
 b67a60c2c73a6ad24500e4e226f101c91e09341087c5e3cddbcef32e0dd7a347  ./klteusc/proprietary/etc/clatd.conf
@@ -5092,7 +5092,7 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./quincyatt/pr
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./quincyatt/proprietary/vendor/firmware/libpn544_fw.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0lteatt/proprietary/system/lib/libloc_api_v02.so
 12722e2ff004a87977d486b6221566390f89471e01cd5fffcce0891b0dc1c67f  ./t0lteatt/proprietary/system/lib/libril-qc-qmi-1.so
-96167c11fd609da061d15da687a0004f5f8d8740815de512ae424365054efd34  ./kltevzw/proprietary/etc/gps.conf
+8b0609368a477b38558b963a4fd7907ae3eb20b214ef896ace5ee892735d56d5  ./kltevzw/proprietary/etc/gps.conf
 aab5604de59f8080caee256f69dfaf6cc324dad9a837cf33b7effaaf0b76802e  ./kltevzw/proprietary/etc/gps_vzw.conf
 ac364e8dbc63530a9eaee02b1a9ca655eb04e3c82e5e8e7f599f1cd1764ac371  ./kltevzw/proprietary/etc/sap.conf
 b67a60c2c73a6ad24500e4e226f101c91e09341087c5e3cddbcef32e0dd7a347  ./kltevzw/proprietary/etc/clatd.conf
