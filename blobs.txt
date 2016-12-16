@@ -1696,7 +1696,7 @@ d50f72e3b1eb4632d99806c4c15283b61bfc16b9591eeb9961abb5723fd6f847  ./noblelte-com
 494669a0c5c89829107b0129e161fcc428877eadaa7e19ac761493eb4d2ba3c6  ./noblelte-common/proprietary/lib/libexynoscamera3.so
 6346cfce2dff7e8e53358fadc66ed62f88560f2e9759fa64e8b004b028a49b76  ./noblelte-common/proprietary/lib/hw/nfc_nci.universal7420.so
 9faff7823c24cc3b28330de0ddc630b4b69f68e6b400db8719e97cb086aee548  ./noblelte-common/proprietary/lib/hw/sensors.universal7420.so
-d3cc962626333651af5c6be97167a5562a2fa33d99ac4a2f23e17a8e3dbec447  ./noblelte-common/proprietary/lib/hw/camera.universal7420.so
+e4e6a97f1da002dcba9b0a0bfb20a83ab2dacec4aaada80861f5cacdb4e8dfab  ./noblelte-common/proprietary/lib/hw/camera.universal7420.so
 408bb8eea1f85482afb33e107dc47ba9508b0868fcb2cbb2507c7ba5679516aa  ./noblelte-common/proprietary/lib/hw/camera.exynos5.so
 5ec670bce317473cb6ae70a89723764933f921c5a64f6f2c7f1ba0727d6997cb  ./noblelte-common/proprietary/lib/libsec-ril.so
 93d90909ebf52c1c59cb09983344ad1239897171740d0d35c48d6ee58ebf884a  ./noblelte-common/proprietary/lib/libwrappergps.so
@@ -1746,7 +1746,7 @@ ba6566a213c093bb17d2b05f9c78341a6dabf91516cdffa66ff9743e8167caec  ./noblelte-com
 9ddf42c3d55031f55a165e8e259ff3e173d97f64468eba41af1dd5a7f0651004  ./noblelte-common/proprietary/lib64/hw/nfc_nci.universal7420.so
 f5cd67c0e9db3ed01dc944c93d8ec8d7ba5bb6c735df5f567f2a288f475243e5  ./noblelte-common/proprietary/lib64/hw/sensors.universal7420.so
 31f19c770dce8a2ef1c46cd740402ad8cf00002a323609b0aa77ce121e19ed9a  ./noblelte-common/proprietary/lib64/hw/gps.universal7420.so
-d3ca416f49c34f726cc9b04a15b8d4780ee5d1f8790d1bbf7718632ed2e2cbb9  ./noblelte-common/proprietary/lib64/hw/camera.universal7420.so
+c84ce4e21791484e32dc2c4b71fb0d85d1570315348447194f98377ed49c765c  ./noblelte-common/proprietary/lib64/hw/camera.universal7420.so
 6e795b7ea6f7df48ed0bb0bd0f9e33d06eb12bcc42e2e5fddb73bcf893c875a8  ./noblelte-common/proprietary/lib64/hw/camera.exynos5.so
 9cac6dc3de705fec72f688fe22a44e94bc706d839a5b76263b1db4fe8f8037fd  ./noblelte-common/proprietary/lib64/libsec-ril.so
 1f5fd53e0e0ae0ddfb9bcac900b6e3e22eb82b611418dbb51f0538aa0a3a5bb4  ./noblelte-common/proprietary/lib64/libwrappergps.so
