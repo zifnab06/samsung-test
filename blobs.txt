@@ -62,7 +62,6 @@ e57eac1a8a5845b81e9e8d9d4d2a771e112cd19a1438759e0ab414d81c2a2c25  ./galaxys2-com
 f04ad203184cd9ebe10a456c7d74e68eac1f10fafb8ff8aaf5fd7ce4ca7259de  ./galaxys2-common/proprietary/system/lib/egl/libGLESv2_mali.so
 4f390c8b37e357c9db9734c7531472f00623a507a615546f052690c98bff1b26  ./galaxys2-common/proprietary/system/lib/egl/libEGL_mali.so
 3ff971f7f38d64997d6a8816afae8ac09616fac8f5a0fbd8c651bd4c5731050d  ./galaxys2-common/proprietary/system/lib/egl/libGLESv1_CM_mali.so
-dfc6a61f8060738ac7185ab4af7f601ff3a0493fc77dc911b35db8f2480fc51b  ./galaxys2-common/proprietary/system/lib/libfimc.so
 b31ea9d214c182da332170e3895aeb364007d680eae20ac8b9f74f9b232a99ab  ./galaxys2-common/proprietary/system/lib/libfactoryutil.so
 851e7f008cee93dd1746114d241807252b8d7ac58be5d7e748d34376163abe5a  ./galaxys2-common/proprietary/system/vendor/firmware/mfc_fw.bin
 a861d876f243480b2f3da6d8b9df09aa79183c343a49b80b61e0ae90c5bf85ed  ./galaxys2-common/proprietary/system/vendor/firmware/libpn544_fw.so
@@ -615,7 +614,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-c91e632fb1f576c61ae4de4c5350862a77b4de632580ac764ba9a77254122b41  ./blobs.txt
+0732269cf1382320badcf8eee5730de74831110b650896f893d61816a9552c44  ./blobs.txt
 f00d9c3d9b758594919aa81d7e88c2a330168873d7ad3093f86d55d4f8403605  ./n5120/proprietary/system/etc/Diag_zero.cfg
 449256aa23cd18821ebcd21d3737c2990e74d8d36410703e4b6c478581647acc  ./n5120/proprietary/system/etc/Diag.cfg
 52856b6fa1e89dbafa007b7eacccf8d660450d11d000d4d5d49c58685574c8e4  ./n5120/proprietary/system/bin/qmiproxy
