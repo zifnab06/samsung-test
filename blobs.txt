@@ -5792,7 +5792,6 @@ ae1ddee88540b731b634409b167e795ff0912bf8a10c6346ba77cae0fc4566c7  ./t0lte/propri
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./t0lte/proprietary/system/vendor/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./t0lte/proprietary/system/vendor/lib/libqmi_client_qmux.so
 b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./t0lte/proprietary/system/vendor/lib/libqmiservices.so
-03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/sbin/cbd
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/system/etc/srm.bin
 2fcbf3ba340176f41fd277e64d33bec3351d3eda174e258d861d1c949dbef4a6  ./smdk4412-common/proprietary/system/etc/wifi/nvram_mfg.txt_murata
 3dd0a0372811a52641fbc679489833689ddfa0e407c6d709175bd227efac7b29  ./smdk4412-common/proprietary/system/etc/wifi/nvram_net.txt_semcosh
@@ -5810,6 +5809,7 @@ f3481b9416d049115ec7f7cc5b9b01f5d35f075c7c2599cd96c7ab6045d64827  ./smdk4412-com
 0edb20bed2a6caef401b457a60c5664633376739c891c9f067acc2cadedf9756  ./smdk4412-common/proprietary/system/bin/bcm4334_murata.hcd
 0edb20bed2a6caef401b457a60c5664633376739c891c9f067acc2cadedf9756  ./smdk4412-common/proprietary/system/bin/bcm4334_semco.hcd
 0edb20bed2a6caef401b457a60c5664633376739c891c9f067acc2cadedf9756  ./smdk4412-common/proprietary/system/bin/bcm4334.hcd
+03a5758257050aa8ccf3b3e3e46b2f8b054acb4bdb968220dc0af8f8e8adaca4  ./smdk4412-common/proprietary/system/bin/cbd
 764abdc4a19c6e0e51fed250eb084127052f5b4a83ac66520a3703b15ced6e60  ./smdk4412-common/proprietary/system/bin/bcm4334_semcosh.hcd
 e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-common/proprietary/system/lib/libcec.so
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./smdk4412-common/proprietary/system/lib/libsecnativefeature.so
