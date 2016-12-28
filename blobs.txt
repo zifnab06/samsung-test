@@ -3878,7 +3878,6 @@ bb3744b62afd00c191ce027cb34f6dc71f434bae7ba8d342e17740c88f1575b9  ./picassowifi/
 417485fac48b0c13861c7e39b05ac4c7a4f7c2435faa4b8e081b422c15ac15c0  ./picassowifi/proprietary/media/battery_charging_15.qmg
 c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2spr/proprietary/lib/libril.so
 faf7e0a2af59ecd1569a45e91568407b0f70e949eedc30951687c18df28e4b7e  ./d2spr/proprietary/lib/libsec-ril.so
-1049cdf1a4629204e8499df89d01a580ae1a5270786c1df5c794fc5dcc516e6e  ./klteusc/proprietary/etc/flp.conf
 8e62b9ffd7f34a538615c556220b4fa70a0635d70f39d9763bd2bbc717d0115e  ./klteusc/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klteusc/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./klteusc/proprietary/bin/rild
@@ -3888,13 +3887,11 @@ c147b4306926f3339b8f070a85479ac1685a8f6d522926dd9b84fe1c0db4c495  ./klteusc/prop
 fbc355e36e6562f3ea52dbe8830005240c3ee0916ca590ed693019b5e673fcd1  ./klteusc/proprietary/bin/ks
 c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./klteusc/proprietary/lib/libsecnativefeature.so
 3803d2ffcac4efff874cbfdd72344d95bf86822a70f0dfe9de9c22f08b644fcb  ./klteusc/proprietary/lib/libril.so
-d0ba7fb5191792d166ed4ef04a62449f1f4c609d53acbcf0375fd831506f328c  ./klteusc/proprietary/lib/hw/flp.default.so
 5dfa1dd9fd7e2e91e925ddae66773ac5a427decf7bc44835d8d94dd8a30113e4  ./klteusc/proprietary/lib/libsec-ril.so
 11597530ba6c9a7db8b00e67cc3b3f9ad71f40827b8192c907c0330e1e22ff88  ./klteusc/proprietary/lib/libsecril-client.so
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./klteusc/proprietary/lib/libmdmdetect.so
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./klteusc/proprietary/lib/librilutils.so
 884be5847959410e405aeead5fc82b6f7e20c78d47fd60da8ecdd5b4e54a14af  ./klteusc/proprietary/lib/libreference-ril.so
-5f8d1dfa2bb056576f0a83606a7b7520ea121b39b838c324697340c27a46df8f  ./klteusc/proprietary/app/com.qualcomm.location.apk
 728685a7053c9e9b5beee4916172b07f81930715bc3c3a56421abffa8ac21428  ./klteusc/proprietary/vendor/lib/libconfigdb.so
 b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./klteusc/proprietary/vendor/lib/libdiag.so
 2bf3cd74e7500348ea0db7a44180a33e528ecfb29947efac8a5d637614c20dde  ./klteusc/proprietary/vendor/lib/libdsutils.so
