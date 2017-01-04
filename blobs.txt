@@ -1817,7 +1817,6 @@ b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./p4notelte/pr
 ec39debd639d7f510b84e2182a6bbd0f69239ca169d52e551987666eeacfecd0  ./n5100/proprietary/system/bin/geomagneticd
 4581bc922d4fd10b960653b399774f5b34c6946bba43151870ac3622363fc390  ./n5100/proprietary/system/bin/gpsd
 fa0c01935921dba164292e9b0f30502a68cb4ecbd1f7f0f22d7e8cc7ee0decf6  ./n5100/proprietary/system/bin/orientationd
-2a1d4655bdc9bb77269fa204b872c3d1750c44251bef514b7e6d7cedcddf9a84  ./n5100/proprietary/system/bin/cbd
 a217b3983a6b4d6364a62322898ff21a04a3960b9878ac4753e0e912defbaa83  ./n5100/proprietary/system/lib/hw/gps.default.so
 35e1cc5b29f64a3e10467f2dbee4bb99ae8295594b043f36570454216268f145  ./n5100/proprietary/system/lib/libsec-ril.so
 1db333ff911bcbc4853ae98a0b7c9f62b1fd08d947401940cb4b373862d4fcda  ./n5100/proprietary/system/lib/libfactoryutil.so
