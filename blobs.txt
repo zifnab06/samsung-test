@@ -5650,16 +5650,12 @@ e25356f0552bf570f3194feefa164704bff3860a2af0a72745f17b53084051ce  ./smdk4412-com
 55c17eb544f8133110eba2cfcfda171eb166a3d8e933103fd6e8505fa058d387  ./smdk4412-common/proprietary/lib/libsecnativefeature.so
 4c45cfd68f1a2a91da547182e16f452eb14b12202812e8fb2d72de8bdaff33b3  ./smdk4412-common/proprietary/lib/libMcClient.so
 455351707f51b20d99784e9c54cf79cdbad4fbeffba989f18fc135e47065dc65  ./smdk4412-common/proprietary/lib/libMcVersion.so
-7bd0d715fbba1e6f1986a83f39be49eeeab348e1be023477c6a087d952ef8297  ./smdk4412-common/proprietary/lib/libfimg.so
 94d6d543ecb9a30226d08e8bff9a40a672425bdd3e6910cf251e0d9138c4fc48  ./smdk4412-common/proprietary/lib/libedid.so
 4246e445a48b02053b69342a96feed313c6b0c24565b160cd2d5fa048b2b3d1d  ./smdk4412-common/proprietary/lib/libddc.so
 68513f011233e98ad64e96da5093ce3334a496dc4b8308c2e85ed43c7d873f6f  ./smdk4412-common/proprietary/lib/libMali.so
 f04ad203184cd9ebe10a456c7d74e68eac1f10fafb8ff8aaf5fd7ce4ca7259de  ./smdk4412-common/proprietary/lib/egl/libGLESv2_mali.so
 4f390c8b37e357c9db9734c7531472f00623a507a615546f052690c98bff1b26  ./smdk4412-common/proprietary/lib/egl/libEGL_mali.so
 3ff971f7f38d64997d6a8816afae8ac09616fac8f5a0fbd8c651bd4c5731050d  ./smdk4412-common/proprietary/lib/egl/libGLESv1_CM_mali.so
-fb5fb9098976ae3ec14d33dc65346497744845f5382cde4ed08168c6942c8ecb  ./smdk4412-common/proprietary/lib/libhwconverter.so
-a8e0f2ae5b509e1d644f107d7589a34b1928a9632d9e3bfe8eb900bcdee11849  ./smdk4412-common/proprietary/lib/libfimc.so
-164d509fd0a3271913691e3dec3bbe1a6fc7974901c65d9dcf04d963d8e2e716  ./smdk4412-common/proprietary/lib/libhwjpeg.so
 3eeb408b043813e3334f1da6e977f4b5699da4f8f89be5f3e9650cc0be0ce2ce  ./smdk4412-common/proprietary/lib/libMcRegistry.so
 9915cd2b79a83d6f2855c75606364dd73d455460a5fa79deb2ffefc3e263bce1  ./smdk4412-common/proprietary/usr/idc/melfas_ts.idc
 d251fe0365206bb80de493d65eb50ca2599b02bc5f2dee864194db051417ff87  ./smdk4412-common/proprietary/usr/idc/sec_touchscreen.idc
