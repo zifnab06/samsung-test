@@ -2739,10 +2739,13 @@ a04f1edb37cbb4a0ccafa34ec026bf8e899765239aa36c9a188d10b99161ee7e  ./k3gxx/propri
 d78cddf0152cd65e7a173baea7842eaf2a734002648ea5fb1c25d77071831891  ./k3gxx/proprietary/bin/olsrd
 f4c1578766189866c2d71585e25c367560e9357ce84d711200f98234c9626ebb  ./k3gxx/proprietary/bin/vcsFPService
 6e9c9daad1cfa42d1003db7fd59a5878e7a7dfe944c254c79e1d3319f02dd2e7  ./k3gxx/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so
+c1a233538c71765fb9ab447fa036898acec657b1501e6540117ba82ec3e5353e  ./k3gxx/proprietary/lib/libsecnativefeature.so
+9f3df0b4b743293d7d0a62ca6c19cd88c135ad6c11eb1101a40f965da55219c3  ./k3gxx/proprietary/lib/libexynoscamera.so
 42e754fca5d110398a282c3aac8ae55c94695b0d1df2112278a9e41f331e3c38  ./k3gxx/proprietary/lib/libvfmtztransport.so
 570796becd293bd886deaa0ea475b538aee4ad477c2199916cf6da1fbb58a669  ./k3gxx/proprietary/lib/libsensorhub.so
 aaec18174ad3b9614fa185c4bd7ce5d761445978bffc406b580370245aee7897  ./k3gxx/proprietary/lib/libhr.so
 a9d572256c381eb301dfd29b31f094c0cb0a77e2ffe9f340f92ba9e18cd48df7  ./k3gxx/proprietary/lib/libvcsfp.so
+906b3a24b42ce2e2b2d06fe8e823b5b6e8c6efef6adad38ceb563956738662d8  ./k3gxx/proprietary/lib/libvdis.so
 bc7c69a610ffd68a859f72117681dc8eb8df42fb8a7b40f986668e1db5f1ce22  ./k3gxx/proprietary/lib/libvfmClient.so
 8859a0c7e35c0593dc07e6bd128ab3ae77d1a48a09b77bc873b95a1543e2fb36  ./k3gxx/proprietary/lib/libmysound.so
 a56af1c08e211432392da3d38d9d2c408873392e819f0b46e928f41a3bb4e2a8  ./k3gxx/proprietary/lib/soundfx/libaudiosa_sec.so
@@ -2760,6 +2763,7 @@ e2e848127f59250dbec39d81a8d52c7bdda46a40ca6a3db3ae52da88ed26b9c6  ./k3gxx/propri
 a079dd202eebb978a80da19057331861725196a6ca53bd4f8acdda0a20da5ef7  ./k3gxx/proprietary/lib/libaudio-ril.so
 bed7205b61c5c29ef5e6d990dfb95f7efd53f085d5145552c97206241350c836  ./k3gxx/proprietary/lib/libwrappergps.so
 21abe032f327e4d1228b706e619f4b99a955325f33285cff2bfd803ca5ed7e71  ./k3gxx/proprietary/lib/libvalAuth.so
+53cdb6d8f2d17a39ae0f465aa35ba35f9235caed53ee0f623f1df7fb2621e9c1  ./k3gxx/proprietary/lib/libhwjpeg.so
 101585b397c9097f9deb19de4bd570a2dc3bfdfda565ea351584c623150434bb  ./k3gxx/proprietary/lib/libgnustl_shared.so
 79842499f2a8e48b66b3b441d8322e5cd92ac048b4b7a9afe81107baf14acc2c  ./k3gxx/proprietary/lib/liboemcrypto.so
 849127e3253b76b030b717f1b4caf5751d31a09b4dea908cc3676f0da2a122d5  ./k3gxx/proprietary/app/FFFFFFFF000000000000000000000001.drbin
