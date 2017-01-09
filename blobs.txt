@@ -2750,6 +2750,7 @@ a56af1c08e211432392da3d38d9d2c408873392e819f0b46e928f41a3bb4e2a8  ./k3gxx/propri
 9c3af466d727ecd39b40ee5761c68807f23bb831a86c9be5f7d77daac53e1f74  ./k3gxx/proprietary/lib/hw/nfc_nci.universal5422.so
 d2dcd2149ac741f4eff42cf844ac9f3465376552c2dd928984cde7efde751501  ./k3gxx/proprietary/lib/hw/gps.universal5422.so
 dfbe07ae7901912c25642bcfdcce01586e2a42026791235f1478abf093470855  ./k3gxx/proprietary/lib/hw/consumerir.default.so
+e2e848127f59250dbec39d81a8d52c7bdda46a40ca6a3db3ae52da88ed26b9c6  ./k3gxx/proprietary/lib/hw/gralloc.exynos5.so
 057473bfda79dfef13cbb06206ec91fcea4110fc1f5d70ac05ab37476e2bd9b6  ./k3gxx/proprietary/lib/hw/sensors.universal5422.so
 57ccd89f6d57dff382472721e7793193d8100c8d7f28f70525f8c399bb328a38  ./k3gxx/proprietary/lib/hw/sensorhubs.universal5422.so
 69fbf0362013ff6a96ce87d7405510e9785959ad242ac060847d0ac8ada9919c  ./k3gxx/proprietary/lib/libsec-ril.so
