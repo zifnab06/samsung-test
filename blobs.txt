@@ -2753,6 +2753,7 @@ dfbe07ae7901912c25642bcfdcce01586e2a42026791235f1478abf093470855  ./k3gxx/propri
 e2e848127f59250dbec39d81a8d52c7bdda46a40ca6a3db3ae52da88ed26b9c6  ./k3gxx/proprietary/lib/hw/gralloc.exynos5.so
 057473bfda79dfef13cbb06206ec91fcea4110fc1f5d70ac05ab37476e2bd9b6  ./k3gxx/proprietary/lib/hw/sensors.universal5422.so
 57ccd89f6d57dff382472721e7793193d8100c8d7f28f70525f8c399bb328a38  ./k3gxx/proprietary/lib/hw/sensorhubs.universal5422.so
+2f43b9966e40a554f5f8ae98cc50d378a9eb295637c1432b0d161383ad14785b  ./k3gxx/proprietary/lib/hw/camera.universal5422.so
 69fbf0362013ff6a96ce87d7405510e9785959ad242ac060847d0ac8ada9919c  ./k3gxx/proprietary/lib/libsec-ril.so
 9914ae040b754a43efef663229a1efa75065fd6beb61ecc6d1567aec0fdabbeb  ./k3gxx/proprietary/lib/libfpasmtztransport.so
 52dad5472ccdff9739776d8e0d5260236c19dbe985c3ef64de6a538a626e986b  ./k3gxx/proprietary/lib/libaudiosa.so
