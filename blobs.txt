@@ -2878,7 +2878,6 @@ c147b4306926f3339b8f070a85479ac1685a8f6d522926dd9b84fe1c0db4c495  ./kltekdi/prop
 fbc355e36e6562f3ea52dbe8830005240c3ee0916ca590ed693019b5e673fcd1  ./kltekdi/proprietary/bin/ks
 c2ee7e86756ba97a2a0b2caf39ea266e0cebaac128df47c5aa633a5c2152642a  ./kltekdi/proprietary/lib/libsecnativefeature.so
 0500926748c46e9f0457159a93d38abde39f0b66e295e1f7f1fc3ca60ba80ee4  ./kltekdi/proprietary/lib/libril.so
-f281909c8e89f3af8fddab367e304c0dfe08a8b8f696a34f37826169bc6f4964  ./kltekdi/proprietary/lib/libcordon.so
 05318ce73c6f926c4395e6fd9c2ab58ce25ad7c266174c2802f070cb4220c669  ./kltekdi/proprietary/lib/libsec-ril.so
 11597530ba6c9a7db8b00e67cc3b3f9ad71f40827b8192c907c0330e1e22ff88  ./kltekdi/proprietary/lib/libsecril-client.so
 48c763a8bb9ce6a8828d4f5e5b47a38b40127781d6a43a8409b19049b76be6b4  ./kltekdi/proprietary/lib/libreference-ril.so
