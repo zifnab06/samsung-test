@@ -4140,9 +4140,6 @@ dfa5ec510c749b068ff5ccff08a7213704a474be4f2a10759049f397fd6ddbec  ./msm8976-comm
 a578729e38be1a67096530d967d3e31e1172122f5ae28ac0311445f103209973  ./msm8976-common/proprietary/etc/Global_cal.acdb
 940f7d1476b5e811cdf52f97d03f7fd6fbb136afd09378efcb94f31e37825e0c  ./msm8976-common/proprietary/etc/Q08QL_s5k4h5yc_module_info.xml
 ab023acf3d9f6d596e2e78729b91f1bf4315df43738618b08b9e5712a0cdfc05  ./msm8976-common/proprietary/etc/Handset_cal.acdb
-4d041cbb3fa94063637945c2d2ea906e130c90990bed160dc03935d5d24207b5  ./msm8976-common/proprietary/etc/data/dsi_config.xml
-84f494a32e930b253e51d9e5f230642c96b8715cb248865ad1a5e9063d51d4e9  ./msm8976-common/proprietary/etc/data/qmi_config.xml
-1afaefecabb0dbd4712c50879086e06ba4d8efe4b9d3efff27daa81698b081ca  ./msm8976-common/proprietary/etc/data/netmgr_config.xml
 bbbcb78968a9f20a2eb9f626f97b87860528db42faa4d7b17746569e88b9d510  ./msm8976-common/proprietary/bin/cnss-daemon
 ee04f0bd0ba84fbf702a146a325ae3527d5e88ed631f29793ceaa64b6b4c2ab6  ./msm8976-common/proprietary/bin/xtwifi-client
 ded4d71ce22bbf4c8dd369907f85593541d9eda70f55560c84ccd8d27df8d7c7  ./msm8976-common/proprietary/bin/msm_irqbalance
