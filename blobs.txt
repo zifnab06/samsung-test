@@ -4153,7 +4153,6 @@ f200fa1fd8cddde93cdc21e9109ab8772c0671b219005cd4ba7f04421b1648ab  ./msm8976-comm
 2c2ddae533ef62dcf2d632fe877775d34169ddfc8d001cff6814a18f08b2bd11  ./msm8976-common/proprietary/bin/tftp_server
 beae083d9fa5b4e2d8fe5da9915daf20373fac4903d2042705877f50e4062a9b  ./msm8976-common/proprietary/bin/pm-proxy
 af82173524362d6eace8949dc7fd9564320ce5e6417647691084d63ac0d5c1b3  ./msm8976-common/proprietary/bin/loc_launcher
-fcf249351b147d1855730575ac0b2c2d842d5458f9d5e84a75f5a69a2194bac6  ./msm8976-common/proprietary/bin/btnvtool
 a90c6242da8441a4dea44a837b6543d53810d6eacbf5a5b1b7193da3d94ef8e9  ./msm8976-common/proprietary/bin/xtwifi-inet-agent
 5422aa4483d297cdd49538782d17c1504760dd625e3e401f1860f437c7966b94  ./msm8976-common/proprietary/bin/pm-service
 c9e76101fe1a93c3e30183a893e7c9afbf8daa4eecaefae24ced4dded75a0330  ./msm8976-common/proprietary/bin/adsprpcd
@@ -4499,7 +4498,6 @@ a6397095d160399a6fd1a004f4c74af44451146e3aec379e4bcdfc2e32064798  ./msm8976-comm
 d93a677c0688d4a0ae3e2f8f7eca6163a7356a88bce3df35c7da28b102482942  ./msm8976-common/proprietary/vendor/lib64/libllvm-qgl.so
 0763151095890793075a1d7cd2509392cb08334b21ca3e025b9f5d8e077570c3  ./msm8976-common/proprietary/vendor/lib64/libquipc_os_api.so
 383d8c7786da32f48f9f8aaac2889db8bdecc78ada9e86988339ec1cb7d95bb7  ./msm8976-common/proprietary/vendor/lib64/libqcci_legacy.so
-79fa15576fda9b0f6a6571df9b5324d18e16f4e657d18851a15c6d4c1bb6d555  ./msm8976-common/proprietary/vendor/lib64/libbtnv.so
 8bca0109e2ecefec8cb643ecf426e6c096c9e59a74ac947f5018c0767b7a40c5  ./msm8976-common/proprietary/vendor/lib64/libqmi.so
 494e16be9ecf95ae71269d9509d6cb1774e34b18f597ada595ecb2c24d9266ed  ./msm8976-common/proprietary/vendor/lib64/libqmi_client_helper.so
 3081301358fe843ddf76ad241936bc3c4dc59eca95fdb2156085ccf5ee33a9fd  ./msm8976-common/proprietary/vendor/lib64/libc2d30_bltlib.so
