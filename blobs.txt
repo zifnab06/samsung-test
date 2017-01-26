@@ -3980,7 +3980,6 @@ a6e521ea5c4ca12839418070769c09d49132a0230c32310f03b8396c98514302  ./msm8976-comm
 f200fa1fd8cddde93cdc21e9109ab8772c0671b219005cd4ba7f04421b1648ab  ./msm8976-common/proprietary/bin/qseecomd
 2b5f1fca825244f192f96e7bcbbe3fc4bfae6fb7221e1bbfc4f792cd74c8d90b  ./msm8976-common/proprietary/bin/wcnss_filter
 104e58d5b51f7d6727a37be681d2cb5edd9e688ebadf67f02a2bcc3988a46dcb  ./msm8976-common/proprietary/bin/rmt_storage
-5b67e7eee16bbee619160689e36d0fe48cf8833f634c035292b222f149712393  ./msm8976-common/proprietary/bin/hci_qcomm_init
 2c2ddae533ef62dcf2d632fe877775d34169ddfc8d001cff6814a18f08b2bd11  ./msm8976-common/proprietary/bin/tftp_server
 beae083d9fa5b4e2d8fe5da9915daf20373fac4903d2042705877f50e4062a9b  ./msm8976-common/proprietary/bin/pm-proxy
 af82173524362d6eace8949dc7fd9564320ce5e6417647691084d63ac0d5c1b3  ./msm8976-common/proprietary/bin/loc_launcher
