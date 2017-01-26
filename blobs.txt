@@ -833,8 +833,10 @@ f5bb73742c36588bcdecb0ffefebb2bb15aea62dc7f2012116b4053e12241fe1  ./gts2-common/
 202b03f9538c73231838173dc643a187b67328052a129c89d74a2319b723e5b2  ./gts2-common/proprietary/etc/wifi/bcmdhd_ibss.bin_4358_a1
 ed36cf463fdb0b8bd019d448debe978f15d7225a124eeb712004a9df780a10e6  ./gts2-common/proprietary/etc/wifi/bcmdhd_mfg.bin
 62141c9738178e7ed5d6a50735389ab583e51513853f908be715840f8b6ea259  ./gts2-common/proprietary/etc/wifi/bcmdhd_apsta.bin_4356_a2
+5e0c9ff7b40057acdea92280f26fc6177be24840f8c26a8ecd4356b700986519  ./gts2-common/proprietary/bin/mcDriverDaemon
 1f3abf2fd64b64819b5801aae55d4080dee5335d69fbaa85cd7557d6c2dfabf4  ./gts2-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so
 e617283fcd42b90aaf7b37470ffb5126c0a07b4187940f6b89b5e58a32a61905  ./gts2-common/proprietary/lib/libsecnativefeature.so
+d813b4dba35ceca385caad6f69acd92dd4b407ecb54b36c6da37ec03dfaf2051  ./gts2-common/proprietary/lib/libMcClient.so
 c3e749a2909f679ddb640b37aa4a730f30c7dac17812f2f8dcbb1db20308c6f5  ./gts2-common/proprietary/lib/libexynoscamera.so
 44083546c4c7a6f456853aad06166ee4e638d15471ec7ba315a9477e3f7de4e8  ./gts2-common/proprietary/lib/libyasalgo.so
 51505dd80cc2fdb315b78db9c32293df4cca62e96f2bd25a2abfbdb2e3ac8ca8  ./gts2-common/proprietary/lib/libvdis.so
@@ -842,6 +844,7 @@ c3e749a2909f679ddb640b37aa4a730f30c7dac17812f2f8dcbb1db20308c6f5  ./gts2-common/
 877b48e32d2eedc86d56a7d17af5a2739bc1ffd79c5cf2a822e28fcedd6ecfd0  ./gts2-common/proprietary/lib/hw/sensors.exynos5.so
 c61e2dfd0a928a48c461f3cc4a57160cd34dc0d5ece146812c54114b0d4bc5d4  ./gts2-common/proprietary/lib/hw/camera.universal5433.so
 566e404d1111237f573444c4ff344c47691508da6434b91d2a6dc0b69a28c1cd  ./gts2-common/proprietary/lib/libhwjpeg.so
+bb62f099b153e8fcaf4d3909f0a4d8309d5d1437bf07c0f749d980e20588ee26  ./gts2-common/proprietary/lib/libMcRegistry.so
 9360e9b6711a0d036583f46a20fa419923178c1adcd0602940b11a2fb750ce21  ./gts2-common/proprietary/vendor/firmware/setfile_6b2.bin
 27d77d2edfc312ec8f8e0139c4690d570b2564c5a8880a04b958cb42167df3e2  ./gts2-common/proprietary/vendor/firmware/seiren_fw_sram.bin
 888a02b80074ab4fe2864db0c402b8fd946effec13668f1fc2d33ac733b978d0  ./gts2-common/proprietary/vendor/firmware/mfc_fw.bin
