@@ -3994,7 +3994,7 @@ e6a21257e388a86904817d9e12559df78dfe535280ed07f0b84227159dadfb07  ./msm8976-comm
 e529cebf00b0519b07f162241b5929fb3328b92b72c5f2a2c1aeebf3402a79ee  ./msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so
 101fe20da163305448fc0ff4a38f383ae2c3f9f96835f48cab9845e7af433342  ./msm8976-common/proprietary/lib/libOmxVpp.so
 586e19cbf3e5926c05e7fd8d480746289be613c839f3fb606cffd21cfb1be03f  ./msm8976-common/proprietary/lib/libqomx_core.so
-027dc5f09a9f3adfac3dd9a26a7f4e0b313c019cf49f436ee94f9cfb45addaed  ./msm8976-common/proprietary/lib/hw/camera.msm8952.so
+027dc5f09a9f3adfac3dd9a26a7f4e0b313c019cf49f436ee94f9cfb45addaed  ./msm8976-common/proprietary/lib/hw/camera.vendor.msm8952.so
 248ab7c5726ad12750defc1bddd0ca537e14a29a3fc08edad273186526e8f7f6  ./msm8976-common/proprietary/lib/hw/fingerprint.default.so
 e1dcb8c479f4225b2f56800f97a9f97f754884c051eb48bf8e69a17a88302e4f  ./msm8976-common/proprietary/lib/libegis_fp_normal_sensor_test.so
 c10a6b5bad1a8b9398f7a40c8ed2a7f49db75b8347becedb7e7dae9b7b754912  ./msm8976-common/proprietary/lib/libmmcamera_interface.so
