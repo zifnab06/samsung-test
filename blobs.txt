@@ -3995,7 +3995,7 @@ e529cebf00b0519b07f162241b5929fb3328b92b72c5f2a2c1aeebf3402a79ee  ./msm8976-comm
 101fe20da163305448fc0ff4a38f383ae2c3f9f96835f48cab9845e7af433342  ./msm8976-common/proprietary/lib/libOmxVpp.so
 586e19cbf3e5926c05e7fd8d480746289be613c839f3fb606cffd21cfb1be03f  ./msm8976-common/proprietary/lib/libqomx_core.so
 027dc5f09a9f3adfac3dd9a26a7f4e0b313c019cf49f436ee94f9cfb45addaed  ./msm8976-common/proprietary/lib/hw/camera.vendor.msm8952.so
-248ab7c5726ad12750defc1bddd0ca537e14a29a3fc08edad273186526e8f7f6  ./msm8976-common/proprietary/lib/hw/fingerprint.default.so
+248ab7c5726ad12750defc1bddd0ca537e14a29a3fc08edad273186526e8f7f6  ./msm8976-common/proprietary/lib/hw/fingerprint.vendor.default.so
 e1dcb8c479f4225b2f56800f97a9f97f754884c051eb48bf8e69a17a88302e4f  ./msm8976-common/proprietary/lib/libegis_fp_normal_sensor_test.so
 c10a6b5bad1a8b9398f7a40c8ed2a7f49db75b8347becedb7e7dae9b7b754912  ./msm8976-common/proprietary/lib/libmmcamera_interface.so
 c82757b6f1736d83aeb12ade3f617850f510772e77f015f50a3cbf139125ca7a  ./msm8976-common/proprietary/lib/libbauthtzcommon.so
@@ -4006,7 +4006,7 @@ e7d18d3baf9d3cd62cec5ee88d3962b792bdf985b5888621b9ffa8865318cea3  ./msm8976-comm
 fc0663f8dcaa33430611d988cc60f632ce26af24d6ad615a244f9d97a5eed996  ./msm8976-common/proprietary/lib64/libloc_api_v02.so
 216cc827db2dcd3144b58f4a41a3f644e75ef66a96f438dfacef19ccb1c0945b  ./msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so
 7d35bd9b4c81d55e744f948f0a10333ce48d410f5c996efbf8f3028fa129b804  ./msm8976-common/proprietary/lib64/hw/sensors.msm8952.so
-7df011dc49eac329a8042eb351dc23fb712abe4868afd146dfa67f64d1c7678c  ./msm8976-common/proprietary/lib64/hw/fingerprint.default.so
+7df011dc49eac329a8042eb351dc23fb712abe4868afd146dfa67f64d1c7678c  ./msm8976-common/proprietary/lib64/hw/fingerprint.vendor.default.so
 5cc3406d08187e153e5634a00ee6f0c6f02a4812eabd0fa0d95f2f5ea2dcddeb  ./msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 3777b840084679c9bbd710bb9fa32be133841f319430fff8b0c601ca920b4909  ./msm8976-common/proprietary/lib64/libbauthtzcommon.so
 00d09e29543ffc50de603928be571d14b9735266eb2a1b919fa141e4d409f114  ./msm8976-common/proprietary/lib64/libbauthserver.so
