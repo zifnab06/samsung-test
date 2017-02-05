@@ -844,7 +844,6 @@ e529cebf00b0519b07f162241b5929fb3328b92b72c5f2a2c1aeebf3402a79ee  ./gts2-common/
 444b453b52f59a800f35644717e57f3289d8a623d36bbb2f05a3110187e985ff  ./gts2-common/proprietary/lib/libsensorlistener.so
 877b48e32d2eedc86d56a7d17af5a2739bc1ffd79c5cf2a822e28fcedd6ecfd0  ./gts2-common/proprietary/lib/hw/sensors.exynos5.so
 c61e2dfd0a928a48c461f3cc4a57160cd34dc0d5ece146812c54114b0d4bc5d4  ./gts2-common/proprietary/lib/hw/camera.universal5433.so
-a4cc4ccb709a0d13f9f1361c7b8723f5aefdca722fc7803d7f747f0c43c11454  ./gts2-common/proprietary/lib/hw/fingerprint.default.so
 1cab164afc7c6fb24f36389e5c7e677ff8bd09d71267737dbf2849cf3a82cd0b  ./gts2-common/proprietary/lib/libegis_fp_normal_sensor_test.so
 566e404d1111237f573444c4ff344c47691508da6434b91d2a6dc0b69a28c1cd  ./gts2-common/proprietary/lib/libhwjpeg.so
 b19d350c35d4fc798cd705a67d2bf0486bae5084955162ccc747a03170318ed6  ./gts2-common/proprietary/lib/libbauthtzcommon.so
