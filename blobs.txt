@@ -5349,7 +5349,7 @@ aab7f1ef7ea8332596ceaaa05e14c93d17201e70eed470a0b0f212c129fc7f00  ./sltexx/propr
 a8f71dd15b89ca1258346b5730e30786bca150b94c058f4c74c8e16bbbb21fe6  ./sltexx/proprietary/lib/hw/nfc_nci.universal5430.so
 d2dcd2149ac741f4eff42cf844ac9f3465376552c2dd928984cde7efde751501  ./sltexx/proprietary/lib/hw/gps.universal5430.so
 e226fe7881c48f62c849e61e9d8816da9a9b2ff6c5d219435ff65ca0694a079d  ./sltexx/proprietary/lib/hw/sensors.universal5430.so
-e2f9e44e3aed23ccaf5bbf1602a39bd2464def8d63d7794088321ee5182eeea0  ./sltexx/proprietary/lib/libsec-ril.so
+fc85a1080e9fa584d41ad7ac21329e8c2b52098469de9076b69c8474b309889e  ./sltexx/proprietary/lib/libsec-ril.so
 eab05922391576a720d4acf56c447e5cbdc6b12b089de2c363774b1165558bcc  ./sltexx/proprietary/lib/libwrappergps.so
 9bc72eea94a10b8bd4cc7d92c7d9505cb505fb301818471ce9f277007f55a182  ./sltexx/proprietary/lib/liboemcrypto.so
 d1a17c831a00504c24e477624fc769d04c0ada57d6b856e7e17d9be203fc0a00  ./sltexx/proprietary/app/FFFFFFFF000000000000000000000001.drbin
