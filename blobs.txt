@@ -7821,6 +7821,7 @@ f0e97014656c2b1c1249123da20719d1a335843b8b36c4a56d9f580d7204c049  ./klte-common/
 050ccf6a8cc4dd2eb3fcae0251a1d2806f6c89752b65f8edfa0c62d07539978f  ./klte-common/proprietary/vendor/lib/libqti-perfd-client.so
 dd89c663198346e451561d4e25bdfbd71c7587ec3dd30710406dff4c5258d9e0  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res1.so
 64619b928d6e962e47e9bf771ba4f1a88fb647aa2346fc39e6dbf9c23c8d5804  ./klte-common/proprietary/vendor/lib/libmmcamera_s5k2p2xx.so
+cd4259333338a4ecff3972bae28ba8a3469b1de859cbe23e8f7904eca4d15185  ./klte-common/proprietary/vendor/lib/libaptXScheduler.so
 79a81124653cc1368da1acda4e8165891896881c3e4a32301a48a76dfe4977b6  ./klte-common/proprietary/vendor/lib/libactuator_dw9714_camera.so
 10f933fda9a8883485b53c68136a26a4b302e5ee26982b38f3246374d2a40b34  ./klte-common/proprietary/vendor/lib/libmmcamera_faceproc.so
 8642ccdc25ce45a7a5f62f08c95a06f1293130a34f86216c1973810769d04040  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_preview.so
@@ -7832,6 +7833,7 @@ dd89c663198346e451561d4e25bdfbd71c7587ec3dd30710406dff4c5258d9e0  ./klte-common/
 945a67e983fd8b80eab1f5515a6f7410d4a4411a0af1463f1169f147589443d1  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res3.so
 7c474c92a5b546625a968c1b4a8637cfc6e1ee5f603e902988704084cbaae650  ./klte-common/proprietary/vendor/lib/libOmxAmrwbplusDec.so
 9dd734bf9927cc3ca7287d5bd3700bca2713caace39ab21404c1442b4a8d86cf  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common.so
+892e44c1bb20353001f2a492b0d707dc4c62d74b7d8587c902f7d514dd5da30f  ./klte-common/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so
 b2968517afcd0ed2032255f7bbdafd9d712b069029fc06a0abfe1fd48ec80a15  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_pip.so
 6cb02cb10c868f5d3064a27958170e35e0e0cf8ffd7f391480aae055b1ecdb16  ./klte-common/proprietary/vendor/lib/libOmxWmaDec.so
 d52bffa4ac020b3c43f3ede7e9ddfd76b116528fb3f70190323a62a9f4720104  ./klte-common/proprietary/vendor/lib/libxml.so
