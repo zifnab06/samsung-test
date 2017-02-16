@@ -6916,7 +6916,7 @@ fcf79ec0d1b7cb5c14397df268b452ddaf460504230d65d12012d9e13e69fdd6  ./t0lte/propri
 23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./t0lte/proprietary/system/lib/libril.so
 be21c51033b2c9f4303c22e0118d1cca446ea0d4981463fc0cafd1b38d098926  ./t0lte/proprietary/system/lib/libcordon.so
 d7c34029eddd21bcb14fb4b082f2be21f66e7d26ed3569ca470dbc0d387368a0  ./t0lte/proprietary/system/lib/libakm.so
-c4e7f4fb04e8f470e85f5f23b881836cb214ea59a5a24525b2e1e2abe6f7895a  ./t0lte/proprietary/system/lib/libsec-ril.so
+ebfe11884f87d6fae128f4b8948717a89c069431a844d11c4c7c34379421dac4  ./t0lte/proprietary/system/lib/libsec-ril.so
 dfbb07a9b46efdb49c88d0bc18ab218fabe302395357dc558d3e1d2f578597ab  ./t0lte/proprietary/system/lib/libfactoryutil.so
 057846ac5b1b27f143c35578f189a7fa50a83cdfe95e40e3ba698ca8e1420774  ./t0lte/proprietary/system/lib/libsecril-client.so
 d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./t0lte/proprietary/system/usr/idc/sec_e-pen.idc
