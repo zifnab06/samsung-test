@@ -1381,7 +1381,10 @@ d8eb586802fa5b0bd8ef0f43c28dded5554818d8cb12a8d9895b1e8fa0f55565  ./hero-common/
 8ffc52dab60efb474938f5aef113a81752f96e833ebf581e3cf3a1346c3736bf  ./hero-common/proprietary/vendor/firmware/companion_imx260_master_setfile.bin
 5741d471c9a5190847dc9271361de65f3c51b69c94443c2b7d72bf1548fcb466  ./hero-common/proprietary/vendor/firmware/fimc_is_fw2_2l1.bin
 f7244bb300dc77ce84600fca85eb9b217312cff1696607cbea2161e413a17ed1  ./hero-common/proprietary/vendor/firmware/setfile_4e6.bin
+f90f03ab88be8446f57dedfe8754367de095fcb1fe783f3427e64bf0dfbe87f1  ./hero-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+8ee59e56840a327895bd5ebb25883c0f11228b46d8748c5b5001df458700e105  ./hero-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so
 21f49f997bc7f7f68f184e5bf3caf298ab826a9caa69c38dc1e3857ce1733a78  ./hero-common/proprietary/vendor/lib/egl/libGLES_mali.so
+a663dc2c4f3f21e33dfe2c563c528e5a6b624dffd8941137693ca524e82d2295  ./hero-common/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so
 84a68258ac562ffc3bef753c4143a595b5ccce8f340b622f2bd6c2adf081f85c  ./hero-common/proprietary/vendor/lib64/egl/libGLES_mali.so
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./espresso-common/proprietary/system/etc/powervr.ini
 1877a8abecea957d98024ed7a45d14922e14869b60271b684c70a9c481dc63c7  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin
