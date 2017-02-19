@@ -1915,7 +1915,6 @@ dd92847ddfd76b1a7cf2c143c53c823c263a5e0faed500b6a06306c300b6e3b0  ./noblelte-com
 6602fbd39203cef9f7d4c5a7ac09456fb1160dc9d82b61aff0f2f04a63a22c54  ./noblelte-common/proprietary/lib/libexynoscamera.so
 d50f72e3b1eb4632d99806c4c15283b61bfc16b9591eeb9961abb5723fd6f847  ./noblelte-common/proprietary/lib/libsensorlistener.so
 56084009626232ecdc34c2f3e5b36d97c16fd8771a60a5f333d41f7a54f48c86  ./noblelte-common/proprietary/lib/libion.so
-4f8cb80e9240f071c1270372fcf8145df1cd25afccf0e07b9d51e4a325375ccb  ./noblelte-common/proprietary/lib/drm/libdrmwvmplugin.so
 494669a0c5c89829107b0129e161fcc428877eadaa7e19ac761493eb4d2ba3c6  ./noblelte-common/proprietary/lib/libexynoscamera3.so
 6346cfce2dff7e8e53358fadc66ed62f88560f2e9759fa64e8b004b028a49b76  ./noblelte-common/proprietary/lib/hw/nfc_nci.universal7420.so
 62b274aaec4e6c0a5c492fb93b8abe9fc3ca51384ce0cd5f7d60ea71caf160a7  ./noblelte-common/proprietary/lib/hw/gralloc.exynos5.so
@@ -1927,7 +1926,6 @@ e4e6a97f1da002dcba9b0a0bfb20a83ab2dacec4aaada80861f5cacdb4e8dfab  ./noblelte-com
 93d90909ebf52c1c59cb09983344ad1239897171740d0d35c48d6ee58ebf884a  ./noblelte-common/proprietary/lib/libwrappergps.so
 ffc4d788fe3b558cd53ca626b758b907f71296daeafbb3c66e0535ddf0df5afb  ./noblelte-common/proprietary/lib/libhwjpeg.so
 527e5c7900f80c44fa668e1536d8f147336ec773f94a8f128fe7a1f999fc0e5d  ./noblelte-common/proprietary/lib/libMcRegistry.so
-31b11dd882b725d6bee329fb52d186de7b258d2960ad3b5be21c1165e1ee77df  ./noblelte-common/proprietary/lib/liboemcrypto.so
 7ef41f6fe988cfbbe28522fad9d141d8e6072b5050c5f7799773c6e58a57357c  ./noblelte-common/proprietary/app/FFFFFFFF000000000000000000000001.drbin
 d05a64edb04743e1dcfec20480c29deac870e8245d9f5f043875d91f691d42ac  ./noblelte-common/proprietary/app/mcRegistry/08880000000000000000000000000000.tlbin
 3eded9f412e896301c17d8ddc3bf3dd4bd49b13f846da2f28d09e3aec22622cd  ./noblelte-common/proprietary/app/mcRegistry/fffffffff0000000000000000000001b.tlbin
@@ -2128,14 +2126,10 @@ ac0a6c02c975283126dee414a299246d30bcf31069c79c34b2c7f4f141d753ac  ./noblelte-com
 3a2b1c49a295ac9743f913d973c91ac564349ae94aee4bccfa4e52e5a0af29f8  ./noblelte-common/proprietary/vendor/firmware/bcm4359B1_V0043.0055.hcd
 348dea26897e9bf814e02ed7019a13d3173a46237f3b45ac1ea89b377a200ed7  ./noblelte-common/proprietary/vendor/firmware/companion_2p2_master_setfile.bin
 8f9f873323fd12bfe5484023bd02b936102e6944bc5f1abb7735011ab4dce6d3  ./noblelte-common/proprietary/vendor/firmware/setfile_4e6.bin
-4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./noblelte-common/proprietary/vendor/lib/libwvdrm_L1.so
-d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./noblelte-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
 9fb201a37e79072ba2e20514f857af614e24883ab5efe8e5b5803bff29e97009  ./noblelte-common/proprietary/vendor/lib/liblvverx_3.27.02.so
-20cb1c85e9dd2459305455fe43712a4324f1451e319dc1a14bed50e5d9abe1ef  ./noblelte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-80e1d718477b921678afdebac93bea1508e8af696d36ec8f6fd076d911651539  ./noblelte-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./noblelte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 53757576d66c1de01b13dcdeb2eb73b9cf28ad373c184bd5119d2f3395a78f1f  ./noblelte-common/proprietary/vendor/lib/liblvvetx_3.27.02.so
 62986ea6185206d0d89bd3e11516b326e1c5cf05cc3603926b85849362ad79f6  ./noblelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
-d68946319346c42b7dd51f7aa908b11241855823b3b2198a33c9bb6969d3ffe3  ./noblelte-common/proprietary/vendor/lib/libwvm.so
 55e7bb2495abc266459317456ef00f9c33f00fcbf23307fc772b93b75997e7ae  ./noblelte-common/proprietary/vendor/lib64/egl/libGLES_mali.so
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano3gxx/proprietary/bin/rild
 396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano3gxx/proprietary/lib/libril.so
