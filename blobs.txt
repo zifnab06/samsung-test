@@ -1892,12 +1892,10 @@ aead632657251262102861b5cefc7c83e3600a388be39124be6f1855f10361bf  ./noblelte-com
 556f4de3a037f20d28628216cf36cd736964caeb8995ac757fe655715262b94a  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp3-tx-nb.bin
 4a2052fca39e20ce95ca487e8f38b1d428053590040ee0df90ddf34739c6beeb  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp6-lpsd-control.bin
 016187dc88f20996f0186061fbb9c09001087fb8e0e8a52364e9425fbf13904e  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp6-ez2-control.wmfw
-ad7da31e988103686ef71af60ec37c83e9fa57d2e4de2c450eb204bfaa338623  ./noblelte-common/proprietary/etc/firmware/audience-es804-data.bin
 07546d5c04981a53f340dd17f716208847ea44826222a3897211412c6ddab24d  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp2-tx-nb.wmfw
 05797be3493ccfe88e6eef664fd99ca3996c510b90f647e836944021d8994b23  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp3-tx-swb-interview.bin
 e1fd35e8ce14e78566ac4e09ee54a5906e87fbdaaf846477346da6e6dc957be7  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp3-tx-wb.bin
 065975b133bf17177bc09ce77cfece4e4efb63a0ef194e7a34d0ab61e4e2ba57  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp2-tx-wb.wmfw
-45da1a49e25555847caae1ea39e688dc8c5905daad2a92bb0464ac62f4af5f27  ./noblelte-common/proprietary/etc/firmware/audience-es804-fw.bin
 d272ffed7276557f5b588e9b0262cbefb29f4e9268aaad85fd0f820040883a7e  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp4-rx-anc-wb.bin
 ad8c5664d039589e277db612b83fe232b006ac9004c93a55c2ab003816a848dc  ./noblelte-common/proprietary/etc/firmware/clearwater-dsp4-rx-anc-nb.bin
 e9701201cb190c194530841a9bfdb79265899c4758818609ba30ec20a60fa0d1  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp5-dsm.wmfw
