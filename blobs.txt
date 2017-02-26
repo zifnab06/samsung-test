@@ -2122,9 +2122,9 @@ ac0a6c02c975283126dee414a299246d30bcf31069c79c34b2c7f4f141d753ac  ./noblelte-com
 ef2c9716717b8cb9d052358c51c8f9b4d0f9c9b156d8105878717c88464170be  ./noblelte-common/proprietary/vendor/firmware/setfile_4e6.bin
 5c7dbad3575b371277f65b620b91b0436259e0ce83076963d0f895a994659637  ./noblelte-common/proprietary/vendor/lib/libLifevibes_lvverx.so
 acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./noblelte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-0adef61fa0ce90958bc49b1c6ae158eb2b8d9201f87df1e1b6b120af3bc4d9e8  ./noblelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
+62986ea6185206d0d89bd3e11516b326e1c5cf05cc3603926b85849362ad79f6  ./noblelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
 bf045cce01eb7e6368d466eabc686cda04e2683254ecea3827adf3a01d028030  ./noblelte-common/proprietary/vendor/lib/libLifevibes_lvvetx.so
-eb964fe386ae8b974c9abcfefad19af3298bcc6027ec642c1a8d7da96efbb7b4  ./noblelte-common/proprietary/vendor/lib64/egl/libGLES_mali.so
+55e7bb2495abc266459317456ef00f9c33f00fcbf23307fc772b93b75997e7ae  ./noblelte-common/proprietary/vendor/lib64/egl/libGLES_mali.so
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano3gxx/proprietary/bin/rild
 396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano3gxx/proprietary/lib/libril.so
 2d415ffde2168f426291dfd482b7a8006f24dca271af28d199e816cc2484e14d  ./serrano3gxx/proprietary/lib/libsec-ril.so
