@@ -3315,7 +3315,7 @@ e9fa8bb3bf7c890ca524288ff99d1baf47e98b83e7ca19fa378d361f39c103e2  ./gts28wifi/pr
 34165afe9004d9e3f3c627e250cafa5bdbbabf1e192a1ebffc6d43ca2031d008  ./gts28wifi/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin
 568bbe44d57e80f76466fc7f911c9cc1251380e8ee2e3b7ba469a9b961f58b2a  ./gts28wifi/proprietary/vendor/firmware/bcm4358A3_V0069.0114.hcd
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./d2r530/proprietary/lib/libril.so
-f111f320f3ea8746489d088b5b3c3cca98268f1eac1c7346ecd1519033066bd2  ./d2r530/proprietary/lib/libsec-ril.so
+72dd897a471c377e52f0e79e03879c9d68ca2a92958e1456e7fc650d81a39004  ./d2r530/proprietary/lib/libsec-ril.so
 b7eba5b41f29a6c7ba5e4610f7b2a52012be82764eeb63578b137f9a61460253  ./gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4358_a1
 dac1f0376b6717007e5702064b37b70d42265f0bccc5f92f34c17fcd86647f8c  ./gts28ltexx/proprietary/etc/wifi/nvram_mfg.txt_4356_a2
 cb33b9c84d4511c128357d739855e05f59a463a6c30a10b78764fcc3934121a8  ./gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4358_a1
@@ -4956,7 +4956,7 @@ bb3744b62afd00c191ce027cb34f6dc71f434bae7ba8d342e17740c88f1575b9  ./picassowifi/
 537c9c2606d545fc7f29fe063601541d4ad4af1692c21fc37e6c4575bef4473c  ./picassowifi/proprietary/media/battery_charging_20.qmg
 417485fac48b0c13861c7e39b05ac4c7a4f7c2435faa4b8e081b422c15ac15c0  ./picassowifi/proprietary/media/battery_charging_15.qmg
 c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2spr/proprietary/lib/libril.so
-faf7e0a2af59ecd1569a45e91568407b0f70e949eedc30951687c18df28e4b7e  ./d2spr/proprietary/lib/libsec-ril.so
+29b8209dd96e28e03296f0c5e621cad6ec54dde9044a56d83826a8d8ba1e3c90  ./d2spr/proprietary/lib/libsec-ril.so
 8e62b9ffd7f34a538615c556220b4fa70a0635d70f39d9763bd2bbc717d0115e  ./klteusc/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klteusc/proprietary/bin/rmt_storage
 f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./klteusc/proprietary/bin/rild
@@ -5764,7 +5764,7 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 9d4f9168163e3ff245d2d4a0dbd3640b9f041c3a94921c55472fe9016b48525a  ./vibrantmtd/proprietary/libsec-ril.so
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./d2vzw/proprietary/lib/libril.so
-57e96f6661022f070f915b6903efe96940aaf6f9e0e4f6ffdc7a2a4f2098db1c  ./d2vzw/proprietary/lib/libsec-ril.so
+09c74ce4e3d4aca46df68ba379e724b94799f6061e2c23ccee94cd0265855a1e  ./d2vzw/proprietary/lib/libsec-ril.so
 066eacf9ae1cb8bba9cd7d9a0239b9d433345f79c7a04ed597d1863e3d3bb3b4  ./zero-common/proprietary/etc/sec_s3fwrn5p_rfreg.bin
 3f866f92d1e7845f98cae2c2b3b0d7e7ba6b8b0c9d46b2debe89e64bab4e38e6  ./zero-common/proprietary/etc/wifi/nvram_mfg.txt_murata_b85_a1
 a922f4685c8b9852517c0e348230df3751a7a59614d1fa21c9f326e8622baf82  ./zero-common/proprietary/etc/wifi/bcmdhd_ibss.bin_a1
@@ -6215,7 +6215,7 @@ d17162835467a36a7798eaf150b02f473a7f6a1e9eb11f2cfb707c11c602627d  ./i9500/propri
 d637c7ba0d4ded2f72c0d1133df4920e7109252dfba776625f0393f123dc957f  ./i9500/proprietary/vendor/lib/liboclcompiler.so
 079f1e27b0810ed14de36a8ed71becdd83b8d09e64a09f3f0a275ced87a926c5  ./i9500/proprietary/vendor/lib/libglslcompiler.so
 23dc22c30919e2573e22803b7370c0ed874fcb9d52cf93608d35f254deace483  ./d2gsm/proprietary/lib/libril.so
-485f4c6a563f749f5f9b326dfabb90ab2a8f907726e20f71e23806adc392e688  ./d2gsm/proprietary/lib/libsec-ril.so
+49a5dfa1940bf7325c41d88f1a3314112e237d406a8de86e833f5f7b5823d4e4  ./d2gsm/proprietary/lib/libsec-ril.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./quincyatt/proprietary/etc/thermald.conf
 9521d756558ea92419fdd8c4a3c829cd423bf17f668336c3fb6fd14f5ab65c6e  ./quincyatt/proprietary/etc/wifi/bcmdhd_apsta.bin
 2633ed7f8adc5187942e82054aad5973712e354f54eea409d8e7ad4341644047  ./quincyatt/proprietary/etc/wifi/nvram_mfg.txt_murata
