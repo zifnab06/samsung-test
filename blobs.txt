@@ -1919,7 +1919,7 @@ d476cd7e3a669fe7ed6ef48062ce135020b1cf37ae036c59efbaebad9f0a0ef0  ./noblelte-com
 5000aa50dca16bde3545efc0697f1a3784a5430c055b04fc9084c766cc346e43  ./noblelte-common/proprietary/lib/hw/gralloc.exynos5.so
 644a25669c1eed85b7561abff028562dc88ca1b6116e74ec0073372c57e3d43e  ./noblelte-common/proprietary/lib/hw/sensors.universal7420.so
 b9eedebf16b5db2d778a062813ef26376f3af72318d37e51163ed38043332014  ./noblelte-common/proprietary/lib/hw/camera.exynos5.so
-e06a1501b0ace50eca360e15f340829891d9b40bf7a3b843aa8d274935eefcc6  ./noblelte-common/proprietary/lib/libsec-ril.so
+292c559051d0c40ae62886eee19f81db3ac3e2853c7ad9382a7d7eec4e24e88d  ./noblelte-common/proprietary/lib/libsec-ril.so
 f979d46616beff8aeaecf7fc404f5b74ed943b5d8e90877c471bd511b1fdc48a  ./noblelte-common/proprietary/lib/libion_exynos.so
 a44018d82a669b8eb451943f5dc24f55be4a87989221aef08a9122ca6616a60b  ./noblelte-common/proprietary/lib/libwrappergps.so
 a71ccac4d5cf587acfc3519b70004a36fa05e15d69810bc8d2e1e3276bcf7ae0  ./noblelte-common/proprietary/lib/libcamera_metadata.so
@@ -1983,7 +1983,7 @@ a6fe972cd2df97a276b9914f4d746b780954886f3b39e98205050fc321413fff  ./noblelte-com
 0b95e5a694c6d19b7de43f90f98fe13913b3b2175d6b92d4030ed3e7ff03c4f9  ./noblelte-common/proprietary/lib64/hw/gps.universal7420.so
 73397c104a9abfef075485591651130b7f3ced8a343ec921cc4cd660516adde1  ./noblelte-common/proprietary/lib64/hw/fingerprint.default.so
 c1349627aaa4c9eb9d5d39addcaf105377ad0f800e916d472dd9548d82e6ed57  ./noblelte-common/proprietary/lib64/hw/camera.exynos5.so
-0eb33193d0a79a711f5308ce683f4f61f67470396183681127eaa7d87253a643  ./noblelte-common/proprietary/lib64/libsec-ril.so
+a2cecbf4ef0b882af416fd1069a8103071d1bff4b4833cf9b6860af985c3c9f7  ./noblelte-common/proprietary/lib64/libsec-ril.so
 605bb85b3fe91fb639ef3bcb3d805a6b4e5342f5f50c2cdc0a0fe6cadcc7cff3  ./noblelte-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 f7d88034303bc30bda96456cab8a0b9318c0cb12d6480b5279893a8d18c01932  ./noblelte-common/proprietary/lib64/libion_exynos.so
 ddf95ed617ea544f7d1eadd13bc4c843cbf4a281d4e03d88e750d72a213ba091  ./noblelte-common/proprietary/lib64/libwrappergps.so
