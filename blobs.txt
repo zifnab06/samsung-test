@@ -5614,7 +5614,7 @@ a6f51948047f38029e48d39ffada8acb9d22976fbae540bf44b5121ed2973c9f  ./sltexx/propr
 a280ad2e7ad23d5eb5f3e12d464d423e4fd36f1b173954a633073ef8abc97c04  ./sltexx/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.bin
 350ffbec9f5d5e2f50aeb2d706bafdbf476ef323ffab4a28a36a60a8e24aac71  ./sltexx/proprietary/etc/firmware/florida-dsp3-tx-swb.wmfw
 8f2d6d55dea284f9985c617ba5ea7dbe505360eb4763f3dca84c78e9fe757171  ./sltexx/proprietary/etc/firmware/florida-dsp3-tx-swb-conversation.bin
-ac3ded0fb987b72e01cfe002e9947a20140a37cf1e22cc689093aee837830643  ./sltexx/proprietary/etc/sec_s3fwrn5_rfreg.bin
+c82b4617c5446456a44198049d2998ba8217fb02b02065eba34ab433e04e48e3  ./sltexx/proprietary/etc/nfc/sec_s3fwrn5_rfreg.bin
 f26d77626ec853f818a2f785a0caf1719d9076fe35c989ca09948dc8c38e27e9  ./sltexx/proprietary/bin/gps.cer
 46d08ade3b38ebae263935a92b0ff0bfaf73f22e4fbb6ab6f28831b3c705cb60  ./sltexx/proprietary/bin/gpsd
 0b6f6404010e17c491e26c87a43df9c804b6b9336c9865371ad891db405c1457  ./sltexx/proprietary/bin/cs
@@ -5627,7 +5627,7 @@ aab7f1ef7ea8332596ceaaa05e14c93d17201e70eed470a0b0f212c129fc7f00  ./sltexx/propr
 23e481dd1ea4f4cce39099678c7cc06b9edf87174350aad481a23da83e2b583f  ./sltexx/proprietary/lib/libmplmpu.so
 80c273cfe09469c4531bf751f406e5cb0bf93eaab052893fb89e675a4a34f83e  ./sltexx/proprietary/lib/libdrmdecrypt.so
 2c45d5cdb8dd9b88928e4242389653974f6e39d6170d8139242dea9794219de5  ./sltexx/proprietary/lib/hw/camera.universal5430.so
-a8f71dd15b89ca1258346b5730e30786bca150b94c058f4c74c8e16bbbb21fe6  ./sltexx/proprietary/lib/hw/nfc_nci.universal5430.so
+4b3840f29c80b6f5767596da270ea67427cbadf7d2e0aba5f1c0e1ac9ff2390f  ./sltexx/proprietary/lib/hw/nfc_nci.universal5430.so
 d2dcd2149ac741f4eff42cf844ac9f3465376552c2dd928984cde7efde751501  ./sltexx/proprietary/lib/hw/gps.universal5430.so
 e226fe7881c48f62c849e61e9d8816da9a9b2ff6c5d219435ff65ca0694a079d  ./sltexx/proprietary/lib/hw/sensors.universal5430.so
 fc85a1080e9fa584d41ad7ac21329e8c2b52098469de9076b69c8474b309889e  ./sltexx/proprietary/lib/libsec-ril.so
@@ -5769,11 +5769,11 @@ a57783e1eb342434ad6a1aa024a2f4b3cff8201f3d297d5ecec7c6f6bc82a043  ./sltexx/propr
 ab23149e1edb2df5eaedd099837640d2ba72be39edfbc7065f7a3a3628a8758e  ./sltexx/proprietary/vendor/firmware/companion_2p2_12m_master_setfile.bin
 1d5f9f198e7cc27754edf1808e966584b0499280ba0b24fc22adeb5cc9dd1768  ./sltexx/proprietary/vendor/firmware/mfc_fw.bin
 5e85e8fac6694b7cc2d920e1a705d44151ad7da70971da18e0b1bffae621dcf4  ./sltexx/proprietary/vendor/firmware/hevc_fw.bin
-05ed1126ed820aa5b9b66ea597406b660282983ae03f23cb14d5668ff0bfe54b  ./sltexx/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin
 a57783e1eb342434ad6a1aa024a2f4b3cff8201f3d297d5ecec7c6f6bc82a043  ./sltexx/proprietary/vendor/firmware/setfile_8b1.bin
 00fcb4eba8a08a5095b3843f26211bc19fddbfffb973fcce3263d6096df92819  ./sltexx/proprietary/vendor/firmware/companion_2p2_12m_mode_setfile.bin
 7b92a58634c23e7f8832db18f93cd4eaaf4f9d36418809ea23f14a23dd72e2ea  ./sltexx/proprietary/vendor/firmware/seiren_fw_dram.bin
 c20276d109113f2271679a213fa0db14ee7d1f23b637dc89fd4f0e55ba3c9137  ./sltexx/proprietary/vendor/firmware/setfile_2p2_12m.bin
+05ed1126ed820aa5b9b66ea597406b660282983ae03f23cb14d5668ff0bfe54b  ./sltexx/proprietary/vendor/firmware/nfc/sec_s3fwrn5_firmware.bin
 4d87cc89f701355ef5c458b27540e2e742a1271c2ff1307237700cc5c3e8cd22  ./sltexx/proprietary/vendor/firmware/fimc_is_fw2_2p2_12m.bin
 5c7dbad3575b371277f65b620b91b0436259e0ce83076963d0f895a994659637  ./sltexx/proprietary/vendor/lib/libLifevibes_lvverx.so
 e7b75662cbba7fef08b1216f8880641e8794bf07384a9bee8ab7e7ac771bfeb4  ./sltexx/proprietary/vendor/lib/libRSDriverArm.so
