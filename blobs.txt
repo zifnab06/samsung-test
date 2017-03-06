@@ -1426,6 +1426,8 @@ a663dc2c4f3f21e33dfe2c563c528e5a6b624dffd8941137693ca524e82d2295  ./hero-common/
 5728508851ad034f1ee9a0986fcf26afc5b0aeab065d72abd22ed24a472f29dd  ./hero-common/proprietary/vendor/lib64/libSEF.so
 2554ba726dd1e0c7cf5280640531e35c9f8851e3ae13139abf2f4e22fc3472f7  ./hero-common/proprietary/vendor/lib64/libHpr_LocFace_mvfd_v1.0.so
 abc11526ec6d3fe9cb1e50b382bbe52d84ecf7de398997a158778fa8654008a2  ./hero-common/proprietary/vendor/lib64/libHpr_LocLandmark_sdm_v1.0.so
+c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./d2refreshspr/proprietary/lib/libril.so
+f4fabe84b27a16446dced051c156942e28164afecbdd8d0412c5a778ccb6ebe9  ./d2refreshspr/proprietary/lib/libsec-ril.so
 c2593d2a45b35dd60097d1ed9ac71b2e41dd7470219ac2cc2dec5f2e5870371d  ./espresso-common/proprietary/system/etc/powervr.ini
 1877a8abecea957d98024ed7a45d14922e14869b60271b684c70a9c481dc63c7  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 f978346fbb3fc4eadf7d9f8ab9072cecbc5146e63dbf9e44dcc767feb8de6cda  ./espresso-common/proprietary/system/etc/wifi/bcmdhd_sta.bin
