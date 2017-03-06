@@ -6968,9 +6968,6 @@ ae1ddee88540b731b634409b167e795ff0912bf8a10c6346ba77cae0fc4566c7  ./t0lte/propri
 ea24666598175122def5fc151e451c63520d2e12b19b54d288d0d8cca3e46824  ./t0lte/proprietary/system/lib/libqmi_encdec.so
 61a72a9563adb0182f6697073fee4cade60d14673a722719bc9085cbfa1f6189  ./t0lte/proprietary/system/lib/libqmi_client_qmux.so
 b63d5075dcc773813be02475f2bad615f1fb2a7c20d64e8fa854a816adb966db  ./t0lte/proprietary/system/lib/libqmiservices.so
-d639e7f14bd71c13c11598b1c588368ede63b2248c0aef2e139f0f6d21cd1ec3  ./t0lte/proprietary/system/usr/idc/sec_e-pen.idc
-94e450c4f23e17f08d8cf702cd01c9f4a738d62a812461e2983f75edc1514009  ./t0lte/proprietary/system/usr/keylayout/sec_touchkey.kl
-75f9a7014fcd9ac319d7cde9131a11251d8c1124b95ec188c4ee22dd113232ae  ./t0lte/proprietary/system/usr/keylayout/sec_e-pen.kl
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./smdk4412-common/proprietary/etc/srm.bin
 2fcbf3ba340176f41fd277e64d33bec3351d3eda174e258d861d1c949dbef4a6  ./smdk4412-common/proprietary/etc/wifi/nvram_mfg.txt_murata
 3dd0a0372811a52641fbc679489833689ddfa0e407c6d709175bd227efac7b29  ./smdk4412-common/proprietary/etc/wifi/nvram_net.txt_semcosh
