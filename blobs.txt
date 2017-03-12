@@ -1977,6 +1977,8 @@ e9701201cb190c194530841a9bfdb79265899c4758818609ba30ec20a60fa0d1  ./noblelte-com
 c60ddbf551fcbcae959b467eacccd510607add77d46bd49aab75d34e66470fd6  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp1-trace.wmfw
 d922f8c804bed0556bb9dd13c024d8d24f05d6509c0b21d11f6f5107463a215c  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-wb.wmfw
 5d3662c3ac69773a4a3480f88d7895571c395b26f63546cfcc9b1c5b4503d1c7  ./noblelte-common/proprietary/etc/firmware/clearwaterc-dsp3-tx-nb.wmfw
+fda6d83c8eec83dc106e5d490cc8a29a2b06586f59b8db6430481ff58cc85064  ./noblelte-common/proprietary/etc/nfc/THL/sec_s3fwrn5s_rfreg.bin
+c3a57bd7a768312bdd4f25e6bd638b574a20d011cb133197cd593e7fda0a3ef8  ./noblelte-common/proprietary/etc/nfc/sec_s3fwrn5s_rfreg.bin
 c171d220247c1d6cc00f1e39aa4e3017b17f61651a219302836776ae6840f985  ./noblelte-common/proprietary/bin/bcm_sensorhub_a2.patch
 478c184fb9c7e40bdb118dfd4af8d40212435c581836125b3ca1cb495ac9e90b  ./noblelte-common/proprietary/bin/fingerprintd
 cf349fbb3dba3832b33006c3fa9db284d31731916537fe89107be1f9067bbadb  ./noblelte-common/proprietary/bin/gpsd
