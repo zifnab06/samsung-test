@@ -7608,7 +7608,6 @@ a81fbcaf6302f3ea45c78b0bfa83625362e766fc5ed25b1f4761bc94adf68a0d  ./d2-common/pr
 300ea4a4bbb9eec065ec7f26c319729edb7575a2fa21b0f4da745cb28281af66  ./d2-common/proprietary/bin/efsks
 08a782a682da423ca0ce78882185a4d337517cb7a7cd75c6d21c41248177f7f5  ./d2-common/proprietary/bin/rmt_storage
 1a72c23fc26b272f14597be7ca6c981f8524ecc418e5163879a050932c2073a8  ./d2-common/proprietary/bin/ds_fmc_appd
-74bb1d477bd473e16311115a08eca3a29a62f5912cbf0ad1896efb7a3bbf46a5  ./d2-common/proprietary/bin/thermald
 c6fb35e156e4101900e3e1b3e14db5088c74e237d54dc6de73eaf76ba8f85164  ./d2-common/proprietary/bin/radish
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./d2-common/proprietary/bin/rild
 6cc16e802b865c7d245886d1f3dd843890be5debf87ae283865f251d22afe552  ./d2-common/proprietary/bin/qmuxd
