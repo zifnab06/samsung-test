@@ -7648,7 +7648,6 @@ c429667eac6836de5d3abbdfbc2a916dafa9a15c8a6b75024a38497e8f13914a  ./d2-common/pr
 64cf733f177fad3335d6eb2b77171d83e3e83f450ee700315b57d382061ab689  ./d2-common/proprietary/lib/liboemcamera.so
 fa5909bcb1a54770d3afb577bc093b293300c089c2c0c644d1b86c55c5699091  ./d2-common/proprietary/lib/libmlplatform.so
 01d22522620d0cadee9c451f78e7f045cab1ff0ef1be99e9d98de8e92dd3ebce  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_preview.so
-59891045aa80d187123e2db59ff74f5ec2b55328624df12e43bf3e410ee3c30e  ./d2-common/proprietary/lib/libExtendedExtractor.so
 f6ff4f01678f6cc6ac85921d8b36a4e06e8aab835fc727bd4c405ce1e894f14e  ./d2-common/proprietary/lib/libQSEEComAPI.so
 afe4a5cb4c1a40e39244bf1a4c2e48c2a06f0112cb15ea2a70f3b0f47c06e286  ./d2-common/proprietary/lib/libchromatix_ov2720_preview.so
 bd4f98256d72a12355f8864e577b77ec4793dec85ada174ae74a3d8f6c6aad33  ./d2-common/proprietary/lib/libmmstillomx.so
