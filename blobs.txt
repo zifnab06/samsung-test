@@ -113,7 +113,7 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./exynos5420-c
 18e517b4533cf4f53f3b911b3b635f65f7d9bfcc766f073e9646ed7e486238a2  ./exynos5420-common/proprietary/vendor/lib/liblvvetx_3.20.03.so
 f2d42753756a26de9c13b01ad1bc216a9c1d5203e8867071d07a3d30a9a83290  ./exynos5420-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 3bcaa67077d80db7deb7dd6849e0abb4772ccdb238752a2de133cd140288685a  ./exynos5420-common/proprietary/vendor/lib/liblvverx_3.20.03.so
-6bdde99d255444cf59374558736c85de5413125f63f4035237d6556c0f91047d  ./exynos5420-common/proprietary/vendor/lib/egl/libGLES_mali.so
+effa0203c5ec46e5217766b7c074d2b2676add7be2538c996ac84c0de7d7cd23  ./exynos5420-common/proprietary/vendor/lib/egl/libGLES_mali.so
 8665c48df0954b1df6c9c0d2f7d926bf01b89f6d6a82aafa611eaaadfd6e5b92  ./exynos5420-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
 5e326fb7418e59df476a37b72c9d2244d5d9b12b7ad4d9cabe713e74a31a90f4  ./exynos5420-common/proprietary/vendor/lib/libwvm.so
 9481a6dbc982c98f9a776229a14a5112471ebcde4489e0a6fb469631abdb639d  ./exynos5420-common/proprietary/vendor/lib/libmalicore.bc
@@ -628,7 +628,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-80b080f3fc6561157952ef52f9806b40235884a97e5436b0705a2a2067108a26  ./blobs.txt
+2b754392a75292d268f54b800ac9f851a98c77c45068e98db437f7c76f28f8a8  ./blobs.txt
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./n1awifi/proprietary/etc/wifi/bcmdhd_apsta.bin
 90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./n1awifi/proprietary/etc/wifi/bcmdhd_ibss.bin
 8baee94b63105ca69f1b92459bdaae96cc06feeaeb72bf5bd2b7f5b88c38ff50  ./n1awifi/proprietary/etc/wifi/nvram_mfg.txt
