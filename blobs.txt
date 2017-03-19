@@ -7624,7 +7624,6 @@ f17fa91dba3cb944ba699bf0203e742d3494c7b4a34fa2fabb91be47d6e05b3c  ./d2-common/pr
 56141ffa4326225a36be12b089f8aab23e64465c46ee9f2d67d957e9601c4bf8  ./d2-common/proprietary/lib/libqc-opt.so
 5950d05449dfbed54f62f1adf80416bd960a51b29d7379a21413665288017d89  ./d2-common/proprietary/lib/libchromatix_s5k6a3yx_default_video.so
 01df08d5b223fc17999b2abc3d57d89689f579124c3ab832b23812acdc622562  ./d2-common/proprietary/lib/libaudcal.so
-47fa8b4f330421dd8c090d77ed3bde3f411decd37d283d9dcffd8edb2e53df38  ./d2-common/proprietary/lib/hw/nfc.msm8960.so
 786030e697464331fc8126e92546879839e7a38745ae055694e65ac141c83303  ./d2-common/proprietary/lib/hw/camera.vendor.msm8960.so
 87e29a7706b2b59de88296cd1e28289dd7791ce080125b199e04cd1b2e200154  ./d2-common/proprietary/lib/hw/sensors.msm8960.so
 66d47851218c61743c2149ff7ba92bf97d669465dea56401b06c1ca8bd287e20  ./d2-common/proprietary/lib/libqdi.so
