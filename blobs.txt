@@ -6173,7 +6173,7 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./sltexx/propr
 49b12f8d2fc78747b3fd815eb33a5e56b8b7669003290634a95f0569fdc155da  ./sltexx/proprietary/vendor/lib/egl/libGLES_mali.so
 bf045cce01eb7e6368d466eabc686cda04e2683254ecea3827adf3a01d028030  ./sltexx/proprietary/vendor/lib/libLifevibes_lvvetx.so
 d6e76f535c48cc71f400150c0cd6ee4b3531d1d3806d27f7f5f6b68c5cf89fa2  ./sltexx/proprietary/vendor/lib/libmalicore.bc
-81875d8a1abf535a193c47fbfec1e7dbc06c30372f26013a2d780db182621e90  ./espresso3g/proprietary/sbin/cbd
+81875d8a1abf535a193c47fbfec1e7dbc06c30372f26013a2d780db182621e90  ./espresso3g/proprietary/system/vendor/bin/cbd
 724a8d83c5ffd21666743437b998c903a8a482a7e89c63fccccacfbb5a65aa32  ./espresso3g/proprietary/system/vendor/lib/libsec-ril.so
 6f8dccb892933c621560d695042ccac5178e72861ece90a65b3b30ac44c8b6e8  ./jflter970/proprietary/bin/efsks
 2c648870fd4708edd405ef68d0fdd2b1c9dae48d85518922bc0d25751c850310  ./jflter970/proprietary/bin/rmt_storage
