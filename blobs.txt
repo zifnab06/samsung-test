@@ -1467,7 +1467,7 @@ a0cabf866e3388b6e8056e62b3b09ce1931708c9b0ad2fe6af13d6a518c53343  ./espresso-com
 7734d4d7b63f4b72d96f439f0bf7f3e2b536575b01bc7a1d80a1bef6ac906efd  ./espresso-common/proprietary/system/bin/smc_pa.ift
 ec1abfc0ff5580a574e1716562b27cd4420909c14596869ed07cdd15d36995d9  ./espresso-common/proprietary/system/bin/gpsd
 107ac18ccc79a24ccf77f982ac04d50ff91c79b3fd79be8c8280dae679c5bb0c  ./espresso-common/proprietary/system/bin/smc.ini
-afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./espresso-common/proprietary/system/lib/hw/gps.manta.so
+afd365041e911ac28d714a6e90d3f483ce4bcf38ad4f66d01952a5299815eaf8  ./espresso-common/proprietary/system/lib/hw/gps.omap4.so
 fadbc124dcde4f7103319ef10c3cdca595d69f2660c64259dada786333fbc84c  ./espresso-common/proprietary/system/vendor/firmware/ducati-m3.bin
 94035aeab3d6ffd46eebc96648994908c6c6bce8fa71f2eb69faee52f0ae1f8a  ./espresso-common/proprietary/system/vendor/firmware/BCM4330.hcd
 409a20c8fdf7aa95793a55a59ed3c823f78647d421be9f2039c159334887597a  ./espresso-common/proprietary/system/vendor/lib/libWVStreamControlAPI_L3.so
