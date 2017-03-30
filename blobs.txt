@@ -748,7 +748,6 @@ d3b1786e1c3725877bd1d6a7212985a82f43247b760cd40f7a3497f790f7d533  ./chagallwifi/
 da0d622b1932c8a44472a9164af059936271d2d6aef76da6e1ac8e6a6ac0120c  ./chagallwifi/proprietary/lib/libak09911c.so
 9503b9d1bf25303db16e540c6b6818b9b6e49be638a00fd78529b3867de03d9b  ./chagallwifi/proprietary/lib/hw/gps.default.so
 2069d89188a32d21c7b4d927cf37990ef8913b67b98c2693a981a08fc8731e55  ./chagallwifi/proprietary/lib/hw/sensors.universal5420.so
-718e8811f809971bd4e16af640dc2dbcef97acfb7148e40f3c22c425153d5190  ./chagallwifi/proprietary/lib/hw/camera.universal5420.so
 5669692db96edc640cad669ddf577bdd326aec78e360d3e5d7bc64952771ab57  ./chagallwifi/proprietary/lib/libsec-ril.so
 d249b9b2f14bb472d209732253855ce84acdd618663cc3304b83cf6a06ad1c1c  ./chagallwifi/proprietary/vendor/etc/nxp/LVVEFS_Rx_Configuration.txt
 2fdaf64db8da2ee3a4dd1ae0e2159d436660f4a128b000eaa22bf85cf69b3cf1  ./chagallwifi/proprietary/vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_EARPIECE.txt
