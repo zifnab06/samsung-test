@@ -108,14 +108,10 @@ b14cc54afea9e7456cc147f39f021024baef2d128599979c678f3afacfc1fcf8  ./exynos5420-c
 6711b5693e0062b926d80e4f8ded4074b360ad81e8c319cce18d08939b5f7cb6  ./exynos5420-common/proprietary/vendor/firmware/srp_cga.bin
 2b147330e753d4be99f56d0c7f78145c5e275b1c19e521ec4156ca4db283819d  ./exynos5420-common/proprietary/vendor/firmware/srp_data.bin
 32f89c2eec55d05801274e6185ca5161072323b7faff90f1e9e02358a88a3637  ./exynos5420-common/proprietary/vendor/firmware/srp_vliw.bin
-4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./exynos5420-common/proprietary/vendor/lib/libwvdrm_L1.so
-d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./exynos5420-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
 18e517b4533cf4f53f3b911b3b635f65f7d9bfcc766f073e9646ed7e486238a2  ./exynos5420-common/proprietary/vendor/lib/liblvvetx_3.20.03.so
-f2d42753756a26de9c13b01ad1bc216a9c1d5203e8867071d07a3d30a9a83290  ./exynos5420-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./exynos5420-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 3bcaa67077d80db7deb7dd6849e0abb4772ccdb238752a2de133cd140288685a  ./exynos5420-common/proprietary/vendor/lib/liblvverx_3.20.03.so
 effa0203c5ec46e5217766b7c074d2b2676add7be2538c996ac84c0de7d7cd23  ./exynos5420-common/proprietary/vendor/lib/egl/libGLES_mali.so
-8665c48df0954b1df6c9c0d2f7d926bf01b89f6d6a82aafa611eaaadfd6e5b92  ./exynos5420-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
-5e326fb7418e59df476a37b72c9d2244d5d9b12b7ad4d9cabe713e74a31a90f4  ./exynos5420-common/proprietary/vendor/lib/libwvm.so
 9481a6dbc982c98f9a776229a14a5112471ebcde4489e0a6fb469631abdb639d  ./exynos5420-common/proprietary/vendor/lib/libmalicore.bc
 041cedbcd8a2d3fef1b0bc7f04812359afb2bb6b8c87fd8a45dac0b2082cd311  ./klteduos/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klteduos/proprietary/bin/rmt_storage
@@ -628,7 +624,7 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./treltexx/pro
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 3990cb5e98d75bf80d15b5825473364c202d7ebb04bc9918f622ce865dd2e71e  ./treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd
-2b754392a75292d268f54b800ac9f851a98c77c45068e98db437f7c76f28f8a8  ./blobs.txt
+f424eb890233104147b6b3929cfcafb37df081059db399bae07b7904d65122ce  ./blobs.txt
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./n1awifi/proprietary/etc/wifi/bcmdhd_apsta.bin
 90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./n1awifi/proprietary/etc/wifi/bcmdhd_ibss.bin
 8baee94b63105ca69f1b92459bdaae96cc06feeaeb72bf5bd2b7f5b88c38ff50  ./n1awifi/proprietary/etc/wifi/nvram_mfg.txt
