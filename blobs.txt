@@ -640,7 +640,6 @@ caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./n1awifi/prop
 088adbd8cdbeeeef333d0dc31f1f6119a3c3ef540a22f558dc5945ae6a218ea9  ./n1awifi/proprietary/lib/libak8963c.so
 09b2705e668d7db54d355c24e7c5cec6f817faa788e25a62dc52f186d8261269  ./n1awifi/proprietary/lib/hw/gps.default.so
 53d95a6f7d117375a0d5453dabd9bfd59ba38a83f0bcb5ea20bc7e36b190fc8f  ./n1awifi/proprietary/lib/hw/sensors.universal5420.so
-718e8811f809971bd4e16af640dc2dbcef97acfb7148e40f3c22c425153d5190  ./n1awifi/proprietary/lib/hw/camera.universal5420.so
 5c18f31fa1a8a14558a5ce0c19f38b509745a7e81ac0a67d712bdce79adab775  ./n1awifi/proprietary/vendor/etc/nxp/LVVEFS_Rx_Configuration.txt
 2fdaf64db8da2ee3a4dd1ae0e2159d436660f4a128b000eaa22bf85cf69b3cf1  ./n1awifi/proprietary/vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_EARPIECE.txt
 81579eb767f61eac6cafede30f8c18bcdd36af49e182759e0347d91d65014d7b  ./n1awifi/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
