@@ -1851,7 +1851,6 @@ d3b1786e1c3725877bd1d6a7212985a82f43247b760cd40f7a3497f790f7d533  ./klimtwifi/pr
 da0d622b1932c8a44472a9164af059936271d2d6aef76da6e1ac8e6a6ac0120c  ./klimtwifi/proprietary/lib/libak09911c.so
 9503b9d1bf25303db16e540c6b6818b9b6e49be638a00fd78529b3867de03d9b  ./klimtwifi/proprietary/lib/hw/gps.default.so
 ef26c919a83518a1ec52af71b06569a56bfecaf925f656def219d643e5e57100  ./klimtwifi/proprietary/lib/hw/sensors.universal5420.so
-a7ac3339113981ad4ab3e35819e33277297ec46e933223c51635921379189083  ./klimtwifi/proprietary/lib/hw/camera.universal5420.so
 5669692db96edc640cad669ddf577bdd326aec78e360d3e5d7bc64952771ab57  ./klimtwifi/proprietary/lib/libsec-ril.so
 8740b0c210d3406ed6c21a0ba360d1a52c6ac9fc8e98d3f4ce2906742a946547  ./klimtwifi/proprietary/vendor/etc/nxp/LVVEFS_Rx_Configuration.txt
 2fdaf64db8da2ee3a4dd1ae0e2159d436660f4a128b000eaa22bf85cf69b3cf1  ./klimtwifi/proprietary/vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_EARPIECE.txt
