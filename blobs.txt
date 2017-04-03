@@ -5255,8 +5255,6 @@ f0bed54d475b0f4a935df646057f3e2aa14fb2f324f80d060da917ecefe7b79a  ./crespo4g/pro
 6823c9c311d5d2e785b1f6cab089dc5f1592640240e8ed0fe685c32241420f61  ./crespo4g/proprietary/wimax_service.jar
 8571299db0b9af351abd47bf4f8966bfdbcc3a1bfa152335af466c6fdaaa5417  ./crespo4g/proprietary/libsec-ril.so
 e917adb8c3f091797df73912f5677e1b55c9806ec96cfbaff079cb9ecfcfc9d9  ./crespo4g/proprietary/libsecril-client.so
-8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p51xx/p5100/sbin/cbd
-a5d9be43474a09e75654295d67ac8b047b89c262e9727df29bb111ff1fca9b22  ./p51xx/p5100/system/lib/libsec-ril.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./t0ltecdma/proprietary/system/lib/libril.so
 fb57f7ffa7b5c244afdfd5dcac70bc7459366faa908e072a279105d4c8eb93c2  ./t0ltecdma/proprietary/system/lib/libsec-ril.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./t0ltecdma/proprietary/system/vendor/lib/libril-qcril-hook-oem.so
@@ -5868,8 +5866,6 @@ eee6d29b576a6a2d3aefa4f09e28a93fe65458e74936efaa13e7a3d451f761ad  ./trelte-commo
 6722c9f2e327f34a1ba469e58af0b9f5344532409bd5c0ed99d56b9467d77633  ./trelte-common/proprietary/vendor/lib/egl/libGLES_mali.so
 6cf9f5d6e73c831d420bf130d5aaef723a97e0703e7ac2422e1c5e8939762011  ./trelte-common/proprietary/vendor/lib/libwvm.so
 5f5b49f2fa3945735e533e7127f94f41fce3282ca84b0040afd2b503e3607e14  ./trelte-common/proprietary/vendor/lib/liblvverx_3.25.00.so
-8db1d4ec39005450618ab724a5e07d8c3c6cf6f9f335dd9415d95289a32620c0  ./p31xx/p3100/sbin/cbd
-b217916db451f411049e85ebf741f797ed62f97fe221f4e94a000343fc777877  ./p31xx/p3100/system/lib/libsec-ril.so
 2eabfc2eddbde14a75eaa6134d3c6bf31fee54da28d315d5b635e9ca03cebb02  ./i9100g/proprietary/sbin/cbd
 16b297175fb3d383d3c0f9f7b81d1163822495f6386b2d66fda420f309221e2b  ./i9100g/proprietary/system/etc/wifi/bcmdhd_apsta.bin
 8a5d73da7c422f7a30ecaffe2828a98c946daecb94e13bd5cd0bcbcb6d666b6f  ./i9100g/proprietary/system/etc/wifi/nvram_mfg.txt_murata
