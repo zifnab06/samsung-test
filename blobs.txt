@@ -5499,7 +5499,7 @@ e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-comm
 24dc194599cb84656943a4c96d6b776808ec5b43b41cf40e7a7f925ac75f6492  ./serrano-common/proprietary/bin/hci_qcomm_init
 d92f1feaddbf978e035396de7cd08bd0aa6e9bca56f94f454b5e23e816e901c1  ./serrano-common/proprietary/bin/thermald
 06bfaabc12dff0755c7bf521355dbbc4de8aac62825303f2ff754f49429b04d2  ./serrano-common/proprietary/bin/radish
-7fb458d7272b23f842c8b4bc03bf4d5dc3357647b43306315ae1669819ec2882  ./serrano-common/proprietary/bin/time_daemon
+f6659de7638607c0f37f847a904d7961d07432fc5ff24b0ab533b229353268f6  ./serrano-common/proprietary/bin/time_daemon
 47a3a3364ed92e55034b567f60e205e11d2761f987788e23441393f5104c4fe3  ./serrano-common/proprietary/bin/btnvtool
 2185d5ffcb30df3fa31702e41d614a12e6f6e7a2ba149f53ddade81015406189  ./serrano-common/proprietary/bin/qmuxd
 b39da907ec52fd25b589b55b576eb6761feb2ccff1727a3f9bf0e83defbf3af4  ./serrano-common/proprietary/lib/libchromatix_imx175_antishake.so
@@ -5569,7 +5569,7 @@ d52324dca5109e97f3be330d3a1ea6aca674f18fba56d25d907f7b751ce813d4  ./serrano-comm
 0ded130339de79c2c9ba9ce63f4afdac534327b3e9a06bd4df371b203e80aac5  ./serrano-common/proprietary/vendor/lib/libRSDriver_adreno.so
 75a8f50385eadf1574f826629a8f1a72b68bf6a98192f02d21390f867e12385a  ./serrano-common/proprietary/vendor/lib/libwvdrm_L3.so
 1a7fc2de7b87cab3f8bdf3f9abe975c3116e4b78d173f81d2c511ef64a3222d7  ./serrano-common/proprietary/vendor/lib/libizat_core.so
-926ac9418b2ff7521c3cdbeb602c4c88dd5a462f1dfe5defb0ec97c832b7765d  ./serrano-common/proprietary/vendor/lib/libtime_genoff.so
+09d88ca4436f622d2681000a0636e58c810f1d9dacc13910eec940b74789f19c  ./serrano-common/proprietary/vendor/lib/libtime_genoff.so
 0f5fc158ebbb3864ae0123d92544b044dd24eadc2d381e5525bc3dae6f37ff18  ./serrano-common/proprietary/vendor/lib/libgsl.so
 dc64a0e11b7086047213b8d05fb4faefa2f02c60ad4e3068b35ab9b0d6fe9681  ./serrano-common/proprietary/vendor/lib/libgeofence.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-common/proprietary/vendor/lib/libC2D2.so
