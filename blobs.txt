@@ -1521,7 +1521,7 @@ c2a185d4992a9a64e935aab48bf7bd3246819d39ee9732c7651ecf5df9d6695c  ./jf-common/pr
 085557a0f15a7e153b7aa0fe0dc6306e3500a77f31fe24bfcf884927b7bc98ec  ./jf-common/proprietary/bin/irsc_util
 9f098368759d167803e3774f092134b059e22492cf9a9bab325d71fcea9de493  ./jf-common/proprietary/bin/qseecomd
 0d50665e6d59eccfd923eebfb26dd2fd47584b3730c58db967c06de8b049378e  ./jf-common/proprietary/bin/radish
-d9321d333362ee94ae72094e066f492d73f3c59a398ed2874de4f1db19e87e93  ./jf-common/proprietary/bin/time_daemon
+6b216809710fc113a5607cc7aebbce8b210d8e1b22b07c4eb842c54249bcf29b  ./jf-common/proprietary/bin/time_daemon
 499848814bf81bcc3881b16b006d61d9ee321656664eab93506365f0f00fc1ff  ./jf-common/proprietary/bin/thermal-engine
 ee5b888d0537eb56131e526cfa9d78bef429a576201915e2775cb4fa9b233f51  ./jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
 acffe57ec134b6fdc72354597f5a648bca3afe2a72365d56823b1110d90c9fd2  ./jf-common/proprietary/lib/libcsd-client.so
@@ -1589,7 +1589,7 @@ e8a2b50eede452feaa9303405ac9fa8e43dd660432d84eddc4e66691ece2b4d4  ./jf-common/pr
 99d7b836d5a2aa18647b42da3127c4bd48058d6bcc691c0787f8377fbdef0511  ./jf-common/proprietary/lib/liboemcamera.so
 745e0bd1bbf1c716f2d332a016430617103dfe3e6085d19413a3ef94a43570b9  ./jf-common/proprietary/lib/libchromatix_mt9e013_video_hfr.so
 5e7dc3ddb36e368f3bb8a7d784bb764611ed2ff7f0583f5899e52e642cc57f1b  ./jf-common/proprietary/lib/libchromatix_mt9e013_preview.so
-c8b5a51e01eb1eb761e103aa2c847564d52c427701d93d5838e7d63ac5c7978a  ./jf-common/proprietary/lib/libTimeService.so
+f30d751768a65a70709d9fb929490ac2209a02139ed1b9a4e6587fa4fe51049a  ./jf-common/proprietary/lib/libTimeService.so
 48561c6ca3613c199e79418bc88f781b84732eb68d27d72cfb2938302397dc80  ./jf-common/proprietary/lib/libchromatix_ov2720_zsl.so
 65d6fb3c79fc09e725b784110aac08c7402e03a321063a544dd8ca14b3387ac9  ./jf-common/proprietary/lib/libmmcamera_interface.so
 d6ea672b5a4380f584e0b4fb6cc5a9423c52612822e70d6481dcfc5310f49859  ./jf-common/proprietary/lib/libchromatix_ov8825_default_video.so
@@ -1601,7 +1601,7 @@ d6ea672b5a4380f584e0b4fb6cc5a9423c52612822e70d6481dcfc5310f49859  ./jf-common/pr
 6fd07501cd50301b42ce620d381932b76913fecc695293a79020ebbaaac4c585  ./jf-common/proprietary/lib/libadsprpc.so
 a8bf2d3fff6501f4f8abf64d1790ec32ba8d22c56995052aba8f14a607d0f00f  ./jf-common/proprietary/lib/libchromatix_imx091_default_video.so
 681aaf9ad552c93e307ce2dc497692402185c3658e5ac80ada96d3b31a67f620  ./jf-common/proprietary/lib/libI420colorconvert.so
-0955784cc0620fc28d28a765fe21731efe544f96e4d68564957cb8daba1df9b4  ./jf-common/proprietary/app/TimeService/TimeService.apk
+8246b54555afa5d5a5f548cfe9bd649245e73b6ab449a6333e1214d797471017  ./jf-common/proprietary/app/TimeService/TimeService.apk
 fb54922c14b51557328773d898aee96e5661db90991a99db9a863f2b8cd26f40  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 3e14e7f3c02e19408c5783f845329309e23305ab5f33fb19abfd24a73a84cd8a  ./jf-common/proprietary/vendor/firmware/bcm4335_V0343.0353.hcd
 1429cac3844f21ef34987a38b5d02b1fc175299839952b5aa3647ffffbb14495  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd
@@ -1613,7 +1613,7 @@ b20d0452523920a581a41dce917c8f250e6998106a75be52f3ce9fb209d8ca6f  ./jf-common/pr
 4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./jf-common/proprietary/vendor/lib/libwvdrm_L1.so
 25c8b8be8f0f2b3fcf1c88606abee9f7ff9620909801ea7e7cdd735abc3a50cf  ./jf-common/proprietary/vendor/lib/libizat_core.so
 d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./jf-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
-f1a4f7c32fa97de13851ffa0d5881849d82ba33647ac9e017ac51306a5961d0b  ./jf-common/proprietary/vendor/lib/libtime_genoff.so
+8bc97c57ed1b6e64a49558b3d9e6dfb8bd1bfec85bcb1926667ec7dae3a96ade  ./jf-common/proprietary/vendor/lib/libtime_genoff.so
 0f5fc158ebbb3864ae0123d92544b044dd24eadc2d381e5525bc3dae6f37ff18  ./jf-common/proprietary/vendor/lib/libgsl.so
 f9a10464759afa91fb93f9bf42347ee56ca23d68d9cc05fc47b8b8fa6bca987a  ./jf-common/proprietary/vendor/lib/libgeofence.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./jf-common/proprietary/vendor/lib/libC2D2.so
