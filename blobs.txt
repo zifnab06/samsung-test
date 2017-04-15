@@ -7518,11 +7518,7 @@ fd524b4178db49e1cbaaf59660ef1974e3e5b993120aeed5bda7f4d4fcf36d3c  ./smdk4412-com
 8f5d53c3c21b065c973caccdc6a6bb8c589f0bc4dcb80c5da1350cb38df19f1f  ./smdk4412-common/proprietary/vendor/firmware/SlimISP_GD.bin
 91aa98e807a5262fc4b1fdfbf77e41fbff428a6eb62dc91f3e440d75f0c0c9dc  ./smdk4412-common/proprietary/vendor/firmware/SlimISP_ZK.bin
 271194dd10d4863f8d78416a158ee4779f9313ed5744c2477f5f6266e92f7468  ./smdk4412-common/proprietary/vendor/firmware/SlimISP_ZH.bin
-4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./smdk4412-common/proprietary/vendor/lib/libwvdrm_L1.so
-d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./smdk4412-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so
-f2d42753756a26de9c13b01ad1bc216a9c1d5203e8867071d07a3d30a9a83290  ./smdk4412-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-8665c48df0954b1df6c9c0d2f7d926bf01b89f6d6a82aafa611eaaadfd6e5b92  ./smdk4412-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so
-5e326fb7418e59df476a37b72c9d2244d5d9b12b7ad4d9cabe713e74a31a90f4  ./smdk4412-common/proprietary/vendor/lib/libwvm.so
+acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./smdk4412-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 71b9cbad4fb99526b5691b79aead28948792bbff9502d1131591b3ff90e57206  ./toroplus/proprietary/lib/lib_gsd4t.so
 00c8c96eb07fb077e27a051b5c2d6a68be3bfd7d669929107b32c744c701ee76  ./toroplus/proprietary/app/SDM.apk
 17284a4a0ca09c0efd23262fd8932673cd4a9df0d8ad5f17791f702eda583100  ./toroplus/proprietary/app/SecPhone.apk
