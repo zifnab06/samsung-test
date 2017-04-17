@@ -1254,7 +1254,7 @@ c7196d9e8f9c027649c4941310c1a4d70aa513f6a8ff24d3886664083356f375  ./gts2-common/
 b4fedfcbc8efd19dc2523a09ba412f2b785be9fda97624e66b82fbd02dbe7d90  ./gts2-common/proprietary/vendor/firmware/seiren_fw_dram.bin
 10f96192f9e6e326a70456997de0ce12a83c48a0a4300ff75427184663589de3  ./gts2-common/proprietary/vendor/lib/libMcClient.so
 74759019bbf770e9472ff01c40f454422ef390f40ab36cf72474b8f8cf043ee7  ./gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
-2b146853da04007e86410e0a656f81ab0256a82f57a3dd8ebfa77e9afd3ad399  ./gts2-common/proprietary/vendor/lib/egl/libGLES_mali.so
+84d92eb786668821377395bac612bd1be29e655ab3ed593adea705b80bcbbf90  ./gts2-common/proprietary/vendor/lib/egl/libGLES_mali.so
 214339f1ac952cd5a4e6757bc4a9d0cfb75146441f0e2e11c97cdfd2331aa012  ./gts2-common/proprietary/vendor/lib/libMcRegistry.so
 8e62b9ffd7f34a538615c556220b4fa70a0635d70f39d9763bd2bbc717d0115e  ./klte/proprietary/blobs/usc/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./klte/proprietary/blobs/usc/bin/rmt_storage
