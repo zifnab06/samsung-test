@@ -3679,12 +3679,17 @@ a2a9a47eccb899616f48893a3a586612674f983551e26e124eadb10b0f0812f2  ./hlte-common/
 3a896ce90e001453802e18bdba5a64b2967ac8bf42c6b072880f091a767a8757  ./hlte-common/proprietary/etc/Bluetooth_cal.acdb
 c2ba59f6e4be2b0b311bb48431fc1adf574ee5c59bb1bc27dda212ea435619ea  ./hlte-common/proprietary/etc/D13QS_imx135_module_info.xml
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./hlte-common/proprietary/etc/wifi/bcmdhd_apsta.bin
+90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./hlte-common/proprietary/etc/wifi/bcmdhd_ibss.bin
+fb494817e76aa0a8659d365a6d24e0a8cebb87b54f77dd6435f47e359bd7700f  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_wisol
 a08683d9dd4727e379520618f3957ac17c9da748a43b65ec606ae4fea233237f  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt
 684d7aff784809c796ea9159439b35254bb8fe490610bc1a17eb9f81579a8b23  ./hlte-common/proprietary/etc/wifi/wpa_supplicant.conf
 35b5b64b16a9c3f071e514fd4eeb54b79d1b72a82136467760db300f100a5d4a  ./hlte-common/proprietary/etc/wifi/bcmdhd_sta.bin
+e27edec8c6c18260a4b6c0e1966173d00f619cc5aac297300e44b0b3dcdf6480  ./hlte-common/proprietary/etc/wifi/nvram_net.txt_semco3rd
 ca3b39a0edf261b3f473a322d5d6a41a3a81bd955bd68472a2a3c9247dbfd252  ./hlte-common/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./hlte-common/proprietary/etc/wifi/cred.conf
 234bddb6fabb9f2aa35278cf2c98921da36b7c260a227a750411f0d254e50d8d  ./hlte-common/proprietary/etc/wifi/bcmdhd_mfg.bin
+8ccedfcc527fc867c73a91baf829030786b2723d0d12adc99e19a0ead8a32f80  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd
+178d2bed2267073179e6f7b3cd9f907443303f9a569b53c448592290b7ed4b87  ./hlte-common/proprietary/etc/wifi/nvram_net.txt_wisol
 ddfa233a5f00a6e381b1683696fd89f037b256ae94c4db969ca6c60833fa18f7  ./hlte-common/proprietary/etc/General_cal.acdb
 e4ee76b287961f56e6a606ed5baf7127d9fd9a0d421b516af32fa655f1fdb5de  ./hlte-common/proprietary/etc/firmware/a330_pfp.fw
 2057bff39ad2ab0b4d4ad755c52bf9d0c139293aa823bde992094ce27304b000  ./hlte-common/proprietary/etc/firmware/a330_pm4.fw
