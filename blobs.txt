@@ -3679,7 +3679,9 @@ cf68da94eb7934fb1237471c929b9baafa3758b4729337ebeabd9c32f001b17f  ./hlte-common/
 a2a9a47eccb899616f48893a3a586612674f983551e26e124eadb10b0f0812f2  ./hlte-common/proprietary/etc/C13QL_s5k3l2xx_module_info.xml
 3a896ce90e001453802e18bdba5a64b2967ac8bf42c6b072880f091a767a8757  ./hlte-common/proprietary/etc/Bluetooth_cal.acdb
 c2ba59f6e4be2b0b311bb48431fc1adf574ee5c59bb1bc27dda212ea435619ea  ./hlte-common/proprietary/etc/D13QS_imx135_module_info.xml
+eeddd2af0c1c7e69f128e182eb83181023ca6e22aa95a3beb3b54d95d260bd13  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_muratafem1
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./hlte-common/proprietary/etc/wifi/bcmdhd_apsta.bin
+321ba1f4f58899023e00071ba9fddfc9acc396b87c74b40cdfdd69a6afc8a128  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_murata
 90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./hlte-common/proprietary/etc/wifi/bcmdhd_ibss.bin
 fb494817e76aa0a8659d365a6d24e0a8cebb87b54f77dd6435f47e359bd7700f  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_wisol
 a08683d9dd4727e379520618f3957ac17c9da748a43b65ec606ae4fea233237f  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt
@@ -3689,6 +3691,8 @@ e27edec8c6c18260a4b6c0e1966173d00f619cc5aac297300e44b0b3dcdf6480  ./hlte-common/
 ca3b39a0edf261b3f473a322d5d6a41a3a81bd955bd68472a2a3c9247dbfd252  ./hlte-common/proprietary/etc/wifi/nvram_net.txt
 485f06b83b0e3983e0bedad5909dc976dc1553e8d24733e2d21ee95ce822dcbb  ./hlte-common/proprietary/etc/wifi/cred.conf
 234bddb6fabb9f2aa35278cf2c98921da36b7c260a227a750411f0d254e50d8d  ./hlte-common/proprietary/etc/wifi/bcmdhd_mfg.bin
+1a9dd9181774825e51d2f45ed506c943dc7769bff4cf72833370883bbdfd5c10  ./hlte-common/proprietary/etc/wifi/nvram_net.txt_muratafem1
+5d06fe20a46c94c5709af9c9d20b9baf848998d7b5937a06e0927a59b12dd558  ./hlte-common/proprietary/etc/wifi/nvram_net.txt_murata
 8ccedfcc527fc867c73a91baf829030786b2723d0d12adc99e19a0ead8a32f80  ./hlte-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd
 178d2bed2267073179e6f7b3cd9f907443303f9a569b53c448592290b7ed4b87  ./hlte-common/proprietary/etc/wifi/nvram_net.txt_wisol
 ddfa233a5f00a6e381b1683696fd89f037b256ae94c4db969ca6c60833fa18f7  ./hlte-common/proprietary/etc/General_cal.acdb
