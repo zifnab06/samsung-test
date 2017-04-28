@@ -3549,6 +3549,7 @@ dac1f0376b6717007e5702064b37b70d42265f0bccc5f92f34c17fcd86647f8c  ./gts28ltexx/p
 2559a41f87060e5f5afe63064838f729a1cb6da12b2b9e0ae3b3d2ebf1b6226d  ./gts28ltexx/proprietary/etc/wifi/nvram_net.txt_4356_a2
 594888937af69709160e28e87d8d93aad5e3413d531b28d7b9491a1208247357  ./gts28ltexx/proprietary/bin/gpsd
 91210237db3f59c6e7e3bd694c0d567c7024edee93db8827946f6df37f8bb2f9  ./gts28ltexx/proprietary/bin/cbd
+b837b0695017ed38f085850bf2c5b324f52189f2f51cf9337d87c72f69d63585  ./gts28ltexx/proprietary/lib/libfloatingfeature.so
 afcbcee43c1001a6f3d14f64690675b52babb6b982298ae658b380afd0c5b452  ./gts28ltexx/proprietary/lib/hw/gps.universal5433.so
 51c87f00498da71c582f46e3f43fc2ed703703399774aa98599147efe65d66c7  ./gts28ltexx/proprietary/lib/libsec-ril.so
 bbd804b06b6dfa86648d5297b59ab9b7917882963b0f84cb6303d4b7360ec34c  ./gts28ltexx/proprietary/lib/libwrappergps.so
