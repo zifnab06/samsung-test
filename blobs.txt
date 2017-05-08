@@ -1425,6 +1425,10 @@ a80a54e0e308825b7ae07ccf018e531c79667ac001a911e502ce10e022ed4ea8  ./exhilarate/p
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./exhilarate/proprietary/vendor/firmware/libpn544_fw.so
 ad7da31e988103686ef71af60ec37c83e9fa57d2e4de2c450eb204bfaa338623  ./nobleltetmo/proprietary/etc/firmware/audience-es804-data.bin
 45da1a49e25555847caae1ea39e688dc8c5905daad2a92bb0464ac62f4af5f27  ./nobleltetmo/proprietary/etc/firmware/audience-es804-fw.bin
+0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./nobleltetmo/proprietary/lib/libsecnativefeature.so
+292c559051d0c40ae62886eee19f81db3ac3e2853c7ad9382a7d7eec4e24e88d  ./nobleltetmo/proprietary/lib/libsec-ril.so
+f6e1b91c3d4a0bfaeb17696616776d13685bd45b95b0acb6d447f78eee70d8a8  ./nobleltetmo/proprietary/lib64/libsecnativefeature.so
+a2cecbf4ef0b882af416fd1069a8103071d1bff4b4833cf9b6860af985c3c9f7  ./nobleltetmo/proprietary/lib64/libsec-ril.so
 e66ad4b9923e06d677d954516f98eacbecc8464c1f237d7ca08e1561f57da052  ./hero-common/proprietary/etc/lhd.conf
 6c699c61fe2d8328453fe8243d7a8f4335b25fff842827b55761f1c867819914  ./hero-common/proprietary/etc/wifi/nvram_mfg.txt_murata_b1
 c4d076898f05a300987721d6f6566f70cadd2c2b659b451b1a3b237ebe06126c  ./hero-common/proprietary/etc/wifi/nvram_net.txt_wisol_c0
@@ -1933,6 +1937,10 @@ e0ee33179fd001af360011b9f7e7ffee58df63f9c19e8583faa832d7685d7758  ./celox/propri
 51d1f5e3f2152925405c81b0cdd2e10a9e091db8bd2bdef8771ed23c5c604cda  ./celox/proprietary/lib/libqmiservices.so
 4d77b886294a5a7736831ae5f4924a56be3b1c382525c4bb505ce7c11defa857  ./t0ltetmo/proprietary/system/lib/libloc_api_v02.so
 c3783df6c9e866633595d3dbde53caacdbddc2faa2f80c44274ad9d205ed08ca  ./t0ltetmo/proprietary/system/lib/libril-qc-qmi-1.so
+0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./nobleltejv/proprietary/lib/libsecnativefeature.so
+292c559051d0c40ae62886eee19f81db3ac3e2853c7ad9382a7d7eec4e24e88d  ./nobleltejv/proprietary/lib/libsec-ril.so
+f6e1b91c3d4a0bfaeb17696616776d13685bd45b95b0acb6d447f78eee70d8a8  ./nobleltejv/proprietary/lib64/libsecnativefeature.so
+a2cecbf4ef0b882af416fd1069a8103071d1bff4b4833cf9b6860af985c3c9f7  ./nobleltejv/proprietary/lib64/libsec-ril.so
 f16fc9384f4f077581c7cff3f0bbf7a15e060bf4092e53f06ee80f911895b3cd  ./apexqtmo/proprietary/etc/gps.conf
 f3f1c2e38d688df7e7f717d720adc036a32eb7b296a5700dc649a3cf5ad760fc  ./apexqtmo/proprietary/etc/thermald.conf
 59c746f12a068ae8bda55e894c05739643a08acfc7df3bbdb3c0d099c8be26b4  ./apexqtmo/proprietary/etc/wifi/wpa_supplicant.conf
@@ -2167,7 +2175,6 @@ c42ac38b5130a8a13ad26130de638f3f5beb737b344606a5dddf4ddb9fc17133  ./noblelte-com
 491241cad2523adf3a60ab51809e053258be27a46dd7662ddc1288e9b0becba7  ./noblelte-common/proprietary/lib/omx/libOMX.Exynos.VP8.Decoder.so
 350cdc10df430d9280016ebff5d33e9a8ebcefdb8e0e8e97d4be9b3b47c18915  ./noblelte-common/proprietary/lib/omx/libOMX.Exynos.MPEG4.Decoder.so
 b837b0695017ed38f085850bf2c5b324f52189f2f51cf9337d87c72f69d63585  ./noblelte-common/proprietary/lib/libfloatingfeature.so
-0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./noblelte-common/proprietary/lib/libsecnativefeature.so
 77e71a6f2f68450c5c77f6941985d3433c08b319a5ca517173afa5fdd0d42c7c  ./noblelte-common/proprietary/lib/libuniplugin.so
 1160a42b10cd69f086edecabb4b5e0f6a8eace0af8660b6bfd34b89682d79346  ./noblelte-common/proprietary/lib/libMcClient.so
 db02abd55852cf556befcfba0a867ff94aa28ed45f81fc1ca69aaaadd31412c6  ./noblelte-common/proprietary/lib/libexynoscamera.so
@@ -2178,7 +2185,6 @@ d476cd7e3a669fe7ed6ef48062ce135020b1cf37ae036c59efbaebad9f0a0ef0  ./noblelte-com
 5000aa50dca16bde3545efc0697f1a3784a5430c055b04fc9084c766cc346e43  ./noblelte-common/proprietary/lib/hw/gralloc.exynos5.so
 644a25669c1eed85b7561abff028562dc88ca1b6116e74ec0073372c57e3d43e  ./noblelte-common/proprietary/lib/hw/sensors.universal7420.so
 b9eedebf16b5db2d778a062813ef26376f3af72318d37e51163ed38043332014  ./noblelte-common/proprietary/lib/hw/camera.exynos5.so
-292c559051d0c40ae62886eee19f81db3ac3e2853c7ad9382a7d7eec4e24e88d  ./noblelte-common/proprietary/lib/libsec-ril.so
 f979d46616beff8aeaecf7fc404f5b74ed943b5d8e90877c471bd511b1fdc48a  ./noblelte-common/proprietary/lib/libion_exynos.so
 a44018d82a669b8eb451943f5dc24f55be4a87989221aef08a9122ca6616a60b  ./noblelte-common/proprietary/lib/libwrappergps.so
 a71ccac4d5cf587acfc3519b70004a36fa05e15d69810bc8d2e1e3276bcf7ae0  ./noblelte-common/proprietary/lib/libcamera_metadata.so
@@ -2228,7 +2234,6 @@ d7f20acd88513d8f4b581200b24c21fe2cac5715309e74c84ef5d185be478be6  ./noblelte-com
 eff7dfdf91629b611e16fec6614e24aee4fc692e6cbb764e001b9413025da5a6  ./noblelte-common/proprietary/lib64/omx/libOMX.Exynos.VP8.Decoder.so
 e7d597b5e9122ec0bf82d3d48996cb7dda6e351f1990467a6a5d014b19b92601  ./noblelte-common/proprietary/lib64/omx/libOMX.Exynos.MPEG4.Decoder.so
 29d74ff3fc5097517dc9960ac917df9e1c1f8c52bd417005fd8d26fd31c6ea1d  ./noblelte-common/proprietary/lib64/libfloatingfeature.so
-f6e1b91c3d4a0bfaeb17696616776d13685bd45b95b0acb6d447f78eee70d8a8  ./noblelte-common/proprietary/lib64/libsecnativefeature.so
 ab784e5d14f4b28a5bf731ae5760e0fbeff6b1dee93098a7749f096074b64fe7  ./noblelte-common/proprietary/lib64/libuniplugin.so
 50ad8c174405fa1c453871db9b246fa4c71afe93169a912be43f3b405019e81e  ./noblelte-common/proprietary/lib64/libMcClient.so
 9ae0713cfd8b08832e42951c7c44ae5227d86dd945bd734745ef640100a85601  ./noblelte-common/proprietary/lib64/libexynoscamera.so
@@ -2242,7 +2247,6 @@ a6fe972cd2df97a276b9914f4d746b780954886f3b39e98205050fc321413fff  ./noblelte-com
 0b95e5a694c6d19b7de43f90f98fe13913b3b2175d6b92d4030ed3e7ff03c4f9  ./noblelte-common/proprietary/lib64/hw/gps.universal7420.so
 73397c104a9abfef075485591651130b7f3ced8a343ec921cc4cd660516adde1  ./noblelte-common/proprietary/lib64/hw/fingerprint.default.so
 c1349627aaa4c9eb9d5d39addcaf105377ad0f800e916d472dd9548d82e6ed57  ./noblelte-common/proprietary/lib64/hw/camera.exynos5.so
-a2cecbf4ef0b882af416fd1069a8103071d1bff4b4833cf9b6860af985c3c9f7  ./noblelte-common/proprietary/lib64/libsec-ril.so
 605bb85b3fe91fb639ef3bcb3d805a6b4e5342f5f50c2cdc0a0fe6cadcc7cff3  ./noblelte-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 f7d88034303bc30bda96456cab8a0b9318c0cb12d6480b5279893a8d18c01932  ./noblelte-common/proprietary/lib64/libion_exynos.so
 ddf95ed617ea544f7d1eadd13bc4c843cbf4a281d4e03d88e750d72a213ba091  ./noblelte-common/proprietary/lib64/libwrappergps.so
