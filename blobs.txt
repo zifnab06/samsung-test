@@ -4564,12 +4564,10 @@ c318e9625caa4c1eaed74351ea600baa30f33f31a8af655e4440e22a1edf693b  ./msm8976-comm
 0bce0fd610d320d6c7d65b29a52eadff5e0534f3e845db1bb89dcd7c0f6bf845  ./msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so
 454e498276e27a4683e7e73fcdf8bde411e6f98f147c3b2f02da3f5df22bcbfb  ./msm8976-common/proprietary/lib64/libloc_eng.so
 2f366da6201ee7973bfc59aff2c56c793a3b65c4b818318a9f81ff0a152db96e  ./msm8976-common/proprietary/lib64/hw/gps.default.so
-fb00ef4604566cbb52b1a373940188ac130ab7ecdc77a925e94e4e729199139b  ./msm8976-common/proprietary/lib64/hw/sensors.msm8952.so
 605bb85b3fe91fb639ef3bcb3d805a6b4e5342f5f50c2cdc0a0fe6cadcc7cff3  ./msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 548d70e53ce1e1a5b3d9aed965b83b06b7a208659a8a61e99f0d038672720ca0  ./msm8976-common/proprietary/lib64/libbauthtzcommon.so
 4a9358dd8e61545b488672fc2811f4ee53fe66efc68732b722aadfff700d9410  ./msm8976-common/proprietary/lib64/libbauthserver.so
 c6894c9d7ba2500fee07c2b825161d35707fde8fd219a2fd1c9f1d3179683a5d  ./msm8976-common/proprietary/lib64/libgps.utils.so
-959a35783449b278dba3d3264467558a2d40d48a978399b01514ec953a3ba271  ./msm8976-common/proprietary/vendor/etc/yas_set.cfg
 87112bf6322b42893574c6a6be736ddb6bafd03870c8f9625981bfb50ede3fef  ./msm8976-common/proprietary/vendor/bin/perfd
 f27c903fe0cde5b67dc0223f6845ff3d0356aecf730d0545c91c23e0b14cc714  ./msm8976-common/proprietary/vendor/bin/qseeproxydaemon
 91fbcaffc7c80646eeb2a31b96b4c937135cc6c534da399746451b22528c4c71  ./msm8976-common/proprietary/vendor/bin/thermal-engine
@@ -4802,7 +4800,6 @@ a205800b6a4e2272b9ac60408a126d675dc6dedf2eb4395f8b30fb6605652416  ./msm8976-comm
 f23f66ea3389c6a7bd66cb6b99b4f5b078ec0d4d6a5e1d8738e5f7c9a1b41bbb  ./msm8976-common/proprietary/vendor/lib/libmdmdetect.so
 92b7aa597f6ba126c9d435b728b6b66f4097827fa6ef66c73ffb61d8cdd73dcf  ./msm8976-common/proprietary/vendor/lib/libc2d30-a5xx.so
 c21b3ec45a957e3577f8d14ce507d24fd10095475cf6441df622d47234187fcc  ./msm8976-common/proprietary/vendor/lib/libchromatix_s5k4h5yc_dw9807_cpp_iso_snapshot.so
-2d771455f21a6a0d7683627b69ab484b4e3aefb41665ea4504ff36502f93a136  ./msm8976-common/proprietary/vendor/lib/libsensor1.so
 c93802cc7ee9558160501881a1cc95cb98ac216049783160a52cd0c2fa6395a8  ./msm8976-common/proprietary/vendor/lib/libts_face_beautify_hal.so
 c2468d885fe8d7aba197bc387bd61fd9b19d0eaddf6502aa435e0659736288f7  ./msm8976-common/proprietary/vendor/lib/libchromatix_s5k6b2yx_hfr_120.so
 3c87ed96f341ac189c09e52a2aeb1e43914cd260b171c42e57f2b9ff07f6002a  ./msm8976-common/proprietary/vendor/lib/libadsprpc.so
@@ -4834,7 +4831,6 @@ c8a15f927cf7fd15d80326c560dbce7ec3156597683a0a7a97093f2e1e5ed592  ./msm8976-comm
 f7224c9d92b957a377063be987022c1458de21c9df96376a2acc19fc626773ff  ./msm8976-common/proprietary/vendor/lib64/libasn1crtx.so
 b26d7a0368b3c3fb8e432c897e8210147a8206237ea333b1612292ce8c787b89  ./msm8976-common/proprietary/vendor/lib64/libizat_core.so
 aab84d647aa63d437e56f2fc219de1ddd89d7c9ec0e2d29c4750302e2a0fd898  ./msm8976-common/proprietary/vendor/lib64/libgdtap.so
-ea9c8cb412e2c4c5d3bc2a736eaaa4fd39006ced4ee5ef3be26231aaf920dc50  ./msm8976-common/proprietary/vendor/lib64/libyasalgo.so
 6d0ca5d12bffa89d9bc2f0e6e1365d949d6df9fdbae9d3959bb78aad5def1386  ./msm8976-common/proprietary/vendor/lib64/libStDrvInt.so
 b396a1422e105f1b64d567d031fa70b1d7bd3ebd25b6cde70e039b98e6a83e01  ./msm8976-common/proprietary/vendor/lib64/libadsp_default_listener.so
 be9c54734a5d9a8af48984271b1a85779968ec464c0146ccc43595a1537e30ff  ./msm8976-common/proprietary/vendor/lib64/libsmemlog.so
@@ -4899,7 +4895,6 @@ a538c5e2f09e3cb031b1d5fbf2fdcaf01da137bd2d6225fda9b2b77391e5389d  ./msm8976-comm
 d863bec92d1e1bf2beea115892fbdb2a2e594ef2074528c5470dc7ef83964930  ./msm8976-common/proprietary/vendor/lib64/libmdmdetect.so
 b7b6224012e23caa20861809b85da367b08a06ab24c170400475e15836bfccfa  ./msm8976-common/proprietary/vendor/lib64/libc2d30-a5xx.so
 bc040f9e7341992477de79d278dbf6c53123dadb07a89c35d18ac0b0ab9d3d0c  ./msm8976-common/proprietary/vendor/lib64/librpmb.so
-cf81d8057f0cdefbd31c1e1bbebab66095941cdbfdf0d593091098fa2926f3b9  ./msm8976-common/proprietary/vendor/lib64/libsensor1.so
 bd5006987b91107396b19210d60360cc6610e1efa0100497823275f5e834de17  ./msm8976-common/proprietary/vendor/lib64/libsecureui.so
 e7b031349742199455a65ebfb1da3faab9c9ff32503071dda0ac49496687ae05  ./msm8976-common/proprietary/vendor/lib64/libadsprpc.so
 664580412f4538b02a31ca1d1da9ff594691521b60abb0ee1f1c2ed65da156cd  ./msm8976-common/proprietary/vendor/lib64/libperipheral_client.so
@@ -4995,6 +4990,11 @@ f7cab392f97769e758f68e135c28785c9550f488e1511662db8e7730ba9dac68  ./skyrocket/pr
 1c05c11a131886ab859c7081fdc9920429d8b2a6538ce57fdbec28051f8d4345  ./skyrocket/proprietary/lib/libaudioparsers.so
 827eccb2b82c7b3983b8b9aa42c58b4002f84aee273554b6d1e59dae51e92c57  ./skyrocket/proprietary/lib/libqmiservices.so
 a49696401409c18dbe7a0b6eb75baafe408f94e4363f53e793809f1d9bd6603d  ./skyrocket/proprietary/vendor/firmware/libpn544_fw.so
+fb00ef4604566cbb52b1a373940188ac130ab7ecdc77a925e94e4e729199139b  ./gts210vewifi/proprietary/lib64/hw/sensors.msm8952.so
+959a35783449b278dba3d3264467558a2d40d48a978399b01514ec953a3ba271  ./gts210vewifi/proprietary/vendor/etc/yas_set.cfg
+2d771455f21a6a0d7683627b69ab484b4e3aefb41665ea4504ff36502f93a136  ./gts210vewifi/proprietary/vendor/lib/libsensor1.so
+ea9c8cb412e2c4c5d3bc2a736eaaa4fd39006ced4ee5ef3be26231aaf920dc50  ./gts210vewifi/proprietary/vendor/lib64/libyasalgo.so
+cf81d8057f0cdefbd31c1e1bbebab66095941cdbfdf0d593091098fa2926f3b9  ./gts210vewifi/proprietary/vendor/lib64/libsensor1.so
 1169bbc29c378b95511394263879831813fc8c8de6a9babeb12a65d0977d1bf2  ./apq8084-common/proprietary/etc/F16US_imx240_module_info.xml
 96167c11fd609da061d15da687a0004f5f8d8740815de512ae424365054efd34  ./apq8084-common/proprietary/etc/gps.conf
 ac364e8dbc63530a9eaee02b1a9ca655eb04e3c82e5e8e7f599f1cd1764ac371  ./apq8084-common/proprietary/etc/sap.conf
@@ -8127,6 +8127,11 @@ c73c6cd16f3f7e78def0a80ba8e3f55488d60ad5425634f8ac8cc62e7194b99b  ./galaxysmtd/p
 cd1243d883488314efb114f0fa6a568ca1e78f193b8b3f4609d802d6ed1f05c9  ./galaxysmtd/proprietary/libsec-ril.so
 94b63f02df37f9149030cd2aaf0a112e239a25b7857999178e83dbb10fd35099  ./galaxysmtd/proprietary/libsecril-client.so
 4596c8e37a7a894730e7dcdeb386970380a23acfd0b38e17b6adc0d88707d2f1  ./galaxysmtd/proprietary/Certification.cer
+c4d8c523cb2743efb508f5b24b87b4e38055b7487003e879ce592384691ad2bc  ./gts28vewifi/proprietary/lib64/hw/sensors.msm8952.so
+959a35783449b278dba3d3264467558a2d40d48a978399b01514ec953a3ba271  ./gts28vewifi/proprietary/vendor/etc/yas_set.cfg
+fd6a0a54dbcdca40133bcf36e3bfbd96ebd1d82637cf904929236d36180ec7ea  ./gts28vewifi/proprietary/vendor/lib/libsensor1.so
+6165afe78f6be7d0505ccee3a54b5d387c2eba9fe7405a4c5b075bff700e8164  ./gts28vewifi/proprietary/vendor/lib64/libyasalgo.so
+d449769b8564171de404ce2dd4c28d14a0572ece66b66342d4608b7ef1d30578  ./gts28vewifi/proprietary/vendor/lib64/libsensor1.so
 aaf22373863cf73140ba77e1cc06da0df1d540095f831740b6ed1fb35acf298a  ./trltetmo/proprietary/bin/mdm_helper
 da24060a1a5a8620a1d829114b970dbd309a7d82af023c9aaa9f25595f0c9e38  ./trltetmo/proprietary/bin/efsks
 dc1e09f03b45d0dbc6ddf879c7e23c0a9032b5a188d6018bca2967f6d478c29f  ./trltetmo/proprietary/bin/mdm_helper_proxy
