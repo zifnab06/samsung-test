@@ -1500,6 +1500,7 @@ f26d77626ec853f818a2f785a0caf1719d9076fe35c989ca09948dc8c38e27e9  ./hero-common/
 f463ed13aed7bccfcfed9634d9afed94730497293a92b603d86e5cfceb639bdd  ./hero-common/proprietary/bin/rild
 aefc61102116b1185fcd646b0bfc8dd8742a82640f0b3e43578fb738f5def894  ./hero-common/proprietary/bin/mcDriverDaemon
 3c13d42a818e7ab1ce1391e50d79e74ce2b2c4f6e6658f755c482daba39b6635  ./hero-common/proprietary/bin/lhd
+285c2f0e866d153c78563a471102c03056f48bf2f07591f75ac4e292efa44b37  ./hero-common/proprietary/sbin/cbd
 0af20978f46a3938f0724119da48d6e4b6b05a27ce30d4949d3b48eea4cfa873  ./hero-common/proprietary/lib/libsmartfocusengine.so
 22f0dbc021bb2f28a6f720eea24b2fa0e49acf9db734870b24a0deed84d8873d  ./hero-common/proprietary/lib/omx/libOMX.Exynos.AVC.Decoder.so
 83af413d2b2bf737a777f7e5340c5822adbdae8ca55d13a90c930992bd040a87  ./hero-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so
