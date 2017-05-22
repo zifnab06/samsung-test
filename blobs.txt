@@ -3886,7 +3886,7 @@ da9d178f82e43a4d0819d9318bc63b0e625c5220dea6fbad828e6bdde4864780  ./hlte-common/
 0157441cb39808ac44bf0b1100ef25eda496a8d5a650b97d6a4c58736a2ff32e  ./hlte-common/proprietary/bin/irsc_util
 58c8b19d947bac27a5ef9494bda44c5e6442eaf6b10ed1c13aa501b926b8b438  ./hlte-common/proprietary/bin/qseecomd
 04918357bb44b0cce19731da734f7f453257ad13af953071d37e16139ba99017  ./hlte-common/proprietary/bin/radish
-1b09dd6373d5a2b298029de41c9dac87ecb324ca44ac9f20c2715f71c80c80de  ./hlte-common/proprietary/bin/time_daemon
+22853f286013d6b39863c0fc2a57b4317d4647ba97d5bf8ff097575488530563  ./hlte-common/proprietary/bin/time_daemon
 531dde83128a83da2fbe7dff1979e358a6de8f06e3678224ae92f8ced594a1fd  ./hlte-common/proprietary/bin/thermal-engine
 bbc30508447e91e4798754a3e662035d0eef2142ca324e732835a3859df8bb5b  ./hlte-common/proprietary/bin/adsprpcd
 a6a0c917b90c19af8f64e860444dcce2a747fd9f6cf868537225a2c2c2e4d3c8  ./hlte-common/proprietary/lib/libchromatix_s5k6b2yx_zslshot.so
@@ -4051,7 +4051,7 @@ f4612df543e5949f835f6fc85e2f6a9ed42a5a2749a3a912461a8c6108bba741  ./hlte-common/
 9daa29252b7721d76b8796d13a8cbbca6bee0d93612ca7a57aa4f2adc1b40b10  ./hlte-common/proprietary/lib/C13QS_libTs_J_Awb.so
 b24f2604dfe5f36c89527b184c921a354c5bbf3b1f684b87df0cb57ad73de5cb  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_preview.so
 da75f731e433b70d3c13d787001e14849291b4cb346c3d4152947f9fdf87975d  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_liveshot.so
-7f202694fc6ba2e61594f88e3faa64492ffbbfb9868f2a2a826d0b4f6a9d2454  ./hlte-common/proprietary/app/TimeService/TimeService.apk
+b0b6755d7bf3ba6ed5d586e0846970ffd358df001ae7bab82759c683edb815c4  ./hlte-common/proprietary/app/TimeService/TimeService.apk
 4b3534537389c0ff877d7eba3d6f83b3c593637cc49f69e6400f716b905a872d  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0111.0559_wisol.hcd
 4b3534537389c0ff877d7eba3d6f83b3c593637cc49f69e6400f716b905a872d  ./hlte-common/proprietary/vendor/firmware/bcm4335_V0111.0559_semco.hcd
 aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./hlte-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
@@ -4091,7 +4091,7 @@ a7f597d4353872bc84f5cda3fb31c3e36746c692214be3c14a33bc10d1fd17ca  ./hlte-common/
 02cff36a9da193e6ce74ffb483c097a30ee955515872b536d229688355d80c03  ./hlte-common/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so
 2b6ecd51479a097d46fc81e202d7d6ebd4c05d9ed4ca063a1c07a4a18a4acfc1  ./hlte-common/proprietary/vendor/lib/libmmcamera_imglib.so
 6c882bedb30887f9ede33929a85536bcb29ace30f160d5dcfb8da29589bdae4a  ./hlte-common/proprietary/vendor/lib/libactuator_dw9716_camcorder.so
-4a9ceaa56c802c7bc9df3336aa75567ca32b923cfca4b8d38991d42a19646734  ./hlte-common/proprietary/vendor/lib/libtime_genoff.so
+3357af186d332af08aa8d33d8d18b52f117894daf242041a60506d28e4d73021  ./hlte-common/proprietary/vendor/lib/libtime_genoff.so
 b86d338c3434863cb3d09d9aedd76814aba1804f4e442f721be708775f3a7da4  ./hlte-common/proprietary/vendor/lib/libgsl.so
 ac7dec5b9a0ba873e91413212edc2267ec2d153664ef6c1819f80a1281de7cc5  ./hlte-common/proprietary/vendor/lib/libssd.so
 3f43b5c972793f8ef6ac86ced240f065da54dcb98536e3c876d07c4c515bb069  ./hlte-common/proprietary/vendor/lib/libgeofence.so
@@ -4147,7 +4147,7 @@ d6d0fb069efd212c14ff5cbd9f60e8b583cb9e914113e734e506c705c82c31cd  ./hlte-common/
 05bc09c3679903a6d1135545c70a9510af6b131b18745824a66f843be266080b  ./hlte-common/proprietary/vendor/lib/libthermalclient.so
 123af86842c68ab8a9b559d1a188bd8cfd9faac52b5fb552ed41f5f76f06b9d0  ./hlte-common/proprietary/vendor/lib/liboemcamera.so
 cdbb69922e55f8b76e8b3dae73dac4b052fae27fa510efaaab5bdc5565b42636  ./hlte-common/proprietary/vendor/lib/libmmcamera2_imglib_modules.so
-c8b5a51e01eb1eb761e103aa2c847564d52c427701d93d5838e7d63ac5c7978a  ./hlte-common/proprietary/vendor/lib/libTimeService.so
+599a6751fa40a52f938103a5c62e0aeccc596d328f4006a3add6892b7dbc1a28  ./hlte-common/proprietary/vendor/lib/libTimeService.so
 2ca968dce06faa384af34727104869f3a7fec9222f9557105e7b125440131b29  ./hlte-common/proprietary/vendor/lib/D13QS_libchromatix_imx135_vt_hd.so
 8f7a6af6f8ea1ec7cc983558d45eff3ce40fd0be6a3c4be7819c25225ad5b6b9  ./hlte-common/proprietary/vendor/lib/libactuator_wv560_camcorder.so
 0a23b8657be6979ff54542cc7f7400ea38d28363cf2c5335cc0ac39dee92fd4e  ./hlte-common/proprietary/vendor/lib/libc2d30-a3xx.so
