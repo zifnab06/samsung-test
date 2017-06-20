@@ -1273,7 +1273,6 @@ b0483c6cf480ffebd49638f06351be00286cc553ee06a888e33772cdcd6883d2  ./klte/proprie
 33797470b1159a2b3c1c09c25b0cacd0286f20181b01e5c86ad15de814298270  ./klte/proprietary/blobs/usc/vendor/lib/libidl.so
 d72faaec79c0da0dfd4039707b4a588447a7af4aa930e7e0a29c4fb5bc16ecab  ./klte/proprietary/blobs/usc/vendor/lib/libril-qcril-hook-oem.so
 e4c65547638438fcba0d564da408eda17158a0e87a34f48dbd3469d430c3b020  ./klte/proprietary/blobs/usc/vendor/lib/libqmi_common_so.so
-bd7aa809350a1be00db00a2b9a0880d408171b197576afb7be7e11e5da7ecce3  ./klte/proprietary/blobs/usc/vendor/lib/libnetmgr.so
 d85205f4861f9405d983a7a42b0a416355dcccdeb554b2694d83081390c6be39  ./klte/proprietary/blobs/usc/vendor/lib/libqmi_cci.so
 55b01ce2f4f61abebce0218930aac1971f00213a3a11f785af46ca8f13da8753  ./klte/proprietary/blobs/usc/vendor/lib/libqcci_legacy.so
 454e92a2f11ab3dd9da451a692c8f65612fbe30945a98847cea0f782c5621064  ./klte/proprietary/blobs/usc/vendor/lib/libqmi.so
