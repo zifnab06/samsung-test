@@ -4345,6 +4345,7 @@ fd9856b68be51e8cb3e7ce4be4ca3c9b18f96e72a0472f9f0a1a620200a44c52  ./hlte-common/
 77a87589072d9a2ccff69e7d965ee153788511e2ba955a855a34293f2f0901e0  ./hlte-common/proprietary/vendor/lib/libqti-perfd-client.so
 a38395e56e6131b64aa2fb6d650a751d43ae511e39b997c63a6ce93d46df2801  ./hlte-common/proprietary/vendor/lib/librs_adreno_sha1.so
 2520f7d9ac9b825aa29357b6c2f82e9b59ccb7b0bdec44840976d3c5ab89312f  ./hlte-common/proprietary/vendor/lib/libchromatix_imx134_vt_hd.so
+cd4259333338a4ecff3972bae28ba8a3469b1de859cbe23e8f7904eca4d15185  ./hlte-common/proprietary/vendor/lib/libaptXScheduler.so
 be02bbc7019ec8d213ab4d526ee4ddd7c7a60a67aa6d840a358820f4dd818cf7  ./hlte-common/proprietary/vendor/lib/libactuator_dw9714_camera.so
 07074f3414e84f25a89ef7f3896e4f7f8dd100b5b1cccc0ebbb9c05f2c44f991  ./hlte-common/proprietary/vendor/lib/libscve.so
 549b8a3839631e5ce28db501b3298a096913620d7d8df7dbfe15937dd1511247  ./hlte-common/proprietary/vendor/lib/libscve_stub.so
@@ -4356,6 +4357,7 @@ be02bbc7019ec8d213ab4d526ee4ddd7c7a60a67aa6d840a358820f4dd818cf7  ./hlte-common/
 455cbc590877f3ca4e58b42e2e7805fef1b00fc1c52619700f378a16f5e424e3  ./hlte-common/proprietary/vendor/lib/libOmxAmrwbplusDec.so
 0ce965068d90b6443c91d56350101725ae1c8bd1108b2b88a5241958823998eb  ./hlte-common/proprietary/vendor/lib/libsc-a3xx.so
 70f4365131c379c72731e2c1f9d044a19f5b300178158fa4b5c1b30bcda3f272  ./hlte-common/proprietary/vendor/lib/C13QS_libchromatix_imx135_vt.so
+892e44c1bb20353001f2a492b0d707dc4c62d74b7d8587c902f7d514dd5da30f  ./hlte-common/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so
 4046575828b31ef0668b9e37004a8c1669550140b38b8571b3408a5efbe582e2  ./hlte-common/proprietary/vendor/lib/libOmxWmaDec.so
 45d9698ca71210326f899b5f11b6966403b024cb5da0b35e93e126aba87f3f89  ./hlte-common/proprietary/vendor/lib/libxml.so
 8f301c74a839708d94a0587bc408d1bd98da23e45b0f61a7f3fd02b2625e6d71  ./hlte-common/proprietary/vendor/lib/libchromatix_s5k3l2xx_vt.so
