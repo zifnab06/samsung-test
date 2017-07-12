@@ -7266,15 +7266,15 @@ ddf8b77dd022147032faa4c1ce3894bb4227c410e40604b7cf3599df07cb8aea  ./msm8916-comm
 1fd6069083f58b619df335ebd3617b431c6dee7826a92605d0a38a17486ade0f  ./msm8916-common/proprietary/bin/thermal-engine
 fbdc79440fb60ef1f0c035c645dd662f92b1f34b250d8b422b184c5bea4d478b  ./msm8916-common/proprietary/bin/wdsdaemon
 a7b6cdb22bc270f06172510b60374dffeb67447137b6aa3ef7e4a974fdf6832e  ./msm8916-common/proprietary/bin/adsprpcd
+9bbc7619aecb859a60cb765bc02f3b4894d4a6415681093ac3d485499f7db5ec  ./msm8916-common/proprietary/lib/libloc_ds_api.so
 57b735bf4e263f70fd72b93920ed4cba22c062e81a8c078915b1ca83a732494b  ./msm8916-common/proprietary/lib/libomission_avoidance.so
 45896b1660a8922473ad2aac5c07e5062b03f4230921bbc96025c005964c4ccb  ./msm8916-common/proprietary/lib/libsomxhevcdsw.so
 e911c127f8e224afbbfab25e8f825037316a71ec6516475c8903bca9f9f6fc09  ./msm8916-common/proprietary/lib/libsecnativefeature.so
 ad62a7f6d18536dd8a7c91318fa6cbb7dcf4bccbc977c966c7ccb66e097612a8  ./msm8916-common/proprietary/lib/libexifa.so
 2e2cb8e0f2851e92eea99c1815ce485e1557c145baca58f1b67aab80ec8943da  ./msm8916-common/proprietary/lib/libMcClient.so
 4d3baf60d5b843f9766b5a81c46d8b20433a9e4f8f9efa2145718b3ff837f68f  ./msm8916-common/proprietary/lib/libsomxvp8d.so
-14deb622cd8ffa7958108fbbd69a23bf4c419c20a71e0c25e7ba67ccd5807356  ./msm8916-common/proprietary/lib/libloc_core.so
 6df7a398e4a3feb15d4d8acf6d0cfbfef93e42b3fb2d52cdabe4391733ebcdba  ./msm8916-common/proprietary/lib/libsomx264dsw.so
-9e7d49c62711af1d222ec1ac1b65934269e69714af239281f96cb3b193a34b21  ./msm8916-common/proprietary/lib/libloc_api_v02.so
+0e9c94e7e89fa7407c323f4df196d6c07c48d4cff1e56ef6a3dc37d33f8d6580  ./msm8916-common/proprietary/lib/libloc_api_v02.so
 925dcc37532af74676301d66e117e3463c2467be783414cece3f807a12dda8fd  ./msm8916-common/proprietary/lib/libsomxflacd.so
 d87c4bf3526e036d9b78b106e114a1726d609316d935326ab716087014ce25e0  ./msm8916-common/proprietary/lib/libsomxaacd.so
 b0216a0729b4d00465e08021db7025414bc85986c0798e23a37dcbdf5a67b9ae  ./msm8916-common/proprietary/lib/libatparser.so
@@ -7288,9 +7288,7 @@ ec1d5a042e878c4f8777cd5cf820cc7ff155217619bfd9fdf1c8b1a45d01a97c  ./msm8916-comm
 947e385a185ae3d5f428f1860ac180a03d9046671418868d4ac05306ebb48331  ./msm8916-common/proprietary/lib/libedmnativehelper.so
 252fff08a0f315af64db3b98c2ae0655546ab80f6ed36dac54acf247945acb98  ./msm8916-common/proprietary/lib/libsomxaace.so
 779350d5cfd647b7a2b3697e9d3c30b0d916fad805098d0859e63d6582f613ad  ./msm8916-common/proprietary/lib/libdrmdecrypt.so
-98818ed48f33d751a7c2373ee20cf989d9eb3301b9459cdb9e223090b3ad6a38  ./msm8916-common/proprietary/lib/libloc_eng.so
 a4e9647d8cf1ba9833bd84ed832c0e717b97f12cb0ac042e9750b3e3d80227c5  ./msm8916-common/proprietary/lib/libqomx_core.so
-e53850439820506bde2efc9a014a08168823eefb7614f359a6c6c1cf56970b3c  ./msm8916-common/proprietary/lib/hw/gps.default.so
 29ab8369daa295e196ba8292d87bf1f161ba2a19dd9e19dd3fe964522bf2ce0a  ./msm8916-common/proprietary/lib/libsomx263dsw.so
 2b8327cd68cb275e4e0cdd1eb8ddf9797093049fcdb0c78ad257042d6dbf43a3  ./msm8916-common/proprietary/lib/libfactoryutil.so
 9c845de63f62f15d85deef1184b32f7eddf0e025b869ec0f4e36a685488fca0a  ./msm8916-common/proprietary/lib/libhdcp2.so
@@ -7301,7 +7299,6 @@ e53850439820506bde2efc9a014a08168823eefb7614f359a6c6c1cf56970b3c  ./msm8916-comm
 7e2ae4001ca5020b7de3a8f663662df47701e593b3f2ad16c7439ac5021a53de  ./msm8916-common/proprietary/lib/libsomxcore.so
 116aff5291472e6f36d0538c1e6dd06cf7010468f70bdcc20d584ac0d4075963  ./msm8916-common/proprietary/lib/libmmcamera_interface.so
 7aecbd23bfa8a2109d79d3b90e9a4b543c271f289743069ca22fe1802c4d1a53  ./msm8916-common/proprietary/lib/libsomxcmn.so
-d4c294fcbcade1fe8dc128f84bdc4a0351a098b4ecde5670873d62ed29c9dfc3  ./msm8916-common/proprietary/lib/libgps.utils.so
 006bbcc5809678d178fcb1e02f1b605267586468ca8f86811554d762ac39fd5c  ./msm8916-common/proprietary/lib/libplayready_v2.5.so
 f0ee9564f418649252e33840f16f09db221147fb0a95f3b2ff056edb23f3627a  ./msm8916-common/proprietary/lib/libseckeyprov.so
 fe7e04a9f1c396519b25e01929ce772e28d0d5f4604a8506ad525473b8852cc1  ./msm8916-common/proprietary/lib/libmmjpeg_interface.so
@@ -7325,7 +7322,7 @@ ce66d2d806083605712896bd0fc4d60dd2518a76238c18a0705a37b626f717e7  ./msm8916-comm
 6d3ce4bd9df7447d2ac2eea06612f5ef90f9006e10408fc54d395b529c19a677  ./msm8916-common/proprietary/vendor/lib/libhwdaphal.so
 8c866a09f91934168e22d23d6d5f93c72c3e932de0f7ff9958c304fd0b59fd7a  ./msm8916-common/proprietary/vendor/lib/libdrmfs.so
 4d97453586820981544fff324ed2bc260a3d6726f716744eeb2ef26ce7702bb2  ./msm8916-common/proprietary/vendor/lib/libwvdrm_L1.so
-443d765b9ebb3b46b724d208fe77a07ef1e5957d2dc39f7054ebdad7cc77ceb7  ./msm8916-common/proprietary/vendor/lib/libizat_core.so
+7f0c0f0c0076908884b2497886c030bf9ee2f824cb828fa681a2a6f4619550ce  ./msm8916-common/proprietary/vendor/lib/libizat_core.so
 658880c2ec2760d39071654a9f1c0e5628a628855a6acdeb1d1110beeab766b2  ./msm8916-common/proprietary/vendor/lib/libOmxEvrcDec.so
 1987121c37d85c15e1f17620e143dabca573d5548e2703324fdc1ad4b830116f  ./msm8916-common/proprietary/vendor/lib/libsc-a2xx.so
 3b5eeaa12f4d46fddd7fe3350747e7add9ebdeaa6d465b596b5bd8b7f2db1f56  ./msm8916-common/proprietary/vendor/lib/libjpegehw.so
@@ -7336,7 +7333,7 @@ d164eb14c4e18ea2d59f58610ce42d7464f75e5e63aa652a654032397318e039  ./msm8916-comm
 154fb7cebd192241a3c44e65d0c61f84f5929034bc0fdae918d7e4dd1c04a7f7  ./msm8916-common/proprietary/vendor/lib/libacdb-fts.so
 d0a6bae4da0410246029a4f428817b4a1693eb06acb453e0231ac0ce4727a35d  ./msm8916-common/proprietary/vendor/lib/libssd.so
 233719bf69896f6bd7d3a4d4abf11eae62233ac78c0d1063b17a7214dba7649e  ./msm8916-common/proprietary/vendor/lib/libtzdrmgenprov.so
-f47c9f84637edf22f39177fcacb1c1f369cd2235ba32fd3d735883951c41d62d  ./msm8916-common/proprietary/vendor/lib/libgeofence.so
+94d8329b6d9c52f2557710e8d35cf874de902005c85439e4aec8fbb5512e5ef7  ./msm8916-common/proprietary/vendor/lib/libgeofence.so
 6c5ae92af7d0530f873637f72044e593a0e40548431a0b8cf7003dd47e573c8c  ./msm8916-common/proprietary/vendor/lib/libmm-color-convertor.so
 01805a53210707fa9513300c5339d152570d75b2504c296c0446401c4b467067  ./msm8916-common/proprietary/vendor/lib/liblistensoundmodel2.so
 3e98a13be56eea81e665c012708f97110235971871725d789388ccbcea9d5d71  ./msm8916-common/proprietary/vendor/lib/libmm-abl-oem.so
@@ -7351,7 +7348,7 @@ b00f7dfa3bb95bb50297392b37c26811fd465e4d8914ca93088fc10a3d168e8c  ./msm8916-comm
 6a705ba695215fb6de7f452efd1625f9369d71b0810be6d3da58b66d72e44f4b  ./msm8916-common/proprietary/vendor/lib/libCB.so
 ff6855966c5e88c264fb3e98a4cbb486d182218248c2082ec3cff4212150d0ad  ./msm8916-common/proprietary/vendor/lib/libacdbloader.so
 efce6ec0f5e1b697f112d2a849ab116c9d1e4bdcd0cb057d762475beef1518c3  ./msm8916-common/proprietary/vendor/lib/libtzplayready.so
-3e6447244a28312b23c3a422b6f882801074d0a7c3449770efde88d28c171d4d  ./msm8916-common/proprietary/vendor/lib/libflp.so
+f6de0bb705d39de281d615071bf5a32797c318209519e4d9e4b18b483ba3c686  ./msm8916-common/proprietary/vendor/lib/libflp.so
 ba58652cd6c648f863e526c9b7af00a1a3f008232d77755f90d1362608e59ae9  ./msm8916-common/proprietary/vendor/lib/libprdrmdecrypt.so
 d9266056245b46ca34a5d8b8899a374f6ae8e399382c28b5d59a29b9c130c905  ./msm8916-common/proprietary/vendor/lib/libdisp-aba.so
 53be7cbab5d1d05845f35dcd42303d9302f0d529f1c0b75aaeca52675cfcfe7e  ./msm8916-common/proprietary/vendor/lib/libsd_sdk_display.so
@@ -7384,12 +7381,12 @@ ebf6bb6cd94907a09f2b3ca469cc8fb71c90ffb392892bec55a1c263b0b29ef4  ./msm8916-comm
 9be70013f10e2b8c08751a96cdb158182aef9a79a53bfab5d52e19f019df56bd  ./msm8916-common/proprietary/vendor/lib/libnetmgr.so
 0d0a7b4f5a7961bae3ab543b056cd9a5e3d903d077baad56e9c294af2dfc0192  ./msm8916-common/proprietary/vendor/lib/libadreno_utils.so
 fe87bf39160c8eedead440c65f34d89754d42f89df358ce0413ef28494a2da21  ./msm8916-common/proprietary/vendor/lib/libaudcal.so
-fc39ff8bbf1b4f2969b51190966783102b5397eca15fc567cd31ff3da9e914e7  ./msm8916-common/proprietary/vendor/lib/hw/flp.default.so
+3819bbdd3b107d819a1235c309e144930452029bd4c14d3212394406cadd0d65  ./msm8916-common/proprietary/vendor/lib/hw/flp.default.so
 d8ec7001247202b934ef53d77b01dc3c593d5c73ebf07638ecdb8cfcfe381b9f  ./msm8916-common/proprietary/vendor/lib/libbccQTI.so
 0e0200b050140d095fac1864eac18916187b3d7bc7d50771890f11d97ee2a086  ./msm8916-common/proprietary/vendor/lib/libaudioalsa.so
 d1eff6d190f7990e6b3a9ce5708dbd0dfd59d13463490f41a289f12d7172f1b3  ./msm8916-common/proprietary/vendor/lib/libc2d30-a4xx.so
 b43a721323d8f00e5c53956fd3c616fcd6ebed786958220e51263007dd8682eb  ./msm8916-common/proprietary/vendor/lib/libacdbmapper.so
-9aed5009bf388188d6457cda57ed5b4a64431567e8e4458fade00b8eda1ef429  ./msm8916-common/proprietary/vendor/lib/liblbs_core.so
+f85af75f3bbd400cdd8ba19a1ead3d24b755f37836ca710f75e6a17245905664  ./msm8916-common/proprietary/vendor/lib/liblbs_core.so
 ed3167824ab6cca4bd0c96648a5cc3b41ef7781a9489d14891c9405e24f82311  ./msm8916-common/proprietary/vendor/lib/libmm-abl.so
 1725439de48544d4979741d9fd981e39f6821fc6a4612f7686225ee8b6c258a2  ./msm8916-common/proprietary/vendor/lib/libthermalclient.so
 26f34225f31f394cdf529ca21bdc5f0aa1c35df94d49b99f672f3c241622e2bd  ./msm8916-common/proprietary/vendor/lib/libTimeService.so
