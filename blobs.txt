@@ -4441,7 +4441,6 @@ a607b43175c8d6c81bc7f092e9c326cc9332eac500be8be4b5be89e5623fc476  ./hlte-common/
 4c56f1bb82553038770036a1bb76ec80b1a3616d3ad62977f82d0395eaca66b8  ./hlte-common/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so
 cef0fa70bf515337a24b6738ed2c92cbe808f152eb0c15f9ced3aa2ac9821f92  ./hlte-common/proprietary/vendor/lib/libacdbrtac.so
 b14f2e4b4769a6cc3e0646455a98ee1f9a66203f4573a303660bfb0c9d2cf7b9  ./hlte-common/proprietary/vendor/lib/libDivxDrm.so
-14f7631566455b07c99f702e2aa96b7aeedf5f6cc57a1587a4546b0458498e82  ./hlte-common/proprietary/vendor/lib/liboemcrypto.so
 edcf7f389f65e461933621842ece0362fab1ba07b5a6da26d1aeb01d406f6e68  ./hlte-common/proprietary/vendor/lib/librpmb.so
 671dfed870340ab7cf70e94e28507e0b0c0c2b8dffc8b460ffefa6e4a02fcda3  ./hlte-common/proprietary/vendor/lib/libsensor1.so
 5086e2b3ac9fd2f72762d1ef34402eb4d0de86bc9ac085a3add1d2f010320c1b  ./hlte-common/proprietary/vendor/lib/libadsprpc.so
