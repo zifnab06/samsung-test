@@ -7325,15 +7325,10 @@ d637c7ba0d4ded2f72c0d1133df4920e7109252dfba776625f0393f123dc957f  ./i9500/propri
 efc986016a6147d29dcf81a07ebcc33c20cc2474b14d2559187c9f2d72efff8e  ./msm8916-common/proprietary/etc/somxreg.conf
 e50b9a6a2dffadc2833449b141a7248c71aeb0737ef330d0d35626743ed3cac9  ./msm8916-common/proprietary/etc/srm.bin
 188c5eefcc024ca8f9cd0a78a64fcb226bca68b9fb1045e63b7ed58ca751342c  ./msm8916-common/proprietary/etc/plmn_delta.bin
-b35674bf10c0e4235b8642e4bf995aa05758b349872c174123dab6ad0635c4c7  ./msm8916-common/proprietary/etc/firmware/a225_pm4.fw
 1ceae8d135274534f109d3cbc12d775cb6d8878e4cdb039a72f6aebf29528e98  ./msm8916-common/proprietary/etc/firmware/a420_pm4.fw
-e4ee76b287961f56e6a606ed5baf7127d9fd9a0d421b516af32fa655f1fdb5de  ./msm8916-common/proprietary/etc/firmware/a330_pfp.fw
-096a8abaf484e74a4f084d3cdd396cc2809d7f89cee3f25645a629a845ea37cf  ./msm8916-common/proprietary/etc/firmware/a225p5_pm4.fw
 40b6545077009bc57647ead6f696a3d201e87cad6fb34091b4a266f81fa9d033  ./msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw
 3bf16da35151eeb371d686336dd32d40390ef228d19f4171b64ee703c66e1821  ./msm8916-common/proprietary/etc/firmware/ice40.bin
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./msm8916-common/proprietary/etc/firmware/a300_pfp.fw
-2057bff39ad2ab0b4d4ad755c52bf9d0c139293aa823bde992094ce27304b000  ./msm8916-common/proprietary/etc/firmware/a330_pm4.fw
-a3f169a7c873c8895d4bf0d4cc0ef3f3a83e33bd1b5a0e26eed67cde187f491c  ./msm8916-common/proprietary/etc/firmware/a225_pfp.fw
 d99151ad14fce57f9af4f5d80683a837179b9ea2195a7ddae390cd3cb56fb276  ./msm8916-common/proprietary/etc/firmware/leia_pm4_470.fw
 78efcef52df030cc6dfea9648fde58e4559e4ad61bf26867f3ad453c8ed2e5ce  ./msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw
 cb7274d7966b02540895f4399e8567faecbb9503d6d95332046412fcd8b0710e  ./msm8916-common/proprietary/etc/firmware/leia_pfp_470.fw
