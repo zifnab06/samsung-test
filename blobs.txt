@@ -8007,7 +8007,7 @@ d0fe9a03c6ba5a1775407a93b3c23c7d6e41552f5a0cee0ea08816adbcf7c330  ./gprimeltexx/
 f0562ec34aca02887d3b58675d1bedb1591a62594ccf4f535b6d014849cb7ca5  ./gprimeltexx/proprietary/lib/hw/camera.vendor.msm8916.so
 ed228b7b564d8d8acc6ee2d4be3e2ddd8d4de4245377c9f2c2b58ae43976db84  ./gprimeltexx/proprietary/lib/hw/nfc_nci.msm8916.so
 525be26c60e7087d43de5f4d65cf984f029c3880440dc1ab95aa4632a05b3de9  ./gprimeltexx/proprietary/lib/libawb_algo_front_al.so
-c7bb7fb5758a85b86d14e35c8b722503adfd08365297c643b51c24fbdd34b0fb  ./gprimeltexx/proprietary/lib/libsec-ril.so
+ac9470da1da5384662f43868d6d8f3ec6fdb92f8ed2ba0243a393275227afe5b  ./gprimeltexx/proprietary/lib/libsec-ril.so
 5fb73efabdc1b5e029e37f779c2707c522c3e5db264e54860d315d56720639cb  ./gprimeltexx/proprietary/lib/libawb_algo_rear_al.so
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./gprimeltexx/proprietary/lib/librilutils.so
 5c3e063aa991f3e8f01c27f90ac6846f800c01ceb266a50645db79d4c936609d  ./gprimeltexx/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin
