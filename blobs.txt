@@ -8283,7 +8283,7 @@ adf455ce65aab5d85b3ec16332c902cd7d1e00d18bfde5d9c9d1ca5846e32d6b  ./gprimelte/pr
 8e042c984b2f112544b8b4a63161f2ae0c1b4fb1175b7029df7403b9af3a6a7e  ./gprimelte/proprietary/lib/hw/camera.vendor.msm8916.so
 15368a06452e2abc648155fca8a2d380f5ac3c99388b391a0e6c6638c3f2d77a  ./gprimelte/proprietary/lib/hw/nfc_nci.msm8916.so
 fe009f3bc21bc2f854c053af8754207ad75688f16830239e964cd3aa17d0a2bc  ./gprimelte/proprietary/lib/libawb_algo_front_al.so
-710e851459358770e182152cbec8d5f8f41fa576129f12f34caac14d225cdbb0  ./gprimelte/proprietary/lib/libsec-ril.so
+41520c21188dd96e76bc95d5c7cb3f8cecb612de016df35e972fe4eb6e961883  ./gprimelte/proprietary/lib/libsec-ril.so
 aa0ea112b5e8509988a378f575c8daa233600a89e330680eaaae7b932e0bd609  ./gprimelte/proprietary/lib/libawb_algo_rear_al.so
 c297f88ca1754619ff94f41ea6e3ef2d0c7fd6ec74415ea51f8007ec1e39977a  ./gprimelte/proprietary/lib/librilutils.so
 05ed1126ed820aa5b9b66ea597406b660282983ae03f23cb14d5668ff0bfe54b  ./gprimelte/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin
