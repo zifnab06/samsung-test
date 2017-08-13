@@ -9139,6 +9139,7 @@ f9e91b38394243157738a8ed84a80397f5fa9c3b3ac4c2c9eeb99618b564f618  ./klte-common/
 22853f286013d6b39863c0fc2a57b4317d4647ba97d5bf8ff097575488530563  ./klte-common/proprietary/bin/time_daemon
 45e0426fdee16d0ba67808418be627c28142e752fd9403395d3c3b05c9909a74  ./klte-common/proprietary/bin/adsprpcd
 a0057faff80c6148856267bb15dff119f4d7860533e6d9cc028f4e4032bc9ae2  ./klte-common/proprietary/lib/F16QL_libchromatix_s5k2p2xx_shotmode_zslshot.so
+a978e8251a44696850911eba532d2e9878e6e37de42ec471f4c6c8b488b39ada  ./klte-common/proprietary/lib/libloc_ds_api.so
 6a4e8671d915f11d574e8646a788a790772fbb0d62697beccadf0eff50810424  ./klte-common/proprietary/lib/libTs_J_Accm.so
 7665879bcf1c7980951bb85848b1e343dc5ae2e50acf91c66ceab1302105a3e9  ./klte-common/proprietary/lib/F16QL_libchromatix_s5k2p2xx_preview.so
 3c5761790d3a9a0f99d45126541c4dddf534b81dfe3afc8fcc6bc62158381499  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_hdr_uhd_video.so
@@ -9155,10 +9156,9 @@ e2b30d2adfc84c68383967aac94bc9c3e02757fc892b04e83f9bafb2e708fc1c  ./klte-common/
 376a40af6ad9d98e77ecd092b566c7dcd31ab4e006b5ad2005282ba0bb3bf308  ./klte-common/proprietary/lib/libmmcamera_fidelix_eeprom.so
 eef667bd9381414603ef9463b681c00072c3cfc9d37dc661e5551ebe2556f90e  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_hfr_1080p_s.so
 08033f104374781fb029d7b7471be41d1f813ec0a55d0c7c49a1bf01b7ae09f4  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_hfr_120.so
-766c3f1a560607e85dbd5fa001ff089275f509c7f86f5e906e4f98424145d873  ./klte-common/proprietary/lib/libloc_core.so
 e0e7c38dd9f1542057b5d853e83505580882f6a596de4ee50131e52346080411  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_liveshot.so
 b79038221a830cf462277ca5b2b324ebfd0edffc81590f483d077e39a6296972  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_zslshot.so
-fdcdde42cdbc2682a67cdf4606b87c9db2b09f5bd81777f6bbea2ba47314367f  ./klte-common/proprietary/lib/libloc_api_v02.so
+7d8503ae66a78bcc5e2858f5a5ca0b02fce10312f6565d1830c8417682e4ead4  ./klte-common/proprietary/lib/libloc_api_v02.so
 11b6e3263ed6b7a6a920361bda7c675047d075e4f704fcd77180fd2f13437bf2  ./klte-common/proprietary/lib/libmmjpeg.so
 e6238d3d399ab0f20bd2df50407c7c5974d3c517b9a0f3fad9b76202a8c41a11  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_shotmode_preview.so
 795532b0c51d9c341a8d4ffb7b7ff525a945c7b74a4928334ccff9522b7825d8  ./klte-common/proprietary/lib/libmmipl.so
@@ -9195,7 +9195,6 @@ ce52d789bbf855f8802f6dffb579d02330e5536321ad239e43aa06a75b07d5af  ./klte-common/
 2e39e399682d4d237add1fa12dde40430ebccb7348ea2b8a1389b6138e144949  ./klte-common/proprietary/lib/F16QL_libchromatix_s5k2p2xx_hfr_1080p_b.so
 5701114aa1a474cfc38352e7eb75fe84246755df0dc13ab85e8d32a722fadeb6  ./klte-common/proprietary/lib/F16QL_libchromatix_s5k2p2xx_hdr_video.so
 689396edee557775be254db22670dbe59c60e4ffdc70eddac72971280586c185  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_preview.so
-e95d4b8d5d040758d0f9b9af4cd2b053e73678a0d64953504abc9c605ba38b0d  ./klte-common/proprietary/lib/libloc_eng.so
 f1adf0709fd40ef635775bc6734b506ec8db7e86d3ca26cecf51774bf5315084  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_default_video.so
 58e92c043bb5b74f29d1c566ff0ec641a488fe6d9a43a2e132925fe6de09d784  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_pip.so
 002478ec5db5da426de892b273f818589fb504981588350c1201b547dbb3d0f1  ./klte-common/proprietary/lib/F16QL_libchromatix_s5k2p2xx_vt_hd.so
@@ -9206,7 +9205,6 @@ e01856e16ce52098f213fd979ecc494af4420ed37158c2412f2d8714ca48dee9  ./klte-common/
 e4e40e7f2a39f068ca75c178b7e5ba8a4169bdd488ad7f4d824b3eb0f5b476e1  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_hdr_preview.so
 04e00ff0b754e1431d3a8a014f09324339c9f003cdb6c443a3742c255c500f0c  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_hdr_video.so
 3438843178fd23e513cd54ae93a4e93447e747b820f3b6643ad9f9199b9ef04e  ./klte-common/proprietary/lib/hw/sensors.msm8974.so
-3c8d180bd583d44ca5ee032946c2ae1c844b81e25e7b2091762a0d4b36caa853  ./klte-common/proprietary/lib/hw/gps.default.so
 89bb74d32874260390d467101b40c5f3b7acdeb358c842a3e19de5945149c2f0  ./klte-common/proprietary/lib/hw/camera.vendor.msm8974.so
 4ea3994f0aa43dd0709a28d3bf686f9f5796014870097e7198cc9853231c570c  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_vt_hd.so
 c6beef5adfee578f75762e83288760e7c6d5a0f6902743fb3d4ffb145ff3fc39  ./klte-common/proprietary/lib/F16QS_libchromatix_imx240_lowres_zslshot.so
@@ -9231,7 +9229,6 @@ c8831c22d2c6446b57d0fff2ee9423966b636e7743a3d1ccb95750fc42183341  ./klte-common/
 c6b3746f7e09093aca13d68ac4a66c7001d1ba8bbaa4e372cb9fbaaf330403aa  ./klte-common/proprietary/lib/F16QL_libTs_J_Accm.so
 312b7d552eae7fa615d43cddb7c70010fab4beca9d7d2ac7327f9097f2964e98  ./klte-common/proprietary/lib/libTsAf.so
 a91e5a3b201dcb374bf0aa8adc9b587a87daf1838d422b02dc8e7f25866d50a4  ./klte-common/proprietary/lib/libTsAe.so
-327890637a46d5b9d97d6fe167eef4b71425ab014376cc1417a455bbdbc3db7e  ./klte-common/proprietary/lib/libgps.utils.so
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./klte-common/proprietary/lib/libmdmdetect.so
 476b09b80edb5c7a5461aceccef9248c41144bcef4df5a47d1c1c91c364dd22c  ./klte-common/proprietary/lib/F16QL_libTs_J_Awb.so
 72beb0af69a0125361fc78776ceeda391ac567b5eb36c5ba96645066d70473eb  ./klte-common/proprietary/lib/C16QL_libchromatix_s5k2p2xx_hdr_preview.so
@@ -9280,7 +9277,7 @@ df5b5f3d172036cc4e5423f7fb1dd140f2ec78003b679d3bcb43fa1290a63f09  ./klte-common/
 e1eb6b1830cfa265ecf4b296d44035dd02faa13fb87fb2870c2a97ae255d429e  ./klte-common/proprietary/vendor/lib/libmmosal.so
 00bb143b821b3d274e4848149517e09e73ef08587df5cae61cc53822553f9cf8  ./klte-common/proprietary/vendor/lib/libmmcamera2_isp_modules.so
 6386ebb4779d4e67bbc6ae6da2aaa06a15f2742200fd73ed57362c65be2b3fdd  ./klte-common/proprietary/vendor/lib/C16QL_libchromatix_s5k2p2xx_common_res1.so
-c06d2c4c82bcbaf1d9096ee821fc17c659913d76b0115704a715554d800dbd7e  ./klte-common/proprietary/vendor/lib/libizat_core.so
+f18939e43c093dadcfa56316270f99a2f62452c0555586a2e131f94ac198e048  ./klte-common/proprietary/vendor/lib/libizat_core.so
 5b5f43e4b875ec8a0fd055c52ad8ee1cc375b8f7a47813f2e5836a0a2509b7e6  ./klte-common/proprietary/vendor/lib/libOmxEvrcDec.so
 1a26d5321e109b374d6a85eafee0718d07ba5535cf958b66a52d714dfea1692c  ./klte-common/proprietary/vendor/lib/F16QS_libchromatix_imx240_common_res2.so
 812642c97ac3b749eecf8edd46d28898728a8b56505c9511c25e29a2807aa7a8  ./klte-common/proprietary/vendor/lib/libmmcamera_imglib.so
@@ -9292,7 +9289,7 @@ c456692d2da61829cd056904a71329154b07d59f6f30c7848c307cfc85170294  ./klte-common/
 5e02fe0cd3f6e8ce0bb94c02570f8f22f943e884b235d6c7fa1e70a31d66535b  ./klte-common/proprietary/vendor/lib/libgsl.so
 c971a18aea6a57cff0febb63df0b3ddcae0614cf47cc4c500a6f208b7db8c55c  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot.so
 63defbdcfb8d3a6bc90b7b2cf8df634b6eddebd78bcd233d02ec62d1e5a4d9e8  ./klte-common/proprietary/vendor/lib/libssd.so
-a6aae7499a29d72bd2b7a9c3bb99cdfb8f971f29d590012927533d0d98851873  ./klte-common/proprietary/vendor/lib/libgeofence.so
+38beda422226d1cfe82a68b0664733eb74c54f0ffa95094890c03f4a5bd63ed3  ./klte-common/proprietary/vendor/lib/libgeofence.so
 d8568fc71e5114de15d4f507539368bea9372793e5367b5f3c812177b042b72f  ./klte-common/proprietary/vendor/lib/libdsi_netctrl.so
 7f83a98119988463a2548993b0a8d801664b363d3db273a8978cfae222f124e9  ./klte-common/proprietary/vendor/lib/libmm-color-convertor.so
 e308dd330fff382c7a30c3c9966ab8a739ccf0e5b0d6475d4acbbd670c17c168  ./klte-common/proprietary/vendor/lib/C16QL_libchromatix_s5k2p2xx_common_res2.so
@@ -9310,7 +9307,7 @@ db5bf902d839d20671f5edb8e5237129847c0745de804e745b4dea5bc1c0f183  ./klte-common/
 b4866ae646de168168a0c0c155ef893a1781109266ac7ec3556eea06b2a57f9e  ./klte-common/proprietary/vendor/lib/libactuator_ak7345_camera.so
 0a8318849bec838e34e317ec3ae342a48da393f269665221f5e63064983a1771  ./klte-common/proprietary/vendor/lib/libacdbloader.so
 33797470b1159a2b3c1c09c25b0cacd0286f20181b01e5c86ad15de814298270  ./klte-common/proprietary/vendor/lib/libidl.so
-d6ce4f51892bd4fb4f824bfe5383474621576edde5b065e18f14b24456bebf62  ./klte-common/proprietary/vendor/lib/libflp.so
+3c993b3b43b85b3d75d3f0ffb49e818fed856774bdae5f5bbfb10fcb19dc6b19  ./klte-common/proprietary/vendor/lib/libflp.so
 3398d68103b92d329f86f524c79d42d1e4f1a5f0c3d9ad2ece39102ca6d60564  ./klte-common/proprietary/vendor/lib/libactuator_dw9716_camera.so
 a09d487635a4e9de9eb4e2fdbaa482f9c8245a12e4c771e32b89ddba60c16411  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_smart_stay.so
 f4210424e79bf102fe909bd080a67ede240842a2d9513d6bfb9a031c1248e131  ./klte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_vt_hd.so
@@ -9340,10 +9337,10 @@ abbb43ad7de9ab6cb483ae52522712923f99be4d0d02e9a8b023a49ed754d816  ./klte-common/
 41b9d00835b6ac6178903441ff58b3b469fa1d3c9654c935440fb3e5b02216a7  ./klte-common/proprietary/vendor/lib/libmmcamera2_c2d_module.so
 cdf5b6451186d3f0c639302048eb11b430953ae76a53c98926f53b16065da28b  ./klte-common/proprietary/vendor/lib/libmmcamera2_pproc_modules.so
 6419583b6ab08fba080cde24b8a3be0d8acdc1bf2c280a6ed90560ae363facef  ./klte-common/proprietary/vendor/lib/libmmcamera2_vpe_module.so
-bf5deb5e8cfdcd1f37d1d3cfce48f0111942408077533fef535cd3d922f158b3  ./klte-common/proprietary/vendor/lib/hw/flp.default.so
+aecc7b5bb5e7417ac1ab728c83811eab6408ba5edb843c6c6eb6aedbee406231  ./klte-common/proprietary/vendor/lib/hw/flp.default.so
 b1f66e0da395f850e96305c7172775ad2d2700c4a97befbe95745b5de4b8bd8e  ./klte-common/proprietary/vendor/lib/libbccQTI.so
 acb5e894aa4e666e8ccfe372bd37652f769d20d1824b6dfacb252331243f1f4a  ./klte-common/proprietary/vendor/lib/libqdi.so
-8ab596aa42c5b5c599a726d0699d617b39281ccfbec5ffbe78e6f5c9a710e345  ./klte-common/proprietary/vendor/lib/liblbs_core.so
+963a4dfb3716c354e4530d0c2cfaf5acff536636086f9f0ad50bb5e29d359daf  ./klte-common/proprietary/vendor/lib/liblbs_core.so
 daac629f34a600723abc0146c2f1e1ef69a1f78aa9c0cfb7b6f63c62567b3953  ./klte-common/proprietary/vendor/lib/libmmcamera_s5k8b1yx.so
 978824ca39a0eb8c946330a28907dc4c02795b76d3bf42568e80c2596beee481  ./klte-common/proprietary/vendor/lib/libthermalclient.so
 5bf2d9967571e8f4a20652d614de4de079f9e324861a1731739f4cefdd89b06e  ./klte-common/proprietary/vendor/lib/libmmcamera_imx240.so
