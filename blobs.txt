@@ -3279,7 +3279,7 @@ aba20d9ad44b6a2edbeae05b921aa5c3fa6a3a751655a4a16e2ce44249edd15e  ./k3gxx/propri
 f10f1342bf74ea12dc45224e41df67cca47bf08e64ce55ff241ece4f4265f328  ./k3gxx/proprietary/lib/libExynosOMX_Resourcemanager.so
 e8dd25d87dca7bf230d9e05408e3fcf8387262216893c36affd6ffcbf43c86f1  ./k3gxx/proprietary/lib/hw/nfc_nci.universal5422.so
 932fe00e3ef1433d12d7969003c8e7afaaa0e194964fee5e05d693f960996166  ./k3gxx/proprietary/lib/hw/gps.universal5422.so
-e73d350476ec5ff9e549d29d1bbd0a0eb2a8778f10717169e9ba5218a613988a  ./k3gxx/proprietary/lib/hw/sensors.universal5422.so
+964941a0f17b6b58e10fe912f8f9c46787afbdaf4528d798713765b143463e3c  ./k3gxx/proprietary/lib/hw/sensors.universal5422.so
 6246b529c64ff6b7708ff0449746c65b621e499ef3608cffa0307ab49c522510  ./k3gxx/proprietary/lib/hw/sensorhubs.universal5422.so
 2f43b9966e40a554f5f8ae98cc50d378a9eb295637c1432b0d161383ad14785b  ./k3gxx/proprietary/lib/hw/camera.universal5422.so
 545caea144978db85cd30160e9bf0cc0565112b82659df56d68f2248f955f479  ./k3gxx/proprietary/lib/libsec-ril.so
