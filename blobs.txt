@@ -8898,6 +8898,7 @@ fc42103cfca401d61e6bbeb649c0045c2a3a082282839a541b9e834534273912  ./klte-common/
 55b01ce2f4f61abebce0218930aac1971f00213a3a11f785af46ca8f13da8753  ./klte-common/proprietary/vendor/lib/libqcci_legacy.so
 8f908e72b987c30206377b41c1f09197ac3d996a261b881c3b95742a0baf98ef  ./klte-common/proprietary/vendor/lib/F16QL_libchromatix_s5k2p2xx_common_res0.so
 454e92a2f11ab3dd9da451a692c8f65612fbe30945a98847cea0f782c5621064  ./klte-common/proprietary/vendor/lib/libqmi.so
+d140e0505f7fc720b07eca03b1747b812bafb180edcd1b371aba1e66cb31cab8  ./klte-common/proprietary/vendor/lib/libstlport.so
 e651de4480bd99fc11df9575347e00dcf054f2d793cbd8fad7b725ed9b9b933a  ./klte-common/proprietary/vendor/lib/libactuator_wv560_camcorder.so
 2593dfcd560f6f4cbd9bf2c5496daa878c2cebf5e22205abee1964635d7f2238  ./klte-common/proprietary/vendor/lib/libc2d30-a3xx.so
 9f80cedb43f56f989da96c929e55963c24794f389a8abcbd28de1e5a0cf314de  ./klte-common/proprietary/vendor/lib/libmmcamera_imglib_faceproc_adspstub.so
