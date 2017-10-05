@@ -4372,6 +4372,14 @@ edcf7f389f65e461933621842ece0362fab1ba07b5a6da26d1aeb01d406f6e68  ./hlte-common/
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./hlte-common/proprietary/vendor/lib/libperipheral_client.so
 5aefe6569c97e6a201a0e6aa2345ae598186f12c174af8d79dee66b7149f69f6  ./hlte-common/proprietary/vendor/lib/libqmiservices.so
 1bc402ed1d52b332d25c0cbb90058ac65daaf8ab0c60216fead364b96aec93a9  ./hlte-common/proprietary/vendor/lib/libllvm-qcom.so
+d49ac27392a30763c8ad2ed5b0ab66a4f9fd3cb5bcdfb072ed75068bad3e43e1  ./hlte-common/proprietary/recovery/root/sbin/qseecomd
+e6518d86e4b2f81ae0ca2a790524c03b34ff6b261dcf314fd0fd26ddbcb519e6  ./hlte-common/proprietary/recovery/root/vendor/lib/libdiag.so
+1808be9a6c8d2cd6b5f41d6d592600c8325c349c08fb7ad384a2646c463497d5  ./hlte-common/proprietary/recovery/root/vendor/lib/libdrmtime.so
+7d6427e5ff894379b3f91676f75cb780bd28bf1b53be763a2cc84feb9b9038a5  ./hlte-common/proprietary/recovery/root/vendor/lib/libdrmfs.so
+9a5054035a62eb8767bb343027223e423783eb78c4ca4c0d277eaacfe01cfca0  ./hlte-common/proprietary/recovery/root/vendor/lib/libssd.so
+31659751c2ee495d187719fd255688087c22e697d7b6625873830ef28cac72b3  ./hlte-common/proprietary/recovery/root/vendor/lib/hw/keystore.msm8974.so
+76592dc9dabfa74b0e55db5b6a31d0ea0812762c3bb9b0c1de9c7e7815fea192  ./hlte-common/proprietary/recovery/root/vendor/lib/libQSEEComAPI.so
+6e5cc5f932893712b7ffa5296555fcb9b2eb0e2104a22e4e392b12b48f13fd5f  ./hlte-common/proprietary/recovery/root/vendor/lib/librpmb.so
 6c1811a991a8868d528246a741025ce1efc8b6104602e0a2d1cb0335a257d5c3  ./kltedv/proprietary/bin/efsks
 e1578d9cd155185c13fdae2c6b5f74c9d970c7b584410c8774ca53fdc8353820  ./kltedv/proprietary/bin/rmt_storage
 befd016e7d80ee4baf9b30a428493f6d918f057f26a9aab9d61ab5b12be9073f  ./kltedv/proprietary/bin/rild
