@@ -5695,6 +5695,7 @@ b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-comm
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/etc/firmware/vidcfw.elf
 b81f6b58b2fce743d878c238eef9268f526c984db08b98329d122f857733ea8f  ./serrano-common/proprietary/etc/plmn_se13.bin
+09d88ca4436f622d2681000a0636e58c810f1d9dacc13910eec940b74789f19c  ./serrano-common/proprietary/lib/libtime_genoff.so
 8245a985dfc305e5e60d1f4e935294bee1c94cdda2b53bcfb9839762f6b4feb3  ./serrano-common/proprietary/vendor/bin/mpdecision
 83b4f78422a57dfa9724129984c258082ac0701d379b21e4f1d7fa9aa57ca540  ./serrano-common/proprietary/vendor/bin/mm-qcamera-daemon
 654ec707683ba3c7197846a000b2cf74437d43c0504a3f26edf026b8eb27ad6a  ./serrano-common/proprietary/vendor/bin/geomagneticd
@@ -5730,7 +5731,6 @@ d52324dca5109e97f3be330d3a1ea6aca674f18fba56d25d907f7b751ce813d4  ./serrano-comm
 6e9440f6ce48ac67e87a8af66f2de2590a82570695c1ded38bb791b0ba07a920  ./serrano-common/proprietary/vendor/lib/libmmjpeg.so
 1c6725e230142d381aa0e1b52fa44f53027199c237ddce9749ef74207fe2c357  ./serrano-common/proprietary/vendor/lib/libmmcamera_frameproc.so
 8fe9cefc4300a6f791fa010a2c57c99e5c1da14fffb1343bf70388039818b30a  ./serrano-common/proprietary/vendor/lib/libgemini.so
-09d88ca4436f622d2681000a0636e58c810f1d9dacc13910eec940b74789f19c  ./serrano-common/proprietary/vendor/lib/libtime_genoff.so
 0f5fc158ebbb3864ae0123d92544b044dd24eadc2d381e5525bc3dae6f37ff18  ./serrano-common/proprietary/vendor/lib/libgsl.so
 a1da28695e5dbc1cc1cf5a1c118521808875e5e6b088300de006a5578335ae2c  ./serrano-common/proprietary/vendor/lib/libimage-jpeg-dec-omx-comp.so
 dc64a0e11b7086047213b8d05fb4faefa2f02c60ad4e3068b35ab9b0d6fe9681  ./serrano-common/proprietary/vendor/lib/libgeofence.so
