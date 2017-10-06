@@ -5750,6 +5750,7 @@ b3f96429d5352f33c1e55aedf2f7cf14d94265fa898b3ea0cf7aa17f197a5291  ./serrano-comm
 e236852b9c455c440afc48f53d408febde2ecb7994f2d7669633664172e50b8c  ./serrano-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 562d5a974c1049b67a261333ef5438f749948ee04dd2044b93912e1259742f41  ./serrano-common/proprietary/vendor/lib/egl/libEGL_adreno.so
+e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/vendor/lib/sensors.vendor.msm8960.so
 7668da3b54a47ba064d053b6d2b9e3d8084ccdd51e25b57d2fa71c9d6e5a57d1  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k6a3yx_smart_stay.so
 105bc6f00467ac13f5498b12abd1f4004dfab28534a0c95ba2ca17b18d12c59d  ./serrano-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 94d4bcc07fb3f00c31dba397ffa03e1f29d71eddc225b905fa55a19b0f87cceb  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k3h5xa_default_video.so
@@ -5766,7 +5767,6 @@ db589544be9252948644990ebe418b02859a116dfcd3458bde1f6bb831a3c450  ./serrano-comm
 a68baf58a9b55d1368c0a8b51ef8fd7c736493d6a558e183016f1fcc150096ee  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k6a3yx_default_video.so
 82f70cc634a934a0f25dbbe5085cc452e5d71bfc85f4f272f3bd39a840cb6ebd  ./serrano-common/proprietary/vendor/lib/libchromatix_imx175_zsl.so
 be2b35bd04c375e694969ef1efc34bb7a071e4476b25d38c2fbcd130ac47d5f5  ./serrano-common/proprietary/vendor/lib/hw/camera.vendor.msm8960.so
-e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/vendor/lib/hw/sensors.msm8960.so
 8b6f0271cbbb8e1806823f4bad5af25e0e75d62379c77b0a7f1a93f61233d7ba  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k3h5xa_zsl.so
 cbd5ff6a59b17fdd624c07841026958120bba11adf0ff69470669f50f62b543b  ./serrano-common/proprietary/vendor/lib/libbccQTI.so
 5b1718467fb4939199ce7c43fd2c28ab75cfdd30c4ef528f1ee4376e1602f66c  ./serrano-common/proprietary/vendor/lib/liblbs_core.so
