@@ -5702,7 +5702,7 @@ b47da3dd60f9ecdb545ecce7cecce13716844198e89f53176247e6641400b65a  ./serrano-comm
 e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-common/proprietary/vendor/bin/fm_qsoc_patches
 08a782a682da423ca0ce78882185a4d337517cb7a7cd75c6d21c41248177f7f5  ./serrano-common/proprietary/vendor/bin/rmt_storage
 a543f340ae7e42824a4daa113f91a6cff83fa8397f6caa197a1dacdc31bc845b  ./serrano-common/proprietary/vendor/bin/hci_qcomm_init
-22f6dd9cd82f49668acd8cdc1a66eaef0b62fffebce442b9c91ed5da65936aa1  ./serrano-common/proprietary/vendor/bin/thermald
+e402a7e415af679e151cb81b2208714c06b2f0848b5aa6a05bb4560ec804b04b  ./serrano-common/proprietary/vendor/bin/thermald
 d315d76d188a9cc05f9395403acae1448fa7d473e42b4b772ad427220d1decd8  ./serrano-common/proprietary/vendor/bin/radish
 f6659de7638607c0f37f847a904d7961d07432fc5ff24b0ab533b229353268f6  ./serrano-common/proprietary/vendor/bin/time_daemon
 2b5f5802bfe572048fc5ba0af1e7c1cdd8e13ae0d51637adebed4305e0d11f38  ./serrano-common/proprietary/vendor/bin/btnvtool
