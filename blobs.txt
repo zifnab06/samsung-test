@@ -5683,7 +5683,6 @@ a51a6e00d48314f03c813850e22236062dc2239be1476e8288c478468f424727  ./serrano-comm
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/etc/firmware/a300_pfp.fw
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/etc/firmware/vidcfw.elf
-09d88ca4436f622d2681000a0636e58c810f1d9dacc13910eec940b74789f19c  ./serrano-common/proprietary/lib/libtime_genoff.so
 8245a985dfc305e5e60d1f4e935294bee1c94cdda2b53bcfb9839762f6b4feb3  ./serrano-common/proprietary/vendor/bin/mpdecision
 83b4f78422a57dfa9724129984c258082ac0701d379b21e4f1d7fa9aa57ca540  ./serrano-common/proprietary/vendor/bin/mm-qcamera-daemon
 654ec707683ba3c7197846a000b2cf74437d43c0504a3f26edf026b8eb27ad6a  ./serrano-common/proprietary/vendor/bin/geomagneticd
@@ -5693,7 +5692,6 @@ e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-comm
 a543f340ae7e42824a4daa113f91a6cff83fa8397f6caa197a1dacdc31bc845b  ./serrano-common/proprietary/vendor/bin/hci_qcomm_init
 e402a7e415af679e151cb81b2208714c06b2f0848b5aa6a05bb4560ec804b04b  ./serrano-common/proprietary/vendor/bin/thermald
 d315d76d188a9cc05f9395403acae1448fa7d473e42b4b772ad427220d1decd8  ./serrano-common/proprietary/vendor/bin/radish
-f6659de7638607c0f37f847a904d7961d07432fc5ff24b0ab533b229353268f6  ./serrano-common/proprietary/vendor/bin/time_daemon
 2b5f5802bfe572048fc5ba0af1e7c1cdd8e13ae0d51637adebed4305e0d11f38  ./serrano-common/proprietary/vendor/bin/btnvtool
 03e4546afd47487ba340b7b54ce6e6ebad88ce9c403967d9fb033d715a6a9c76  ./serrano-common/proprietary/vendor/bin/qmuxd
 43dd19fdc63d384cefba73d52bdd0ab97204fcc4f765670069bdb5f3de85d02e  ./serrano-common/proprietary/vendor/bin/netmgrd
