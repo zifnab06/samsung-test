@@ -5185,7 +5185,7 @@ fb00ef4604566cbb52b1a373940188ac130ab7ecdc77a925e94e4e729199139b  ./gts210vewifi
 ea9c8cb412e2c4c5d3bc2a736eaaa4fd39006ced4ee5ef3be26231aaf920dc50  ./gts210vewifi/proprietary/vendor/lib64/libyasalgo.so
 49cef6fe68c7f3a550a8eb0332d67326392c51b9d012c5f67e9414de093da1ba  ./gts210vewifi/proprietary/vendor/lib64/libsensor1.so
 1169bbc29c378b95511394263879831813fc8c8de6a9babeb12a65d0977d1bf2  ./apq8084-common/proprietary/etc/F16US_imx240_module_info.xml
-96167c11fd609da061d15da687a0004f5f8d8740815de512ae424365054efd34  ./apq8084-common/proprietary/etc/gps.conf
+2dca8e9c83dd2e7eb1e9ee487278e9d33ed193d9c12288fd547c5ba1ec4f6b71  ./apq8084-common/proprietary/etc/gps.conf
 ac364e8dbc63530a9eaee02b1a9ca655eb04e3c82e5e8e7f599f1cd1764ac371  ./apq8084-common/proprietary/etc/sap.conf
 74faf24c489d749ea3633b06c4ed265959d581e8280d85b73f45135b896ebab5  ./apq8084-common/proprietary/etc/firmware/qwlan20.bin
 f277fa283dc8fd3dd3f82a60f23527d8c7d83f45a6705210381420ae8f08219f  ./apq8084-common/proprietary/etc/firmware/utf20.bin
