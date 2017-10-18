@@ -4050,6 +4050,7 @@ da9d178f82e43a4d0819d9318bc63b0e625c5220dea6fbad828e6bdde4864780  ./hlte-common/
 22853f286013d6b39863c0fc2a57b4317d4647ba97d5bf8ff097575488530563  ./hlte-common/proprietary/bin/time_daemon
 531dde83128a83da2fbe7dff1979e358a6de8f06e3678224ae92f8ced594a1fd  ./hlte-common/proprietary/bin/thermal-engine
 bbc30508447e91e4798754a3e662035d0eef2142ca324e732835a3859df8bb5b  ./hlte-common/proprietary/bin/adsprpcd
+a978e8251a44696850911eba532d2e9878e6e37de42ec471f4c6c8b488b39ada  ./hlte-common/proprietary/lib/libloc_ds_api.so
 a6a0c917b90c19af8f64e860444dcce2a747fd9f6cf868537225a2c2c2e4d3c8  ./hlte-common/proprietary/lib/libchromatix_s5k6b2yx_zslshot.so
 bc69570fb4c309ab0ece3f8b6487f21957928f2a9d5af21b6fdf02c76cfe59b7  ./hlte-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so
 095fd14e98f067d580b0dc844d96a5292fa30341a8aca355870191a6673aa63e  ./hlte-common/proprietary/lib/D13QL_libTs_J_Awb.so
@@ -4075,11 +4076,10 @@ f22438399bc1151d351781e14cddda7b8d378c0f19bc0788c2983ad13c7db3f1  ./hlte-common/
 ebb3b1aa90ef01f9f3bda0c7a4e95c88754bd5a174424f22354afdae7a50bcab  ./hlte-common/proprietary/lib/C13QS_libchromatix_imx135_uhd_video.so
 d7bbbb798aaf2a37cdfb5f813642893ae3aeced675026c6910fdd3e3bd80b222  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_hfr_120.so
 78b80c04bc01529d20ee97cda0c3c93996d887e3417453a07e5e01d9ee50ac1e  ./hlte-common/proprietary/lib/C13QS_libchromatix_imx135_hfr_1080p_s.so
-b5994472904791cbe2b13ebad8b499effea2f2b41e46f47549a0c1964dbdee98  ./hlte-common/proprietary/lib/libloc_core.so
 69aa4a86d67bb9b165a499dc5c3a61f323dbb7f78416efb0f0a216509fa4b9ce  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_default_video.so
 1757ff68ab7a48b5bc3948f314ff5ef8aee6feb8fa61143ee1aad424b737eaa1  ./hlte-common/proprietary/lib/C13QS_libTsAe.so
 b602cab296fd8d04014f378c2af72dbfcf0246fdd6d5b18f9070fec22af3268d  ./hlte-common/proprietary/lib/C13QS_libchromatix_imx135_common_res1.so
-23ca96ecb11553b2820eb41ff52158c231aa9ddde4ff1a48c34694231629adde  ./hlte-common/proprietary/lib/libloc_api_v02.so
+7d8503ae66a78bcc5e2858f5a5ca0b02fce10312f6565d1830c8417682e4ead4  ./hlte-common/proprietary/lib/libloc_api_v02.so
 1020152c59eba47c46ec00237e3435845101cbc34235012282dee349a39a545b  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_liveshot.so
 9da1785aaea4a60871de8564611e1901b275416f41af7c4e345b8d52d515d3e7  ./hlte-common/proprietary/lib/libmmjpeg.so
 9eec307a82f19130dfa906f7839f0feb00831f39dc225bccf384ee5e73471472  ./hlte-common/proprietary/lib/C13QS_libchromatix_imx135_common_res2.so
@@ -4138,7 +4138,6 @@ cc57c2dc3b1d828a232639f198a5d7b0c2db06afb1335ed101723edeb53eaec5  ./hlte-common/
 f1f942ecc6fcdcda49d69799697b682597c8a8941942619b0aaf55c89fc49dba  ./hlte-common/proprietary/lib/C13QL_libchromatix_s5k3l2xx_common_1080p_b.so
 540b6303b6997aaf194519ee997d4fdbf30de13d76497dc34d1c525ed024dc38  ./hlte-common/proprietary/lib/libchromatix_s5k6b2yx_preview.so
 e280fa2edc3e08cd5e14dc490a6ab67670cfebccde4201fd308b654d66d84fe7  ./hlte-common/proprietary/lib/libchromatix_imx134_hfr_720p_b.so
-97d9282eceb8f3d4f48a2530d88c597731f83210d5a4dd2a07e506fce484b42a  ./hlte-common/proprietary/lib/libloc_eng.so
 691e3801860b4e9bafaac959c422ded01a9d4677a7711e90881884d319a171cd  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_common.so
 78f11ce199117c1e508f74938575a85395c211b9ad3ff89da0124c7a5b3c4586  ./hlte-common/proprietary/lib/libchromatix_imx134_common_res3.so
 6d87d58233c2c9e4593164cd1ad3c1a5f1e6a01014a25d6175bf0af257cc0559  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_zslshot.so
@@ -4159,7 +4158,6 @@ c411a84250086025c43afa50041f95dd760fd29e7541ecc4b4529e6a92f8b070  ./hlte-common/
 d260e1988a95cfbad8415a2d89f0120b9e70e2724f5a42590f5d7857fc13b063  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_common_res3.so
 c93976352d712bdd7497268e3b044598523b8c3016c10d493dc962caaded617a  ./hlte-common/proprietary/lib/hw/sensors.msm8974.so
 621d6b5c31690376dee695515f0b9c141a588348106872915b53a233100ce417  ./hlte-common/proprietary/lib/hw/sensorhubs.msm8974.so
-78ecbcf7da32c0b63db7bc8cd52fea3852d58944fe1998d596404e9a9a8791ad  ./hlte-common/proprietary/lib/hw/gps.default.so
 476dd57ac0f21870bbf187dbe010512ec42020128cf4d19fcdf68387470ca45d  ./hlte-common/proprietary/lib/hw/camera.vendor.msm8974.so
 350a1b1e2e84f87cd227980424a33bca581bc4f198941b0d7d85d8a5d37df94c  ./hlte-common/proprietary/lib/libchromatix_imx135_default_video.so
 3d66de2abaa852c403e4020cf378acf49295e73f671c4236382dca041edea986  ./hlte-common/proprietary/lib/libchromatix_imx135_common.so
@@ -4199,7 +4197,6 @@ e31e59b0682401517ca3367795d56709ad0d4c87c4c9e0b9cb7f0a7007e0932d  ./hlte-common/
 cc127cdea70c6313628a8df5c9522ab78b94401d2a03d99cd857dc743f34f0d6  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_hfr_1080p_s.so
 85fa5bc67aa8a3d646eae61cdfe552ed33a5b2d4eaa93e259ad91e35de4806a0  ./hlte-common/proprietary/lib/libchromatix_imx135_hfr_120.so
 d37659459f94c791133148f6cdc63f0430ac00f8d7380c38e5f479ef3610200d  ./hlte-common/proprietary/lib/D13QS_libchromatix_imx135_preview.so
-82a81f3c34fbda99796d99e2189d08ec9c29422d3a6e3f358e1c8236fb6b36dd  ./hlte-common/proprietary/lib/libgps.utils.so
 4ce5a5c9793b39516931ff6ceb29d34c09fd17bbb4ccdc2d7876ab2a26b932ed  ./hlte-common/proprietary/lib/libmdmdetect.so
 24fcdaf87ab3b568acd64e0d84bf8436eb0ba093489ffbc0f461ed56dd08b52c  ./hlte-common/proprietary/lib/libchromatix_s5k3l2xx_snapshot.so
 da0b01c619e3b35309ba324e8482c37b388953a787a5fe9e38c8ed002f31a3b0  ./hlte-common/proprietary/lib/C13QL_libchromatix_s5k3l2xx_common_1080p_s.so
@@ -4230,7 +4227,7 @@ cd4259333338a4ecff3972bae28ba8a3469b1de859cbe23e8f7904eca4d15185  ./hlte-common/
 be02bbc7019ec8d213ab4d526ee4ddd7c7a60a67aa6d840a358820f4dd818cf7  ./hlte-common/proprietary/vendor/lib/libactuator_dw9714_camera.so
 07074f3414e84f25a89ef7f3896e4f7f8dd100b5b1cccc0ebbb9c05f2c44f991  ./hlte-common/proprietary/vendor/lib/libscve.so
 549b8a3839631e5ce28db501b3298a096913620d7d8df7dbfe15937dd1511247  ./hlte-common/proprietary/vendor/lib/libscve_stub.so
-a66f2beee62e2e5557c0f3945efd0e6676f09828ddf8afda25137cf9fe9ee976  ./hlte-common/proprietary/vendor/lib/libdiag.so
+06bbd81d6a14db912cb813ebe8f55d2af0401071b1b8295b9c0aab372e2bc055  ./hlte-common/proprietary/vendor/lib/libdiag.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./hlte-common/proprietary/vendor/lib/libmmcamera_faceproc.so
 4c2e989ea75611c39f22297cfb88310c68e3ef5015e4dd9a5175e204e00ca3a1  ./hlte-common/proprietary/vendor/lib/libdrmtime.so
 7876180c5ebc5e7eafdb631f85872712517ba632ace5859b2d2c23f0209e605e  ./hlte-common/proprietary/vendor/lib/libfastcvadsp_stub.so
@@ -4248,7 +4245,7 @@ ad7963fb752154b2e41ea8a32faa5a746460b61d2b6d09657f0cc5222eefbb7b  ./hlte-common/
 2f189d3d63d13f47d4cd4be51db343c56f7f0d3ea4f0c2254630153f834cffd6  ./hlte-common/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt.so
 66df177eb6fc94bb501956fc8aa411597c7a1a857e936426207183943aff522d  ./hlte-common/proprietary/vendor/lib/libdrmfs.so
 d877b60a3bcdbe3610ae5da43f48e0969732ae6210673d4319e17d54f70cf126  ./hlte-common/proprietary/vendor/lib/libmmcamera2_isp_modules.so
-52c7e38e275bcb044d4e647157eecd00d8f7eb3e3ef11a126e17efb6796f2be1  ./hlte-common/proprietary/vendor/lib/libizat_core.so
+f18939e43c093dadcfa56316270f99a2f62452c0555586a2e131f94ac198e048  ./hlte-common/proprietary/vendor/lib/libizat_core.so
 4cdf6afb82c1660c5523e5c7071d58b6d3d95acacb54f3b1f9ff4fe8b2ada210  ./hlte-common/proprietary/vendor/lib/libOmxEvrcDec.so
 02cff36a9da193e6ce74ffb483c097a30ee955515872b536d229688355d80c03  ./hlte-common/proprietary/vendor/lib/C13QL_libchromatix_s5k3l2xx_vt_hd.so
 2b6ecd51479a097d46fc81e202d7d6ebd4c05d9ed4ca063a1c07a4a18a4acfc1  ./hlte-common/proprietary/vendor/lib/libmmcamera_imglib.so
@@ -4256,7 +4253,8 @@ d877b60a3bcdbe3610ae5da43f48e0969732ae6210673d4319e17d54f70cf126  ./hlte-common/
 3357af186d332af08aa8d33d8d18b52f117894daf242041a60506d28e4d73021  ./hlte-common/proprietary/vendor/lib/libtime_genoff.so
 5e02fe0cd3f6e8ce0bb94c02570f8f22f943e884b235d6c7fa1e70a31d66535b  ./hlte-common/proprietary/vendor/lib/libgsl.so
 ac7dec5b9a0ba873e91413212edc2267ec2d153664ef6c1819f80a1281de7cc5  ./hlte-common/proprietary/vendor/lib/libssd.so
-3f43b5c972793f8ef6ac86ced240f065da54dcb98536e3c876d07c4c515bb069  ./hlte-common/proprietary/vendor/lib/libgeofence.so
+38beda422226d1cfe82a68b0664733eb74c54f0ffa95094890c03f4a5bd63ed3  ./hlte-common/proprietary/vendor/lib/libgeofence.so
+d8568fc71e5114de15d4f507539368bea9372793e5367b5f3c812177b042b72f  ./hlte-common/proprietary/vendor/lib/libdsi_netctrl.so
 164dd6437cb963a5045d6c7575aa2b2f29e2dced2e3da4ecc2b7332644ef6902  ./hlte-common/proprietary/vendor/lib/libactuator_ak7345_camcorder.so
 88def900c4fd4d43cc1d0f8ade1ca9eb2359ea478ca82b196616087cd0dc2ead  ./hlte-common/proprietary/vendor/lib/libmmcamera2_iface_modules.so
 10ab3b0dc81bcd11e363fe3a8a80911b1cbca1ee227fd391bd3bd5c074c5011e  ./hlte-common/proprietary/vendor/lib/libmmcamera2_sensor_modules.so
@@ -4270,6 +4268,7 @@ db5bf902d839d20671f5edb8e5237129847c0745de804e745b4dea5bc1c0f183  ./hlte-common/
 c1befa2ce0a70cc2e81c5da0867138e3079dc0fd4817c04047c982c7199f026a  ./hlte-common/proprietary/vendor/lib/libactuator_ak7345_camera.so
 a39a7d82f43b0bb329a3847d762fb607e8d811ecdb9065e4adc27a23a020d836  ./hlte-common/proprietary/vendor/lib/libacdbloader.so
 33797470b1159a2b3c1c09c25b0cacd0286f20181b01e5c86ad15de814298270  ./hlte-common/proprietary/vendor/lib/libidl.so
+3c993b3b43b85b3d75d3f0ffb49e818fed856774bdae5f5bbfb10fcb19dc6b19  ./hlte-common/proprietary/vendor/lib/libflp.so
 27b53c6772425930e32ab8a7618361bd3dae5e26290bbcb7d85c9e2be0ae05f9  ./hlte-common/proprietary/vendor/lib/libactuator_dw9716_camera.so
 8db35c87948b810e98c4060a5ac4a25ea8c757aff70290888fa69247d64f5f92  ./hlte-common/proprietary/vendor/lib/libmmcamera2_cpp_module.so
 4b2c9d4f6a542e7812b2b2d369042d8b584e603be808bc59413fa2ed44fc963d  ./hlte-common/proprietary/vendor/lib/libmmcamera_imx135.so
@@ -4293,6 +4292,7 @@ d76d30785e0dc53fb79c5770a4c9595123c3775100679cba4e4ed42e21f5b28c  ./hlte-common/
 87df5449a1762ae29da33e885a619c86558510233e28c50270b2a5d07fe01fab  ./hlte-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so
 c83bdd0d4ad1b5b01f3022ee719577bc1fc21219c919d3ee78f2b50437d925a2  ./hlte-common/proprietary/vendor/lib/libuiblur.so
 cd24f77a382017875561389eebea3967840b1c097e57b9fcfbe04955179fd937  ./hlte-common/proprietary/vendor/lib/libOpenCL.so
+be46a671a24aff44ef83f166c8963f29d688f7ea7765adb8fc534f32fe2ae1c6  ./hlte-common/proprietary/vendor/lib/libnetmgr.so
 890047ae45f73e32c0845841a2222e25cb1e06d55a513301acc221bc9a8c16e1  ./hlte-common/proprietary/vendor/lib/libqmi_cci.so
 b3788318a7153a032d414b9f3d69db23134c2f9c49a2119e1b87533a7b862a8a  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_vt.so
 880b0266d0c2f6dacceab917f26defdd9f4a10b26af4ddf578175a0f61cd359e  ./hlte-common/proprietary/vendor/lib/libadreno_utils.so
@@ -4300,18 +4300,19 @@ c9fdd4e16dff99bb781f8f3b1433c2470ccd564f1572432dc14678aae5004675  ./hlte-common/
 9984c932427a47198507243e524bf40d80b5bba09b0f3a5bf30e9c708459238d  ./hlte-common/proprietary/vendor/lib/libmmcamera2_c2d_module.so
 e238ed2c562320961a3d82a94f45f607521b329662cfa8d3896dde4d4deda11a  ./hlte-common/proprietary/vendor/lib/libmmcamera2_pproc_modules.so
 bd7e0f19cd7d90a90606e100b17cd990a5ac03e5720f38c7d18486dfaa22e1b2  ./hlte-common/proprietary/vendor/lib/libmmcamera2_vpe_module.so
-48fbefb271ba7fe28e5a16a90fdb7c3ace1e3c7949826e357c52fe6726614b65  ./hlte-common/proprietary/vendor/lib/hw/flp.default.so
+aecc7b5bb5e7417ac1ab728c83811eab6408ba5edb843c6c6eb6aedbee406231  ./hlte-common/proprietary/vendor/lib/hw/flp.default.so
 b1f66e0da395f850e96305c7172775ad2d2700c4a97befbe95745b5de4b8bd8e  ./hlte-common/proprietary/vendor/lib/libbccQTI.so
 4d56a0ef430bc9960a070c78158d4a3455c19ecf1763711eb011a746eb384a36  ./hlte-common/proprietary/vendor/lib/libchromatix_s5k3l2xx_vt_hd.so
+acb5e894aa4e666e8ccfe372bd37652f769d20d1824b6dfacb252331243f1f4a  ./hlte-common/proprietary/vendor/lib/libqdi.so
 ef1314b06ba0ae2395c0a02e78b744d55367789a776957e6b0b6539d80a577fd  ./hlte-common/proprietary/vendor/lib/C13QS_libchromatix_imx135_vt_hd.so
-d6d0fb069efd212c14ff5cbd9f60e8b583cb9e914113e734e506c705c82c31cd  ./hlte-common/proprietary/vendor/lib/liblbs_core.so
+963a4dfb3716c354e4530d0c2cfaf5acff536636086f9f0ad50bb5e29d359daf  ./hlte-common/proprietary/vendor/lib/liblbs_core.so
 05bc09c3679903a6d1135545c70a9510af6b131b18745824a66f843be266080b  ./hlte-common/proprietary/vendor/lib/libthermalclient.so
 501caa1c788747279d3a3e67d25ed262c4e4d42cdd0dbbecd9b07834adfce5f4  ./hlte-common/proprietary/vendor/lib/liboemcamera.so
 532c0be2e2964f8bc93d1f56f2dda38e25a3c81999e1b16b9513fc67be871b2c  ./hlte-common/proprietary/vendor/lib/libmmcamera2_imglib_modules.so
 599a6751fa40a52f938103a5c62e0aeccc596d328f4006a3add6892b7dbc1a28  ./hlte-common/proprietary/vendor/lib/libTimeService.so
 55b01ce2f4f61abebce0218930aac1971f00213a3a11f785af46ca8f13da8753  ./hlte-common/proprietary/vendor/lib/libqcci_legacy.so
 2ca968dce06faa384af34727104869f3a7fec9222f9557105e7b125440131b29  ./hlte-common/proprietary/vendor/lib/D13QS_libchromatix_imx135_vt_hd.so
-9ac347589f707beafbcef11b9dfa21d5cc66de87924a291e8dad5e2719c95083  ./hlte-common/proprietary/vendor/lib/libqmi.so
+454e92a2f11ab3dd9da451a692c8f65612fbe30945a98847cea0f782c5621064  ./hlte-common/proprietary/vendor/lib/libqmi.so
 8f7a6af6f8ea1ec7cc983558d45eff3ce40fd0be6a3c4be7819c25225ad5b6b9  ./hlte-common/proprietary/vendor/lib/libactuator_wv560_camcorder.so
 2593dfcd560f6f4cbd9bf2c5496daa878c2cebf5e22205abee1964635d7f2238  ./hlte-common/proprietary/vendor/lib/libc2d30-a3xx.so
 dbfc4132738dbf72d569023a53893fc24277092e35980441b896b1302f82e93e  ./hlte-common/proprietary/vendor/lib/libqmi_encdec.so
@@ -4327,7 +4328,7 @@ edcf7f389f65e461933621842ece0362fab1ba07b5a6da26d1aeb01d406f6e68  ./hlte-common/
 671dfed870340ab7cf70e94e28507e0b0c0c2b8dffc8b460ffefa6e4a02fcda3  ./hlte-common/proprietary/vendor/lib/libsensor1.so
 5086e2b3ac9fd2f72762d1ef34402eb4d0de86bc9ac085a3add1d2f010320c1b  ./hlte-common/proprietary/vendor/lib/libadsprpc.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./hlte-common/proprietary/vendor/lib/libperipheral_client.so
-5aefe6569c97e6a201a0e6aa2345ae598186f12c174af8d79dee66b7149f69f6  ./hlte-common/proprietary/vendor/lib/libqmiservices.so
+53009393cc76a3252715ab57e6e11e04765067c83acdca4fb533658e8b137522  ./hlte-common/proprietary/vendor/lib/libqmiservices.so
 1bc402ed1d52b332d25c0cbb90058ac65daaf8ab0c60216fead364b96aec93a9  ./hlte-common/proprietary/vendor/lib/libllvm-qcom.so
 d49ac27392a30763c8ad2ed5b0ab66a4f9fd3cb5bcdfb072ed75068bad3e43e1  ./hlte-common/proprietary/recovery/root/sbin/qseecomd
 e6518d86e4b2f81ae0ca2a790524c03b34ff6b261dcf314fd0fd26ddbcb519e6  ./hlte-common/proprietary/recovery/root/vendor/lib/libdiag.so
