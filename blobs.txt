@@ -364,7 +364,6 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./exynos5420-c
 3bcaa67077d80db7deb7dd6849e0abb4772ccdb238752a2de133cd140288685a  ./exynos5420-common/proprietary/vendor/lib/liblvverx_3.20.03.so
 effa0203c5ec46e5217766b7c074d2b2676add7be2538c996ac84c0de7d7cd23  ./exynos5420-common/proprietary/vendor/lib/egl/libGLES_mali.so
 9481a6dbc982c98f9a776229a14a5112471ebcde4489e0a6fb469631abdb639d  ./exynos5420-common/proprietary/vendor/lib/libmalicore.bc
-be339eed0db5f1a795d3f9018eb776466086cbc810c74f6e6a48d4c89cf3aa66  ./klteduos/proprietary/lib/libril.so
 0760c9b21afa8cdb7a5bd35f89bd2c124ae1e4d9d78c1b18698ca3899ae72d2f  ./klteduos/proprietary/lib/libsec-ril-dsds.so
 66406f1ea78ca53791c9f6352f89985b5e235a44cfc47ce383a3d5f74f80f7a7  ./klteduos/proprietary/lib/libsec-ril.so
 1b5b1b5bb49d349425345d4d98410009ee0c640c9058972f8bfccc357a056983  ./aries-common/proprietary/libpvr2d.so
@@ -713,7 +712,6 @@ a6eb15dd390a929d3c14da21afe0a1a19ebb204cdc9ce3d19c7c66000296238f  ./trltexx/prop
 5cb79c1492ef1d7b1125f20a5f34c5b99414f32b85535459335937a4cbe57c4a  ./trltexx/proprietary/vendor/lib/libmdmdetect.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./trltexx/proprietary/vendor/lib/libperipheral_client.so
 08531a1fc747954a6341b7481f4f27bcfca983016d2a7bd3fdd5e7715b515960  ./trltexx/proprietary/vendor/lib/libqmiservices.so
-cf69fa64b15589997f362ff4ef8cee2e29d1c50718647dd2a1b67ffecd4c4280  ./kltechn/proprietary/lib/libril.so
 4b8665148b83469bf4d80f7a7a1e141a81db95afa503f4bc825053245ad59814  ./kltechn/proprietary/lib/libsec-ril.so
 8553d381119c7c0b09c555f37db4ce49561a331699074240f2edda3278e2554b  ./tabpro-common/proprietary/etc/Headset_cal.acdb
 b6cbb8da3c2f78a566c3aabc644555d100eda3c4b69e50059c10f959c363d2e1  ./tabpro-common/proprietary/etc/Hdmi_cal.acdb
@@ -830,7 +828,7 @@ c3e0dec1080a5790d180616e0f9cc34436fbb397e04926e682fb39efbbe24edf  ./gtelwifiue/p
 1871abaf0d6bb291e47692604f2018abd90f80f24ca9a2899c10b6f535f4886a  ./gtelwifiue/proprietary/vendor/lib/libmmcamera2_is.so
 9b0737dfd4e2e880a486b3487b6169098cfc2593a14f56a255efcdc2ff9c3d51  ./gtelwifiue/proprietary/vendor/lib/libqmi_client_qmux.so
 fe08cc73c8dfc1732d855add77b55bc0f4efc7c7215cea7ff016f79575b2c85d  ./gtelwifiue/proprietary/vendor/lib/libqmiservices.so
-61354b443e710b19141069ba1e63f25adef7d0b16514c636000ec61bd6403029  ./blobs.txt
+91e7cf0f723ad89d6f04822db447c453d1660aafd4b7e887c3fd9e28bdc1b811  ./blobs.txt
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./n1awifi/proprietary/etc/wifi/bcmdhd_apsta.bin
 90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./n1awifi/proprietary/etc/wifi/bcmdhd_ibss.bin
 8baee94b63105ca69f1b92459bdaae96cc06feeaeb72bf5bd2b7f5b88c38ff50  ./n1awifi/proprietary/etc/wifi/nvram_mfg.txt
@@ -1279,11 +1277,8 @@ b4fedfcbc8efd19dc2523a09ba412f2b785be9fda97624e66b82fbd02dbe7d90  ./gts2-common/
 74759019bbf770e9472ff01c40f454422ef390f40ab36cf72474b8f8cf043ee7  ./gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 84d92eb786668821377395bac612bd1be29e655ab3ed593adea705b80bcbbf90  ./gts2-common/proprietary/vendor/lib/egl/libGLES_mali.so
 214339f1ac952cd5a4e6757bc4a9d0cfb75146441f0e2e11c97cdfd2331aa012  ./gts2-common/proprietary/vendor/lib/libMcRegistry.so
-3803d2ffcac4efff874cbfdd72344d95bf86822a70f0dfe9de9c22f08b644fcb  ./klte/proprietary/blobs/usc/lib/libril.so
 5dfa1dd9fd7e2e91e925ddae66773ac5a427decf7bc44835d8d94dd8a30113e4  ./klte/proprietary/blobs/usc/lib/libsec-ril.so
-43e0f5ae063e2a5512d4c32a6127fedd2752d2b1066a6a9a74a0dfcd677c28df  ./klte/proprietary/blobs/vzw/lib/libril.so
 3050f72101b25fbea415db09018878134aaf6d718fcd36cc0151a5fc55df1323  ./klte/proprietary/blobs/vzw/lib/libsec-ril.so
-89b768a117f246fdc44adaf11d72c8a3237d50a8880d88e0a5c94500285721ee  ./klte/proprietary/blobs/gsm/lib/libril.so
 dcc3b390525c448dbc0307356e22139a67ef3fcc242833b255286feee4182a1e  ./klte/proprietary/blobs/gsm/lib/libsec-ril.so
 7e72b3e0fe164ca6f97df829865be7bd58c52a4523ecd941c629b315054d5841  ./exhilarate/proprietary/etc/thermald.conf
 19f12f4810f1a671567e1d4cf3535734f771ca72eb1590bff732117834b22761  ./exhilarate/proprietary/etc/wifi/bcmdhd_apsta.bin
@@ -3177,7 +3172,6 @@ e2e848127f59250dbec39d81a8d52c7bdda46a40ca6a3db3ae52da88ed26b9c6  ./k3gxx/propri
 b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./trhpltexx/proprietary/bin/cbd
 e639a9727a66f92430a9aee5cd8b5558d2eb04a10d7b37c64a2497bd4e6d80ad  ./trhpltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./trhpltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
-0500926748c46e9f0457159a93d38abde39f0b66e295e1f7f1fc3ca60ba80ee4  ./kltekdi/proprietary/lib/libril.so
 05318ce73c6f926c4395e6fd9c2ab58ce25ad7c266174c2802f070cb4220c669  ./kltekdi/proprietary/lib/libsec-ril.so
 c7f3c2fbcc474dad94ed3cbcd66c88efd4fc9807e1b006f666122a6e324821b1  ./toro/proprietary/etc/permissions/com.vzw.hardware.lte.xml
 3c01f280fa953ee4fb393f101fa102fd0a7a614725777ad29e4cc54e11675be6  ./toro/proprietary/etc/permissions/com.vzw.hardware.ehrpd.xml
@@ -4164,9 +4158,7 @@ e6518d86e4b2f81ae0ca2a790524c03b34ff6b261dcf314fd0fd26ddbcb519e6  ./hlte-common/
 31659751c2ee495d187719fd255688087c22e697d7b6625873830ef28cac72b3  ./hlte-common/proprietary/recovery/root/vendor/lib/hw/keystore.msm8974.so
 76592dc9dabfa74b0e55db5b6a31d0ea0812762c3bb9b0c1de9c7e7815fea192  ./hlte-common/proprietary/recovery/root/vendor/lib/libQSEEComAPI.so
 6e5cc5f932893712b7ffa5296555fcb9b2eb0e2104a22e4e392b12b48f13fd5f  ./hlte-common/proprietary/recovery/root/vendor/lib/librpmb.so
-2b6b0086f1066138776360722b05bf5344a0170b2af42c5ff387ef0a4cd7323a  ./kltedv/proprietary/blobs/spr/lib/libril.so
 39d785aacc63cbe7ecec98302e30259bddb756d928f475963fbc1da545487d1f  ./kltedv/proprietary/blobs/spr/lib/libsec-ril.so
-8dfe95aeea25d1e06c0bb0be945302f17c4e57de4f62cffa063e33f7e9d68446  ./kltedv/proprietary/blobs/dv/lib/libril.so
 1ac60bd3f2258d8bd727b188cd9485d28f72242083e05d4527d14653d21d4c5b  ./kltedv/proprietary/blobs/dv/lib/libsec-ril.so
 aef1bf741eb47059825c402a98e2c3a636bd8455ef574515b7edceb4a1eb1be0  ./kltedv/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 9a572b3684ec25ef1082cad59ced4a04a25b62c40733a796bf40c8a3f7cc43b7  ./kltedv/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd
@@ -5689,7 +5681,6 @@ d85205f4861f9405d983a7a42b0a416355dcccdeb554b2694d83081390c6be39  ./klteusc/prop
 dbfc4132738dbf72d569023a53893fc24277092e35980441b896b1302f82e93e  ./klteusc/proprietary/vendor/lib/libqmi_encdec.so
 ba291375a0123c1e043f20f7c094862d73f30b176848e485ae38a295a0c4365e  ./klteusc/proprietary/vendor/lib/libqmi_client_qmux.so
 e4491f9ca942e21d461acd9e4c11f891b84f9f59f88e2aed78104b36966d5c65  ./klteusc/proprietary/vendor/lib/libqmiservices.so
-89b768a117f246fdc44adaf11d72c8a3237d50a8880d88e0a5c94500285721ee  ./kltekor/proprietary/lib/libril.so
 dcc3b390525c448dbc0307356e22139a67ef3fcc242833b255286feee4182a1e  ./kltekor/proprietary/lib/libsec-ril.so
 55006efdeabdeb934aed103741336323a8bf452f0c03f2baab480b9f03a6f716  ./fascinatemtd/proprietary/geomagneticd
 f1c379fd590256a53df55e2e4b0fdfe86c0dca8c7484084f181b1168a5072dbf  ./fascinatemtd/proprietary/libsec-ril40.so
@@ -7569,7 +7560,6 @@ d53ec8ce8f6b5ec913776f2e4c4b5460c117b6dd8d12f2e297a5e6e0f80c6c92  ./manta/propri
 ee5542ed4eac983891ef1696a7e7e1cb40d74a4ad5069dc8ab734146104d49fb  ./manta/proprietary/vendor/lib/libbccArm.so
 c5268a77cc8fbf6446efa2ad6d0b4683825e2254fc0de6399d7d5deef471876a  ./manta/proprietary/vendor/lib/libmalicore.bc
 6fd323c5738ba43250cb007c120abd788ba2e7e8bc63dce874403f467d16a44e  ./kltechnduo/proprietary/lib/libsec-ril-09w.so
-cf69fa64b15589997f362ff4ef8cee2e29d1c50718647dd2a1b67ffecd4c4280  ./kltechnduo/proprietary/lib/libril.so
 9f00fa9b6daf20be3d36c950a0e18864bccdc1f8078e7a6ba9a8902b9f36a816  ./kltechnduo/proprietary/lib/libsec-ril-dsds.so
 bbe2dee25d7f295f8dd4ad9594d32e816dbf517e03ceafc1e70c018b19e6df01  ./kltechnduo/proprietary/lib/libsec-ril.so
 c2597702fafa8ba3a543a9fb6739aad68d571293ff7da891cc8fbc53810cd981  ./kltechnduo/proprietary/lib/libsec-ril-dsds-09w.so
@@ -8703,7 +8693,6 @@ be3102f8682f382c9b9567965aff207af615f6caaf22e0122a1762a2ca49f1f4  ./klte-common/
 c4d215ffd3375795f22fa3c88bd6b03ea83bb3c4e8e9eeee5d0a866751f0c928  ./klte-common/proprietary/bin/rmt_storage
 49e4b57b1030c49a5cc9c3c75032bd661866b03346de9aad6ba247884ff6424f  ./klte-common/proprietary/bin/radish
 22853f286013d6b39863c0fc2a57b4317d4647ba97d5bf8ff097575488530563  ./klte-common/proprietary/bin/time_daemon
-f84ccf572960ea214f3ff9d17e795882ea83ea098ecd9e5a7544b01265967c19  ./klte-common/proprietary/bin/rild
 a81368851eabcf9465b347e4af6d46c3fe7687df40a46da1b58640d5bf21c4ac  ./klte-common/proprietary/bin/rfs_access
 28a8bcab70961086c82cc7f82b15aefe7988a1867af6fccf0addeb38565a898d  ./klte-common/proprietary/bin/qmuxd
 65d5e363573b584928a68182fc879711710a3b0f9ff862a2b68c7b2da4a903ba  ./klte-common/proprietary/bin/qcks
