@@ -4131,7 +4131,7 @@ cd4259333338a4ecff3972bae28ba8a3469b1de859cbe23e8f7904eca4d15185  ./hlte-common/
 be02bbc7019ec8d213ab4d526ee4ddd7c7a60a67aa6d840a358820f4dd818cf7  ./hlte-common/proprietary/vendor/lib/libactuator_dw9714_camera.so
 07074f3414e84f25a89ef7f3896e4f7f8dd100b5b1cccc0ebbb9c05f2c44f991  ./hlte-common/proprietary/vendor/lib/libscve.so
 549b8a3839631e5ce28db501b3298a096913620d7d8df7dbfe15937dd1511247  ./hlte-common/proprietary/vendor/lib/libscve_stub.so
-06bbd81d6a14db912cb813ebe8f55d2af0401071b1b8295b9c0aab372e2bc055  ./hlte-common/proprietary/vendor/lib/libdiag.so
+a66f2beee62e2e5557c0f3945efd0e6676f09828ddf8afda25137cf9fe9ee976  ./hlte-common/proprietary/vendor/lib/libdiag.so
 041232478f7ac50c55bfeddb41e232f521f20263a2a0a02b6aca5b0cc1f8cb0f  ./hlte-common/proprietary/vendor/lib/libmmcamera_faceproc.so
 4c2e989ea75611c39f22297cfb88310c68e3ef5015e4dd9a5175e204e00ca3a1  ./hlte-common/proprietary/vendor/lib/libdrmtime.so
 7876180c5ebc5e7eafdb631f85872712517ba632ace5859b2d2c23f0209e605e  ./hlte-common/proprietary/vendor/lib/libfastcvadsp_stub.so
@@ -4216,7 +4216,7 @@ ef1314b06ba0ae2395c0a02e78b744d55367789a776957e6b0b6539d80a577fd  ./hlte-common/
 599a6751fa40a52f938103a5c62e0aeccc596d328f4006a3add6892b7dbc1a28  ./hlte-common/proprietary/vendor/lib/libTimeService.so
 55b01ce2f4f61abebce0218930aac1971f00213a3a11f785af46ca8f13da8753  ./hlte-common/proprietary/vendor/lib/libqcci_legacy.so
 2ca968dce06faa384af34727104869f3a7fec9222f9557105e7b125440131b29  ./hlte-common/proprietary/vendor/lib/D13QS_libchromatix_imx135_vt_hd.so
-454e92a2f11ab3dd9da451a692c8f65612fbe30945a98847cea0f782c5621064  ./hlte-common/proprietary/vendor/lib/libqmi.so
+9ac347589f707beafbcef11b9dfa21d5cc66de87924a291e8dad5e2719c95083  ./hlte-common/proprietary/vendor/lib/libqmi.so
 8f7a6af6f8ea1ec7cc983558d45eff3ce40fd0be6a3c4be7819c25225ad5b6b9  ./hlte-common/proprietary/vendor/lib/libactuator_wv560_camcorder.so
 2593dfcd560f6f4cbd9bf2c5496daa878c2cebf5e22205abee1964635d7f2238  ./hlte-common/proprietary/vendor/lib/libc2d30-a3xx.so
 dbfc4132738dbf72d569023a53893fc24277092e35980441b896b1302f82e93e  ./hlte-common/proprietary/vendor/lib/libqmi_encdec.so
@@ -4232,7 +4232,7 @@ edcf7f389f65e461933621842ece0362fab1ba07b5a6da26d1aeb01d406f6e68  ./hlte-common/
 671dfed870340ab7cf70e94e28507e0b0c0c2b8dffc8b460ffefa6e4a02fcda3  ./hlte-common/proprietary/vendor/lib/libsensor1.so
 5086e2b3ac9fd2f72762d1ef34402eb4d0de86bc9ac085a3add1d2f010320c1b  ./hlte-common/proprietary/vendor/lib/libadsprpc.so
 1a89994a08defdadad5fa7db5e600a585b981ec8163aebd06989df451c2c4a9b  ./hlte-common/proprietary/vendor/lib/libperipheral_client.so
-53009393cc76a3252715ab57e6e11e04765067c83acdca4fb533658e8b137522  ./hlte-common/proprietary/vendor/lib/libqmiservices.so
+5aefe6569c97e6a201a0e6aa2345ae598186f12c174af8d79dee66b7149f69f6  ./hlte-common/proprietary/vendor/lib/libqmiservices.so
 1bc402ed1d52b332d25c0cbb90058ac65daaf8ab0c60216fead364b96aec93a9  ./hlte-common/proprietary/vendor/lib/libllvm-qcom.so
 d49ac27392a30763c8ad2ed5b0ab66a4f9fd3cb5bcdfb072ed75068bad3e43e1  ./hlte-common/proprietary/recovery/root/sbin/qseecomd
 e6518d86e4b2f81ae0ca2a790524c03b34ff6b261dcf314fd0fd26ddbcb519e6  ./hlte-common/proprietary/recovery/root/vendor/lib/libdiag.so
