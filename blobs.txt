@@ -8966,6 +8966,9 @@ d72faaec79c0da0dfd4039707b4a588447a7af4aa930e7e0a29c4fb5bc16ecab  ./klte-common/
 e4c65547638438fcba0d564da408eda17158a0e87a34f48dbd3469d430c3b020  ./klte-common/proprietary/vendor/lib/libqmi_common_so.so
 98d7fc2f03c8e8e5a3e574969d71a52f000a1066c28c0c0fbc43505bf81e3af3  ./klte-common/proprietary/vendor/lib/librs_adreno.so
 4f1eb70e8fbe4c714d599aaf9d74f3cf21f4b41e055bd5f8e5276f6375c50701  ./klte-common/proprietary/vendor/lib/libOmxQcelp13Dec.so
+8b133c72424832f9e3c23490ac415727ae0d4cad41978cf0b65160f3f0411674  ./klte-common/proprietary/vendor/lib/soundfx/libqcreverb.so
+b9d30e29aff1e13c02416ff665337a9933ee80138dec9beea06525ee2183969a  ./klte-common/proprietary/vendor/lib/soundfx/libqcbassboost.so
+033940bf64c271b938821916564000de05e5fa4f3a9d75d485652b70771178b8  ./klte-common/proprietary/vendor/lib/soundfx/libqcvirt.so
 a9c87b07f1bd184b02788d0d0f5323c9ff3e4d00a22eceadb5cfb741c82b07f1  ./klte-common/proprietary/vendor/lib/C16QL_libchromatix_s5k2p2xx_common_res0.so
 df34e70f060da74548f3919a10d14a1f5754b1645342d4a03922d623cf615af1  ./klte-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so
 546bb0d74656fa808b3ef26454391914edf002524baa781c61a1815fd8663c2c  ./klte-common/proprietary/vendor/lib/F16QS_libchromatix_imx240_common.so
