@@ -2732,6 +2732,7 @@ d81db86a4a76cab93505a9432fa6d4950ee0e2e2822b64ffc4d68b622d717723  ./hltetmo/prop
 e6b791464b7941248f6e513e9196924830688ee0cadb480f7718144cec6556fb  ./hltetmo/proprietary/vendor/lib/libsec-ril.can.so
 adec0a4c81a9f73435779ef265c3438fb4bb8f4df6509f26e92ab80cdd56110f  ./hltetmo/proprietary/vendor/lib/libsec-ril.vzw.so
 d2a2d692c79f5c06b7dc9b7338e0b8b8bb3b827a935484611c434bf319fe0805  ./serranoltexx/proprietary/bin/rild
+d6c4fbd58479da9cf514948de31a28aa34e52e711598948a9bc405c78155de24  ./serranoltexx/proprietary/lib/libloc_api_v02.so
 396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serranoltexx/proprietary/lib/libril.so
 168f6dfd34ade60acc1e18893d2f7b9977ba4ee44046b8b9738c8c4f348b6d6c  ./serranoltexx/proprietary/lib/libaudcal.so
 170aa8ffa8cf20a1f197aed913720cad7740527e3da58cf2a1818b9481148b97  ./serranoltexx/proprietary/lib/libsec-ril.so
