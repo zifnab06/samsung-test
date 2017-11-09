@@ -3430,6 +3430,7 @@ ad42ac5380b1a5aa2d7d4f6ca41aff4a400445e1e81ebdc16c5c9ab1a66dca4e  ./tuna/proprie
 eac2493781d0655c64652a0d413f8b6c9975e0eef41b318017646096cb284348  ./tuna/proprietary/vendor/lib/libdrmmtkutil.so
 84cd9433b11fc76f0d0936295bcac4111ec4245a8eaaa01951d7e8af5d5da53e  ./tuna/proprietary/vendor/lib/libinvensense_mpl.so
 61f53cad9adb559920d6a10ef8ce3413a677e6dc01160442dc458d87cd21b585  ./serranoltespr/proprietary/bin/rild
+8eba1307e360f7df962b723a5b629b1302a1e559258749b1066135e12e435d04  ./serranoltespr/proprietary/lib/libloc_api_v02.so
 c564c2c7986a0f647f267fac5bd3545ca2aecb31d4019aff54be69a473f5deca  ./serranoltespr/proprietary/lib/libril.so
 17da122dde47cd217ac8e91457a8d810b0be766ad78f7d3ab4e4a0ee936c87dc  ./serranoltespr/proprietary/lib/libaudcal.so
 4be89c65cea1005fdf92fa59eaf62d52580146153b3771e316ba52be2f9c0553  ./serranoltespr/proprietary/lib/libsec-ril.so
