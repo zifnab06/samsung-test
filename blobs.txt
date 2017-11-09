@@ -2379,6 +2379,7 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./noblelte-com
 bf045cce01eb7e6368d466eabc686cda04e2683254ecea3827adf3a01d028030  ./noblelte-common/proprietary/vendor/lib/libLifevibes_lvvetx.so
 eb964fe386ae8b974c9abcfefad19af3298bcc6027ec642c1a8d7da96efbb7b4  ./noblelte-common/proprietary/vendor/lib64/egl/libGLES_mali.so
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./serrano3gxx/proprietary/bin/rild
+d6c4fbd58479da9cf514948de31a28aa34e52e711598948a9bc405c78155de24  ./serrano3gxx/proprietary/lib/libloc_api_v02.so
 396717e28bcb3a0076c916e00a00b5d618cbe269be5618cc2290c9266ce4a601  ./serrano3gxx/proprietary/lib/libril.so
 168f6dfd34ade60acc1e18893d2f7b9977ba4ee44046b8b9738c8c4f348b6d6c  ./serrano3gxx/proprietary/lib/libaudcal.so
 2d415ffde2168f426291dfd482b7a8006f24dca271af28d199e816cc2484e14d  ./serrano3gxx/proprietary/lib/libsec-ril.so
