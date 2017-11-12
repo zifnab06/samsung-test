@@ -4985,7 +4985,6 @@ d24851f18d4e7866ff3ebd032c7df25d29359442fda912d964d33ce5cfdef2e5  ./apq8084-comm
 5a2ccdc78e6aa6212cd8e5103f4743882c7c5f2f71ecf536fa665d0e0989d341  ./apq8084-common/proprietary/bin/time_daemon
 35addc265207edec770ce5f0226ad50025b6bdbb692db798e8d514894ba0e882  ./apq8084-common/proprietary/bin/btnvtool
 f507fd1f00dbd3236a75e78dca3c95a5dfd25509b97ac1ad69a9c8f876054fb9  ./apq8084-common/proprietary/bin/qmuxd
-799c468a5e31d289239d299a904d890de095e45f9b9e6f989ebcac99169c1c2a  ./apq8084-common/proprietary/bin/netmgrd
 3356ea0724161ebacd121deb5355aa5fb97a162cf627fb28b2c74fcc47799e2a  ./apq8084-common/proprietary/bin/qcks
 aefe5642d0e20266f732355693972b084c0f364e9d3535e183ca731f913cae8f  ./apq8084-common/proprietary/bin/ks
 ba8e98b5987c1725e91324254587fec19a36f80466308da95759dfd801242e21  ./apq8084-common/proprietary/bin/adsprpcd
@@ -5257,7 +5256,6 @@ ef16764d7fb4e19e1c76e967483e6a2e648a0fdb09624134c506d7bf3cbcd5eb  ./apq8084-comm
 933a9f699538561efdd7de14eb5e47ae362c8f271256c2f180579377f50041dc  ./apq8084-common/proprietary/vendor/lib/libchromatix_s5k6d1yx_pip_cpp.so
 a73037fb69a78f141f450c5b0d93e6a7a188445af3d037aeebfb6cb337018e01  ./apq8084-common/proprietary/vendor/lib/libuiblur.so
 b1b83fc5eb41f3a003e95272320a2ad154658543604cc8a7eb03901cb7fa2907  ./apq8084-common/proprietary/vendor/lib/libOpenCL.so
-3943a6155297719790e3fe7b407a3bc4fb575ceeabc0737c70003683af121093  ./apq8084-common/proprietary/vendor/lib/libnetmgr.so
 b0cf82e29585bc5ca281c0f90098c19bfa9ae8cabaf1c40898df554d518af909  ./apq8084-common/proprietary/vendor/lib/libqmi_cci.so
 447845fcf826fbcdee89ee58eb334161286486b17bb4880fba9f6906368718a5  ./apq8084-common/proprietary/vendor/lib/libadreno_utils.so
 df19a61a5c0534e54d9eabf7c55455707677abed9ddfdb6d7eb1f65848e06d20  ./apq8084-common/proprietary/vendor/lib/libaudcal.so
