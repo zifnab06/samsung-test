@@ -5730,6 +5730,7 @@ acfc1539f6b81ea0abbd42f5c34e8980c510efe7ed09cb54fdb76341e3229f93  ./serrano-comm
 3ba402adfcca17e99626c41ed84212ab5cca9f0210c82230539abccc9aeb760d  ./serrano-common/proprietary/vendor/lib/libCB.so
 b3f96429d5352f33c1e55aedf2f7cf14d94265fa898b3ea0cf7aa17f197a5291  ./serrano-common/proprietary/vendor/lib/libacdbloader.so
 265c29a5cd105b51a4fb395e49a8283506009ea3f84b5c6a6371ebb317bd2380  ./serrano-common/proprietary/vendor/lib/libidl.so
+892e44c1bb20353001f2a492b0d707dc4c62d74b7d8587c902f7d514dd5da30f  ./serrano-common/proprietary/vendor/lib/libaptX_encoder.so
 7ba733405e49c2cd6fe5927baf9e8023c1dfc11ba20530f6c94c829f6299f0ac  ./serrano-common/proprietary/vendor/lib/libimage-omx-common.so
 1b96c48c124431d4813eacad752470922c85134b2ad1309269ae4e10c0eaa8a8  ./serrano-common/proprietary/vendor/lib/libmmcamera_statsproc31.so
 0964777e4dbd238e48c70a317bb3f93bd2c8952f1a3da597fb79df0d65d2f4c4  ./serrano-common/proprietary/vendor/lib/libmmcamera_image_stab.so
