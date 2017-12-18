@@ -4455,6 +4455,7 @@ eaeeb4c6b6c2b4e15ee275ffb4cd1c6cfbb39a36bb383aaf9e74d6e6b7887c72  ./msm8976-comm
 dce4d538a9a216589f516cc8c6fef15f2f94da971e6c13fd80edcd308c40bb3e  ./msm8976-common/proprietary/lib/libvpplibrary.so
 e6a21257e388a86904817d9e12559df78dfe535280ed07f0b84227159dadfb07  ./msm8976-common/proprietary/lib/libalawb_algo.so
 5a2457e570e47cf188054b53f8bc1c3fd74b44d6082f766ff18d7629509e9b39  ./msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so
+d8993a86a48699a2a34a5f9bf1dcd32a6d78dc7c2409a67c058000e92de346b5  ./msm8976-common/proprietary/lib/libaptX_encoder.so
 ba2ed05fcdf44e9124682419e5bc58eba5ecd9198fcd37a1667a6f3d1af6c22d  ./msm8976-common/proprietary/lib/libOmxVpp.so
 390a3b326b107d6fd30b44662e3ac6c5ee3f32f8a99c1ffc01e71943c792f0bb  ./msm8976-common/proprietary/lib/libqomx_core.so
 de5a56190817415645ae73e4d9d7717efa34376726e73dd3b8107155e7384e5c  ./msm8976-common/proprietary/lib/hw/camera.vendor.msm8952.so
@@ -4468,6 +4469,7 @@ c318e9625caa4c1eaed74351ea600baa30f33f31a8af655e4440e22a1edf693b  ./msm8976-comm
 551dc9937ef24e587fda934600df04de65e64a87350220b17ebe33d57393eae0  ./msm8976-common/proprietary/lib64/libloc_core.so
 7ab6d8b4e4d47b697a6d5c349aec47c6329a7dc23b23c281006128e664624673  ./msm8976-common/proprietary/lib64/libloc_api_v02.so
 0bce0fd610d320d6c7d65b29a52eadff5e0534f3e845db1bb89dcd7c0f6bf845  ./msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so
+7818169f31a86f0b324f1728752d957068ce1a35d0cc3bcfca79bfa689c27e4f  ./msm8976-common/proprietary/lib64/libaptX_encoder.so
 454e498276e27a4683e7e73fcdf8bde411e6f98f147c3b2f02da3f5df22bcbfb  ./msm8976-common/proprietary/lib64/libloc_eng.so
 2f366da6201ee7973bfc59aff2c56c793a3b65c4b818318a9f81ff0a152db96e  ./msm8976-common/proprietary/lib64/hw/gps.default.so
 605bb85b3fe91fb639ef3bcb3d805a6b4e5342f5f50c2cdc0a0fe6cadcc7cff3  ./msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
