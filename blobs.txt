@@ -8676,7 +8676,7 @@ c4d215ffd3375795f22fa3c88bd6b03ea83bb3c4e8e9eeee5d0a866751f0c928  ./klte-common/
 22853f286013d6b39863c0fc2a57b4317d4647ba97d5bf8ff097575488530563  ./klte-common/proprietary/vendor/bin/time_daemon
 a81368851eabcf9465b347e4af6d46c3fe7687df40a46da1b58640d5bf21c4ac  ./klte-common/proprietary/vendor/bin/rfs_access
 28a8bcab70961086c82cc7f82b15aefe7988a1867af6fccf0addeb38565a898d  ./klte-common/proprietary/vendor/bin/qmuxd
-f0e97014656c2b1c1249123da20719d1a335843b8b36c4a56d9f580d7204c049  ./klte-common/proprietary/vendor/bin/thermal-engine
+9adab1cfd9211f2700073d64a6f9993c1975070dd4419ae5ad08d47672beb01c  ./klte-common/proprietary/vendor/bin/thermal-engine
 65d5e363573b584928a68182fc879711710a3b0f9ff862a2b68c7b2da4a903ba  ./klte-common/proprietary/vendor/bin/qcks
 2a8c36c5555a19a3a7c906ec7dfb81424fae8e60bd8af6590484b5787fc9afb7  ./klte-common/proprietary/vendor/bin/ks
 45e0426fdee16d0ba67808418be627c28142e752fd9403395d3c3b05c9909a74  ./klte-common/proprietary/vendor/bin/adsprpcd
