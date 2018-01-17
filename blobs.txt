@@ -4508,7 +4508,6 @@ fc180e33a43643184f571170274fa1f2521fbf00ae04f306d6de1d45c5af6851  ./msm8976-comm
 73e994de4b0ad610959047c85095d1a064ebdb31d63eb855fc4d2b15bb93ea34  ./msm8976-common/proprietary/vendor/bin/qseecomd
 ed26f339546cb7f3c094d8131b08ececf0ee3f1b0ee63f718216485d5e0be3ac  ./msm8976-common/proprietary/vendor/bin/wcnss_filter
 bf2dbc43bf4b53f039b1d1c9bcebb29a66051c3ecb6c8bf5f40be55afdaac867  ./msm8976-common/proprietary/vendor/bin/rmt_storage
-f27c903fe0cde5b67dc0223f6845ff3d0356aecf730d0545c91c23e0b14cc714  ./msm8976-common/proprietary/vendor/bin/qseeproxydaemon
 77d59648687d094b15da8129f1c7190a5adbe692b72ca7566127d0a8eee7d803  ./msm8976-common/proprietary/vendor/bin/tftp_server
 f8717e3204670de357ada17438cc73c91a15d13e4196036dc1d85782d4ceb100  ./msm8976-common/proprietary/vendor/bin/pm-proxy
 937ecb37ede45b651ecef9257ada4a8487bf9223ea8f9346be9a0d6f732ca8eb  ./msm8976-common/proprietary/vendor/bin/loc_launcher
