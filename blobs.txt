@@ -5702,7 +5702,7 @@ b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-comm
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
 936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/etc/firmware/vidcfw.elf
 8245a985dfc305e5e60d1f4e935294bee1c94cdda2b53bcfb9839762f6b4feb3  ./serrano-common/proprietary/vendor/bin/mpdecision
-83b4f78422a57dfa9724129984c258082ac0701d379b21e4f1d7fa9aa57ca540  ./serrano-common/proprietary/vendor/bin/mm-qcamera-daemon
+d7bd8f6f3e88964f6660e3e5b1b11d046317c2e1348882b5c603e4eddbb42e2c  ./serrano-common/proprietary/vendor/bin/mm-qcamera-daemon
 654ec707683ba3c7197846a000b2cf74437d43c0504a3f26edf026b8eb27ad6a  ./serrano-common/proprietary/vendor/bin/geomagneticd
 b47da3dd60f9ecdb545ecce7cecce13716844198e89f53176247e6641400b65a  ./serrano-common/proprietary/vendor/bin/irsc_util
 e47cb8b5b31664ccea443263e68383d5825edac47cabbaff8050f37c4ea8790c  ./serrano-common/proprietary/vendor/bin/fm_qsoc_patches
@@ -5796,6 +5796,7 @@ e04ab2cc4d8562eebd51bc8cd6f7c2f959ef726bfc82f78c7d2ed6edbeeca02d  ./serrano-comm
 3d0a3744df4ae2226ddc671d7f4dd8dc1b3026a1ed679f897cb6aeaf46e5cec7  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k3h5xa_zsl_panorama.so
 394a9b0c9575bd6021696c471b4d2d173196b34239f8111acf7cd843b6ea4610  ./serrano-common/proprietary/vendor/lib/libchromatix_imx175_lls.so
 315ac7e7dc611bbe2f8bf2b13db1d65c5fc5592246c3c01ef6ab0935c1fa4f3e  ./serrano-common/proprietary/vendor/lib/libadsprpc.so
+526dca477aee08362ccad5921c51ca45016f288c6036ed272f627ac04665d5f3  ./serrano-common/proprietary/vendor/lib/libC.so
 6b4c87a34a4c668ca41b9782359f9f0f8c852f243dc90f9261606c260edbf22d  ./serrano-common/proprietary/vendor/lib/libqmiservices.so
 6791692a11871fb8f554cafd6abdf69fd8db750c1ae81535840c9ea627543173  ./serrano-common/proprietary/vendor/lib/libllvm-qcom.so
 cfe6d9b853cf9e58240f1d50b936cbe49c09d29bba7cfdde028c2d2ca2f9fe83  ./kona-common/proprietary/system/etc/wifi/nvram_mfg.txt_murata
