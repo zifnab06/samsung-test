@@ -7592,6 +7592,13 @@ a36da4df0f78ac304c0135a54d2a37253491bc38006ed1959a7d599396254466  ./omap4-common
 fd221078ffef53384ec704bbfa68ca32d09c5132f293f1cb71a5a2ec0d7fe01b  ./omap4-common/proprietary/system/vendor/lib/libsrv_init_SGX544_112.so
 5ea575968e66110e73cbe8db0b0beb3ca4973fa7d207125153235361fd038227  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX540_120.so
 0bb3e9766c992a9ed619418b148d0df7c76337985a72923f08abefac83564fbf  ./omap4-common/proprietary/system/vendor/lib/libpvr2d_SGX544_112.so
+5c72b5dd0b23283fdb94ce6dc8cef236e255f43c7cb8afabe3a502bb7293cd1a  ./a5y17lte/proprietary/bin/cbd
+0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./a5y17lte/proprietary/lib/libsecnativefeature.so
+fcaf5fa3f4fe463ec0a8c79b2090f346911c28c401acee3ed8e98c40c36bd30d  ./a5y17lte/proprietary/lib/libsec-ril-dsds.so
+e22a52df2a4f1cdde790d66de5cb277ddf37d2b97a0db863408ce56a08259a3e  ./a5y17lte/proprietary/lib/libsec-ril.so
+f5180da9ecb7c65d9c95ea24ee4a286ad18834ed637d879e7e47a9a06ce7d73a  ./a5y17lte/proprietary/lib64/libsecnativefeature.so
+3236d6b9fd6c448e6d42f4f430906d9067b3a708f2a2d0570653f9670656e3d4  ./a5y17lte/proprietary/lib64/libsec-ril-dsds.so
+41ef2cd4e8113930f05b3047d20ff13a471a86fefed82fbe70ad1e984106aad1  ./a5y17lte/proprietary/lib64/libsec-ril.so
 c18996ee3cd979a3573981315c040d8e32e2e82dff9b70aeb1237994e42ed181  ./lt02ltespr/proprietary/bin/rild
 813aeae737d0bfc17841d16aa28e77485305a91d95becc4e454d01e96ecd72ff  ./lt02ltespr/proprietary/lib/libril.so
 15589392813ca8dad02a4dbdb454c8008ac97c4fd5f18d55b7653bca509fb257  ./lt02ltespr/proprietary/lib/libsec-ril.so
