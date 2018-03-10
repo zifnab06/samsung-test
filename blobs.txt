@@ -1281,12 +1281,14 @@ bfe845a1f5c896fc082b90381e3d92859a89bb35ce584972b5796736fb567a4a  ./gts2-common/
 0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./gts2-common/proprietary/lib/libsecnativefeature.so
 98fc57bc2a47f445d80bab3f9004d949939314ea9cd1d64b1d8f312e0ab08995  ./gts2-common/proprietary/lib/libexynoscamera.so
 9b88553a55c1dc5eb9db1d9622f7e51b92addde2c50aeea4730612c95e7542aa  ./gts2-common/proprietary/lib/libyasalgo.so
+583d760fea6d9ee3681005860f73db08d0128ecf84209172b88ffa137170fcad  ./gts2-common/proprietary/lib/libprotobuf-cpp-fulN.so
 51505dd80cc2fdb315b78db9c32293df4cca62e96f2bd25a2abfbdb2e3ac8ca8  ./gts2-common/proprietary/lib/libvdis.so
 5a2457e570e47cf188054b53f8bc1c3fd74b44d6082f766ff18d7629509e9b39  ./gts2-common/proprietary/lib/libsynaFpSensorTestNwd.so
 be199c9d6534f56086dca7ecfdaaa376d8a25b9133e4682f17ab9c24e973a9b3  ./gts2-common/proprietary/lib/libsensorlistener.so
 99dba450d521393f01b3bb7a72abf1d2a6eaf99987a665efed48e5eb454f0a5a  ./gts2-common/proprietary/lib/hw/sensors.exynos5.so
 abbe8a9b2321623e7fc4fbbd533715399572a76c795d72f6be02abd91b837be5  ./gts2-common/proprietary/lib/hw/camera.universal5433.so
 f6e9c437233c9ec1938420224cdaeed43d2fa651db2f499d7dc5752e5d7704c1  ./gts2-common/proprietary/lib/libegis_fp_normal_sensor_test.so
+456562c7a953cb4b812bcf1c1ece63431606ffa056cdcfbf22cd094cfd531fed  ./gts2-common/proprietary/lib/libprotobuf-cpp-litN.so
 92f9184d9e9cb722027165e3ff48b5f5a291d54d1654cdec590fe2fc51fd6af1  ./gts2-common/proprietary/lib/libhwjpeg.so
 eaaf6d8b8170ccb96b577edb11a69385ae2f6253b20efcb7024c183e7bdd59f7  ./gts2-common/proprietary/lib/libbauthtzcommon.so
 df4cf5a10aa48718883897c32e1a9269b34589a27eb4201a1d4695a241976937  ./gts2-common/proprietary/lib/libbauthserver.so
@@ -1298,7 +1300,7 @@ df4cf5a10aa48718883897c32e1a9269b34589a27eb4201a1d4695a241976937  ./gts2-common/
 c7196d9e8f9c027649c4941310c1a4d70aa513f6a8ff24d3886664083356f375  ./gts2-common/proprietary/vendor/firmware/setfile_4h5.bin
 b4fedfcbc8efd19dc2523a09ba412f2b785be9fda97624e66b82fbd02dbe7d90  ./gts2-common/proprietary/vendor/firmware/seiren_fw_dram.bin
 10f96192f9e6e326a70456997de0ce12a83c48a0a4300ff75427184663589de3  ./gts2-common/proprietary/vendor/lib/libMcClient.so
-74759019bbf770e9472ff01c40f454422ef390f40ab36cf72474b8f8cf043ee7  ./gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
+249762f428a564ce8e055db2e8c04cbd1c4c981442c03ec9c5746a35b7399ed7  ./gts2-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 84d92eb786668821377395bac612bd1be29e655ab3ed593adea705b80bcbbf90  ./gts2-common/proprietary/vendor/lib/egl/libGLES_mali.so
 214339f1ac952cd5a4e6757bc4a9d0cfb75146441f0e2e11c97cdfd2331aa012  ./gts2-common/proprietary/vendor/lib/libMcRegistry.so
 5dfa1dd9fd7e2e91e925ddae66773ac5a427decf7bc44835d8d94dd8a30113e4  ./klte/proprietary/vendor/lib/libsec-ril.usc.so
@@ -4321,7 +4323,7 @@ cb33b9c84d4511c128357d739855e05f59a463a6c30a10b78764fcc3934121a8  ./gts210ltexx/
 91210237db3f59c6e7e3bd694c0d567c7024edee93db8827946f6df37f8bb2f9  ./gts210ltexx/proprietary/bin/cbd
 b837b0695017ed38f085850bf2c5b324f52189f2f51cf9337d87c72f69d63585  ./gts210ltexx/proprietary/lib/libfloatingfeature.so
 afcbcee43c1001a6f3d14f64690675b52babb6b982298ae658b380afd0c5b452  ./gts210ltexx/proprietary/lib/hw/gps.universal5433.so
-6d0f8144a2396874502371bbc858bac070188d92844599acb995dfd8569cf904  ./gts210ltexx/proprietary/lib/libsec-ril.so
+ec382ffc7ecb8ca4500f307ff307620a91d9f7d411b7686cd990e2e9f4709db9  ./gts210ltexx/proprietary/lib/libsec-ril.so
 bbd804b06b6dfa86648d5297b59ab9b7917882963b0f84cb6303d4b7360ec34c  ./gts210ltexx/proprietary/lib/libwrappergps.so
 eb6ebd9948db23fa53ae111b30193f9a3fb3ef118f03845e5359e6598783c89b  ./gts210ltexx/proprietary/app/FFFFFFFF000000000000000000000001.drbin
 9a7a56760d2107ee65e35287a6816127b2445870cc660b519c0f7129d45c4e76  ./gts210ltexx/proprietary/app/mcRegistry/07060000000000000000000000000000.tlbin
