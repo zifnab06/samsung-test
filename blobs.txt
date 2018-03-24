@@ -2410,6 +2410,13 @@ bdf9594e26ed875f7ec10c1f244c067d02b370b83fb538e27ce399632ad7b99b  ./maguro/propr
 bb19fea4a3248ffecf8a59bbe8f20e9cf3290f090cc490cd472a8e99ded84bb2  ./maguro/proprietary/vendor/firmware/bcm4330.hcd
 876f4c865e17714619bfa27acd4532bca9b753e6b0b28dd5be713bf649f76b91  ./maguro/proprietary/vendor/lib/hw/gps.omap4.so
 8704fac7a86c8a3f59087977e34795193b9e6f873f7d54c923606385c5bb21a2  ./maguro/proprietary/vendor/lib/libsec-ril.so
+5c72b5dd0b23283fdb94ce6dc8cef236e255f43c7cb8afabe3a502bb7293cd1a  ./a7y17lte/proprietary/bin/cbd
+0e3b5868832940e998316eec2053885bb7051b924eb8b1ecae4a23d8512c44ab  ./a7y17lte/proprietary/lib/libsecnativefeature.so
+9d383061d24f4727d2f7f9e2e361879394b989fd533a45ce574697a63e453a79  ./a7y17lte/proprietary/lib/libsec-ril-dsds.so
+af9d7b1dcf704ce7717002a298e72b8ced0d67b2f43b7dd8453263a6132a6eab  ./a7y17lte/proprietary/lib/libsec-ril.so
+ccc7b0a2e1b0d61038a5cd6087e611a6a05b9441a6ae8c6825ef1b8f132ac536  ./a7y17lte/proprietary/lib64/libsecnativefeature.so
+92a4ba77cbb06a4ea23210d07eb3c04bdadc4caa4bae50224d7286a0b336dbc9  ./a7y17lte/proprietary/lib64/libsec-ril-dsds.so
+fca97ac81e0b3bfb2e690c56f5fac521a754be83bef04daadd7613f6da0f9907  ./a7y17lte/proprietary/lib64/libsec-ril.so
 be760a74f7e76e246bfbbdcdb6f3ee9d74bc0edd3dac6a72900280a3af28ae9a  ./smdk4210-tab/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin
 d7be2a0dc27fdbdd5ec2fd265a9c8d54df073be7fe984ff81016e2e145fbd4ee  ./smdk4210-tab/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/fw-3.bin
 4923ec02b65af8165f1504954ca79dde26dd90504dd7f0cd0b887890817300c4  ./smdk4210-tab/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/bdata.bin
