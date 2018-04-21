@@ -3198,6 +3198,9 @@ b539177c761f2ec6be1784405ae35d29caffff0b74b253ca9b70b59c2d065814  ./trhpltexx/pr
 e639a9727a66f92430a9aee5cd8b5558d2eb04a10d7b37c64a2497bd4e6d80ad  ./trhpltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd
 8d5cacf9edc0007c428f97a94488d55821b89e2fe2c6c9f286b9d7169cf7a765  ./trhpltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd
 05318ce73c6f926c4395e6fd9c2ab58ce25ad7c266174c2802f070cb4220c669  ./kltekdi/proprietary/vendor/lib/libsec-ril.so
+0e4023301990d3ba7eb2a0d0b974cce46892230b7b1e7bb7db7be11981312a69  ./h3gduoschn/proprietary/rootfs/sbin/cbd
+39cbc53c894e3a69bdd0766f446a069a3433a7910774f10ca7e3025fe653f781  ./h3gduoschn/proprietary/vendor/lib/libsec-ril.02.so
+5eafe53f9509031d231ba2638fa19d5564628ba8e09084081c5babc1541ca713  ./h3gduoschn/proprietary/vendor/lib/libsec-ril-dsda.02.so
 c7f3c2fbcc474dad94ed3cbcd66c88efd4fc9807e1b006f666122a6e324821b1  ./toro/proprietary/etc/permissions/com.vzw.hardware.lte.xml
 3c01f280fa953ee4fb393f101fa102fd0a7a614725777ad29e4cc54e11675be6  ./toro/proprietary/etc/permissions/com.vzw.hardware.ehrpd.xml
 71b9cbad4fb99526b5691b79aead28948792bbff9502d1131591b3ff90e57206  ./toro/proprietary/lib/lib_gsd4t.so
