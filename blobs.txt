@@ -8004,6 +8004,8 @@ a3252cae84a25c2e8a96675ea1493cb8a2a8a7085c3c796237bf866cc97da4c7  ./star-common/
 f3efd1a5e4ad7a95e5ae425a72bb1172d84d1a4005fb0794987e167342bc804f  ./star-common/proprietary/lib/vndk-sp-compat/android.hardware.renderscript@1.0.so
 c279405add338e7e84c17f1e8e4ed7f9daaddc0edc836304ae724e1a29e46c58  ./star-common/proprietary/rootfs/sbin/cbd
 4eeed96e897f81eae212c43f3dd8aa62d4968cb7238b04eb31deda8192c0a845  ./star-common/proprietary/lib64/libsxqk_skia.so
+e26748ac0a38486decf45952ecc132d2ac2471c439cb5737933b670827ee8566  ./star-common/proprietary/lib64/libaptXHD_encoder.so
+fd14018da99dbccba27ef93bb33050c1ccbf39e9af222ac73e37d1e15c0fa0e0  ./star-common/proprietary/lib64/libaptX_encoder.so
 0c760a3e0545d6738973be783cd2a5c51ea995d8463e0cc28d3b3f31651efcfc  ./star-common/proprietary/lib64/libmaet.so
 34a3c128376dd33338026cccf33f0ef2b8bbd50a4a2ebd370abf4ef05c83e290  ./star-common/proprietary/lib64/hw/fingerprint.exynos5.so
 c55a05e1bf34129007dd218b072152830c01b55485cebd77961ff024f54ad315  ./star-common/proprietary/lib64/hw/lights.universal9810.so
