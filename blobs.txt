@@ -7829,8 +7829,6 @@ efb86e1a38acf1f440e5fe68ec6a5444a8ddc113d8c68abce5a5ce490a8605bd  ./gprimeltexx/
 ba291375a0123c1e043f20f7c094862d73f30b176848e485ae38a295a0c4365e  ./gprimeltexx/proprietary/vendor/lib/libqmi_client_qmux.so
 f9413ab960e0b34728c5705b3983b0c7d35497be22a163dd45094ac5a32dd0eb  ./gprimeltexx/proprietary/vendor/lib/libqmiservices.so
 ea5420a35d14fedded88fe250f45aacbfed0cf4a6f4d76fcd9d3ae10f7082a7f  ./star-common/proprietary/bin/lpm
-91c5899a9b115f1247803e905a0d4d98620a9906e12546c7b67c7e343758ab60  ./star-common/proprietary/lib/hw/fingerprint.exynos5.so
-da0afc5d76a237428f328f06a79cd26c75130a8b261c27a67d1d8d1ddd2b7a2e  ./star-common/proprietary/lib/hw/lights.universal9810.so
 d9f7ad3a60f6c24768088a4af82af25da4dfdffb7da4b0e98919130b680e8e11  ./star-common/proprietary/lib/vndk-compat/android.hardware.memtrack@1.0.so
 f31621e5af07029c873b23dc69509a143585f60e289b2b5e61ad737b9f1715e5  ./star-common/proprietary/lib/vndk-compat/libnetutils.so
 bfc617fb397c98c11d5927fd1e2b649073e799160ecff9190b3509074b17842a  ./star-common/proprietary/lib/vndk-compat/libprotobuf-cpp-full.so
@@ -8010,8 +8008,6 @@ c279405add338e7e84c17f1e8e4ed7f9daaddc0edc836304ae724e1a29e46c58  ./star-common/
 e26748ac0a38486decf45952ecc132d2ac2471c439cb5737933b670827ee8566  ./star-common/proprietary/lib64/libaptXHD_encoder.so
 fd14018da99dbccba27ef93bb33050c1ccbf39e9af222ac73e37d1e15c0fa0e0  ./star-common/proprietary/lib64/libaptX_encoder.so
 0c760a3e0545d6738973be783cd2a5c51ea995d8463e0cc28d3b3f31651efcfc  ./star-common/proprietary/lib64/libmaet.so
-34a3c128376dd33338026cccf33f0ef2b8bbd50a4a2ebd370abf4ef05c83e290  ./star-common/proprietary/lib64/hw/fingerprint.exynos5.so
-c55a05e1bf34129007dd218b072152830c01b55485cebd77961ff024f54ad315  ./star-common/proprietary/lib64/hw/lights.universal9810.so
 65aa8f36785699b6f6090612ff05708d12b1a43f6289b2f4c44e694e6ea43174  ./star-common/proprietary/lib64/vndk-compat/android.hardware.memtrack@1.0.so
 d6632f69eef7b7120feb2840ecb9d64e9c9293c56b70ed81b3a8e2a169499697  ./star-common/proprietary/lib64/vndk-compat/libpagemap.so
 b0d29dfbf17943aa8687ee274cd8da6718cc1685cd781164512f8e835c08f606  ./star-common/proprietary/lib64/vndk-compat/libnetutils.so
