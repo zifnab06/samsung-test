@@ -405,7 +405,6 @@ d6ffaf1143dc094c89b646440f37cde04541106e44caf5dec2b5ddd0422b70be  ./zerofltexx/p
 50dad6f48934091748acf2bb9797a38628ed065be5804fcf1ed69c904bf6c06b  ./zerofltexx/proprietary/lib64/libsec-ril-dsds.so
 67253108e4eefc158598d38c75a386649f5d00195d0d2be06c234635306a886d  ./zerofltexx/proprietary/lib64/libsec-ril.so
 f9fdc6b3d465409319b41a3ae8736a81fdd18258473968545de7c73f1d84f284  ./hltechn/proprietary/vendor/lib/libsec-ril.so
-a57a0c79f111ced39d2d1029e36a11cce478ba90e2aea1421ffa9a83cf817a13  ./.DS_Store
 2ac9166d6be00cb87538006308c4741e80f41b4b20baddb61c48c803d56b251c  ./lt03lte/proprietary/etc/Headset_cal.acdb
 0df405bb114f98f85dfe8ce3fc730b162afc98f8caf23a966a9f4b73ec402bfc  ./lt03lte/proprietary/etc/imx135_module_info.xml
 4f24789fa5bc0ede75c136f75beeb294c20009e8b0f5bb70082e9bfda5a3e2d2  ./lt03lte/proprietary/etc/imx134_module_info.xml
@@ -856,7 +855,7 @@ a9178f6339514150dca95ca99674d6969217aa6c0bd185a70987f7fb98ba26d8  ./gts210velte/
 f8e0c5435d38dab09bbd75bbe561b8324efc165d0564e0006a486a3bef8d995c  ./gts210velte/proprietary/vendor/lib64/libnetmgr.so
 02d4f66e19346cda29bad80a9383b0a103ff653520372155f9383e57d781385a  ./gts210velte/proprietary/vendor/lib64/libsystem_health_mon.so
 046297c53342d0962cc52c6a3f756d5c2ea09c577eb2cfcaf3f97f539e91f1de  ./gts210velte/proprietary/vendor/lib64/libsensor1.so
-9f79df9bf5c4222bee9472d638c80996bfe382bd79606f8a0451adc963becfe5  ./blobs.txt
+d1c7acc594eb0012a78081f76b133c97070d6f6a313f0f054602cb4c0c846c14  ./blobs.txt
 caf47142a2ff238d2cf61ca6b841891c08c7a64dd234aa5f0324f727ec7ef028  ./n1awifi/proprietary/etc/wifi/bcmdhd_apsta.bin
 90e8e055e1e0c01dc5fbf2603115192b102a52299aa53084779ee0c6a7af0108  ./n1awifi/proprietary/etc/wifi/bcmdhd_ibss.bin
 8baee94b63105ca69f1b92459bdaae96cc06feeaeb72bf5bd2b7f5b88c38ff50  ./n1awifi/proprietary/etc/wifi/nvram_mfg.txt
@@ -6463,11 +6462,9 @@ c10ba10dc93fb82aa8a106bb76e141261940e34db993e5580732faf5c359bb79  ./vibrantmtd/p
 026916689b3b98686849a80c36166f64fd4cc82ecc798633461ca800c24adf88  ./vibrantmtd/proprietary/libsecril-client.so
 e7131811958fd7af49326c18f60621124b21af7e81ed89cb0f8ec5ca468725c6  ./d2vzw/proprietary/lib/libril.so
 09c74ce4e3d4aca46df68ba379e724b94799f6061e2c23ccee94cd0265855a1e  ./d2vzw/proprietary/lib/libsec-ril.so
-279b9ce0e47acaf37e7aecf1384e2c5ea6891141aeeadeb02a4c854e017f0e67  ./zero-common/.DS_Store
 c24da716863223d24cd3c45f3fab8114acdefbfd617b649a47748764422d1944  ./zero-common/opensource/bin/sdcard
 63111c1d7f62e12aedb38df76901eac70d287d1282be1b8931cc836061150854  ./zero-common/opensource/lib/libsensor.so
 81b938534487c040cdba4bde54383ca38a5d32295d562ca915aafd9af26d61f0  ./zero-common/opensource/lib64/libsensor.so
-9b17d23018cebc1a5fbae4b97c6fcaeafd25d52acb39866ceebb023f4a66ab5f  ./zero-common/proprietary/.DS_Store
 efc986016a6147d29dcf81a07ebcc33c20cc2474b14d2559187c9f2d72efff8e  ./zero-common/proprietary/etc/somxreg.conf
 3f866f92d1e7845f98cae2c2b3b0d7e7ba6b8b0c9d46b2debe89e64bab4e38e6  ./zero-common/proprietary/etc/wifi/nvram_mfg.txt_murata_b85_a1
 ecc96ac43528ef9163135d4944ab4db59594f33c0ec7a98daf1031261c0e76e9  ./zero-common/proprietary/etc/wifi/nvram_mfg.txt_semco3rd_b85_a1
@@ -6563,7 +6560,6 @@ c20855c780ebac24197b44694ebd6d4125a0662754cf1377e1021654cde47204  ./zero-common/
 2d49c9347f57fe61c3e5c09d6d5c88acb8808242abc2f821853a645cf494b888  ./zero-common/proprietary/etc/nfc/THL/sec_s3fwrn5p_rfreg.bin
 f26d77626ec853f818a2f785a0caf1719d9076fe35c989ca09948dc8c38e27e9  ./zero-common/proprietary/bin/gps.cer
 38db54c2f1225a3ffc0648f21d9485beb2bb437d6ffd4b4ace2b5fbda4556546  ./zero-common/proprietary/bin/bcm_sensorhub_a2.patch
-e69bdce789f7f9a02e4cb19d1ef3ce6f36a24739c567e3499842767b8b375b12  ./zero-common/proprietary/bin/fingerprintd
 cf349fbb3dba3832b33006c3fa9db284d31731916537fe89107be1f9067bbadb  ./zero-common/proprietary/bin/gpsd
 927b1125b3d7d22c3fca358fb864ea763845e0f1096bfe240401e874388682c8  ./zero-common/proprietary/bin/mcDriverDaemon
 45bbc3509eaed3e36c997a29f00cdcab861f57f714cc6f533ad319da50859485  ./zero-common/proprietary/bin/lhd
@@ -6628,7 +6624,7 @@ e7d597b5e9122ec0bf82d3d48996cb7dda6e351f1990467a6a5d014b19b92601  ./zero-common/
 6d420d3ca0cc22f29206fb2465655b9403914c82303369a5c410fe6315e02c4e  ./zero-common/proprietary/lib64/libsecnativefeature.so
 ac779cb3a8648d15b415518c7b8f66cde269a9f04aa30a370d43df15d77eb5f7  ./zero-common/proprietary/lib64/libuniplugin.so
 55289d95a043b1ea08cba61e52f520cfe79c1c8762dac7296467b43e302adcd4  ./zero-common/proprietary/lib64/libMcClient.so
-d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3  ./zero-common/proprietary/lib64/.DS_Store
+a09c9e7df74569f07008be58eb691e8ae05cf6afebe8eaf82e4a1772a5fd7692  ./zero-common/proprietary/lib64/.DS_Store
 b313e6de64db459cf0f2f989e940cfa8e6d76d071e329bbc9f5f59e5155c4f3c  ./zero-common/proprietary/lib64/libexynoscamera.so
 a5a2e0069c18ce5bbd22939a016a191edc9c02f23d8b4a62618eb33dbf5ebecd  ./zero-common/proprietary/lib64/libprotobuf-cpp-shim.so
 bb7f8e1ab4cf0adc4e35c870a63903df28ab08b1da3e4617be82944f4449ab84  ./zero-common/proprietary/lib64/libexynosscaler.so
