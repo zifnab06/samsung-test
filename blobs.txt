@@ -6650,7 +6650,6 @@ bf7731622454d6c2384628ad6e62865aded81c42bd3cd5449d4da49eaf2271fb  ./zero-common/
 042026d73aac8e21093facf3915dafdf4d51c546c13fde05d8796f27666d5b8d  ./zero-common/proprietary/lib64/hw/camera.vendor.exynos5.so
 338636716a56442b8e34888109fddc8eeb2e3ca298519dcafbd04539ce2a83c8  ./zero-common/proprietary/lib64/hw/consumerir.exynos5.so
 08e98728033a4bc251cf193d2a00261e216a98e4b55372b6a016ab80bd37e5ca  ./zero-common/proprietary/lib64/hw/sensorhubs.universal7420.so
-6ffe3c08f23dba216b18554917ebfe335c6a685b3aec1032ef8c038c9bc8e905  ./zero-common/proprietary/lib64/hw/fingerprint.default.so
 605bb85b3fe91fb639ef3bcb3d805a6b4e5342f5f50c2cdc0a0fe6cadcc7cff3  ./zero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so
 eceab55860c7e5f9b1d20973e5352b674a79e55e52b85870bdd2b27fca4232b8  ./zero-common/proprietary/lib64/libwrappergps.so
 52a0b47cfd4bfaf3f5bb1e68d746f4957b629977f12977a71d2d212c4251bc80  ./zero-common/proprietary/lib64/libhwjpeg.so
