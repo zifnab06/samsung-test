@@ -9326,7 +9326,6 @@ db5bf902d839d20671f5edb8e5237129847c0745de804e745b4dea5bc1c0f183  ./msm8974-comm
 55fc3c1b8abdf3e5733793a0fc4d036874a4b365e6ec58726655608494857f2f  ./msm8974-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 5d153fb69cea8934b36491f47a48047e1dbd81a660916e35e8e43896f006482b  ./msm8974-common/proprietary/vendor/lib/egl/libEGL_adreno.so
 751c1885c4c68eb4cedc3fbdbc3a7656dbee7b096a2ddcc79db2f2dbaa7068ad  ./msm8974-common/proprietary/vendor/lib/librs_adreno.so
-c83bdd0d4ad1b5b01f3022ee719577bc1fc21219c919d3ee78f2b50437d925a2  ./msm8974-common/proprietary/vendor/lib/libuiblur.so
 cd24f77a382017875561389eebea3967840b1c097e57b9fcfbe04955179fd937  ./msm8974-common/proprietary/vendor/lib/libOpenCL.so
 880b0266d0c2f6dacceab917f26defdd9f4a10b26af4ddf578175a0f61cd359e  ./msm8974-common/proprietary/vendor/lib/libadreno_utils.so
 aecc7b5bb5e7417ac1ab728c83811eab6408ba5edb843c6c6eb6aedbee406231  ./msm8974-common/proprietary/vendor/lib/hw/flp.default.so
