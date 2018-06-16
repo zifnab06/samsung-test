@@ -5215,7 +5215,6 @@ e3c90f794f60a6244c5d432a9829f502a71a2492dff1ab94b38986dc553141f8  ./apq8084-comm
 949c88c3a9255245efbe264a006fe0751fe836667114b3a69507819eba949273  ./apq8084-common/proprietary/vendor/lib/libmmcamera_isp_bg_stats44.so
 933a9f699538561efdd7de14eb5e47ae362c8f271256c2f180579377f50041dc  ./apq8084-common/proprietary/vendor/lib/libchromatix_s5k6d1yx_pip_cpp.so
 5e10a0caea2938eb834d8060ea3c31c7ec756aad31deb835316df2f92cf4ef83  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_hdr_video.so
-a73037fb69a78f141f450c5b0d93e6a7a188445af3d037aeebfb6cb337018e01  ./apq8084-common/proprietary/vendor/lib/libuiblur.so
 b1b83fc5eb41f3a003e95272320a2ad154658543604cc8a7eb03901cb7fa2907  ./apq8084-common/proprietary/vendor/lib/libOpenCL.so
 b9209c8593794631aef675189de07761fbad1610630261e1d6e1e295aa97e790  ./apq8084-common/proprietary/vendor/lib/libqomx_core.so
 94237eca0d5d73d7c46e3a95b9c06d5de53b9a2f228e311d5a6f1cd802dec63f  ./apq8084-common/proprietary/vendor/lib/F16US_libTs_J_Accm.so
