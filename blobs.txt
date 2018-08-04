@@ -4073,9 +4073,9 @@ bd7e0f19cd7d90a90606e100b17cd990a5ac03e5720f38c7d18486dfaa22e1b2  ./hlte-common/
 0ba47cce980405a4de17e19858c0c802f933fe043582ea7a2e326a904a292abd  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_common_res1.so
 09479a8077717d808d171df3c606a1b012e429d043c6805602c5c15bcdfbefd3  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_uhd_video.so
 d260e1988a95cfbad8415a2d89f0120b9e70e2724f5a42590f5d7857fc13b063  ./hlte-common/proprietary/vendor/lib/D13QS_libchromatix_imx135_common_res3.so
-c93976352d712bdd7497268e3b044598523b8c3016c10d493dc962caaded617a  ./hlte-common/proprietary/vendor/lib/hw/sensors.msm8974.so
 621d6b5c31690376dee695515f0b9c141a588348106872915b53a233100ce417  ./hlte-common/proprietary/vendor/lib/hw/sensorhubs.msm8974.so
 476dd57ac0f21870bbf187dbe010512ec42020128cf4d19fcdf68387470ca45d  ./hlte-common/proprietary/vendor/lib/hw/camera.vendor.msm8974.so
+c93976352d712bdd7497268e3b044598523b8c3016c10d493dc962caaded617a  ./hlte-common/proprietary/vendor/lib/hw/sensors.vendor.msm8974.so
 350a1b1e2e84f87cd227980424a33bca581bc4f198941b0d7d85d8a5d37df94c  ./hlte-common/proprietary/vendor/lib/libchromatix_imx135_default_video.so
 4d56a0ef430bc9960a070c78158d4a3455c19ecf1763711eb011a746eb384a36  ./hlte-common/proprietary/vendor/lib/libchromatix_s5k3l2xx_vt_hd.so
 acb5e894aa4e666e8ccfe372bd37652f769d20d1824b6dfacb252331243f1f4a  ./hlte-common/proprietary/vendor/lib/libqdi.so
