@@ -5712,10 +5712,6 @@ e5e19f0b587c4de82d511a3c25548b2b8b14ce4de771112e833641ccbdc19583  ./fascinatemtd
 07b3c2abbdbd68829b56bda01c479d5eb232c9d93fe8069bc274feb4167dc0ee  ./fascinatemtd/proprietary/libsensor_yamaha_test.so
 8529418d02a0828952430cc24c517a7ad9b72a08cca1e72c41c2b7078be11064  ./fascinatemtd/proprietary/rild
 9d4f677409e994ea3acbbed771d4d5856770d24f102aee7037dd20152623aa4a  ./fascinatemtd/proprietary/libsecril-client.so
-a51a6e00d48314f03c813850e22236062dc2239be1476e8288c478468f424727  ./serrano-common/proprietary/etc/firmware/vidc_1080p.fw
-b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/etc/firmware/a300_pfp.fw
-f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/etc/firmware/a300_pm4.fw
-936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/etc/firmware/vidcfw.elf
 8245a985dfc305e5e60d1f4e935294bee1c94cdda2b53bcfb9839762f6b4feb3  ./serrano-common/proprietary/vendor/bin/mpdecision
 83b4f78422a57dfa9724129984c258082ac0701d379b21e4f1d7fa9aa57ca540  ./serrano-common/proprietary/vendor/bin/mm-qcamera-daemon
 654ec707683ba3c7197846a000b2cf74437d43c0504a3f26edf026b8eb27ad6a  ./serrano-common/proprietary/vendor/bin/geomagneticd
@@ -5728,6 +5724,10 @@ d315d76d188a9cc05f9395403acae1448fa7d473e42b4b772ad427220d1decd8  ./serrano-comm
 2b5f5802bfe572048fc5ba0af1e7c1cdd8e13ae0d51637adebed4305e0d11f38  ./serrano-common/proprietary/vendor/bin/btnvtool
 03e4546afd47487ba340b7b54ce6e6ebad88ce9c403967d9fb033d715a6a9c76  ./serrano-common/proprietary/vendor/bin/qmuxd
 43dd19fdc63d384cefba73d52bdd0ab97204fcc4f765670069bdb5f3de85d02e  ./serrano-common/proprietary/vendor/bin/netmgrd
+a51a6e00d48314f03c813850e22236062dc2239be1476e8288c478468f424727  ./serrano-common/proprietary/vendor/firmware/vidc_1080p.fw
+b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/vendor/firmware/a300_pfp.fw
+f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/vendor/firmware/a300_pm4.fw
+936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/vendor/firmware/vidcfw.elf
 d4a6da6333808bbc45d849eeedfc1bf60b0eac9c41baa7780efc2598cdfbb009  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
 b368423358c5f88f7d3a74794f89adda7f41348750219589b933c7e4f386160b  ./serrano-common/proprietary/vendor/lib/libloc_ds_api.so
 4d923182eaa8bd42c8486524b40044e9ea03bb6014b8eef32b0488510a4d46ba  ./serrano-common/proprietary/vendor/lib/libqdp.so
