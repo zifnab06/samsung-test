@@ -4522,7 +4522,7 @@ eda26ae62d31c06789f67b0bb60345148597031c141c7de12251dbdf0304f99e  ./msm8976-comm
 e7faeb2d3e5d9775e735ca1a8351e5e1779cc4a039cbfeab6bcc0605751aed72  ./msm8976-common/proprietary/vendor/bin/mm-qcamera-daemon
 fc180e33a43643184f571170274fa1f2521fbf00ae04f306d6de1d45c5af6851  ./msm8976-common/proprietary/vendor/bin/irsc_util
 30506a852ae98e6ae0c2f8abbe06ef7c59c7e6bb2ca2a74821a8f0c630d90805  ./msm8976-common/proprietary/vendor/bin/qseecomd
-ed26f339546cb7f3c094d8131b08ececf0ee3f1b0ee63f718216485d5e0be3ac  ./msm8976-common/proprietary/vendor/bin/wcnss_filter
+615ac56ac792743b43b893e8e0e7808604bea0908dc534d4979620488d98ed7d  ./msm8976-common/proprietary/vendor/bin/wcnss_filter
 2353071d918e15a9b3237503692398eb6cbf2d1c864a471820c740f21acf4a0c  ./msm8976-common/proprietary/vendor/bin/rmt_storage
 77d59648687d094b15da8129f1c7190a5adbe692b72ca7566127d0a8eee7d803  ./msm8976-common/proprietary/vendor/bin/tftp_server
 f8717e3204670de357ada17438cc73c91a15d13e4196036dc1d85782d4ceb100  ./msm8976-common/proprietary/vendor/bin/pm-proxy
