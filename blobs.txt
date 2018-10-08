@@ -5234,6 +5234,7 @@ cd6f8a1a6513ee98937ad5208ca27dcc6d177937f78ba133498a39ce334dfca9  ./apq8084-comm
 2e0b81e4faea415f55c51a169504b85bfc31e28f13b63477bb7102826795519f  ./apq8084-common/proprietary/vendor/lib/libmmcamera_isp_mce40.so
 250d87788a846b61d33e875079fbfd607a10a5adb93c9d167fc36c23f7d59069  ./apq8084-common/proprietary/vendor/lib/libmmcamera_isp_bpc44.so
 0ee3727b1477bed50e4d4b19c844285c783e2c3e13f1f776877a86ce9ca44b55  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_uhd_video.so
+2e94bb686ea0369bfbcb294fb11718441d386cb58d448437e3103cf4fdb87005  ./apq8084-common/proprietary/vendor/lib/hw/nfc_nci.apq8084.so
 eb81f6c1c5a7c5116bb3a5073bbe60a52d4fb1a56a14849b97225251b25a5391  ./apq8084-common/proprietary/vendor/lib/hw/gps.default.so
 3f0001605e9b6b05bbd3a906fd33f2c008a270e9c61f81471b610a580b1a6de7  ./apq8084-common/proprietary/vendor/lib/hw/sensorhubs.apq8084.so
 a200d376dd30c9ca5f3b23bd928f7c702e3732b754105d2fa1b076c58f78b326  ./apq8084-common/proprietary/vendor/lib/hw/flp.default.so
