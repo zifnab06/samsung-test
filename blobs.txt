@@ -5728,7 +5728,6 @@ a51a6e00d48314f03c813850e22236062dc2239be1476e8288c478468f424727  ./serrano-comm
 b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-common/proprietary/vendor/firmware/a300_pfp.fw
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/vendor/firmware/a300_pm4.fw
 936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/vendor/firmware/vidcfw.elf
-d4a6da6333808bbc45d849eeedfc1bf60b0eac9c41baa7780efc2598cdfbb009  ./serrano-common/proprietary/vendor/lib/libconfigdb.so
 b368423358c5f88f7d3a74794f89adda7f41348750219589b933c7e4f386160b  ./serrano-common/proprietary/vendor/lib/libloc_ds_api.so
 4d923182eaa8bd42c8486524b40044e9ea03bb6014b8eef32b0488510a4d46ba  ./serrano-common/proprietary/vendor/lib/libqdp.so
 1139d2867d8281c6963ebea20a17f99b54511f62a13a6eec6cb948bd4f66124b  ./serrano-common/proprietary/vendor/lib/libqti-perfd-client.so
