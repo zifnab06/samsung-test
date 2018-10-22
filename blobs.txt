@@ -5729,6 +5729,7 @@ b6e66400d46d52dc343d370b94362d564a765994bda47dc026961dd47a9ca7a9  ./serrano-comm
 f78c57e879e96a2c0ceeea31dbd30f7f1d4526f9c876e80481c654f08daaecd3  ./serrano-common/proprietary/vendor/firmware/a300_pm4.fw
 936eb7c1eed763226642bcbb9cb37d997a35ba21cdede225f254503bc15d9472  ./serrano-common/proprietary/vendor/firmware/vidcfw.elf
 b368423358c5f88f7d3a74794f89adda7f41348750219589b933c7e4f386160b  ./serrano-common/proprietary/vendor/lib/libloc_ds_api.so
+e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/vendor/lib/libsensors.so
 4d923182eaa8bd42c8486524b40044e9ea03bb6014b8eef32b0488510a4d46ba  ./serrano-common/proprietary/vendor/lib/libqdp.so
 1139d2867d8281c6963ebea20a17f99b54511f62a13a6eec6cb948bd4f66124b  ./serrano-common/proprietary/vendor/lib/libqti-perfd-client.so
 b39da907ec52fd25b589b55b576eb6761feb2ccff1727a3f9bf0e83defbf3af4  ./serrano-common/proprietary/vendor/lib/libchromatix_imx175_antishake.so
@@ -5771,7 +5772,6 @@ b3f96429d5352f33c1e55aedf2f7cf14d94265fa898b3ea0cf7aa17f197a5291  ./serrano-comm
 e236852b9c455c440afc48f53d408febde2ecb7994f2d7669633664172e50b8c  ./serrano-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so
 e5d612794559355fd6d85c11c4ba22e0d360b9b46d6e0bbed6ab18678bad20d6  ./serrano-common/proprietary/vendor/lib/egl/libGLESv2_adreno.so
 562d5a974c1049b67a261333ef5438f749948ee04dd2044b93912e1259742f41  ./serrano-common/proprietary/vendor/lib/egl/libEGL_adreno.so
-e76a2fb7e762d4e024a95c60c7006d2554f222851874be9df053ae8cb3f9ec54  ./serrano-common/proprietary/vendor/lib/sensors.vendor.msm8960.so
 7668da3b54a47ba064d053b6d2b9e3d8084ccdd51e25b57d2fa71c9d6e5a57d1  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k6a3yx_smart_stay.so
 e4cfebeb539b43d5cdb1c46abcc90335d3dd3b46b18567e815c24ff1ed501a70  ./serrano-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 94d4bcc07fb3f00c31dba397ffa03e1f29d71eddc225b905fa55a19b0f87cceb  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k3h5xa_default_video.so
