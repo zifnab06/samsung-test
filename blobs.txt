@@ -5758,12 +5758,13 @@ a1da28695e5dbc1cc1cf5a1c118521808875e5e6b088300de006a5578335ae2c  ./serrano-comm
 148698fff2fb668e67204c325eb1bf593e85f7ead10a8120cc3881953064f20f  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k3h5xa_lls.so
 4f6ffdca867b767e230b2a467ed1c9c58f824a37a3fba4663c8598dbac2e0b9c  ./serrano-common/proprietary/vendor/lib/libimage-jpeg-enc-omx-comp.so
 61e085da3a9e59be6ca6039f921028eb6a8fceecc828b42836f7d1dbd4e7aa5e  ./serrano-common/proprietary/vendor/lib/libchromatix_s5k6a3yx_vt.so
+2ad0cc99b9ceb20e30a416d93b56165232f3d110634dbed1dedb106f7c214eb9  ./serrano-common/proprietary/vendor/lib/libaptXHD_encoder.so
 ccb3285fa38f07f0b48ddc048907be23751bd5a6d0f81a022666acfd03d298a1  ./serrano-common/proprietary/vendor/lib/libC2D2.so
 f128342e572418785eff44a39b37b86f2899c3cc5777d87ea2a31717d4f25aa6  ./serrano-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 3ba402adfcca17e99626c41ed84212ab5cca9f0210c82230539abccc9aeb760d  ./serrano-common/proprietary/vendor/lib/libCB.so
 b3f96429d5352f33c1e55aedf2f7cf14d94265fa898b3ea0cf7aa17f197a5291  ./serrano-common/proprietary/vendor/lib/libacdbloader.so
 265c29a5cd105b51a4fb395e49a8283506009ea3f84b5c6a6371ebb317bd2380  ./serrano-common/proprietary/vendor/lib/libidl.so
-892e44c1bb20353001f2a492b0d707dc4c62d74b7d8587c902f7d514dd5da30f  ./serrano-common/proprietary/vendor/lib/libaptX_encoder.so
+d8993a86a48699a2a34a5f9bf1dcd32a6d78dc7c2409a67c058000e92de346b5  ./serrano-common/proprietary/vendor/lib/libaptX_encoder.so
 7ba733405e49c2cd6fe5927baf9e8023c1dfc11ba20530f6c94c829f6299f0ac  ./serrano-common/proprietary/vendor/lib/libimage-omx-common.so
 1b96c48c124431d4813eacad752470922c85134b2ad1309269ae4e10c0eaa8a8  ./serrano-common/proprietary/vendor/lib/libmmcamera_statsproc31.so
 0964777e4dbd238e48c70a317bb3f93bd2c8952f1a3da597fb79df0d65d2f4c4  ./serrano-common/proprietary/vendor/lib/libmmcamera_image_stab.so
