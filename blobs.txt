@@ -9487,8 +9487,8 @@ e37f951a23c58ab7fcee15e0c87a55bb0ee1fce0277233d38adce2848639a742  ./universal788
 19790a2bf68a46d4241bc6198620eec9b0a9d478bfb9ab280ea5f3ea738dc926  ./klte-common/proprietary/app/TimeService/TimeService.apk
 60c60c53f39c0c8cd00f9db4f73e73190137a2a182294b8eb39b62619fc865fb  ./klte-common/proprietary/vendor/etc/F16QS_imx240_module_info.xml
 5ebd6cac142465ca847f93862be11c99c2b8dd491bdfe4151c74d999019d222e  ./klte-common/proprietary/vendor/etc/C16QL_s5k2p2xx_module_info.xml
-af3703a2a71b272bd0116d6cbf255f7b7673e3568e4c6e748f691f6e6555ce03  ./klte-common/proprietary/vendor/etc/wifi/nvram_mfg.txt_muratafem1
 f1bb478325f748caecce097c3f012b45e0876209a56954101fd280aec1788ef5  ./klte-common/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin
+af3703a2a71b272bd0116d6cbf255f7b7673e3568e4c6e748f691f6e6555ce03  ./klte-common/proprietary/vendor/etc/wifi/nvram_mfg.txt_murata
 5622df1fbcd7c5fdca807dab81281a7eb53d165dd6b1c67f1f2aee4e5f07fcd5  ./klte-common/proprietary/vendor/etc/wifi/bcmdhd_ibss.bin
 860dca02caf8a7d1839f3d54343e6c5b907a66f59e5ae79ed4b48e870df0335a  ./klte-common/proprietary/vendor/etc/wifi/nvram_mfg.txt
 552d31ddbe387c7af59ab90ca0cf55c0feb90b46a27c2e056172aed341ee830b  ./klte-common/proprietary/vendor/etc/wifi/nvram_net.txt_a0
@@ -9497,7 +9497,7 @@ c4c821371ada8ca294f7e4949e76973ff0e57fa8fe1206bcc9339f05310a477b  ./klte-common/
 552d31ddbe387c7af59ab90ca0cf55c0feb90b46a27c2e056172aed341ee830b  ./klte-common/proprietary/vendor/etc/wifi/nvram_net.txt
 860dca02caf8a7d1839f3d54343e6c5b907a66f59e5ae79ed4b48e870df0335a  ./klte-common/proprietary/vendor/etc/wifi/nvram_mfg.txt_a0
 b6057fc86fab92d5f26cda0a0269969419657ddf16718ad54c540fa5f358a4b6  ./klte-common/proprietary/vendor/etc/wifi/bcmdhd_mfg.bin
-2570136c87526a3dc3eeca253d838a6752ac6ff6a73fad35bf94f8edb339a316  ./klte-common/proprietary/vendor/etc/wifi/nvram_net.txt_muratafem1
+2570136c87526a3dc3eeca253d838a6752ac6ff6a73fad35bf94f8edb339a316  ./klte-common/proprietary/vendor/etc/wifi/nvram_net.txt_murata
 77e487d1581ff32c0b22298126c160c7ec61c97fed064aa21723fc8f06b6c781  ./klte-common/proprietary/vendor/etc/wifi/nvram_mfg.txt_semco3rd
 cfc4f9ae9e378ff667826e0ad449a6b33481d24be7bdd4b9c01c2bccb51fc508  ./klte-common/proprietary/vendor/etc/acdbdata/Headset_cal.acdb
 b6cbb8da3c2f78a566c3aabc644555d100eda3c4b69e50059c10f959c363d2e1  ./klte-common/proprietary/vendor/etc/acdbdata/Hdmi_cal.acdb
