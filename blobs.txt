@@ -9533,12 +9533,12 @@ a490ff662733c6d78b30f47b893cc9a5099ca911b839a77c8bd9f1f3db0c2944  ./klte-common/
 65d5e363573b584928a68182fc879711710a3b0f9ff862a2b68c7b2da4a903ba  ./klte-common/proprietary/vendor/bin/qcks
 2a8c36c5555a19a3a7c906ec7dfb81424fae8e60bd8af6590484b5787fc9afb7  ./klte-common/proprietary/vendor/bin/ks
 45e0426fdee16d0ba67808418be627c28142e752fd9403395d3c3b05c9909a74  ./klte-common/proprietary/vendor/bin/adsprpcd
-b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797_semcove.hcd
 b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797_murata.hcd
 c11c72a5d3de3d5bf1f89dc59fc500b3609f33e114f665ba4092453275e3402d  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0798_wisol.hcd
 708cc116ad5d2c5a57abc40a94b32ffac6e25d5bd59b8e38ebb9befd8a6b9f57  ./klte-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw
 b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797.hcd
 9965a819659c5bf8be35d15db2536be1c3dd7b02e024ec16f62c183270def3f1  ./klte-common/proprietary/vendor/firmware/audience-es705-vs.bin
+b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797_semco3rd.hcd
 b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797_semcosh.hcd
 b1956782ca921cdc89da36556b963f446cf764b194e88f468133856e2ca0173f  ./klte-common/proprietary/vendor/firmware/bcm4350_V0395.0797_semco.hcd
 09fd81eb95b3187b731c201f99c5b6176df01e6d459c78fbe7bf4f0ef480e578  ./klte-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw
