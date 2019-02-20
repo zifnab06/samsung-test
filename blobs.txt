@@ -5183,7 +5183,6 @@ d3cf3caa1d5b9903037d8d431a4758848cb23264fd688aab9e603da2873fcb99  ./apq8084-comm
 79855708ff54205bd9fcd141f993277c600435183a0fe7a9e351a2d9c8c5a6e0  ./apq8084-common/proprietary/vendor/lib/libmmcamera_isp_linearization40.so
 06281fa72a1744c45cf7565ffc59a7fa53d5c8805305fed5ef89cd650f8f1883  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_common_res3.so
 04731150b354cef12510bbac43b04248e3768d42707024b08aef18cb1be7fb5c  ./apq8084-common/proprietary/vendor/lib/F16UL_libchromatix_s5k2p2xx_zslshot_iso100_cpp.so
-97c36b0d7f28e9a755d7efd7eebbbb3da046dc1cd389d8a339228b1e1322437a  ./apq8084-common/proprietary/vendor/lib/sensors.vendor.apq8084.so
 4485948d7411d95912ba82e3b27adce33d376ba4bcb5e146eb2d98de6bd256c4  ./apq8084-common/proprietary/vendor/lib/libril-qcril-hook-oem.so
 f482d2b3f90bb3e4cd5f2bd174a0462fd2dd7d63376e13cc8af995eebbda3411  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_zslshot_iso200_cpp.so
 7de7ee6473015aacee021a116147aa4b5618f47764649d5ff8d507956ca1beab  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_hdr_preview_lls_cpp.so
@@ -5238,6 +5237,7 @@ cd6f8a1a6513ee98937ad5208ca27dcc6d177937f78ba133498a39ce334dfca9  ./apq8084-comm
 eb81f6c1c5a7c5116bb3a5073bbe60a52d4fb1a56a14849b97225251b25a5391  ./apq8084-common/proprietary/vendor/lib/hw/gps.default.so
 3f0001605e9b6b05bbd3a906fd33f2c008a270e9c61f81471b610a580b1a6de7  ./apq8084-common/proprietary/vendor/lib/hw/sensorhubs.apq8084.so
 a200d376dd30c9ca5f3b23bd928f7c702e3732b754105d2fa1b076c58f78b326  ./apq8084-common/proprietary/vendor/lib/hw/flp.default.so
+97c36b0d7f28e9a755d7efd7eebbbb3da046dc1cd389d8a339228b1e1322437a  ./apq8084-common/proprietary/vendor/lib/hw/sensors.vendor.apq8084.so
 39aa5c777d26f6c8d8dc8e9897d4ce030b01828c3fdea68a2bd6d907eea58a46  ./apq8084-common/proprietary/vendor/lib/hw/camera.vendor.apq8084.so
 3f5217b842a7b802d6f69c265bf7d4e4c6567dff4e63b393127789891c52d38d  ./apq8084-common/proprietary/vendor/lib/libarcsoft_vdoinvideo.so
 621eaf6eab0fa8cddf59ea98c190fb9a506da1b3922d8f15cd6e1ccf00ddcd8a  ./apq8084-common/proprietary/vendor/lib/libbccQTI.so
