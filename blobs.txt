@@ -5006,7 +5006,6 @@ cca23b697d4a08d8146893985f8196960106a936de74d9a60d6e70cca79d46eb  ./apq8084-comm
 90a6355d4a31048f862d70f4842bbbcd984df7a7db98fd95bc0f9dd528848a3d  ./apq8084-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_preview_cpp.so
 979ff9ed6f2730eb978a48d4280bbed519bd4e333d9266ecbf6f8a2bb527bea5  ./apq8084-common/proprietary/vendor/lib/libOmxAacDec.so
 9462a352cb13b10c1b1b410530d8d935a8651348f823b092f9a4c8bae41db5cc  ./apq8084-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_smart_stay_cpp.so
-d82d7067fb82e6584ce5272994df1976cd93d2be158afad9852d515e8968c2a7  ./apq8084-common/proprietary/vendor/lib/libprotobuf-cpp-full.so
 8a8bc59d9fcbc01402de5298acac62036ea755480b7312018cd1a805c194bb3d  ./apq8084-common/proprietary/vendor/lib/librs_adreno_sha1.so
 9fda63e759bad67f9419ddc45273a32e3d690482229a55564b5403e32f4780b7  ./apq8084-common/proprietary/vendor/lib/F16UL_libchromatix_s5k2p2xx_zslshot_iso200_cpp.so
 15608efc2ce8c6f6b7747c2ed5bbc7364baf465ae204f57433d656fa4367ab78  ./apq8084-common/proprietary/vendor/lib/libcsd-client.so
@@ -5123,6 +5122,7 @@ ea55b601c67aeb4b78c9af3db2add67f4fcec4ad854d151299a6a0622d5f6e31  ./apq8084-comm
 76425a52ca99f537ec5cbc09089de711fb483d2b6469db3dbd2191c7c73a4b02  ./apq8084-common/proprietary/vendor/lib/libC2D2.so
 f128342e572418785eff44a39b37b86f2899c3cc5777d87ea2a31717d4f25aa6  ./apq8084-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 b3095a4a785e5b3b35fcafed46b7c0c0d4fb9b6434dbabaa09f7c917feb59c12  ./apq8084-common/proprietary/vendor/lib/libfastcvopt.so
+d82d7067fb82e6584ce5272994df1976cd93d2be158afad9852d515e8968c2a7  ./apq8084-common/proprietary/vendor/lib/libprotobuf-cpp-sec.so
 c4a276bf3e99bc2d57fb324ebd8b402524a2e7d6aef68c6519590efbf6528532  ./apq8084-common/proprietary/vendor/lib/libthermalioctl.so
 349d05a7389bce8b8542d8efe13dddf4f12fbb6546dc2567e1dc3d99b3b248fc  ./apq8084-common/proprietary/vendor/lib/F16UL_libTs_J_Accm.so
 13e9eb7d80263d36c2d94fa7137552ab0ed7bbfd6952cc0b33e1fa215d781da9  ./apq8084-common/proprietary/vendor/lib/F16US_libchromatix_imx240_zslshot_cpp.so
