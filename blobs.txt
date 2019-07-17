@@ -1630,14 +1630,14 @@ bd7c4eb19cec10c0031ea5edabb67acfd3fe975ad93e0d37826f8936a3acc9ff  ./espresso-com
 13261cd83cbba4b4f2cf5e2a4ffde376d7540cc7849f16ad8eda40531056bc80  ./espresso-common/proprietary/system/vendor/lib/libwvm.so
 cfaf1291c759dd5b5a26a02e0fcb1a55b2a1f7d89e458d5aff78db2610fe670c  ./jf-common/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin
 d9fb35420872b23846a355fc56f2d60b44557d10071e41963c264caaf81fdee2  ./jf-common/proprietary/vendor/etc/wifi/bcmdhd_sta.bin
-d293a1a880c42edd21630cb5e9ea4ea7f17d9acb7adb9b258e03f2b9609fda1f  ./jf-common/proprietary/vendor/bin/mpdecision
+6673eb4992debbbcddadc51eb837f6d60ebbe1d91decd250a5ee693dcbad6246  ./jf-common/proprietary/vendor/bin/mpdecision
 b47da3dd60f9ecdb545ecce7cecce13716844198e89f53176247e6641400b65a  ./jf-common/proprietary/vendor/bin/irsc_util
 cb980ccfa8241610330b672cd76de7215913ff76f61ee00d5ba2a553f64be15f  ./jf-common/proprietary/vendor/bin/efsks
 d315d76d188a9cc05f9395403acae1448fa7d473e42b4b772ad427220d1decd8  ./jf-common/proprietary/vendor/bin/radish
 03e4546afd47487ba340b7b54ce6e6ebad88ce9c403967d9fb033d715a6a9c76  ./jf-common/proprietary/vendor/bin/qmuxd
 43dd19fdc63d384cefba73d52bdd0ab97204fcc4f765670069bdb5f3de85d02e  ./jf-common/proprietary/vendor/bin/netmgrd
-20b8bebfd377acc4c28cb5f52ef4ed20b78dd62eeaa52b769b036c8ad91e6d36  ./jf-common/proprietary/vendor/bin/thermal-engine
-7d281e70d7d34dc43b3a6a9d2f3d27d7b0c405120ccf8106cb05eaec23d87a0d  ./jf-common/proprietary/vendor/bin/qcks
+b3fe63c38cc0807db72fae002078b504a2d956931c4ffd11109919feee660f41  ./jf-common/proprietary/vendor/bin/thermal-engine
+1253b052b282b319ffab8dbd4af89fc58a246d8b3d4ec01aad6124c79a644076  ./jf-common/proprietary/vendor/bin/qcks
 f384e3489e968d7c40cab0554c230c7495e65c49ee3262452ebc178cac14150c  ./jf-common/proprietary/vendor/bin/ks
 fb54922c14b51557328773d898aee96e5661db90991a99db9a863f2b8cd26f40  ./jf-common/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd
 a51a6e00d48314f03c813850e22236062dc2239be1476e8288c478468f424727  ./jf-common/proprietary/vendor/firmware/vidc_1080p.fw
